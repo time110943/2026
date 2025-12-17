@@ -165,12 +165,12 @@ window.dataAb2026 = {
               "url": "https://iframe.mediadelivery.net/embed/215061/e83a825d-7502-40e8-b27c-5c9ca7136e7b"
             },
             {
-              "title": "  المحاضرة 31 (حلول فكر)",
+              "title": "  المحاضرة 31 (حلول فكر)",
               "description": "ا",
               "url": "https://iframe.mediadelivery.net/embed/215061/f1f5fdcf-3d94-4d02-9252-2a8285755d90"
             },
             {
-              "title": "  المحاضرة 32 ( )",
+              "title": "  المحاضرة 32 ( )",
               "description": "ا",
               "url": "https://iframe.mediadelivery.net/embed/215061/4e52d7ab-3333-492c-8b4d-e11265fbb029"
             }
@@ -180,255 +180,375 @@ window.dataAb2026 = {
           "name": "الفصل الثاني ( الحث الكهرومغناطيسي)",
           "lectures": [
             {
-           "title": "المحاضرة 1 (الحث الكهرومغناطيسي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/f89c011f-4bb5-407d-8170-8b088598e317",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 2 (الحث الكهرومغناطيسي 2)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/a727f155-f5cd-42dd-8c9b-999ec616765a",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 3 (أنشطة الحث الكهرومغناطيسي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/ca07528b-44a6-4a79-9bd6-b427e9f196a9",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 4 (التيار المحتث و القوة الدافعة الكهربائية )",
-      "url": "https://iframe.mediadelivery.net/embed/215061/0a743370-574b-47c9-a319-4d6354e3b12a",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 5 (الحث الكهرومغناطيسي و مبدأ حفظ الطاقة )",
-      "url": "https://iframe.mediadelivery.net/embed/215061/de1e2360-f4da-4461-8164-288e73fad862",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 6 (حل مسائل المجموعة الأولى )",
-      "url": "https://iframe.mediadelivery.net/embed/215061/2689c82b-cab2-4bc6-8618-3f7986d1c718",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 7 (حل الأسئلة الوزارية)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/8c5ba312-b205-4463-b93c-f01ceed665fa",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 8 (الفيض المغناطيسي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/44a4aa46-fd2f-4615-9682-c5be12e8b380",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 9 ( قانون لنز)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/37031d66-025b-4290-9f21-1c52234a5087",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 10 (حل مسائل المجموعة الثانية )",
-      "url": "https://iframe.mediadelivery.net/embed/215061/8e297525-d189-42c3-a924-1dbf59e4bd83",
-      "description": "تم صنع المنصه بواسطه حميد."
-},
-    {
-    "title": "المحاضرة 11 (حل مسائل المجموعة الثانية (الجزء 2))",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6b0e671a-3fa0-4d4d-8ea7-f1762bc19b24",
-          "description": "حل مسائل المجموعة الثانية، الجزء الثاني."
+              "title": "المحاضرة 1 (الحث الكهرومغناطيسي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f89c011f-4bb5-407d-8170-8b088598e317",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 2 (الحث الكهرومغناطيسي 2)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a727f155-f5cd-42dd-8c9b-999ec616765a",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 3 (أنشطة الحث الكهرومغناطيسي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ca07528b-44a6-4a79-9bd6-b427e9f196a9",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 4 (التيار المحتث و القوة الدافعة الكهربائية )",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0a743370-574b-47c9-a319-4d6354e3b12a",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 5 (الحث الكهرومغناطيسي و مبدأ حفظ الطاقة )",
+              "url": "https://iframe.mediadelivery.net/embed/215061/de1e2360-f4da-4461-8164-288e73fad862",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 6 (حل مسائل المجموعة الأولى )",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2689c82b-cab2-4bc6-8618-3f7986d1c718",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 7 (حل الأسئلة الوزارية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8c5ba312-b205-4463-b93c-f01ceed665fa",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 8 (الفيض المغناطيسي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/44a4aa46-fd2f-4615-9682-c5be12e8b380",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 9 ( قانون لنز)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/37031d66-025b-4290-9f21-1c52234a5087",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 10 (حل مسائل المجموعة الثانية )",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8e297525-d189-42c3-a924-1dbf59e4bd83",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 11 (حل مسائل المجموعة الثانية (الجزء 2))",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6b0e671a-3fa0-4d4d-8ea7-f1762bc19b24",
+              "description": "حل مسائل المجموعة الثانية، الجزء الثاني."
+            },
+            {
+              "title": "المحاضرة 12 (حل الأسئلة الوزارية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cc5f5a96-8269-4ce4-94b1-c3893006bbc5",
+              "description": "حل الأسئلة الوزارية للمادة."
+            },
+            {
+              "title": "المحاضرة 13 (التيارات الدوامة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/913bb9be-26dc-4381-8583-8c7fb509ac23",
+              "description": "محاضرة عن التيارات الدوامة."
+            },
+            {
+              "title": "المحاضرة 14 التيارات الدوامة (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ebd31d52-b131-4aba-a386-6e8a9b2e2a31"
+            },
+            {
+              "title": "المحاضرة  15 :  أنواع المولدات الكهربائية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f98c0157-1a50-4fb4-8be5-0990b3b57c44"
+            },
+            {
+              "title": "المحاضرة 16: المحرك الكهربائي +مسائل المجموعة الثالثة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/708cd79b-9497-43c4-a664-eb90218374b8"
+            },
+            {
+              "title": "المحاضرة 17: حل الأسئلة الوزارية + نشاط عن الحث الذاتي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8ca2143d-639d-4e34-bb46-28342d9676c2"
+            },
+            {
+              "title": "المحاضرة 18: الحث الذاتي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cf9ca09f-8b69-4acf-843c-b8e2af252e78"
+            },
+            {
+              "title": "المحاضرة 19: الحث المتبادل",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a03cc317-c4e7-416a-9e8c-309274dac598"
+            },
+            {
+              "title": "المحاضرة 20: تطبيقات الحث الكهرومغناطيسي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1b802126-72d0-400b-acff-f803bdbd169a"
+            },
+            {
+              "title": "المحاضرة 21 : حل أسئلة الفصل الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9830383c-4103-4099-a209-5da36493de87"
+            },
+            {
+              "title": "المحاضرة 22: حل أسئلة الفصل الثاني  (الجزء   الثاني )",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5ffcb3f4-a3ea-48df-8ebd-4c18701aa272"
+            },
+            {
+              "title": "المحاضرة 23:حل أسئلة الفصل الثاني (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f0bf91c5-906e-45ba-a8c9-bac05a1a8161"
+            },
+            {
+              "title": "المحاضرة 24:حل أسئلة الفصل الثاني (الجزء الرابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/17391f71-e6c8-4f73-82f3-3dc5a39bd9ca"
+            },
+            {
+              "title": "المحاضرة 25:حل أسئلة  الفصل الثاني (الجزء الخامس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/605ade5e-b0d0-4fc8-85c1-53f42e7b519c"
+            },
+            {
+              "title": "المحاضرة 26: حل أسئلة الفصل الثاني ( الجزء السادس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fd0f6de1-f7f5-4ee2-b421-45f902adda97"
+            },
+            {
+              "title": "المحاضرة 27: اشتقاقات الفصل الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7ef89085-4199-44fc-8140-438eea1e9391"
+            },
+            {
+              "title": "\"المحاضرة 28: حل أسئلة \"فكر",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ae448df7-3fc2-44f6-979e-2d117f6e1a74"
+            },
+            {
+              "title": "(المحاضرة 29 : حل أسئلة الفصل الثاني( الجزء السابع",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d5e3d945-0616-4e08-809e-1f9d9d2e495c"
+            },
+            {
+              "title": "(المحاضرة 29: حل أسئلة الفصل الثاني( الجزء الثامن",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/32d9670d-1455-40cc-a308-4fa13251840b"
+            },
+            {
+              "title": "حل واجب 1998",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4c3b5a53-a114-47bf-ae3c-43fb45915227"
+            },
+            {
+              "title": "جميع كلاميات الفصل الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9de5a18e-5217-4026-99c8-4511bbd40d4d"
+            },
+            {
+              "title": "جميع مسائل الفصل الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/99b73275-4f5f-4b6c-acb4-05207edb5295"
+            }
+          ]
         },
         {
-          "title": "المحاضرة 12 (حل الأسئلة الوزارية)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cc5f5a96-8269-4ce4-94b1-c3893006bbc5",
-          "description": "حل الأسئلة الوزارية للمادة."
+          "name": "التيار المتناوب",
+          "lectures": [
+            {
+              "title": "المحاضرة 1: التيار المتناوب",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/da80d81e-aa88-4f77-9e9f-95279d74f0cb"
+            },
+            {
+              "title": "المحاضرة 2: المقاومة الصرف",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a863da20-9446-494a-ab17-533d3f3bc498"
+            },
+            {
+              "title": "المحاضرة 3 : المقاومة صرف (الجزء الثاني ) + ملاحظات حول المسائل",
+              "description": "وَمَا تَدۡرِي نَفۡسٞ مَّاذَا تَكۡسِبُ غَدٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6b1bd555-6a52-4608-a2ac-ba8ebcff7467"
+            },
+            {
+              "title": "المحاضرة 4: حل مسائل المقاومة صرف",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4300983d-f35a-41ab-967c-d11396c028ac"
+            },
+            {
+              "title": "المحاضرة 5: المحث الصرف",
+              "description": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ * ٱللَّهُ ٱلصَّمَدُ * لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ * وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدٌ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7b336ea3-1ad5-4b14-b0c1-b0d76d9a4900"
+            },
+            {
+              "title": "المحاضرة 6 : المحث الصرف( الجزء الثاني )",
+              "description": "لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9d952d3c-a075-4851-bb8c-6f097215ef8d"
+            },
+            {
+              "title": "المحاضرة 7 : المتسعة صرف",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9515b8fb-4852-41ce-987c-b94f1dc98642"
+            },
+            {
+              "title": "المحاضرة 8 : أنشطة المتسعة صرف",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b888b90b-f1bc-46c4-9d07-863c10ccde45"
+            },
+            {
+              "title": "المحاضرة 9 : مسائل المحث و المتسعة +الربط التوالي والتوازي",
+              "description": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9669c8f8-5566-4afd-8038-78eb27774767"
+            },
+            {
+              "title": "المحاضرة 10 : تجربة نيكولا تسلا + ملاحظات حول المجموعة الأولى",
+              "description": "وَلَا تَيۡأَسُواْ مِن رَّوۡحِ ٱللَّهِ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dc1d66f7-721f-473a-8207-59d3e209a48b"
+            },
+            {
+              "title": "المحاضرة 11: حل مسائل التوالي",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6897e2d4-85f8-485a-a326-0f215eb871c9"
+            },
+            {
+              "title": "المحاضرة 12: حل مسائل التوالي (الجزء الثاني )",
+              "description": "رَّبِّ ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6b7ec9a8-9191-4ca1-99c0-4e39dc5eaedf"
+            },
+            {
+              "title": "المحاضرة 13: حل مسائل التوالي( الجزء )الثالث",
+              "description": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِي سَبِيلِهِۦ صَفّٗا كَأَنَّهُم بُنۡيَٰنٞ مَّرۡصُوصٞ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2ed31009-5e4a-4167-aeeb-4a9b2d8222e0"
+            },
+            {
+              "title": "المحاضرة 14 : حل مسائل التوالي( الجزء الرابع )",
+              "description": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e9ec5df3-190f-4c45-8ae8-df22502d03d8"
+            },
+            {
+              "title": "المحاضرة 15: حل مسائل التوالي ( الجزء الخامس)",
+              "description": "رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/94997ca6-c2df-44e1-b805-96584a1a0d72"
+            },
+            {
+              "title": "المحاضرة 16 : حل الأسئلة الوزارية (الربط على التوالي)",
+              "description": "وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cd6237fb-9715-495d-9866-3ac0e18e3e9a"
+            },
+            {
+              "title": "المحاضرة 17 : كلاميات الرنين",
+              "description": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c1023eb9-cdec-49fe-b6fa-76f0e9d31987"
+            },
+            {
+              "title": "المحاضرة 18 : كلاميات الرنين ( الجزء الثاني )",
+              "description": "وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4a717b26-977d-4d9c-b138-8a7badcecd3e"
+            },
+            {
+              "title": "المحاضرة 19: حل مسائل المجموعة الثانية( الرنين)",
+              "description": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1dd71699-bca5-49a9-9f36-7d6b408da0ce"
+            },
+            {
+              "title": "المحاضرة 20 : السؤال الأول من مسائل الرنين",
+              "description": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f5421db3-3649-42d8-9700-f6dd054092a0"
+            },
+            {
+              "title": "المحاضرة 21 : السؤال الثاني من مسائل الرنين",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d2cd858c-dc62-4850-bd93-05ac65616a24"
+            },
+            {
+              "title": "المحاضرة 22 : السؤال الثالث من مسائل الرنين",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/aed446c3-278d-4197-a991-23a84f2c775f"
+            },
+            {
+              "title": "المحاضرة 23 : المجموعة الثالثة (الربط على التوازي)",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/715e8263-b830-4986-802a-0393232cdd05"
+            },
+            {
+              "title": "المحاضرة 24 : السؤال الأول من مسائل التوازي",
+              "description": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d5842005-2bdb-4350-afdd-fc0332a09338"
+            },
+            {
+              "title": "المحاضرة 25 : السؤال الثاني من مسائل التوازي",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fd0cb554-c594-4f2b-9d0e-4ef91c616028"
+            },
+            {
+              "title": "تجربة الرنين",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3bc40a93-741c-4724-b43f-719f4c7e4c44"
+            },
+            {
+              "title": "المحاضرة 26 : السؤال الثالث من مسائل التوازي",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f724f353-1c4a-465c-9f08-1833f5711003"
+            },
+            {
+              "title": "المحاضرة 27: السؤال الرابع من مسائل التوازي",
+              "description": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/edd9f91b-61e3-4b2d-88a6-a0e0947f5617"
+            },
+            {
+              "title": "المحاضرة 28 : اشتقاقات الفصل الثالث",
+              "description": "وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2f4891fc-0250-45cc-a415-c55445f656a5"
+            },
+            {
+              "title": "(المحاضرة 29: أسئلة فكر( الجزء الأول",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/981f9c30-9a07-42a2-bf52-d3d5d0652465"
+            },
+            {
+              "title": "المحاضرة 30 : أسئلة فَكِّر ( الجزء الثاني )",
+              "description": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bbaefbfc-d973-4205-bda3-f4d54bf53b5a"
+            },
+            {
+              "title": "المحاضرة 31 : مراجعة كلاميات الفصل الثالث",
+              "description": "وَلَا تَيۡأَسُواْ مِن رَّوۡحِ ٱللَّهِ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2fb5b5e7-10ca-453b-9bd2-d1a9c0caeab0"
+            },
+            {
+              "title": "المحاضرة 32 : مراجعة مسائل الفصل الثالث",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b59253b7-e0e6-4b86-85b9-54c9f2572d87"
+            }
+          ]
         },
         {
-          "title": "المحاضرة 13 (التيارات الدوامة)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/913bb9be-26dc-4381-8583-8c7fb509ac23",
-          "description": "محاضرة عن التيارات الدوامة."
-        },
-        {
-          "title": "المحاضرة 14 التيارات الدوامة (الجزء الثاني)",
-      "description": "ممكن تقرأ وماتسخت ؟",
-      "url": "https://iframe.mediadelivery.net/embed/215061/ebd31d52-b131-4aba-a386-6e8a9b2e2a31"
-    },
-    {
-       "title": "المحاضرة  15 :  أنواع المولدات الكهربائية",
-      "description": "ممكن تقرأ وماتسخت ؟",
-      "url": "https://iframe.mediadelivery.net/embed/215061/f98c0157-1a50-4fb4-8be5-0990b3b57c44"
-    },
-    {
-      "title": "المحاضرة 16: المحرك الكهربائي +مسائل المجموعة الثالثة",
-      "description": "ممكن تقرأ وماتسخت ؟",
-      "url": "https://iframe.mediadelivery.net/embed/215061/708cd79b-9497-43c4-a664-eb90218374b8"
-    },
-    {
-      "title": "المحاضرة 17: حل الأسئلة الوزارية + نشاط عن الحث الذاتي",
-      "description": "ممكن تقرأ وماتسخت ؟",
-      "url": "https://iframe.mediadelivery.net/embed/215061/8ca2143d-639d-4e34-bb46-28342d9676c2"
-       },
-    {
-     "title": "المحاضرة 18: الحث الذاتي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cf9ca09f-8b69-4acf-843c-b8e2af252e78"
-        },
-        {
-          "title": "المحاضرة 19: الحث المتبادل",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a03cc317-c4e7-416a-9e8c-309274dac598"
-        },
-        {
-           "title": "المحاضرة 20: تطبيقات الحث الكهرومغناطيسي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1b802126-72d0-400b-acff-f803bdbd169a"
-        },
-        {
-          "title": "المحاضرة 21 : حل أسئلة الفصل الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9830383c-4103-4099-a209-5da36493de87"
-        },
-        {
-          "title": "المحاضرة 22: حل أسئلة الفصل الثاني  (الجزء   الثاني )",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5ffcb3f4-a3ea-48df-8ebd-4c18701aa272"
-        },
-        {
-          "title": "المحاضرة 23:حل أسئلة الفصل الثاني (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f0bf91c5-906e-45ba-a8c9-bac05a1a8161"
-        },
-        {
-          "title": "المحاضرة 24:حل أسئلة الفصل الثاني (الجزء الرابع)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/17391f71-e6c8-4f73-82f3-3dc5a39bd9ca"
-        },
-        {
-          "title": "المحاضرة 25:حل أسئلة  الفصل الثاني (الجزء الخامس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/605ade5e-b0d0-4fc8-85c1-53f42e7b519c"
-        },
-        {
-          "title": "المحاضرة 26: حل أسئلة الفصل الثاني ( الجزء السادس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fd0f6de1-f7f5-4ee2-b421-45f902adda97"
-        },
-        {
-          "title": "المحاضرة 27: اشتقاقات الفصل الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7ef89085-4199-44fc-8140-438eea1e9391"
-        },
-        {
-          "title": "\"المحاضرة 28: حل أسئلة \"فكر",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ae448df7-3fc2-44f6-979e-2d117f6e1a74"
-        },
-        {
-          "title": "(المحاضرة 29 : حل أسئلة الفصل الثاني( الجزء السابع",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d5e3d945-0616-4e08-809e-1f9d9d2e495c"
-        },
-        {
-          "title": "(المحاضرة 29: حل أسئلة الفصل الثاني( الجزء الثامن",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/32d9670d-1455-40cc-a308-4fa13251840b"
-        },
-        {
-          "title": "حل واجب 1998",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4c3b5a53-a114-47bf-ae3c-43fb45915227"
-        },
-        {
-          "title": "جميع كلاميات الفصل الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9de5a18e-5217-4026-99c8-4511bbd40d4d"
-        },
-        {
-          "title": "جميع مسائل الفصل الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/99b73275-4f5f-4b6c-acb4-05207edb5295"
-}
-      ]
-    },
-    {
-      "name": "التيار المتناوب",
-      "lectures": [
-        {
-          "title": "المحاضرة 1: التيار المتناوب",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/da80d81e-aa88-4f77-9e9f-95279d74f0cb"
-        },
-        {
-          "title": "المحاضرة 2: المقاومة الصرف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a863da20-9446-494a-ab17-533d3f3bc498"
-        },
-        {
-          "title": "المحاضرة 3 : المقاومة صرف (الجزء الثاني ) + ملاحظات حول المسائل",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6b1bd555-6a52-4608-a2ac-ba8ebcff7467"
-        },
-        {
-          "title": "المحاضرة 4: حل مسائل المقاومة صرف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4300983d-f35a-41ab-967c-d11396c028ac"
-        },
-        {
-          "title": "المحاضرة 5: المحث الصرف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7b336ea3-1ad5-4b14-b0c1-b0d76d9a4900"
-        },
-        {
-          "title": "المحاضرة 6 : المحث الصرف( الجزء الثاني )",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9d952d3c-a075-4851-bb8c-6f097215ef8d"
-        },
-        {
-          "title": "المحاضرة 7 : المتسعة صرف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9515b8fb-4852-41ce-987c-b94f1dc98642"
-        },
-        {
-          "title": "المحاضرة 8 : أنشطة المتسعة صرف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b888b90b-f1bc-46c4-9d07-863c10ccde45"
-        },
-        {
-          "title": "المحاضرة 9 : مسائل المحث و المتسعة +الربط التوالي والتوازي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9669c8f8-5566-4afd-8038-78eb27774767"
-        },
-        {
-          "title": "المحاضرة 10 : تجربة نيكولا تسلا + ملاحظات حول المجموعة الأولى",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/dc1d66f7-721f-473a-8207-59d3e209a48b"
-        },
-        {
-          "title": "المحاضرة 11: حل مسائل التوالي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6897e2d4-85f8-485a-a326-0f215eb871c9"
-        },
-        {
-          "title": "المحاضرة 12: حل مسائل التوالي (الجزء الثاني )",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6b7ec9a8-9191-4ca1-99c0-4e39dc5eaedf"
-        },
-        {
-          "title": "المحاضرة 13: حل مسائل التوالي( الجزء )الثالث",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2ed31009-5e4a-4167-aeeb-4a9b2d8222e0"
-        },
-        {
-          "title": "المحاضرة 14 : حل مسائل التوالي( الجزء الرابع )",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e9ec5df3-190f-4c45-8ae8-df22502d03d8"
-
-
-
-
-
-
-
-
-
-
- }
+          "name": "الفصل الرابع: الموجات الكهرومغناطيسية",
+          "lectures": [
+            {
+              "title": "مقدمة عن الموجات الكهرومغناطيسية",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1f62a7d3-7965-41d2-9e38-bfdacc0e27c8"
+            },
+            {
+              "title": "المحاضرة 1: الموجات الكهرومغناطيسية",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f9b35c8f-a168-4320-8271-0f9aef9ebb7d"
+            },
+            {
+              "title": "المحاضرة 2: الموجات الكهرومغناطيسية",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/825f1e9c-ed37-4e73-93d7-13d77bb00945"
+            },
+            {
+              "title": "المحاضرة 3: الأرسال و التسلم",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5152ef77-3593-4529-b4a2-dfd53091b0b1"
+            },
+            {
+              "title": "المحاضرة 4: عملية الأرسال و التسلم",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/75a2e1fb-bcf7-463f-8b9e-68375444a2aa"
+            },
+            {
+              "title": "المحاضرة 5: الكشف عن الموجات الكهرومغناطيسية",
+              "description": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا * إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/18fb9a49-b056-4cfa-9fb7-9764aa55caf3"
+            }
           ]
         }
       ]
@@ -635,7 +755,6 @@ window.dataAb2026 = {
           ]
         },
         {
-      
           "name": "مراجعة",
           "lectures": [
             {
@@ -656,7 +775,6 @@ window.dataAb2026 = {
           ]
         },
         {
-         
           "name": "الفصل2",
           "lectures": [
             {
@@ -664,222 +782,245 @@ window.dataAb2026 = {
               "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
               "url": "https://iframe.mediadelivery.net/embed/215061/c3026be0-2d67-42dc-b91c-1a540ffe1391"
             },
-        {
-          "title": "محاضرة 2",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/043666d4-df1d-4e99-8ec1-46334e25c7db"
-         },
-        {
-        "title": "المحاضرة 3 (وزاريات القطع المكافئ)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ac0d656d-8c18-44a0-a07b-3b88d22aac0c",
-          "description": "محاضرة وزاريات عن القطع المكافئ"
+            {
+              "title": "محاضرة 2",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/043666d4-df1d-4e99-8ec1-46334e25c7db"
+            },
+            {
+              "title": "المحاضرة 3 (وزاريات القطع المكافئ)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ac0d656d-8c18-44a0-a07b-3b88d22aac0c",
+              "description": "محاضرة وزاريات عن القطع المكافئ"
+            },
+            {
+              "title": "المحاضرة 4 (تعريف القطع المكافئ)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b4c1e180-2cd5-4392-8beb-1e9df30b3d22",
+              "description": "محاضرة عن تعريف القطع المكافئ"
+            },
+            {
+              "title": "المحاضرة 5 (القطع الناقص)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/acb6dead-d311-4627-9481-7bc931b3329f",
+              "description": "محاضرة عن القطع الناقص"
+            },
+            {
+              "title": "محاضرة 6 (وزاريات القطع الناقص)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/79624e6f-99f4-4116-8310-cde6a9c17d49",
+              "description": "محاضرة وزاريات عن القطع الناقص."
+            },
+            {
+              "title": "المحاضرة 7 (ملاحظات القطع الناقص)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ea96c74c-f2f0-4409-94bc-7c5bfdc93448",
+              "description": "محاضرة عن ملاحظات القطع الناقص."
+            },
+            {
+              "title": "المحاضرة 8 (ملاحظات القطع الناقص (الجزء الثاني))",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b470decc-de9a-4142-ab1d-60042d9f1d80",
+              "description": "الجزء الثاني من ملاحظات القطع الناقص."
+            },
+            {
+              "title": "المحاضرة 9 (ملاحظات القطع الناقص (الجزء الثالث))",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ec4ab009-26ab-46c3-99d3-a4c91233b10a",
+              "description": "الجزء الثالث من ملاحظات القطع الناقص."
+            },
+            {
+              "title": "المحاضرة 10 (ملاحظات القطع الناقص (الجزء الرابع))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2730f0f1-21b3-466e-a714-e8d2b6ef29c1"
+            },
+            {
+              "title": "المحاضرة 11 (ملاحظات القطع الناقص (الجزء الخامس))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/239c7aba-66e2-4f2d-898d-194dd7826e41"
+            },
+            {
+              "title": "المحاضرة 12 (ملاحظات القطع الناقص (الجزء السادس))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/93a6425a-57a4-45b5-ba03-c3e72098b2c4"
+            },
+            {
+              "title": "المحاضرة 13 (تعريف القطع الناقص)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4b917a81-ba50-4f9e-9361-0d119456b0f1"
+            },
+            {
+              "title": "المحاضرة 14 (الأسئلة الإثرائية عن القطع الناقص)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e870dbff-bcdb-4247-b447-89ae6cb91882"
+            },
+            {
+              "title": "المحاضرة 15 (القطع الزائد)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b714edd8-7c50-4161-ac7f-2189cb458bc4"
+            },
+            {
+              "title": "المحاضرة 16 (ملاحظات القطع الزائد)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5226bacc-b3b7-456b-b4d6-b36a3680362f"
+            },
+            {
+              "title": "المحاضرة 17 (وزاريات القطع الزائد)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a76627cf-4e61-4a05-bf7d-5dcdbaa9c188"
+            },
+            {
+              "title": "المحاضرة 18 (وزاريات الربط بين القطع الزائد والناقص والمكافئ)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/377b9472-3178-4bb9-8517-c687c3247999"
+            },
+            {
+              "title": "المحاضرة 19 (طول نصف القطر البؤري)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c94e8eb2-b766-4514-aa9f-7d4a0ebcf853"
+            },
+            {
+              "title": "المحاضرة 20 (وزاريات القطع الزائد (النمط المختلف))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/992f6356-9550-45b4-9bd6-2275cecdf571"
+            },
+            {
+              "title": "المحاضرة 21 (انسحاب القطع المكافئ)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4b50ab7d-6935-405e-b034-72d4264ffdc8"
+            },
+            {
+              "title": "المحاضرة 22 (انسحاب القطع الناقص والزائد)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5e688afe-8d19-49e0-83e0-93c5e9d191e8"
+            }
+          ]
         },
         {
-          "title": "المحاضرة 4 (تعريف القطع المكافئ)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b4c1e180-2cd5-4392-8beb-1e9df30b3d22",
-          "description": "محاضرة عن تعريف القطع المكافئ"
+          "name": "الفصل الثالث: التفاضل (جميع المحاضرات)",
+          "lectures": [
+            {
+              "title": "المحاضرة 1 - أساسيات التفاضل",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/060ea369-6829-4b06-bf08-6572a6e73c73"
+            },
+            {
+              "title": "المحاضرة 2 - أساسيات التفاضل (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0d141dc7-429f-47b6-8b5a-aac50cca4366"
+            },
+            {
+              "title": "المحاضرة 3 - أساسيات التفاضل (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/60d26a13-fe2e-4190-8fe7-46ae690cfe65"
+            },
+            {
+              "title": "المحاضرة 4 - أساسيات التفاضل (الجزء الرابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/91ddec80-5eda-4c2c-9906-a935d270d71e"
+            },
+            {
+              "title": "المحاضرة الاولى (المعدلات الزمنية)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b715a89d-4927-4832-abbb-83a6311a7911"
+            },
+            {
+              "title": "المحاضرة الثانية : المعدلات الزمنية (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9c1f0ed9-bdba-487a-ae0c-352788039f80"
+            },
+            {
+              "title": "المحاضرة 3 - المعدلات الزمنية (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/05a6db0a-8573-448e-a657-dbc8869cfb07"
+            },
+            {
+              "title": "المحاضرة الرابعة: المعدلات الزمنية (الجزء الرابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d06673eb-03ab-49ce-b9ae-f910dfb74d0f"
+            },
+            {
+              "title": "المحاضرة الخامسة: المعدلات الزمنية (الجزء الخامس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/03dfbfdb-e7bc-4a99-83ba-64f61e0e38ed"
+            },
+            {
+              "title": "المحاضرة السادسة: المعدلات الزمنية (الجزء السادس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a2e4768f-fc8a-4a1c-9d86-781b553598b5"
+            },
+            {
+              "title": "المحاضرة السابعة: المعدلات الزمنية (الجزء السابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b9ccb01c-9eab-48e1-904d-5968682f142e"
+            },
+            {
+              "title": "المحاضرة الثامنة : المعدلات الزمنية (الجزء الثامن)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0a424658-4f67-42ce-b6c2-46692144fae1"
+            },
+            {
+              "title": "مراجعة الفصل الثالث (ج1)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/20862552-c94f-4d40-8ad0-afa542394e14"
+            },
+            {
+              "title": "المحاضرة التاسعة : مبرهنة رول",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5ce170c1-c7c1-42f5-b33f-8801904dde3b"
+            },
+            {
+              "title": "المحاضرة العاشرة :مبرهنة رول (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5f7d6609-3471-48e4-90f4-a6cb2bf5a3c9"
+            },
+            {
+              "title": "المحاضرة الحادية عشر : مبرهنة رول (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f27db73e-598c-4f2c-aeba-0ae6ce5a4c52"
+            },
+            {
+              "title": "المحاضرة الثانية عشر : مبرهنة رول (الجزء الرابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ffcf1670-bb50-4e7e-a10b-7b9251b1af73"
+            },
+            {
+              "title": "المحاضرة الثالثة عشر : مبرهنة رول (الجزء الخامس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5f1151f9-f989-4a82-b9af-7d96e04bffc2"
+            },
+            {
+              "title": "مراجعة الفصل الثالث (ج2)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e61304a5-a07f-48e8-92fe-83476fef0f64"
+            },
+            {
+              "title": "المحاضرة الرابعة عشر : مبرهنة القيمة المتوسطة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dd026aec-6725-4207-bead-e28089e60ade"
+            },
+            {
+              "title": "المحاضرة الخامسة عشر : مبرهنة القيمة المتوسطة (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1d452ac1-2161-42c2-906c-30b1068ffd97"
+            },
+            {
+              "title": "المحاضرة السادسة عشر : نتيجة مبرهنة القيمة المتوسطة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ae88cf46-9844-4c54-82f6-fc023292713a"
+            },
+            {
+              "title": "المحاضرة السابعة عشر : نتيجة مبرهنة القيمة المتوسطة (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f7e35dce-2ba1-4bf6-b88a-8a812e075b3c"
+            },
+            {
+              "title": "المحاضرة الثامنة عشر : نتيجة مبرهنة القيمة المتوسطة (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fd59f95c-7ffb-45a7-9d22-794d65f280ab"
+            },
+            {
+              "title": "المحاضرة التاسعة عشر : نتيجة مبرهنة القيمة المتوسطة (الجزء الرابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7de686b4-5f47-492e-b307-4bd151af576e"
+            }
+          ]
         },
         {
-          "title": "المحاضرة 5 (القطع الناقص)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/acb6dead-d311-4627-9481-7bc931b3329f",
-          "description": "محاضرة عن القطع الناقص"
-        },
-        {
-           "title": "محاضرة 6 (وزاريات القطع الناقص)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/79624e6f-99f4-4116-8310-cde6a9c17d49",
-          "description": "محاضرة وزاريات عن القطع الناقص."
-        },
-        {
-          "title": "المحاضرة 7 (ملاحظات القطع الناقص)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ea96c74c-f2f0-4409-94bc-7c5bfdc93448",
-          "description": "محاضرة عن ملاحظات القطع الناقص."
-        },
-        {
-          "title": "المحاضرة 8 (ملاحظات القطع الناقص (الجزء الثاني))",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b470decc-de9a-4142-ab1d-60042d9f1d80",
-          "description": "الجزء الثاني من ملاحظات القطع الناقص."
-        },
-        {
-          "title": "المحاضرة 9 (ملاحظات القطع الناقص (الجزء الثالث))",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ec4ab009-26ab-46c3-99d3-a4c91233b10a",
-          "description": "الجزء الثالث من ملاحظات القطع الناقص."
-        },
-        {
-          "title": "المحاضرة 10 (ملاحظات القطع الناقص (الجزء الرابع))",
-      "description": "ممكن تقرأ وماتسخت ؟",
-      "url": "https://iframe.mediadelivery.net/embed/215061/2730f0f1-21b3-466e-a714-e8d2b6ef29c1"
-    },
-    {
-      "title": "المحاضرة 11 (ملاحظات القطع الناقص (الجزء الخامس))",
-      "description": "ممكن تقرأ وماتسخت ؟",
-      "url": "https://iframe.mediadelivery.net/embed/215061/239c7aba-66e2-4f2d-898d-194dd7826e41"
-    },
-    {
-      "title": "المحاضرة 12 (ملاحظات القطع الناقص (الجزء السادس))",
-      "description": "ممكن تقرأ وماتسخت ؟",
-      "url": "https://iframe.mediadelivery.net/embed/215061/93a6425a-57a4-45b5-ba03-c3e72098b2c4"
-    },
-    {
-      "title": "المحاضرة 13 (تعريف القطع الناقص)",
-      "description": "ممكن تقرأ وماتسخت ؟",
-      "url": "https://iframe.mediadelivery.net/embed/215061/4b917a81-ba50-4f9e-9361-0d119456b0f1"
-    },
-    {
-         "title": "المحاضرة 14 (الأسئلة الإثرائية عن القطع الناقص)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e870dbff-bcdb-4247-b447-89ae6cb91882"
-        },
-        {
-          "title": "المحاضرة 15 (القطع الزائد)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b714edd8-7c50-4161-ac7f-2189cb458bc4"
-        },
-        {
-          "title": "المحاضرة 16 (ملاحظات القطع الزائد)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5226bacc-b3b7-456b-b4d6-b36a3680362f"
-        },
-        {
-          "title": "المحاضرة 17 (وزاريات القطع الزائد)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a76627cf-4e61-4a05-bf7d-5dcdbaa9c188"
-        },
-        {
-          "title": "المحاضرة 18 (وزاريات الربط بين القطع الزائد والناقص والمكافئ)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/377b9472-3178-4bb9-8517-c687c3247999"
-        },
-        {
-          "title": "المحاضرة 19 (طول نصف القطر البؤري)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c94e8eb2-b766-4514-aa9f-7d4a0ebcf853"
-        },
-        {
-           "title": "المحاضرة 20 (وزاريات القطع الزائد (النمط المختلف))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/992f6356-9550-45b4-9bd6-2275cecdf571"
-        },
-        {
-         "title": "المحاضرة 21 (انسحاب القطع المكافئ)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4b50ab7d-6935-405e-b034-72d4264ffdc8"
-        },
-        {
-          "title": "المحاضرة 22 (انسحاب القطع الناقص والزائد)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5e688afe-8d19-49e0-83e0-93c5e9d191e8"
-          }
-      ]
-    },
-    {
-     
-
- "name": " التفاضل",
-      "lectures": [
-        {
-         "title": "المحاضرة 1 - أساسيات التفاضل",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/060ea369-6829-4b06-bf08-6572a6e73c73"
-        },
-        {
-          "title": "المحاضرة 2 - أساسيات التفاضل (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0d141dc7-429f-47b6-8b5a-aac50cca4366"
-        },
-        {
-          "title": "المحاضرة 3 - أساسيات التفاضل (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/60d26a13-fe2e-4190-8fe7-46ae690cfe65"
-        },
-        {
-          "title": "المحاضرة 4 - أساسيات التفاضل (الجزء الرابع)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/91ddec80-5eda-4c2c-9906-a935d270d71e"
-        }
-      ]
-    },
-    {
-      "name": "المعدلات الزمنية",
-      "lectures": [
-        {
-          "title": "المحاضرة الاولى (المعدلات الزمنية)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b715a89d-4927-4832-abbb-83a6311a7911"
-        },
-        {
-          "title": "المحاضرة الثانية : المعدلات الزمنية (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9c1f0ed9-bdba-487a-ae0c-352788039f80"
-        },
-        {
-          "title": "المحاضرة 3 - المعدلات الزمنية (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/05a6db0a-8573-448e-a657-dbc8869cfb07"
-        },
-        {
-          "title": "المحاضرة الرابعة: المعدلات الزمنية (الجزء الرابع)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d06673eb-03ab-49ce-b9ae-f910dfb74d0f"
-        },
-        {
-          "title": "المحاضرة الخامسة: المعدلات الزمنية (الجزء الخامس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/03dfbfdb-e7bc-4a99-83ba-64f61e0e38ed"
-        },
-        {
-          "title": "المحاضرة السادسة: المعدلات الزمنية (الجزء السادس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a2e4768f-fc8a-4a1c-9d86-781b553598b5"
-        },
-        {
-          "title": "المحاضرة السابعة: المعدلات الزمنية (الجزء السابع)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b9ccb01c-9eab-48e1-904d-5968682f142e"
-        },
-        {
-          "title": "المحاضرة الثامنة : المعدلات الزمنية (الجزء الثامن)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0a424658-4f67-42ce-b6c2-46692144fae1"
-        }
-      ]
-    },
-    {
-      "name": "مبرهنة رول ومراجعة الفصل",
-      "lectures": [
-        {
-          "title": "مراجعة الفصل الثالث (ج1)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/20862552-c94f-4d40-8ad0-afa542394e14"
-        },
-        {
-          "title": "المحاضرة التاسعة : مبرهنة رول",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5ce170c1-c7c1-42f5-b33f-8801904dde3b"
-        },
-        {
-          "title": "المحاضرة العاشرة :مبرهنة رول (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5f7d6609-3471-48e4-90f4-a6cb2bf5a3c9"
-        },
-        {
-          "title": "المحاضرة الحادية عشر : مبرهنة رول (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f27db73e-598c-4f2c-aeba-0ae6ce5a4c52"
-        },
-        {
-          "title": "المحاضرة الثانية عشر : مبرهنة رول (الجزء الرابع)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ffcf1670-bb50-4e7e-a10b-7b9251b1af73"
-        },
-        {
-          "title": "المحاضرة الثالثة عشر : مبرهنة رول (الجزء الخامس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5f1151f9-f989-4a82-b9af-7d96e04bffc2"
-}
-      ]
-    },
-    {
- "name": "الفصل السادس",
+          "name": "الفصل السادس",
           "lectures": [
             {
               "title": "مقدمة",
@@ -895,330 +1036,431 @@ window.dataAb2026 = {
               "title": "المحاضرة 3 (المبرهنات 2)",
               "description": "تم رفع المحاضرة بواسطة حميد",
               "url": "https://iframe.mediadelivery.net/embed/215061/cfcee43e-d475-49e7-9c7d-b1cfd1938f23"
-           },
+            },
             {
               "title": "المحاضرة 4 (المبرهنات 3)",
               "description": "تم رفع المحاضرة بواسطة حميد",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a764f696-126d-4529-9cfb-3a02744db04b"  
-}
+              "url": "https://iframe.mediadelivery.net/embed/215061/a764f696-126d-4529-9cfb-3a02744db04b"
+            }
           ]
         }
       ]
     },
     {
-
-"id": 1746651370580,
-  "name": "سجاد العبيدي 2026",
-  "subject": "مدرس مادة اللغة الانكليزية",
-  "image": "https://i.imghippo.com/files/hQ9687jOQ.png",
-  "classes": [
-    {
-      "name": "الاساسيات",
-      "lectures": [
+      "id": 1746651370580,
+      "name": "سجاد العبيدي 2026",
+      "subject": "مدرس مادة اللغة الانكليزية",
+      "image": "https://i.imghippo.com/files/hQ9687jOQ.png",
+      "classes": [
         {
-          "title": "محاضرة 1",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fae0d70a-e4c7-46e0-a046-e8b52436e9fa"
+          "name": "الاساسيات",
+          "lectures": [
+            {
+              "title": "محاضرة 1",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fae0d70a-e4c7-46e0-a046-e8b52436e9fa"
+            },
+            {
+              "title": "محاضرة 2",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1138f878-d8fa-4ed2-8228-f4c237b53d16"
+            },
+            {
+              "title": "محاضرة 3",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5cb01382-c193-420f-a418-e6b10e0959d2"
+            }
+          ]
         },
         {
-          "title": "محاضرة 2",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1138f878-d8fa-4ed2-8228-f4c237b53d16"
+          "name": "اإضافات اليونت الأول",
+          "lectures": [
+            {
+              "title": "خطة اضافات اليونت الاول",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b7331fdc-95ed-4058-b4dc-68852203f78d"
+            },
+            {
+              "title": "قطعة نجله",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d43dafaf-b228-4f5d-922e-5ef86f0faee4"
+            },
+            {
+              "title": "أسئلة قطعة نجله",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f20f3f5d-1b76-4f39-98e1-b343dfceb52c"
+            },
+            {
+              "title": "الاسئلة الإضافية المتعلقة بقطعة نجله",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/017d91f7-754e-45cc-8d4c-cb74797e84e7"
+            },
+            {
+              "title": "قطعة عمار",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/aa2d91ce-01bf-453d-a3da-0b29ff3d46a7"
+            },
+            {
+              "title": "أسئلة قطعة عمار",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7d687b28-c070-4f0c-ac0d-5820b446b5fd"
+            },
+            {
+              "title": "إنشاء تقليل حوادث السيارات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6ed548c1-a5e5-4575-b3a8-e3640045865e"
+            }
+          ]
         },
         {
-          "title": "محاضرة 3",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5cb01382-c193-420f-a418-e6b10e0959d2"
+          "name": "اليونت الاول",
+          "lectures": [
+            {
+              "title": "محاضرة 1",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cce812a8-9008-44cf-a16e-00d7d82235a2"
+            },
+            {
+              "title": "محاضرة 2",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3954a176-e22e-477a-be35-f5c65c0d1d16"
+            },
+            {
+              "title": "محاضرة 3",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4473a98c-71c0-4586-aa98-ed529584f9b3"
+            },
+            {
+              "title": "محاضرة 4",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/551c769b-a25b-4706-a689-82a1b77bd06e"
+            },
+            {
+              "title": "🎥 اصبع قدمي ينزف",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/603fabc7-aa58-478e-8759-99937ba45b13"
+            },
+            {
+              "title": "🎥 (اصبع قدمي ينزف (الجزء الثاني ",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/03d0562c-15b7-4946-b7aa-bae0042cc94e"
+            },
+            {
+              "title": " العلاج والمفاصل",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/53035cc9-b698-401f-b442-be0a1a2102e8"
+            },
+            {
+              "title": "اسقاطات الوحدة الاولى",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9aa6fca5-83e2-4925-bce2-b654f26bcc27"
+            },
+            {
+              "title": "الافعال المركبة",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+              "url": "https://iframe.mediadelivery.net/embed/215061/032cc79d-fc78-46f2-b1f6-f3a5adb5a0dc"
+            },
+            {
+              "title": "الاضافات",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/75364eca-106c-4ab6-9e93-6cf3816fb5ab"
+            },
+            {
+              "title": "النصائح الامرية",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/11690a72-fe77-44c5-ad97-9c086194dbdf"
+            },
+            {
+              "title": "المعدود وغير معدود",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/41384cdd-cf86-45ac-8e4a-f68433d5ef97"
+            },
+            {
+              "title": "Used to",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bd777b07-9563-4dbc-b8a0-f5d596509378",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "زيد طارق.",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a07839f1-02a6-41e0-bc25-0506515722dd",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "زيد طارق (الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0df6c12e-234e-4106-8bbc-44be66141e75",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "زيد طارق (الجزء الثالث)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/eed38621-084d-44f2-9547-9f63385806f0",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "مراجعة عامة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fbf45ab3-3b1c-4818-b44b-c87afa181db5",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "سأكون دائماً فخورة به (الجزء الاول)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a6c96ef7-5c69-46d7-aa70-4dbf7bea6f49",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "سأكون دائماً فخورة به (الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/78080c9f-a220-4d86-9b75-71957d5be5ee",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "سأكون دائماً فخورة به (الجزء الثالث)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2dda9cb8-eab6-4b6b-9ee3-be5ae0c15658",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "er اسقاطات الصحة واضافة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6169c526-28ca-493b-b19e-a008fe07867c",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "المقارنة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/245c4cb9-4d83-49de-aa24-83c1ee480568",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "ستخدام Used to الجزء الثاني",
+              "url": "https://iframe.mediadelivery.net/embed/215061/23f34f2c-1347-4915-afe0-5dfa4f34558f",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            }
+          ]
+        },
+        {
+          "name": "اليونت الثاني",
+          "lectures": [
+            {
+              "title": "المحاضرة 1 - الضرورة وعدم الضرورة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fcd0f854-db59-4ead-a0d2-7abede248c7e"
+            },
+            {
+              "title": "إنشاء مقابلة العمل",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/71c2859a-ddb6-40c6-83c1-8f4b66566117"
+            },
+            {
+              "title": "الطلب المؤدب والعروض",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1b527d54-a8d7-45b9-a53e-87e614383fc4"
+            },
+            {
+              "title": "الاقتراح والنصيحة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a89a46ce-693c-4d09-ae47-93e86f021384"
+            },
+            {
+              "title": "قطعة واجبات الشرطة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/37d6e079-75c7-4fc2-a3c6-114c92817079"
+            },
+            {
+              "title": "اسئلة واجبات الشرطة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b0f04557-01b7-4f45-a2d0-e5ad60d6ff1a"
+            },
+            {
+              "title": "أسئلة واجبات الشرطة (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c78e23b8-3f7c-4a77-a149-9791aee7c97f"
+            },
+            {
+              "title": "مقالة سلامة المنزل",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f3e20a6b-d79c-46c2-9307-d499eac9cbd9"
+            },
+            {
+              "title": "الاختصارات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f81b6a0f-e2a3-4e15-bf17-168adb8ee698"
+            },
+            {
+              "title": "المقالة العسكرية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/90b46d8d-24e6-4297-986b-30b94d749bf5"
+            },
+            {
+              "title": "التوقعات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dbf91d05-c6c8-4163-8f5e-42c4bdf9ea38"
+            },
+            {
+              "title": "قطعة الرادار",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9f0d6e20-0b0e-4fdc-b15d-ada9a7c627b5"
+            },
+            {
+              "title": "أسئلة قطعة الرادار (الجزء الاول)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/09f7e620-93e5-4536-a093-c51781702835"
+            },
+            {
+              "title": "أسئلة قطعة الرادار (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/06d70ee5-84b4-44a9-a4b6-9824a38b64d3"
+            },
+            {
+              "title": "أسئلة قطعة الرادار (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2646136c-be58-4986-a8b1-7db4310fc049"
+            },
+            {
+              "title": "تمارين التوصيل عن التوقعات والضرورة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/285854fa-6496-46f7-9bb0-b575beb4bbb8"
+            },
+            {
+              "title": "الافعال السببية (الجزء الاول)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/63beedee-5c15-4bb4-a1db-69a7dbbf4577"
+            },
+            {
+              "title": "الافعال السببية (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/09f9ed02-8e89-4213-8298-677f94f393ff"
+            },
+            {
+              "title": "مرادفات و اسقاطات مقالة العسكرية ومقالة السرقة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ca533548-f6df-4911-b6ad-2f7c55c48deb"
+            }
+          ]
+        },
+        {
+          "name": "اليونت الثالث",
+          "lectures": [
+            {
+              "title": "مقدمة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/678d3a5a-f0dc-48c3-a015-33b41eacaf5e"
+            },
+            {
+              "title": "خطة الوحدة الثالثة",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c43151c7-6340-46e1-9fe5-6b316ad00b31"
+            },
+            {
+              "title": "شرح الوظائف والمهام",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/736fccc6-7792-4192-bec3-dd4b622576e3"
+            },
+            {
+              "title": "شرح الوظائف والمهام (الجزء الثاني)",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a38168a9-9e15-4bd4-ba88-89e8ea3ecf6b"
+            },
+            {
+              "title": "شرح الوظائف والمهام (الجزء الثالث)",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/29b75eb4-8142-422a-85b4-729da5751bd9"
+            }
+          ]
+        },
+        {
+          "name": "الوحدة الثالثة: الحالات الشرطية (Conditional Sentences)",
+          "lectures": [
+            {
+              "title": "الحالات الشرطية (الجزء الاول)",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3f5b478c-e708-4b2f-85ca-0d8bde0f9e08"
+            },
+            {
+              "title": "الحالات الشرطية (الجزء الثاني)",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d61a55e5-9dbc-4fb5-af17-049a4d187f69"
+            },
+            {
+              "title": "الحالات الشرطية (الجزء الثالث)",
+              "description": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا * إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dfcfc9ba-cd96-4e53-871b-3ee27716f839"
+            },
+            {
+              "title": "الحالات الشرطية (الجزء الرابع)",
+              "description": "وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c8dea964-ca17-4319-bea8-b9c3e810fc9d"
+            },
+            {
+              "title": "الحالات الشرطية (الجزء الخامس)",
+              "description": "وَلَا تَيۡأَسُواْ مِن رَّوۡحِ ٱللَّهِ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c714a8fa-be46-4906-b83f-4a8c4f847b14"
+            },
+            {
+              "title": "مراجعة الحالات الشرطية وحل تمارين الكتاب",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/eeb66082-bf2f-48bc-8912-b5cce9683f8c"
+            }
+          ]
+        },
+        {
+          "name": "الوحدة الثالثة: قطع الاستيعاب والإنشاء",
+          "lectures": [
+            {
+              "title": "قطعة سميرة المحمود (الجزء الاول)",
+              "description": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/15b203c6-08e3-4549-bf05-57cc965a7a73"
+            },
+            {
+              "title": "قطعة سميرة (الجزء الثاني)",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d5a33dd7-3272-4cc0-a892-88875c34270b"
+            },
+            {
+              "title": "انشاء فوائد دراسة الانكليزية في بريطانيا",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/127bfef2-c566-4c4d-a174-89117f558f3a"
+            }
+          ]
+        },
+        {
+          "name": "الوحدة الثالثة: الكلام المنقول (Reported Speech)",
+          "lectures": [
+            {
+              "title": "السؤال المنقول",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/72facb4c-8975-46fa-a96b-b18bac12b220"
+            },
+            {
+              "title": "الكلام المنقول",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0cb7532f-e2b1-4b31-8f1d-2bce2a4856e8"
+            },
+            {
+              "title": "الكلام المنقول (الجزء الثاني)",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7f0f021e-3699-4871-b9fa-3476b78ed059"
+            }
+          ]
+        },
+        {
+          "name": "القطعة الخارجية",
+          "lectures": [
+            {
+              "title": "أساسيات القطعة الخارجية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6c122843-9506-4ecb-a042-b1b91f250c6e"
+            },
+            {
+              "title": "القطعة الأولى",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3ea80940-93e6-451c-b0a7-36dd1816a6ac"
+            },
+            {
+              "title": "القطعة الثانية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/21ffc683-8aaa-429c-94e5-8e61bd9d7eba"
+            }
+          ]
         }
       ]
     },
     {
-     
- "name": "اإضافات اليونت الأول",
-      "lectures": [
-        {
-        "title": "خطة اضافات اليونت الاول",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b7331fdc-95ed-4058-b4dc-68852203f78d"
-        },
-        {
-          "title": "قطعة نجله",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d43dafaf-b228-4f5d-922e-5ef86f0faee4"
-        },
-        {
-          "title": "أسئلة قطعة نجله",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f20f3f5d-1b76-4f39-98e1-b343dfceb52c"
-        },
-        {
-          "title": "الاسئلة الإضافية المتعلقة بقطعة نجله",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/017d91f7-754e-45cc-8d4c-cb74797e84e7"
-        },
-        {
-          "title": "قطعة عمار",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/aa2d91ce-01bf-453d-a3da-0b29ff3d46a7"
-        },
-        {
-          "title": "أسئلة قطعة عمار",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7d687b28-c070-4f0c-ac0d-5820b446b5fd"
-        },
-        {
-          "title": "إنشاء تقليل حوادث السيارات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6ed548c1-a5e5-4575-b3a8-e3640045865e"
-   }
-      ]
-    },
-    {
-          
-          "name": "اليونت الاول",
-      "lectures": [
-        {
-          "title": "محاضرة 1",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cce812a8-9008-44cf-a16e-00d7d82235a2"
-        },
-        {
-          "title": "محاضرة 2",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3954a176-e22e-477a-be35-f5c65c0d1d16"
-        },
-        {
-          "title": "محاضرة 3",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4473a98c-71c0-4586-aa98-ed529584f9b3"
-        },
-        {
-          "title": "محاضرة 4",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/551c769b-a25b-4706-a689-82a1b77bd06e"
-        },
-        {
-          "title": "🎥 اصبع قدمي ينزف",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/603fabc7-aa58-478e-8759-99937ba45b13"
-        },
-        {
-          "title": "🎥 (اصبع قدمي ينزف (الجزء الثاني ",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/03d0562c-15b7-4946-b7aa-bae0042cc94e"
-        },
-        {
-          "title": " العلاج والمفاصل",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/53035cc9-b698-401f-b442-be0a1a2102e8"
-        },
-        {
-          "title": "اسقاطات الوحدة الاولى",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9aa6fca5-83e2-4925-bce2-b654f26bcc27"
-        },
-        {
-          "title": "الافعال المركبة",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
-          "url": "https://iframe.mediadelivery.net/embed/215061/032cc79d-fc78-46f2-b1f6-f3a5adb5a0dc"
-        },
-        {
-          "title": "الاضافات",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/75364eca-106c-4ab6-9e93-6cf3816fb5ab"
-        },
-        {
-          "title": "النصائح الامرية",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/11690a72-fe77-44c5-ad97-9c086194dbdf"
-        },
-        {
-          "title": "المعدود وغير معدود",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/41384cdd-cf86-45ac-8e4a-f68433d5ef97"
-        },
-        {
-          "title": "Used to",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bd777b07-9563-4dbc-b8a0-f5d596509378",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-        },
-        {
-          "title": "زيد طارق.",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a07839f1-02a6-41e0-bc25-0506515722dd",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-        },
-        {
-          "title": "زيد طارق (الجزء الثاني)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0df6c12e-234e-4106-8bbc-44be66141e75",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-        },
-        {
-          "title": "زيد طارق (الجزء الثالث)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/eed38621-084d-44f2-9547-9f63385806f0",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-        },
-        {
-          "title": "مراجعة عامة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fbf45ab3-3b1c-4818-b44b-c87afa181db5",
-          "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-        },
-        {
-          "title": "سأكون دائماً فخورة به (الجزء الاول)",
-  "url": "https://iframe.mediadelivery.net/embed/215061/a6c96ef7-5c69-46d7-aa70-4dbf7bea6f49",
-  "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
- },
-        {
-          "title": "سأكون دائماً فخورة به (الجزء الثاني)",
-  "url": "https://iframe.mediadelivery.net/embed/215061/78080c9f-a220-4d86-9b75-71957d5be5ee",
-  "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
- },
-        {
-          "title": "سأكون دائماً فخورة به (الجزء الثالث)",
-  "url": "https://iframe.mediadelivery.net/embed/215061/2dda9cb8-eab6-4b6b-9ee3-be5ae0c15658",
-  "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
- },
-        {
-          "title": "er اسقاطات الصحة واضافة",
-  "url": "https://iframe.mediadelivery.net/embed/215061/6169c526-28ca-493b-b19e-a008fe07867c",
-  "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
- },
-        {
-          "title": "المقارنة",
-  "url": "https://iframe.mediadelivery.net/embed/215061/245c4cb9-4d83-49de-aa24-83c1ee480568",
-  "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
- },
-        {
-          "title": "ستخدام Used to الجزء الثاني",
-  "url": "https://iframe.mediadelivery.net/embed/215061/23f34f2c-1347-4915-afe0-5dfa4f34558f",
-  "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-}
-      ]
-    },
-    {
-      "name": "اليونت الثاني",
-      "lectures": [
-        {
-        "title": "المحاضرة 1 - الضرورة وعدم الضرورة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fcd0f854-db59-4ead-a0d2-7abede248c7e"
-        },
-        {
-          "title": "إنشاء مقابلة العمل",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/71c2859a-ddb6-40c6-83c1-8f4b66566117"
-        },
-        {
-          "title": "الطلب المؤدب والعروض",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1b527d54-a8d7-45b9-a53e-87e614383fc4"
-        },
-        {
-          "title": "الاقتراح والنصيحة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a89a46ce-693c-4d09-ae47-93e86f021384"
-        },
-        {
-          "title": "قطعة واجبات الشرطة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/37d6e079-75c7-4fc2-a3c6-114c92817079"
-        },
-        {
-          "title": "اسئلة واجبات الشرطة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b0f04557-01b7-4f45-a2d0-e5ad60d6ff1a"
-        },
-        {
-          "title": "أسئلة واجبات الشرطة (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c78e23b8-3f7c-4a77-a149-9791aee7c97f"
-        },
-        {
-          "title": "مقالة سلامة المنزل",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f3e20a6b-d79c-46c2-9307-d499eac9cbd9"
-        },
-        {
-          "title": "الاختصارات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f81b6a0f-e2a3-4e15-bf17-168adb8ee698"
-        },
-        {
-          "title": "المقالة العسكرية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/90b46d8d-24e6-4297-986b-30b94d749bf5"
-        },
-        {
-          "title": "التوقعات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/dbf91d05-c6c8-4163-8f5e-42c4bdf9ea38"
-        },
-        {
-          "title": "قطعة الرادار",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9f0d6e20-0b0e-4fdc-b15d-ada9a7c627b5"
-        },
-        {
-          "title": "أسئلة قطعة الرادار (الجزء الاول)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/09f7e620-93e5-4536-a093-c51781702835"
-        },
-        {
-         "title": "أسئلة قطعة الرادار (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/06d70ee5-84b4-44a9-a4b6-9824a38b64d3"
-        },
-        {
-          "title": "أسئلة قطعة الرادار (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2646136c-be58-4986-a8b1-7db4310fc049"
-        },
-        {
-          "title": "تمارين التوصيل عن التوقعات والضرورة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/285854fa-6496-46f7-9bb0-b575beb4bbb8"
-        },
-        {
-          "title": "الافعال السببية (الجزء الاول)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/63beedee-5c15-4bb4-a1db-69a7dbbf4577"
-        },
-        {
-          "title": "الافعال السببية (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/09f9ed02-8e89-4213-8298-677f94f393ff"
-        },
-        {
-          "title": "مرادفات و اسقاطات مقالة العسكرية ومقالة السرقة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ca533548-f6df-4911-b6ad-2f7c55c48deb"
-
-             }
-      ]
-    },
-    {
-          "name": "القطعة الخارجية",
-      "lectures": [
-        {
-        "title": "أساسيات القطعة الخارجية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6c122843-9506-4ecb-a042-b1b91f250c6e"
-        },
-        {
-          "title": "القطعة الأولى",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3ea80940-93e6-451c-b0a7-36dd1816a6ac"
-        },
-        {
-          "title": "القطعة الثانية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/21ffc683-8aaa-429c-94e5-8e61bd9d7eba"
-}
-]
-}
-]
-},
-{
-"id": 174665134580,
+      "id": 174665134580,
       "name": "هاشم الغرباوي 2026",
       "subject": "مدرس مادة الكيمياء",
       "image": "https://i.imghippo.com/files/zcWE3715uRc.jpg",
@@ -1315,7 +1557,6 @@ window.dataAb2026 = {
               "title": "محاضرة 15 : (العمليات التلقائية والانتروبي)",
               "description": "ممكن تقرأ وماتسخت ؟",
               "url": "https://iframe.mediadelivery.net/embed/215061/f2115efe-13fe-4ea3-a340-53cdfb73764e"
-           
             },
             {
               "title": "المحاضرة 16",
@@ -1370,141 +1611,263 @@ window.dataAb2026 = {
           ]
         },
         {
-        "name": "الفصل الثاني (الاتزان الكيميائي)",
-  "lectures": [
-    {
-      "title": "الدرس الاول (مقدمة الاتزان الكيميائي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/d92636ee-eba1-4f9d-8657-f3fbd872d8fb",
-      "description": "﴿ وَقُلْ رَبِّ زِدْنِي عِلْمًا ﴾ [طه: 114]"
-    },
-    {
-      "title": "الدرس الثاني (ثابت الاتزان الكيميائي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/03b679cb-d532-4d9e-9daa-db8f3ca95f95",
-      "description": "﴿ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ﴾ [فاطر: 28]"
-    },
-    {
-      "title": "الدرس الثالث (فرضية مسائل ثابت الاتزان للتراكيز وثابت الاتزان للضغوط)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/bc2bee10-b7f5-438d-9526-24761c696c92",
-      "description": "﴿ وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ﴾ [العنكبوت: 69]"
-    },
-    {
-      "title": "الدرس الرابع (مراجعة الفرضية وحل بعض المسائل)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/d390ae74-54ac-4f21-acc1-3ee6518dc518",
-      "description": "﴿ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ ﴾ [الإسراء: 84]"
-    },
-    {
-      "title": "الدرس الخامس (حل مسائل ثابت الاتزان للتراكيز و للضغوط)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/718daa80-e0eb-4d85-b88d-324d74f045fe",
-      "description": "﴿ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ ﴾ [آل عمران: 159]"
-    },
-    {
-      "title": "الدرس السادس (حل مسائل ثابت الاتزان للتراكيز والضغوط المنهجية)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/a329ecb8-b206-4ad3-8c3a-64c3c5feef3c",
-      "description": "﴿ وَاللَّهُ خَيْرُ الرَّازِقِينَ ﴾ [الجمعة: 11]"
-    },
-    {
-      "title": "الدرس السابع (حل مسائل ثابت الاتزان للتراكيز والضغوط المنهجية الجزء الثاني)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/7a36db38-f6e8-4b46-85a5-2e530b79cc5e",
-      "description": "﴿ وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ﴾ [هود: 88]"
-    },
-    {
-      "title": "الدرس الثامن (العلاقة بين ثابت الاتزان للتراكيز والضغوط الجزء الاول)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/c9eca943-f6c0-46a4-ba64-db3c8a3d4e77",
-      "description": "﴿ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ ﴾ [البقرة: 195]"
-    },
-    {
-      "title": "(العلاقة بين ثابت الاتزان للتراكيز والضغوط الجزء الثاني) الدرس التاسع",
-        "description": "الجزء الثاني من شرح العلاقة بين ثابت الاتزان للتراكيز والضغوط. 🔁",
-        "url": "https://iframe.mediadelivery.net/embed/215061/4e6ef633-0853-41af-9063-0a19a699ca2e"
-      },
-      {
-        "title": "الدرس العاشر (بيان العلاقة بين ثابت الاتزان وطريقة كتابة المعادلة)",
-        "description": "بيان العلاقة بين ثابت الاتزان وصياغة المعادلة. 🧪",
-        "url": "https://iframe.mediadelivery.net/embed/215061/2dc4c10f-ff2d-46f5-8f0f-517526436cb8"
-      },
-      {
-        "title": "الدرس الحادي عشر (الأهمية الثانية لثابت الاتزان)",
-        "description": "استعراض الأهمية الثانية لثابت الاتزان في الكيمياء. 🔬",
-        "url": "https://iframe.mediadelivery.net/embed/215061/90bc2ba8-b3d5-4477-9af8-c15f1a703228"
-      },
-      {
-        "title": "الدرس الثاني عشر (حاصل التفاعل)",
-        "description": "شرح مفهوم حاصل التفاعل وتحديد اتجاه التفاعل. ➡️",
-        "url": "https://iframe.mediadelivery.net/embed/215061/c4a0ea01-fb57-44a7-aa8c-93f361211fb1"
-         
-  },
-      {
-       
- "title": "الدرس الثالث عشر (العلاقة بين ثابت الاتزان و علاقة كبس)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6bed1c5f-7175-43e7-bf5b-69c769bdd920",
-          "description": "درس عن العلاقة بين ثابت الاتزان وعلاقة كبس."
-        },
-        {
-          "title": "الدرس الرابع عشر (قاعدة لوشاتلية)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2e7607d4-5c02-41fa-b084-4a6f70ba3ad3",
-          "description": "درس عن قاعدة لوشاتليه."
-        },
-        {
-          "title": "الدرس الخامس عشر (حل مسائل قاعدة لوشاتلية)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5ad265fd-75ea-4ade-839d-b2be16af6468",
-          "description": "درس يركز على حل مسائل قاعدة لوشاتليه."
-        },
-        {
-          "title": "الدرس السادس عشر (حل مسائل تاثير درجة الحرارة على ثابت الاتزان)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/58170dc3-bf0f-43d4-9e5e-c1f27bbd873a",
-          "description": "درس عن حل مسائل تأثير درجة الحرارة على ثابت الاتزان."
-        },
-        {
-          "title": "(الدرس السابع عشر (تعاليل قاعدة لوشاتلية وفراغاتها",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0044b3e5-6cea-41cd-b0dc-2c8bb4065933",
-          "description": "درس يوضح تعاليل وقاعدة لوشاتليه والفراغات الخاصة بها."
- }
+          "name": "الفصل الثاني (الاتزان الكيميائي)",
+          "lectures": [
+            {
+              "title": "الدرس الاول (مقدمة الاتزان الكيميائي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d92636ee-eba1-4f9d-8657-f3fbd872d8fb",
+              "description": "﴿ وَقُلْ رَبِّ زِدْنِي عِلْمًا ﴾ [طه: 114]"
+            },
+            {
+              "title": "الدرس الثاني (ثابت الاتزان الكيميائي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/03b679cb-d532-4d9e-9daa-db8f3ca95f95",
+              "description": "﴿ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ﴾ [فاطر: 28]"
+            },
+            {
+              "title": "الدرس الثالث (فرضية مسائل ثابت الاتزان للتراكيز وثابت الاتزان للضغوط)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bc2bee10-b7f5-438d-9526-24761c696c92",
+              "description": "﴿ وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ﴾ [العنكبوت: 69]"
+            },
+            {
+              "title": "الدرس الرابع (مراجعة الفرضية وحل بعض المسائل)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d390ae74-54ac-4f21-acc1-3ee6518dc518",
+              "description": "﴿ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ ﴾ [الإسراء: 84]"
+            },
+            {
+              "title": "الدرس الخامس (حل مسائل ثابت الاتزان للتراكيز و للضغوط)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/718daa80-e0eb-4d85-b88d-324d74f045fe",
+              "description": "﴿ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ ﴾ [آل عمران: 159]"
+            },
+            {
+              "title": "الدرس السادس (حل مسائل ثابت الاتزان للتراكيز والضغوط المنهجية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a329ecb8-b206-4ad3-8c3a-64c3c5feef3c",
+              "description": "﴿ وَاللَّهُ خَيْرُ الرَّازِقِينَ ﴾ [الجمعة: 11]"
+            },
+            {
+              "title": "الدرس السابع (حل مسائل ثابت الاتزان للتراكيز والضغوط المنهجية الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7a36db38-f6e8-4b46-85a5-2e530b79cc5e",
+              "description": "﴿ وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ﴾ [هود: 88]"
+            },
+            {
+              "title": "الدرس الثامن (العلاقة بين ثابت الاتزان للتراكيز والضغوط الجزء الاول)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c9eca943-f6c0-46a4-ba64-db3c8a3d4e77",
+              "description": "﴿ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ ﴾ [البقرة: 195]"
+            },
+            {
+              "title": "(العلاقة بين ثابت الاتزان للتراكيز والضغوط الجزء الثاني) الدرس التاسع",
+              "description": "الجزء الثاني من شرح العلاقة بين ثابت الاتزان للتراكيز والضغوط. 🔁",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4e6ef633-0853-41af-9063-0a19a699ca2e"
+            },
+            {
+              "title": "الدرس العاشر (بيان العلاقة بين ثابت الاتزان وطريقة كتابة المعادلة)",
+              "description": "بيان العلاقة بين ثابت الاتزان وصياغة المعادلة. 🧪",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2dc4c10f-ff2d-46f5-8f0f-517526436cb8"
+            },
+            {
+              "title": "الدرس الحادي عشر (الأهمية الثانية لثابت الاتزان)",
+              "description": "استعراض الأهمية الثانية لثابت الاتزان في الكيمياء. 🔬",
+              "url": "https://iframe.mediadelivery.net/embed/215061/90bc2ba8-b3d5-4477-9af8-c15f1a703228"
+            },
+            {
+              "title": "الدرس الثاني عشر (حاصل التفاعل)",
+              "description": "شرح مفهوم حاصل التفاعل وتحديد اتجاه التفاعل. ➡️",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c4a0ea01-fb57-44a7-aa8c-93f361211fb1"
+            },
+            {
+              "title": "الدرس الثالث عشر (العلاقة بين ثابت الاتزان و علاقة كبس)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6bed1c5f-7175-43e7-bf5b-69c769bdd920",
+              "description": "درس عن العلاقة بين ثابت الاتزان وعلاقة كبس."
+            },
+            {
+              "title": "الدرس الرابع عشر (قاعدة لوشاتلية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2e7607d4-5c02-41fa-b084-4a6f70ba3ad3",
+              "description": "درس عن قاعدة لوشاتليه."
+            },
+            {
+              "title": "الدرس الخامس عشر (حل مسائل قاعدة لوشاتلية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5ad265fd-75ea-4ade-839d-b2be16af6468",
+              "description": "درس يركز على حل مسائل قاعدة لوشاتليه."
+            },
+            {
+              "title": "الدرس السادس عشر (حل مسائل تاثير درجة الحرارة على ثابت الاتزان)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/58170dc3-bf0f-43d4-9e5e-c1f27bbd873a",
+              "description": "درس عن حل مسائل تأثير درجة الحرارة على ثابت الاتزان."
+            },
+            {
+              "title": "(الدرس السابع عشر (تعاليل قاعدة لوشاتلية وفراغاتها",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0044b3e5-6cea-41cd-b0dc-2c8bb4065933",
+              "description": "درس يوضح تعاليل وقاعدة لوشاتليه والفراغات الخاصة بها."
+            }
           ]
         },
         {
-        "name": "الفصل الثالث (الاتزان الايوني)",
-  "lectures": [
-    {
-      "title": "الدرس الاول (مقدمة الاتزان الايوني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b466166d-2f30-45b4-9901-e7b9519f81b5"
+          "name": "الفصل الثالث (الاتزان الايوني)",
+          "lectures": [
+            {
+              "title": "الدرس الاول (مقدمة الاتزان الايوني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b466166d-2f30-45b4-9901-e7b9519f81b5"
+            },
+            {
+              "title": "الدرس الثاني (الحوامض والقواعد والأملاح)",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/98752c4f-c7af-476e-ad93-552aa1873a57"
+            },
+            {
+              "title": "(مراجعة الحوامض والقواعد القوية والضعيفة)الدرس الثالث",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b3eccc00-0a1f-46ac-8b97-9709bf1aa874"
+            },
+            {
+              "title": "الدرس الرابع (مراجعة الحوامض والقواعد الضعيفة)",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/653ed7b4-6a1b-45ca-a78a-836a128023f8"
+            },
+            {
+              "title": "الدرس الخامس (حل مسائل الحوامض القواعد الضعيفة)",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a355ef4a-e2f2-47a6-84d0-3988fa8f55c3"
+            },
+            {
+              "title": "الدرس السادس (التأين الذاتي للماء)",
+              "description": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d3395737-bd30-457f-bcc0-918204c447f3"
+            },
+            {
+              "title": "(PH)الدرس السابع",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3887404a-4e94-4e6a-b01d-137e12c26cf2"
+            },
+            {
+              "title": "(PH تكملة)الدرس الثامن",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ff41a093-4cad-4f8e-9498-c848127b83a4"
+            },
+            {
+              "title": "الدرس التاسع (الاسئلة الرباعية)",
+              "description": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا * إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/43bd3c3c-8668-4beb-9bc2-4aa58ad4a0d2"
+            },
+            {
+              "title": "الدرس العاشر (تكملة الاسئلة الرباعية)",
+              "description": "وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/79315d50-e757-4cd5-9a1b-74281e0dfd90"
+            },
+            {
+              "title": "(التمذوب)الدرس الحادي عشر",
+              "description": "وَلَا تَيۡأَسُواْ مِن رَّوۡحِ ٱللَّهِ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/93b3811d-b0c8-46da-b485-844eaa784d95"
+            },
+            {
+              "title": "(حل مسائل التمذوب)الدرس الثاني عشر",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/42596d10-982a-4321-b716-feae72846bbb"
+            },
+            {
+              "title": "الدرس الثالث عشر (التمذوب والايون المشترك)",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/40256ffd-34b3-4192-b5a6-5daad084e153"
+            },
+            {
+              "title": "(حل مسائل الايون المشترك)الدرس الرابع عشر",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d45c711f-2a2c-4c35-a5ec-41b359cb94a9"
+            },
+            {
+              "title": "الدرس الخامس عشر (محاليل بفر الجزء الأول)",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/50584af8-03b1-4815-ab67-824526d55755"
+            },
+            {
+              "title": "الدرس السادس عشر(محاليل بفر الجزء الثاني)",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4cae7f35-9ea7-4a8e-a166-c7f2d2c45372"
+            },
+            {
+              "title": "الدرس السابع عشر (محاليل بفر الجزء الثالث)",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ae3670ba-de2e-4959-bfb7-a6380119cfbf"
+            },
+            {
+              "title": "الدرس الثامن عشر (محاليل بفر الجزء الرابع)",
+              "description": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/14e32e30-f882-44f0-b92d-5ad275dc1e4b"
+            },
+            {
+              "title": "الدرس التاسع عشر (الذوبانية)",
+              "description": "وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/559534f9-ea42-47f7-84b4-734c0a9d6c16"
+            },
+            {
+              "title": "الدرس العشرون (الذوبانية الجزء الثاني)",
+              "description": "وَلَا تَيۡأَسُواْ مِن رَّوۡحِ ٱللَّهِ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d782b8fd-0ec3-4782-b9a1-03432ce20c00"
+            },
+            {
+              "title": "الدرس الواحد والعشرون(الذوبانية الجزء الثالث)",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5e9957a7-b03d-4738-be70-e776e3e64a13"
+            },
+            {
+              "title": "الدرس الثاني والعشرون (الذوبانية الجزء الرابع)",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ce0a2b26-38f7-4327-8938-66388c4c59a3"
+            },
+            {
+              "title": "الدرس الثالث والعشرون (الذوبانية الجزء الخامس)",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0803b2bb-c224-4864-b349-a7d19703401a"
+            },
+            {
+              "title": "الدرس الرابع والعشرون (الذوبانية الجزء السادس)",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/11b56645-64d8-4fd1-8f14-34894ff4ab79"
+            },
+            {
+              "title": "الدرس الخامس والعشرون(مراجعة الذوبانية)",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/77912241-c1c8-47cc-ba7b-d52c8d0266f4"
+            },
+            {
+              "title": "كلاميات الفصل الثالث)-المحاضرة السادسة والعشرون)",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d27207bc-94ec-4271-81c6-52a259576dc4"
+            },
+            {
+              "title": "المراجعة المركزة الفصل الثالث الجزء الأول",
+              "description": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3bdb1dbe-988d-494e-8448-4ad0ecd44690"
+            },
+            {
+              "title": "المراجعة المركزة الفصل الثالث الجزء الثاني",
+              "description": "وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0987d05d-419b-43dc-8897-2a2198007f23"
+            }
+          ]
         },
         {
-          "title": "الدرس الثاني (الحوامض والقواعد والأملاح)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/98752c4f-c7af-476e-ad93-552aa1873a57"
+          "name": "الفصل الثالث: واجبات وتمارين",
+          "lectures": [
+            {
+              "title": "واجبات الفصل الثالث-الجزء الأول",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dbe245b9-4238-48b4-a66a-3214274edcf8"
+            },
+            {
+              "title": "واجبات الفصل الثالث-الجزء الثاني",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f6618149-03c8-405e-a285-0dcd708fd0f5"
+            }
+          ]
         },
         {
-          "title": "(مراجعة الحوامض والقواعد القوية والضعيفة)الدرس الثالث",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b3eccc00-0a1f-46ac-8b97-9709bf1aa874"
-        },
-        {
-          "title": "الدرس الرابع (مراجعة الحوامض والقواعد الضعيفة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/653ed7b4-6a1b-45ca-a78a-836a128023f8"
-        },
-        {
-         "title": "الدرس الخامس (حل مسائل الحوامض القواعد الضعيفة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a355ef4a-e2f2-47a6-84d0-3988fa8f55c3"
-        },
-        {
-          "title": "الدرس السادس (التأين الذاتي للماء)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d3395737-bd30-457f-bcc0-918204c447f3"
-        },
-        {
-          "title": "(PH)الدرس السابع",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3887404a-4e94-4e6a-b01d-137e12c26cf2"
-        },
-        {
-          "title": "(PH تكملة)الدرس الثامن",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ff41a093-4cad-4f8e-9498-c848127b83a4"
-   
-   }
+          "name": "الفصل الثالث: الأسئلة الوزارية",
+          "lectures": [
+            {
+              "title": "مراجعة الاسئلة الوزارية-الفصل الثالث",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/295aa489-fee9-47f9-a5a5-2061cb72b266"
+            }
           ]
         }
       ]
@@ -1517,338 +1880,337 @@ window.dataAb2026 = {
       "classes": [
         {
           "name": "1",
-      "lectures": [
-        {
-          "title": "اساسيات الفيزياء",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/583c5061-6c9e-4d79-b4c0-f4274fa4af84"
+          "lectures": [
+            {
+              "title": "اساسيات الفيزياء",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/583c5061-6c9e-4d79-b4c0-f4274fa4af84"
+            },
+            {
+              "title": "اساسيات الفيزياء (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0290b143-5dae-4ad3-9af2-6af5b33da003"
+            },
+            {
+              "title": "أساسيات الفيزياء (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/156d9561-0cdf-45c4-85ca-118f490ec6f9"
+            },
+            {
+              "title": "المحاضرة 1 (الموصل الكروي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cb0aaac5-1614-4c41-a2b8-50d7463c9a68"
+            },
+            {
+              "title": "المحاضرة 2 (المتسعة وسعة المتسعة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7"
+            },
+            {
+              "title": "المحاضرة 3 (المتسعة وسعة المتسعة (الجزء الثاني))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2b0c371f-0038-4d0e-a6c1-4f8ad98ebe96"
+            },
+            {
+              "title": "المحاضرة 4 (العازل الكهربائي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e2b3b8e7-e2a4-4029-8c03-f9db48b17431"
+            },
+            {
+              "title": "المحاضرة 5 (قوة العزل الكهربائي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/15f473a2-6f45-447a-9771-43059321c296"
+            },
+            {
+              "title": "المحاضرة 6 (تجربة فاراداي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c97e68b9-e4ec-43fe-b105-88d5449061ed"
+            },
+            {
+              "title": "المحاضرة 7 (تأثير المساحة السطحية والبعد بين صفيحتين على المتسعة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b3e3b411-c003-4300-a1ae-98a4d1a75e4b"
+            },
+            {
+              "title": "المحاضرة 8 (تأثير العازل على المتسعة المتصلة والمنفصلة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ec6fd490-98ea-4808-925a-4df02dfaea03"
+            },
+            {
+              "title": "المحاضرة 9 (سلوك المتسعة عند توصيلها بالبطارية)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8c7f09a6-863d-497e-9b4a-593aae156285"
+            },
+            {
+              "title": "المحاضرة 10 (سلوك المتسعة عند توصيلها بالبطارية (الجزء الثاني))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/492f37fc-d850-4aaa-bfcf-62ce04a551fc"
+            },
+            {
+              "title": "المحاضرة 11 (العوامل المؤثرة في الشحنة والطاقة في المتسعات)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dc3c915e-9e2a-4ba7-a4ba-c403c9f99dc5"
+            },
+            {
+              "title": "المحاضرة 12 (قوانين المتسعات)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3f00b418-c23e-4fae-aabf-08b33a6a46e6"
+            },
+            {
+              "title": "المحاضرة 13 ( مسائل المتسعة المنفردة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/63e0f94d-7aa3-4d95-a59f-f41bf2db5dea"
+            },
+            {
+              "title": "المحاضرة 14 (مسائل المتسعة المنفردة (الوزاريات)))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/88fa6975-b555-4355-9b85-920d645488ff"
+            },
+            {
+              "title": "لمحاضرة 15 (مسائل المتسعة المنفردة (إثرائيات))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4f48060e-efb1-4c2a-a4ac-cf4af3f6e90f"
+            },
+            {
+              "title": "المحاضرة 16 (المتسعة المنفردة (الاختيارات الوزارية))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ea5c2287-ec1c-47c8-9114-65bffcaaf998"
+            },
+            {
+              "title": "المحاضرة 17 (واجبات المتسعة المنفردة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bab39653-ec65-4535-9a05-3faf2c0ad0f2"
+            },
+            {
+              "title": "المحاضرة 18 (واجبات المتسعة منفردة (الجزء الثاني))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/26e4d1d0-87ec-4364-97aa-5e30a78bcd83"
+            },
+            {
+              "title": "المحاضرة 19 (ربط المتسعات على التوازي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2c86a842-af9d-49a8-97af-e0244fb342ca"
+            },
+            {
+              "title": "المحاضرة 20 (ربط المتسعات على التوازي (الجزء الثاني))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e0a5861c-0bf6-4564-989d-78ff5388e82c"
+            },
+            {
+              "title": "المحاضرة 21 (ربط المتسعات على التوازي بوجود العازل)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/39fde436-9888-4499-87b4-48e9b112d72b"
+            },
+            {
+              "title": "المحاضرة 22 (مسائل ربط المتسعات على التوازي بوجود العازل)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c3a8cd7d-a9d9-41e9-b87c-0fa8ae033509"
+            },
+            {
+              "title": "المحاضرة 23 (مسائل ربط المتسعات على التوازي والعازل مجهول)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a27b5811-c6f5-476a-863d-c8d04f161e3e"
+            },
+            {
+              "title": "المحاضرة 24 (افكار عن المتسعات المربوطة على التوازي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4236d132-408a-41fa-88a0-5acd5da31f90"
+            },
+            {
+              "title": "المحاضرة 25 (حل واجبات المتسعات المربوطة على التوازي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7a07e670-2e0a-403f-8be0-5695451133fc"
+            },
+            {
+              "title": "(المحاضرة 26 (المتسعات المربوطة على التوالي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0b5afd86-8429-4ad6-abef-700a197a47c1"
+            },
+            {
+              "title": "المحاضرة 27 (مسائل المتسعات المربوطة على التوالي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/89ef878b-ee1d-4857-bbdd-acf043af1326"
+            },
+            {
+              "title": "المحاضرة 28 (مسائل المتسعات المربوطة على التوالي بوجود العازل)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2220c52f-a4e3-4f78-b5f9-8aafdd02d737"
+            },
+            {
+              "title": "المحاضرة 29 (مسائل المتسعات المربوطة على التوالي والعازل مجهول)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cf45ebb0-49f8-4f7a-aa13-ec9b3de66a7b"
+            },
+            {
+              "title": "(المحاضرة 30 (حل واجبات المتسعة المربوطة على التوالي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a685f161-6939-41d9-806c-f3e42495dd57"
+            },
+            {
+              "title": "المحاضرة 31 (مسائل ربط المختلط)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/34588462-cef6-4671-a2ed-68cc152ec7eb"
+            },
+            {
+              "title": "المحاضرة 32 (مسائل الربط المختلط(الجزء الثاني))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d82a6ae7-b5e8-4fb5-9af5-15540775e5b6"
+            },
+            {
+              "title": "المحاضرة 33 - مسائل الربط المختلط (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4545d180-9eb9-45ef-91cd-4a6baf48dabd"
+            },
+            {
+              "title": "المحاضرة 34 - حل واجبات الربط المختلط",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9c8c7a28-22f5-417c-b8d3-061cdae6ebe9"
+            },
+            {
+              "title": "المحاضرة 35 - بعض انواع المتسعات وتطبيقاتها",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a299bb8e-75cb-4bec-bde8-e48e9f1031b3"
+            },
+            {
+              "title": "(RC)المحاضرة 36 - كلاميات دوائر",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/df2ebe16-c213-4f19-af6d-c39e6a99bc5c"
+            },
+            {
+              "title": "المحاضرة 37- مسائل دوائر RC ( النوع الأول)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a271c53b-387c-4f2e-aeb9-f6b4a820ebc9"
+            },
+            {
+              "title": "المحاضرة 38- حل مسائل دوائر RC ( النوع الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/32a0d73e-0ec3-4bb7-a575-6dbf8be6f530"
+            },
+            {
+              "title": "RCالمحاضرة 39 - حل واجبات دوائر",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7dad7e77-9032-4e0e-920d-33395ea9a37c"
+            },
+            {
+              "title": "المحاضرة 40 - حل اسئلة الفصل الأول",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/48b555b8-e1d2-4b54-8ead-c26b02876d95"
+            }
+          ]
         },
         {
-          "title": "اساسيات الفيزياء (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0290b143-5dae-4ad3-9af2-6af5b33da003"
-        },
-        {
-          "title": "أساسيات الفيزياء (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/156d9561-0cdf-45c4-85ca-118f490ec6f9"
-        },
-        {
-          "title": "المحاضرة 1 (الموصل الكروي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cb0aaac5-1614-4c41-a2b8-50d7463c9a68"
-        },
-        {
-          "title": "المحاضرة 2 (المتسعة وسعة المتسعة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7"
-        },
-        {
-          "title": "المحاضرة 3 (المتسعة وسعة المتسعة (الجزء الثاني))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2b0c371f-0038-4d0e-a6c1-4f8ad98ebe96"
-        },
-        {
-          "title": "المحاضرة 4 (العازل الكهربائي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e2b3b8e7-e2a4-4029-8c03-f9db48b17431"
-        },
-        {
-          "title": "المحاضرة 5 (قوة العزل الكهربائي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/15f473a2-6f45-447a-9771-43059321c296"
-        },
-        {
-          "title": "المحاضرة 6 (تجربة فاراداي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c97e68b9-e4ec-43fe-b105-88d5449061ed"
-        },
-        {
-          "title": "المحاضرة 7 (تأثير المساحة السطحية والبعد بين صفيحتين على المتسعة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b3e3b411-c003-4300-a1ae-98a4d1a75e4b"
-        },
-        {
-          "title": "المحاضرة 8 (تأثير العازل على المتسعة المتصلة والمنفصلة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ec6fd490-98ea-4808-925a-4df02dfaea03"
-        },
-        {
-          "title": "المحاضرة 9 (سلوك المتسعة عند توصيلها بالبطارية)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8c7f09a6-863d-497e-9b4a-593aae156285"
-        },
-        {
-          "title": "المحاضرة 10 (سلوك المتسعة عند توصيلها بالبطارية (الجزء الثاني))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/492f37fc-d850-4aaa-bfcf-62ce04a551fc"
-        },
-        {
-          "title": "المحاضرة 11 (العوامل المؤثرة في الشحنة والطاقة في المتسعات)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/dc3c915e-9e2a-4ba7-a4ba-c403c9f99dc5"
-        },
-        {
-          "title": "المحاضرة 12 (قوانين المتسعات)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3f00b418-c23e-4fae-aabf-08b33a6a46e6"
-        },
-        {
-          "title": "المحاضرة 13 ( مسائل المتسعة المنفردة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/63e0f94d-7aa3-4d95-a59f-f41bf2db5dea"
-        },
-        {
-          "title": "المحاضرة 14 (مسائل المتسعة المنفردة (الوزاريات)))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/88fa6975-b555-4355-9b85-920d645488ff"
-        },
-        {
-          "title": "لمحاضرة 15 (مسائل المتسعة المنفردة (إثرائيات))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4f48060e-efb1-4c2a-a4ac-cf4af3f6e90f"
-        },
-        {
-          "title": "المحاضرة 16 (المتسعة المنفردة (الاختيارات الوزارية))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ea5c2287-ec1c-47c8-9114-65bffcaaf998"
-        },
-        {
-          "title": "المحاضرة 17 (واجبات المتسعة المنفردة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bab39653-ec65-4535-9a05-3faf2c0ad0f2"
-        },
-        {
-          "title": "المحاضرة 18 (واجبات المتسعة منفردة (الجزء الثاني))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/26e4d1d0-87ec-4364-97aa-5e30a78bcd83"
-        },
-        {
-          "title": "المحاضرة 19 (ربط المتسعات على التوازي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2c86a842-af9d-49a8-97af-e0244fb342ca"
-        },
-        {
-          "title": "المحاضرة 20 (ربط المتسعات على التوازي (الجزء الثاني))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e0a5861c-0bf6-4564-989d-78ff5388e82c"
-        },
-        {
-          "title": "المحاضرة 21 (ربط المتسعات على التوازي بوجود العازل)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/39fde436-9888-4499-87b4-48e9b112d72b"
-        },
-        {
-          "title": "المحاضرة 22 (مسائل ربط المتسعات على التوازي بوجود العازل)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c3a8cd7d-a9d9-41e9-b87c-0fa8ae033509"
-        },
-        {
-          "title": "المحاضرة 23 (مسائل ربط المتسعات على التوازي والعازل مجهول)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a27b5811-c6f5-476a-863d-c8d04f161e3e"
-        },
-        {
-          "title": "المحاضرة 24 (افكار عن المتسعات المربوطة على التوازي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4236d132-408a-41fa-88a0-5acd5da31f90"
-        },
-        {
-          "title": "المحاضرة 25 (حل واجبات المتسعات المربوطة على التوازي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7a07e670-2e0a-403f-8be0-5695451133fc"
-        },
-        {
-          "title": "(المحاضرة 26 (المتسعات المربوطة على التوالي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0b5afd86-8429-4ad6-abef-700a197a47c1"
-        },
-        {
-          "title": "المحاضرة 27 (مسائل المتسعات المربوطة على التوالي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/89ef878b-ee1d-4857-bbdd-acf043af1326"
-        },
-        {
-          "title": "المحاضرة 28 (مسائل المتسعات المربوطة على التوالي بوجود العازل)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2220c52f-a4e3-4f78-b5f9-8aafdd02d737"
-        },
-        {
-          "title": "المحاضرة 29 (مسائل المتسعات المربوطة على التوالي والعازل مجهول)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cf45ebb0-49f8-4f7a-aa13-ec9b3de66a7b"
-        },
-        {
-          "title": "(المحاضرة 30 (حل واجبات المتسعة المربوطة على التوالي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a685f161-6939-41d9-806c-f3e42495dd57"
-        },
-        {
-          "title": "المحاضرة 31 (مسائل ربط المختلط)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/34588462-cef6-4671-a2ed-68cc152ec7eb"
-        },
-        {
-          "title": "المحاضرة 32 (مسائل الربط المختلط(الجزء الثاني))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d82a6ae7-b5e8-4fb5-9af5-15540775e5b6"
-        },
-        {
-          "title": "المحاضرة 33 - مسائل الربط المختلط (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4545d180-9eb9-45ef-91cd-4a6baf48dabd"
-        },
-        {
-          "title": "المحاضرة 34 - حل واجبات الربط المختلط",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9c8c7a28-22f5-417c-b8d3-061cdae6ebe9"
-        },
-        {
-          "title": "المحاضرة 35 - بعض انواع المتسعات وتطبيقاتها",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a299bb8e-75cb-4bec-bde8-e48e9f1031b3"
-        },
-        {
-          "title": "(RC)المحاضرة 36 - كلاميات دوائر",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/df2ebe16-c213-4f19-af6d-c39e6a99bc5c"
-        },
-        {
-          "title": "المحاضرة 37- مسائل دوائر RC ( النوع الأول)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a271c53b-387c-4f2e-aeb9-f6b4a820ebc9"
-        },
-        {
-          "title": "المحاضرة 38- حل مسائل دوائر RC ( النوع الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/32a0d73e-0ec3-4bb7-a575-6dbf8be6f530"
-        },
-        {
-          "title": "RCالمحاضرة 39 - حل واجبات دوائر",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7dad7e77-9032-4e0e-920d-33395ea9a37c"
-        },
-        {
-          "title": "المحاضرة 40 - حل اسئلة الفصل الأول",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/48b555b8-e1d2-4b54-8ead-c26b02876d95"
-        }
-      ]
-    },
-    {
-      "name": "الفصل الثاني: الحث الكهرومغناطيسي",
-      "lectures": [
-        {
-          "title": "المحاضرة 1 - الأساسيات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ce89eba9-8721-4d51-b2cc-e2dfcb88ef1e"
-        },
-        {
-          "title": "المحاضرة 2 - تكملة الأساسيات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/90085bb3-28b0-4d54-8321-da3a3f56d1c5"
-        },
-        {
-          "title": "المحاضرة 3 - الحث الكهرومغناطيسي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/56713f15-b60c-4ef9-bba2-112bd0e3b5be"
-        },
-        {
-          "title": "المحاضرة 4 - الساق الموصلة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5b4f8f7b-f1bf-4cbe-ae7d-d9a08fffc21f"
-        },
-        {
-          "title": "المحاضرة 5 - تكملة الساق الموصلة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/24ade600-8d8c-4e06-99b8-06712b33dc4e"
-        },
-        {
-          "title": "المحاضرة 6 - مسائل الساق الموصلة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/00dc1547-2c3a-441a-bde7-2280f7d1638a"
-        },
-        {
-          "title": "المحاضرة 7 - الحلقة والملف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/300fc1f7-adbc-4858-b80d-b14adeaad75a"
-        },
-        {
-          "title": "المحاضرة 8 - طرق الحصول على تغير في الفيض المغناطيسي لحلقة او ملف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/eea77995-6bfd-4041-b001-941eb5081cc9"
-        },
-        {
-          "title": "المحاضرة 9 - قانون فراداي وقانون لنز",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/edf6656d-0fbc-4335-ae99-aff90758b36d"
-        },
-        {
-          "title": "المحاضرة 10 - قانون لنز",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d84ccb9e-29fe-43dc-8e57-b91b354ee3e0"
-        },
-        {
-          "title": "المحاضرة 11- مسائل الحلقة والملف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/14ff719b-cdb0-4e45-b8f8-8358a0342c69"
-        },
-        {
-          "title": "المحاضرة 12 - حل واجبات الحلقة والملف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/295e42b8-9842-4d40-a54b-d8712c6179fd"
-        },
-        {
-          "title": "المحاضرة 13 - التيارات الدوامة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4af780cd-2061-4a66-836a-bfc6946c4882"
-        },
-        {
-          "title": "المحاضرة 14 - المولدات الكهربائية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5543e5a8-dd5f-478a-85ea-a41374f79722"
-        },
-        {
-          "title": "المحاضرة 15 - المولدات والمحركات الكهربائية للتيار المستمر",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/976d8dbe-4cd0-4528-91bc-a42a7a6f1d40"
-        },
-        {
-          "title": "المحاضرة 16 - مسائل التيارات الدوامة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/86b746c6-9093-4250-8217-50a2145a7123"
-        },
-        {
-          "title": "المحاضرة 17 - الحث الذاتي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2306a92b-37ed-4e10-918a-3c7cbbc4c644"
-        },
-        {
-          "title": "المحاضرة 18 - الطاقة المختزنة في المحث",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8013fc88-42aa-493a-97d7-19c5ca7e4fb3"
-        },
-        {
-          "title": "المحاضرة 19 - تكملة الحث الذاتي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/97401fff-4c10-4c18-9e17-a309b7369b6e"
-        },
-        {
-          "title": "المحاضرة 20 - مسائل الحث الذاتي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/33e2009c-432d-4f73-9850-51cf21489086"
-        },
-        {
-          "title": "المحاضرة 21 - تكملة مسائل الحث الذاتي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ca713dc3-c137-4163-84b2-3ca60e3aee2b"
-        },
-        {
-          "title": "المحاضرة 22 - الحث المتبادل",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b1c25e96-597d-46e0-8201-ad0718c8fd93"
-           }
-
+          "name": "الفصل الثاني: الحث الكهرومغناطيسي",
+          "lectures": [
+            {
+              "title": "المحاضرة 1 - الأساسيات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ce89eba9-8721-4d51-b2cc-e2dfcb88ef1e"
+            },
+            {
+              "title": "المحاضرة 2 - تكملة الأساسيات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/90085bb3-28b0-4d54-8321-da3a3f56d1c5"
+            },
+            {
+              "title": "المحاضرة 3 - الحث الكهرومغناطيسي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/56713f15-b60c-4ef9-bba2-112bd0e3b5be"
+            },
+            {
+              "title": "المحاضرة 4 - الساق الموصلة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5b4f8f7b-f1bf-4cbe-ae7d-d9a08fffc21f"
+            },
+            {
+              "title": "المحاضرة 5 - تكملة الساق الموصلة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/24ade600-8d8c-4e06-99b8-06712b33dc4e"
+            },
+            {
+              "title": "المحاضرة 6 - مسائل الساق الموصلة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/00dc1547-2c3a-441a-bde7-2280f7d1638a"
+            },
+            {
+              "title": "المحاضرة 7 - الحلقة والملف",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/300fc1f7-adbc-4858-b80d-b14adeaad75a"
+            },
+            {
+              "title": "المحاضرة 8 - طرق الحصول على تغير في الفيض المغناطيسي لحلقة او ملف",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/eea77995-6bfd-4041-b001-941eb5081cc9"
+            },
+            {
+              "title": "المحاضرة 9 - قانون فراداي وقانون لنز",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/edf6656d-0fbc-4335-ae99-aff90758b36d"
+            },
+            {
+              "title": "المحاضرة 10 - قانون لنز",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d84ccb9e-29fe-43dc-8e57-b91b354ee3e0"
+            },
+            {
+              "title": "المحاضرة 11- مسائل الحلقة والملف",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/14ff719b-cdb0-4e45-b8f8-8358a0342c69"
+            },
+            {
+              "title": "المحاضرة 12 - حل واجبات الحلقة والملف",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/295e42b8-9842-4d40-a54b-d8712c6179fd"
+            },
+            {
+              "title": "المحاضرة 13 - التيارات الدوامة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4af780cd-2061-4a66-836a-bfc6946c4882"
+            },
+            {
+              "title": "المحاضرة 14 - المولدات الكهربائية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5543e5a8-dd5f-478a-85ea-a41374f79722"
+            },
+            {
+              "title": "المحاضرة 15 - المولدات والمحركات الكهربائية للتيار المستمر",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/976d8dbe-4cd0-4528-91bc-a42a7a6f1d40"
+            },
+            {
+              "title": "المحاضرة 16 - مسائل التيارات الدوامة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/86b746c6-9093-4250-8217-50a2145a7123"
+            },
+            {
+              "title": "المحاضرة 17 - الحث الذاتي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2306a92b-37ed-4e10-918a-3c7cbbc4c644"
+            },
+            {
+              "title": "المحاضرة 18 - الطاقة المختزنة في المحث",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8013fc88-42aa-493a-97d7-19c5ca7e4fb3"
+            },
+            {
+              "title": "المحاضرة 19 - تكملة الحث الذاتي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/97401fff-4c10-4c18-9e17-a309b7369b6e"
+            },
+            {
+              "title": "المحاضرة 20 - مسائل الحث الذاتي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/33e2009c-432d-4f73-9850-51cf21489086"
+            },
+            {
+              "title": "المحاضرة 21 - تكملة مسائل الحث الذاتي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ca713dc3-c137-4163-84b2-3ca60e3aee2b"
+            },
+            {
+              "title": "المحاضرة 22 - الحث المتبادل",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b1c25e96-597d-46e0-8201-ad0718c8fd93"
+            }
           ]
         }
       ]
@@ -1959,285 +2321,319 @@ window.dataAb2026 = {
             },
             {
               "title": "دلالات أسماء الاستفهام للعاقل وغير العاقل وإعرابها (الجزء الأول)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/f2b3465c-0fd2-476b-adb5-ca94f694092f",
-    "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-  },
-  {
-    "title": "دلالات أسماء الاستفهام للعاقل وغير العاقل وإعرابها (الجزء الثاني)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/14823dac-16dc-41a2-91d5-850508d5062d",
-    "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-  },
-  {
-    "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
-    "url": "https://iframe.mediadelivery.net/embed/215061/61fbc9b9-baad-468f-bab8-b9a8ec47901f",
-    "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-  },
-  {
-    "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
-    "url": "https://iframe.mediadelivery.net/embed/215061/abd3d76e-bc0f-47ee-a8da-0efad9b7952a",
-    "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-  },
-  {
-    "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
-    "url": "https://iframe.mediadelivery.net/embed/215061/813bc906-acea-47ca-bc4b-705db9524d7b",
-    "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-  },
-  {
-    "title": "حل الأسئلة الوزارية الخاصة بإعراب أسماء الاستفهام - الجزء الاول",
-    "url": "https://iframe.mediadelivery.net/embed/215061/30dd25ac-4c2d-4a3b-8e89-8a5f6595a950",
-    "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-  },
-  {
-"title": "حل الأسئلة الوزارية الخاصة بإعراب أسماء الاستفهام - الجزء الثاني",
-        "description": "حل الأسئلة الوزارية الخاصة بأسماء الاستفهام. 📝",
-        "url": "https://iframe.mediadelivery.net/embed/215061/0b93d0f4-6bff-49fa-9d69-0ceccff27ba6"
-      },
-      {
-        "title": "أسماء الاستفهام الدالة على الزمان والمكان",
-        "description": "شرح أسماء الاستفهام التي تدل على الزمان والمكان. ⏰",
-        "url": "https://iframe.mediadelivery.net/embed/215061/0a62e36b-163b-4bd3-adfb-7ca30e6ff617"
-      },
-      {
-        "title": "وزاريات إعراب أسماء الاستفهام الدالة على الزمان والمكان",
-        "description": "حل أسئلة وزارية حول إعراب أسماء الاستفهام للزمان والمكان. ✍️",
-        "url": "https://iframe.mediadelivery.net/embed/215061/882f8c72-98f4-47cb-a8a5-e8b125eeb753"
-      },
-      {
-        "title": "أسماء الاستفهام الدالة على الحال والدالة على الحدث",
-        "description": "شرح أسماء الاستفهام التي تدل على الحال والحدث. 🔄",
-        "url": "https://iframe.mediadelivery.net/embed/215061/d0a29848-65ed-4ad6-a3aa-de544b9fc836"
-      },
-      {
-        "title": "وزاريات إعراب أسماء الاستفهام الدالة على الحال والدالة على الحدث",
-        "description": "حل أسئلة وزارية خاصة بإعراب أسماء الاستفهام للحال والحدث. 💡",
-        "url": "https://iframe.mediadelivery.net/embed/215061/4ebb33d0-e24a-4027-abde-5aeafbbfbc54"
-     },
-      {
-        "title": "كم الاستفهامية وكم الخبرية",
-        "description": "كم الاستفهامية وكم الخبرية",
-        "url": "https://iframe.mediadelivery.net/embed/215061/251dca6e-e6d7-46d9-9f07-ff3770585fae"
-},
-      {
-        "title": "الاستفهام المجازي",
-      "url": "https://iframe.mediadelivery.net/embed/215061/9acb2dc0-17ab-46ff-b36e-5dc1a16fce1a",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "وزاريات كم الاستفهامية وكم الخبرية و الاستفهام المجازي",
-      "url": "https://iframe.mediadelivery.net/embed/215061/798f2403-159f-4f89-87f8-37c6414e5421",
-      "description": "تم صنع المنصه بواسطه حميد."
-}
+              "url": "https://iframe.mediadelivery.net/embed/215061/f2b3465c-0fd2-476b-adb5-ca94f694092f",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "دلالات أسماء الاستفهام للعاقل وغير العاقل وإعرابها (الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/14823dac-16dc-41a2-91d5-850508d5062d",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
+              "url": "https://iframe.mediadelivery.net/embed/215061/61fbc9b9-baad-468f-bab8-b9a8ec47901f",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
+              "url": "https://iframe.mediadelivery.net/embed/215061/abd3d76e-bc0f-47ee-a8da-0efad9b7952a",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
+              "url": "https://iframe.mediadelivery.net/embed/215061/813bc906-acea-47ca-bc4b-705db9524d7b",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "حل الأسئلة الوزارية الخاصة بإعراب أسماء الاستفهام - الجزء الاول",
+              "url": "https://iframe.mediadelivery.net/embed/215061/30dd25ac-4c2d-4a3b-8e89-8a5f6595a950",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "حل الأسئلة الوزارية الخاصة بإعراب أسماء الاستفهام - الجزء الثاني",
+              "description": "حل الأسئلة الوزارية الخاصة بأسماء الاستفهام. 📝",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0b93d0f4-6bff-49fa-9d69-0ceccff27ba6"
+            },
+            {
+              "title": "أسماء الاستفهام الدالة على الزمان والمكان",
+              "description": "شرح أسماء الاستفهام التي تدل على الزمان والمكان. ⏰",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0a62e36b-163b-4bd3-adfb-7ca30e6ff617"
+            },
+            {
+              "title": "وزاريات إعراب أسماء الاستفهام الدالة على الزمان والمكان",
+              "description": "حل أسئلة وزارية حول إعراب أسماء الاستفهام للزمان والمكان. ✍️",
+              "url": "https://iframe.mediadelivery.net/embed/215061/882f8c72-98f4-47cb-a8a5-e8b125eeb753"
+            },
+            {
+              "title": "أسماء الاستفهام الدالة على الحال والدالة على الحدث",
+              "description": "شرح أسماء الاستفهام التي تدل على الحال والحدث. 🔄",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d0a29848-65ed-4ad6-a3aa-de544b9fc836"
+            },
+            {
+              "title": "وزاريات إعراب أسماء الاستفهام الدالة على الحال والدالة على الحدث",
+              "description": "حل أسئلة وزارية خاصة بإعراب أسماء الاستفهام للحال والحدث. 💡",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4ebb33d0-e24a-4027-abde-5aeafbbfbc54"
+            },
+            {
+              "title": "كم الاستفهامية وكم الخبرية",
+              "description": "كم الاستفهامية وكم الخبرية",
+              "url": "https://iframe.mediadelivery.net/embed/215061/251dca6e-e6d7-46d9-9f07-ff3770585fae"
+            },
+            {
+              "title": "الاستفهام المجازي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9acb2dc0-17ab-46ff-b36e-5dc1a16fce1a",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "وزاريات كم الاستفهامية وكم الخبرية و الاستفهام المجازي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/798f2403-159f-4f89-87f8-37c6414e5421",
+              "description": "تم صنع المنصه بواسطه حميد."
+            }
           ]
         },
         {
- "name": "النفي",
-      "lectures": [
-        {
-           "title": "أسلوب النفي - أنواعه والأداة (ليس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/74074696-62d3-45c0-9403-07d5e0505433"
+          "name": "النفي",
+          "lectures": [
+            {
+              "title": "أسلوب النفي - أنواعه والأداة (ليس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/74074696-62d3-45c0-9403-07d5e0505433"
+            },
+            {
+              "title": "قواعد وملاحظات (ليس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/df6ea11c-398b-4c69-9b63-f13f96b7aa02"
+            },
+            {
+              "title": "حرف النفي (لاتَ)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c65a81ac-db73-4ef2-bf34-3b61ac5b7d10"
+            },
+            {
+              "title": "وزاريات فعل النفي (ليسَ)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a2c5ef79-5add-41db-80fa-6d4cfe595f0b"
+            },
+            {
+              "title": "وزاريات حرف النفي (لاتَ)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7afa9f38-9fe1-4a36-8fc2-1c0155758333"
+            },
+            {
+              "title": "مَا النافية (غير العاملة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f65a9450-15cf-4a00-8ae1-e8c9d11403a8"
+            },
+            {
+              "title": "مَا الحجازية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1e3ae107-046a-4ed1-b39b-b871cf5f317d"
+            },
+            {
+              "title": "مَا المهملة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/39305c40-fefa-493a-bbf0-082151b03b1f"
+            },
+            {
+              "title": "حرف النفي (إنْ)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d248d387-f113-43ae-a4ff-b5b7cc83ab6b"
+            },
+            {
+              "title": "وزاريات أنواع (ما النافية)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8db15d58-94ae-4b04-bff6-766373aa3568"
+            },
+            {
+              "title": "وزاريات أداة النفي (إن)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a43b92d3-f8c1-46d6-937d-29903cddf688"
+            },
+            {
+              "title": "مراجعة أسلوب النفي - الجزء الأول",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d8847dea-4c06-4db3-a9d4-49990b6a03bc"
+            },
+            {
+              "title": "حرفي النفي (لم) و(لما)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/796b5e1f-5703-4e24-8447-de05eeced12c"
+            },
+            {
+              "title": "حرف النفي (لن)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0873b46f-3879-4c48-907b-3d3c47783ba2"
+            },
+            {
+              "title": "(وزاريات (لم، لما ولن",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2e9357be-93d5-4ad6-8313-e4598a29da28"
+            },
+            {
+              "title": "اسم النفي (غير)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/99c7d849-b778-4341-aa69-b3c3d9f0e60c"
+            },
+            {
+              "title": "لام الجحود",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8d837e2b-b71d-4dd6-ad1b-8138a02fb787"
+            },
+            {
+              "title": "وزاريات غير و لام الحجود",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8dc4ad96-2009-422d-adf5-43f186834e67"
+            },
+            {
+              "title": "حرف النفي (لا)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d22c6b82-cb5a-4bdb-afee-6ed6e6efbee9"
+            },
+            {
+              "title": "لا نافية غير عاملة (معترضة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/293de763-a7a3-4e70-891d-c32d88cef262"
+            },
+            {
+              "title": "لا النافية للجنس",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2683a8ef-a52b-4ccc-9112-9fe9b13d5e10"
+            },
+            {
+              "title": "لا (النافية المهملة) و النفي الضمني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/78d5518a-9f8b-4c0d-973a-7af28cb697da"
+            },
+            {
+              "title": "وزاريات أنواع لا",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/270c8dc1-5efd-4e04-a2f9-e2d845125793"
+            },
+            {
+              "title": "وزاريات أنواع (لا) و النفي الضمني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/aedb08b3-dbb4-46b6-832d-25bba5a9df13"
+            },
+            {
+              "title": "مراجعة تعزيزية لأدوات النفي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/db46f726-7fd9-41d4-9f68-9fd2de8a7bfd"
+            }
+          ]
         },
         {
-          "title": "قواعد وملاحظات (ليس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/df6ea11c-398b-4c69-9b63-f13f96b7aa02"
-        },
-        {
-          "title": "حرف النفي (لاتَ)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c65a81ac-db73-4ef2-bf34-3b61ac5b7d10"
-        },
-        {
-          "title": "وزاريات فعل النفي (ليسَ)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a2c5ef79-5add-41db-80fa-6d4cfe595f0b"
-        },
-        {
-          "title": "وزاريات حرف النفي (لاتَ)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7afa9f38-9fe1-4a36-8fc2-1c0155758333"
-        },
-        {
-          "title": "مَا النافية (غير العاملة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f65a9450-15cf-4a00-8ae1-e8c9d11403a8"
-        },
-        {
-          "title": "مَا الحجازية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1e3ae107-046a-4ed1-b39b-b871cf5f317d"
-        },
-        {
-          "title": "مَا المهملة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/39305c40-fefa-493a-bbf0-082151b03b1f"
-        },
-        {
-          "title": "حرف النفي (إنْ)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d248d387-f113-43ae-a4ff-b5b7cc83ab6b"
-        },
-        {
-          "title": "وزاريات أنواع (ما النافية)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8db15d58-94ae-4b04-bff6-766373aa3568"
-        },
-        {
-          "title": "وزاريات أداة النفي (إن)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a43b92d3-f8c1-46d6-937d-29903cddf688"
-        },
-        {
-          "title": "مراجعة أسلوب النفي - الجزء الأول",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d8847dea-4c06-4db3-a9d4-49990b6a03bc"
-        },
-        {
-          "title": "حرفي النفي (لم) و(لما)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/796b5e1f-5703-4e24-8447-de05eeced12c"
-        },
-        {
-          "title": "حرف النفي (لن)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0873b46f-3879-4c48-907b-3d3c47783ba2"
-        },
-        {
-          "title": "(وزاريات (لم، لما ولن",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2e9357be-93d5-4ad6-8313-e4598a29da28"
-        },
-        {
-          "title": "اسم النفي (غير)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/99c7d849-b778-4341-aa69-b3c3d9f0e60c"
-        },
-        {
-          "title": "لام الجحود",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8d837e2b-b71d-4dd6-ad1b-8138a02fb787"
-        },
-        {
-        "title": "وزاريات غير و لام الحجود",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8dc4ad96-2009-422d-adf5-43f186834e67"
-        },
-        {
-          "title": "حرف النفي (لا)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d22c6b82-cb5a-4bdb-afee-6ed6e6efbee9"
-        },
-        {
-          "title": "لا نافية غير عاملة (معترضة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/293de763-a7a3-4e70-891d-c32d88cef262"
-        },
-        {
-          "title": "لا النافية للجنس",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2683a8ef-a52b-4ccc-9112-9fe9b13d5e10"
-        },
-        {
-          "title": "لا (النافية المهملة) و النفي الضمني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/78d5518a-9f8b-4c0d-973a-7af28cb697da"
-        },
-        {
-          "title": "وزاريات أنواع لا",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/270c8dc1-5efd-4e04-a2f9-e2d845125793"
-        },
-        {
-          "title": "وزاريات أنواع (لا) و النفي الضمني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/aedb08b3-dbb4-46b6-832d-25bba5a9df13"
-        },
-        {
-          "title": "مراجعة تعزيزية لأدوات النفي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/db46f726-7fd9-41d4-9f68-9fd2de8a7bfd"
-}
+          "name": "الفصل: التقديم والتأخير ()",
+          "lectures": [
+            {
+              "title": "محاضرة 1 (تقديم الخبر على المبتدأ - وجوباً)",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7b4b9f22-55fe-4ffb-88f7-cb6bde8858fe"
+            },
+            {
+              "title": "محاضرة 2 (تقديم الخبر على المبتدأ وجوباً وجوازاً)",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/addaa82f-f766-482a-b4da-a6d2464cd4d4"
+            },
+            {
+              "title": "محاضرة 3 (وزاريات تقديم الخبر على المبتدأ)",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a6f6a96d-be9a-4d7d-9c67-c6c5f1477ae9"
+            },
+            {
+              "title": "محاضرة 4 (تقديم المفعول به على فعله - وجوباً)",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/77c3f902-3227-4c1e-8a04-e62d03dcdd48"
+            },
+            {
+              "title": "محاضرة 5 (تقديم المفعول به على فعله - وجوباً وجوازاً)",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/96c97bc3-6d9b-4178-9404-bd0e17e0fd1e"
+            },
+            {
+              "title": "محاضرة 6 (وزاريات تقديم المفعول به على فعله)",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3073a6c3-1022-4be6-a2ac-80f21d9e0258"
+            }
           ]
         },
         {
           "name": "الادب الحديث (الفصل الاول)",
           "lectures": [
             {
-             "title": "الأدب الحديث",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/88e2e437-5664-4d5b-8f75-1f0bba0d8bb2"
-        },
-        {
-          "title": "الشعر الحديث",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1c1b6e4f-4831-4c80-8d25-03294217c376"
-        },
-        {
-          "title": "مدرسة الإحياء",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7eed7474-1946-4d80-ba18-167ea2b5bcf5"
-        },
-        {
-          "title": "الشاعر محمد سعيد الحبوبي - قصيدته وحياته",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0f93b617-59ea-4a3c-9566-8aa92944ce22"
-        },
-        {
-          "title": "(الشاعر محمد سعيد الحبوبي (التعليق النقدي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/486f9206-31e5-44ff-86b4-c2d47d55ecf0"
-        },
-        {
-          "title": "الشاعر علي الشرقي - قصيدته وحياته",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/dbca7f16-743b-4227-a8de-47699c96c9fe"
-        },
-        {
-          "title": "الشاعر علي الشرقي (التعليق النقدي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/460dfb6b-b2fe-435f-8da3-7c02ec6f745a"
-        },
-        {
-          "title": "الشاعر حافظ إبراهيم",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3bfa1da6-7e4b-4e5d-a321-09150d2385f9"
-        },
-        {
-          "title": "الشاعر حافظ إبراهيم - التعليق النقدي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/67a7a7c4-81d5-4dfd-985d-637d99042e6a"
-        },
-        {
-          "title": "محمد مهدي الجواهري",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bfb3ed60-f323-4365-8061-f21ff29dd76d"
-        },
-        {
-          "title": "محمد مهدي الجواهري - التعليق النقدي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fc0a3147-cb3b-43cb-901b-394484982f27"
-        },
-        {
-          "title": "مدرسة المهجر",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ed3fd3be-2f5f-4dc9-8193-651b416efe78"
-        },
-        {
-          "title": "ميخائيل نعيمة (القصيدة والتعليق النقدي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a9e7d62b-178a-4d91-9fda-8e9a1f85a57d"
-        },
-        {
-          "title": "مدرسة الشعر الحر",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3f4a1392-3ad8-428e-a65d-75b9cae38876"
-        },
-        {
-          "title": "بدر شاكر السياب (القصيدة والتعليق النقدي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5e4f5331-3860-453e-baa4-0f167e63f1a3"
-}
-
+              "title": "الأدب الحديث",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/88e2e437-5664-4d5b-8f75-1f0bba0d8bb2"
+            },
+            {
+              "title": "الشعر الحديث",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1c1b6e4f-4831-4c80-8d25-03294217c376"
+            },
+            {
+              "title": "مدرسة الإحياء",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7eed7474-1946-4d80-ba18-167ea2b5bcf5"
+            },
+            {
+              "title": "الشاعر محمد سعيد الحبوبي - قصيدته وحياته",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0f93b617-59ea-4a3c-9566-8aa92944ce22"
+            },
+            {
+              "title": "(الشاعر محمد سعيد الحبوبي (التعليق النقدي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/486f9206-31e5-44ff-86b4-c2d47d55ecf0"
+            },
+            {
+              "title": "الشاعر علي الشرقي - قصيدته وحياته",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dbca7f16-743b-4227-a8de-47699c96c9fe"
+            },
+            {
+              "title": "الشاعر علي الشرقي (التعليق النقدي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/460dfb6b-b2fe-435f-8da3-7c02ec6f745a"
+            },
+            {
+              "title": "الشاعر حافظ إبراهيم",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3bfa1da6-7e4b-4e5d-a321-09150d2385f9"
+            },
+            {
+              "title": "الشاعر حافظ إبراهيم - التعليق النقدي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/67a7a7c4-81d5-4dfd-985d-637d99042e6a"
+            },
+            {
+              "title": "محمد مهدي الجواهري",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bfb3ed60-f323-4365-8061-f21ff29dd76d"
+            },
+            {
+              "title": "محمد مهدي الجواهري - التعليق النقدي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fc0a3147-cb3b-43cb-901b-394484982f27"
+            },
+            {
+              "title": "مدرسة المهجر",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ed3fd3be-2f5f-4dc9-8193-651b416efe78"
+            },
+            {
+              "title": "ميخائيل نعيمة (القصيدة والتعليق النقدي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a9e7d62b-178a-4d91-9fda-8e9a1f85a57d"
+            },
+            {
+              "title": "مدرسة الشعر الحر",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3f4a1392-3ad8-428e-a65d-75b9cae38876"
+            },
+            {
+              "title": "بدر شاكر السياب (القصيدة والتعليق النقدي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5e4f5331-3860-453e-baa4-0f167e63f1a3"
+            }
           ]
         }
       ]
@@ -2255,82 +2651,82 @@ window.dataAb2026 = {
               "title": "محاضرة 1",
               "description": "ممكن تقرأ وماتسخت ؟",
               "url": "https://vz-99e5c202-ca5.b-cdn.net/bd049c3e-6a1e-46e4-860c-1c073720d48f/1080p/video.m3u8"
-          },
-      {
-        "title": "(المحاضرة الاولى (مقدمة عن الأعداد المركبة",
-        "description": "مقدمة تعريفية عن مفهوم الأعداد المركبة. 💡",
-        "url": "https://iframe.mediadelivery.net/embed/215061/60a24e26-514e-4af3-b7c9-e87b620a1b44"
-      },
-      {
-        "title": "المحاضرة الثانية (قوى i)",
-        "description": "شرح قوى الوحدة التخيلية 'i'. ⚡",
-        "url": "https://iframe.mediadelivery.net/embed/215061/5755f827-20d6-47df-9d68-6635a59c29f3"
-      },
-      {
-        "title": "المحاضرة الثالثة (الصيغة الجبرية للعدد المركب)",
-        "description": "التعرف على الصيغة الجبرية للأعداد المركبة. 📈",
-        "url": "https://iframe.mediadelivery.net/embed/215061/cdbad21d-4055-4e9b-994a-4fc13f84c138"
-      },
-      {
-        "title": "(المحاضرة الرابعة (ضرب وقسمة الأعداد المركبة",
-        "description": "قواعد ضرب وقسمة الأعداد المركبة. ➗",
-        "url": "https://iframe.mediadelivery.net/embed/215061/f394cd73-cc35-4ce6-87b0-870189f3aa71"
-      },
-      {
-        "title": "(المحاضرة الخامسة (النظير الضربي والجمعي للعدد المركب",
-        "description": "شرح النظير الضربي والجمعي للأعداد المركبة. ➕",
-        "url": "https://iframe.mediadelivery.net/embed/215061/e4b4854d-320f-49ac-b42b-08fec528806f"
-      },
-      {
-        "title": "المحاضرة السادسة (الأقواس المرفوعة الى أس)",
-        "description": "شرح كيفية التعامل مع الأقواس المرفوعة إلى أس في الأعداد المركبة. 🔢",
-        "url": "https://iframe.mediadelivery.net/embed/215061/7194ca4d-0944-41a9-9c44-5c4f4f8400ee"
-      },
-      {
-        "title": "المحاضرة السابعة (وزاريات الأقواس المرفوعة إلى أس (الجزء الاول))",
-        "description": "حل أسئلة وزارية على الأقواس المرفوعة إلى أس. 📝",
-        "url": "https://iframe.mediadelivery.net/embed/215061/198a14fa-acb4-4f84-8901-26adc9a4c873"
-      },
-      {
-        "title": "المحاضرة الثامنة (وزاريات الأقواس المرفوعة إلى أس(الجزء الثاني))",
-        "description": "استكمال حل أسئلة وزارية على الأقواس المرفوعة إلى أس. ✍️",
-        "url": "https://iframe.mediadelivery.net/embed/215061/4dfafa28-1216-407a-8e8a-9c8c4c2a0e02"
-      },
-      {
-        "title": "(المحاضرة التاسعة (تبسيط جمع وطرح الكسور",
-        "description": "تبسيط عمليات جمع وطرح الكسور في الأعداد المركبة. ➗",
-        "url": "https://iframe.mediadelivery.net/embed/215061/aaee63c0-a452-4fff-ad20-79d74d2bfe52"
-      },
-      {
-        "title": "(المحاضرة العاشرة (حل اسئلة وزاريات: أثبت أن",
-        "description": "حل أسئلة وزارية من نوع 'أثبت أن'. ✅",
-        "url": "https://iframe.mediadelivery.net/embed/215061/f0e1c7ac-181e-4bb1-bf23-fd798e0fe5ec"
-      },
-      {
-        "title": "(المحاضرة الحادية عشرة (خواص المرافق في حل أسئلة: أثبت أن",
-        "description": "استخدام خواص المرافق لحل أسئلة 'أثبت أن'. 💡",
-        "url": "https://iframe.mediadelivery.net/embed/215061/2ee2e924-4103-483b-b33e-fb0d4c8f5edd"
-      },
-      {
-        "title": "المحاضرة الثانية عشرة (التحليل في الأعداد المركبة )",
-        "description": "شرح التحليل في مجموعة الأعداد المركبة. 📈",
-        "url": "https://iframe.mediadelivery.net/embed/215061/5614b401-74cb-4aa6-91f7-37b17081ea7d"
-      },
-      {
-        "title": "( الحقيقية (الجزء الاول  x ,y المحاضرة الثالثة عشرة إيجاد قيم",
-        "description": "كيفية إيجاد قيم x و y الحقيقية (الجزء الأول). 🔢",
-        "url": "https://iframe.mediadelivery.net/embed/215061/7c2235a5-d848-4b9a-af9e-d487bff91d22"
-      },
-      {
-        "title": "(الحقيقية (الجزء الثاني x ,y المحاضرة الرابعة عشرة إيجاد قيم",
-        "description": "استكمال إيجاد قيم x و y الحقيقية (الجزء الثاني). ✍️",
-        "url": "https://iframe.mediadelivery.net/embed/215061/d0110249-1eb3-4674-a953-97215fed1268"
-      },
-      {
-        "title": "(الحقيقية (الجزء الثالث x ,y المحاضرة الخامسة عشرة إيجاد قيم",
-        "description": "الجزء الثالث من إيجاد قيم x و y الحقيقية. 📊",
-        "url": "https://iframe.mediadelivery.net/embed/215061/99da0ece-b3b2-4eb2-9312-d6e93d687738"
-   }
+            },
+            {
+              "title": "(المحاضرة الاولى (مقدمة عن الأعداد المركبة",
+              "description": "مقدمة تعريفية عن مفهوم الأعداد المركبة. 💡",
+              "url": "https://iframe.mediadelivery.net/embed/215061/60a24e26-514e-4af3-b7c9-e87b620a1b44"
+            },
+            {
+              "title": "المحاضرة الثانية (قوى i)",
+              "description": "شرح قوى الوحدة التخيلية 'i'. ⚡",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5755f827-20d6-47df-9d68-6635a59c29f3"
+            },
+            {
+              "title": "المحاضرة الثالثة (الصيغة الجبرية للعدد المركب)",
+              "description": "التعرف على الصيغة الجبرية للأعداد المركبة. 📈",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cdbad21d-4055-4e9b-994a-4fc13f84c138"
+            },
+            {
+              "title": "(المحاضرة الرابعة (ضرب وقسمة الأعداد المركبة",
+              "description": "قواعد ضرب وقسمة الأعداد المركبة. ➗",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f394cd73-cc35-4ce6-87b0-870189f3aa71"
+            },
+            {
+              "title": "(المحاضرة الخامسة (النظير الضربي والجمعي للعدد المركب",
+              "description": "شرح النظير الضربي والجمعي للأعداد المركبة. ➕",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e4b4854d-320f-49ac-b42b-08fec528806f"
+            },
+            {
+              "title": "المحاضرة السادسة (الأقواس المرفوعة الى أس)",
+              "description": "شرح كيفية التعامل مع الأقواس المرفوعة إلى أس في الأعداد المركبة. 🔢",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7194ca4d-0944-41a9-9c44-5c4f4f8400ee"
+            },
+            {
+              "title": "المحاضرة السابعة (وزاريات الأقواس المرفوعة إلى أس (الجزء الاول))",
+              "description": "حل أسئلة وزارية على الأقواس المرفوعة إلى أس. 📝",
+              "url": "https://iframe.mediadelivery.net/embed/215061/198a14fa-acb4-4f84-8901-26adc9a4c873"
+            },
+            {
+              "title": "المحاضرة الثامنة (وزاريات الأقواس المرفوعة إلى أس(الجزء الثاني))",
+              "description": "استكمال حل أسئلة وزارية على الأقواس المرفوعة إلى أس. ✍️",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4dfafa28-1216-407a-8e8a-9c8c4c2a0e02"
+            },
+            {
+              "title": "(المحاضرة التاسعة (تبسيط جمع وطرح الكسور",
+              "description": "تبسيط عمليات جمع وطرح الكسور في الأعداد المركبة. ➗",
+              "url": "https://iframe.mediadelivery.net/embed/215061/aaee63c0-a452-4fff-ad20-79d74d2bfe52"
+            },
+            {
+              "title": "(المحاضرة العاشرة (حل اسئلة وزاريات: أثبت أن",
+              "description": "حل أسئلة وزارية من نوع 'أثبت أن'. ✅",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f0e1c7ac-181e-4bb1-bf23-fd798e0fe5ec"
+            },
+            {
+              "title": "(المحاضرة الحادية عشرة (خواص المرافق في حل أسئلة: أثبت أن",
+              "description": "استخدام خواص المرافق لحل أسئلة 'أثبت أن'. 💡",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2ee2e924-4103-483b-b33e-fb0d4c8f5edd"
+            },
+            {
+              "title": "المحاضرة الثانية عشرة (التحليل في الأعداد المركبة )",
+              "description": "شرح التحليل في مجموعة الأعداد المركبة. 📈",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5614b401-74cb-4aa6-91f7-37b17081ea7d"
+            },
+            {
+              "title": "( الحقيقية (الجزء الاول  x ,y المحاضرة الثالثة عشرة إيجاد قيم",
+              "description": "كيفية إيجاد قيم x و y الحقيقية (الجزء الأول). 🔢",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7c2235a5-d848-4b9a-af9e-d487bff91d22"
+            },
+            {
+              "title": "(الحقيقية (الجزء الثاني x ,y المحاضرة الرابعة عشرة إيجاد قيم",
+              "description": "استكمال إيجاد قيم x و y الحقيقية (الجزء الثاني). ✍️",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d0110249-1eb3-4674-a953-97215fed1268"
+            },
+            {
+              "title": "(الحقيقية (الجزء الثالث x ,y المحاضرة الخامسة عشرة إيجاد قيم",
+              "description": "الجزء الثالث من إيجاد قيم x و y الحقيقية. 📊",
+              "url": "https://iframe.mediadelivery.net/embed/215061/99da0ece-b3b2-4eb2-9312-d6e93d687738"
+            }
           ]
         }
       ]
@@ -2380,228 +2776,228 @@ window.dataAb2026 = {
     },
     {
       "id": 1747135191495,
-  "name": "نورس الموسوي 2026",
-  "subject": "مدرس مادة الاحياء",
-  "image": "https://yt3.googleusercontent.com/B_86-v0AFl5PN_mJXykCJ-pyzQetoKg8DL5wISXMt5IDs8yyE8dBbzZCtyXdo57GjBM54QTDlA=s900-c-k-c0x00ffffff-no-rj",
-  "classes": [
-    {
-      "name": "الفصل الاول: الخلية",
-      "lectures": [
+      "name": "نورس الموسوي 2026",
+      "subject": "مدرس مادة الاحياء",
+      "image": "https://yt3.googleusercontent.com/B_86-v0AFl5PN_mJXykCJ-pyzQetoKg8DL5wISXMt5IDs8yyE8dBbzZCtyXdo57GjBM54QTDlA=s900-c-k-c0x00ffffff-no-rj",
+      "classes": [
         {
-          "title": "محاضرة 1",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/caadbdff-8861-4ac2-9bff-083dfe171752"
+          "name": "الفصل الاول: الخلية",
+          "lectures": [
+            {
+              "title": "محاضرة 1",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/caadbdff-8861-4ac2-9bff-083dfe171752"
+            },
+            {
+              "title": "محاضرة 2",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d2873133-0933-402f-86bf-17125efbdf3b"
+            },
+            {
+              "title": "محاضرة 3",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7aa6fb87-1860-4584-9a2f-3638ac95ef84"
+            },
+            {
+              "title": "محاضرة 4",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0b33b9e6-0263-4d8f-b536-f757cc81b28d"
+            },
+            {
+              "title": "السايتوبلازم و الشبكة البلازمية وجهاز كولجي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f70fc1b9-3f9f-4969-8148-fb5f3c17d23d"
+            },
+            {
+              "title": "المحاضرة الرابعة (المايتوكندريا والبلاستيدات) 🔗",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4b2e558d-4af8-4a5d-8b3f-079f6d2d80cd"
+            },
+            {
+              "title": "المحاضرة الخامسة (الجسيمات الحالة وهيكل الخلية) 🔗",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://vz-b26dd76f-dc1.b-cdn.net/7e244e05-3916-4757-92b1-43f505d202f5/480p/video.m3u8"
+            },
+            {
+              "title": "محاضرة 6",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/063095f6-8ba8-4b01-bf50-fc9f41aa20f9"
+            },
+            {
+              "title": "محاضرة 7",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/24fd982b-eb63-480e-bf83-9a77a4fcdb86"
+            },
+            {
+              "title": "محاضرة 8 النواة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/266101a5-a1c9-403d-b328-6c67fc7b18ac"
+            },
+            {
+              "title": "محاضرة 9 : مراجعة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e5724825-cd33-4ad6-b9f2-c80bd955076a"
+            },
+            {
+              "title": "المحاضرة العاشرة الانشطة الخلوية (الانتشار والنفوذية) 🔗",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0d2dba87-5a64-40e6-bfb5-9cffb3e4003b"
+            },
+            {
+              "title": "محاضرة وزاريات ",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c3e03871-1273-4f04-82c5-50dfee890e55"
+            },
+            {
+              "title": "محاضرة 11",
+              "description": "وصف",
+              "url": "https://iframe.mediadelivery.net/embed/215061/43712c75-8e11-46c7-a4c1-b4e6eb149e75"
+            },
+            {
+              "title": "محاضرة 12",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5550161b-708d-499a-8ded-bbe6635932d3"
+            },
+            {
+              "title": "محاضرة 13",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e70ff835-758e-4e48-8f37-d1cc5575902c"
+            },
+            {
+              "title": "محاضرة 14",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b1ce5033-1065-434f-b030-aa005d29e63c"
+            },
+            {
+              "title": "محاضرة 15",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2160af0f-aa26-41d2-827c-a541b0f26f12"
+            },
+            {
+              "title": "محاضرة 16",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/38bd1d53-4c34-4b04-95cd-3849cc44da55"
+            },
+            {
+              "title": "المحاضرة السابعة عشرة التنفس (الجزء الثاني)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0227138c-b351-49fb-8c24-e4f9baed9ebb"
+            },
+            {
+              "title": "المحاضرة الثامنة عشرة التنفس (الجزء الثالث)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/68c41c42-8d53-4ad7-9aba-dc4b58a642bd"
+            },
+            {
+              "title": "مراجعة الأيض الخلوي",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0d50085b-9dd2-4734-a7ea-d2f1c93c0e70"
+            },
+            {
+              "title": "عمليات البناء : تثبيت ثنائي اوكسيد الكاربون",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ef69e51f-03d1-41ba-8946-d34aeb96f664"
+            },
+            {
+              "title": "مراجعة وزاريات جهاز كولجي ,المايتوكندريا,البلاستيدات",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c3e03871-1273-4f04-82c5-50dfee890e55"
+            },
+            {
+              "title": "الانقسام الخيطي (الجزء الاول)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/eccb1232-f04b-4288-b26a-228271cd6760"
+            },
+            {
+              "title": "الانقسام الخيطي (الجزء الثاني)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ef387d98-ddaa-444f-8e82-74bb45510e55"
+            },
+            {
+              "title": "الانقسام السايتوبلازمي ومراجعة الانقسام الخيطي",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b97d093b-4d13-4a29-b886-c594bbc6ea06"
+            },
+            {
+              "title": "(الانقسام الاختزالي (الجزء الاول",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/da1a4917-1ad7-4234-a2f1-1e0396bad5ee"
+            },
+            {
+              "title": "المحاضرة السادسة والعشرون (الانقسام الاختزالي الجزء الثاني)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6b402ff0-1e29-40f5-a923-d60e6025a7f9"
+            },
+            {
+              "title": "المحاضرة السابعة والعشرون (الانقسام الاختزالي الجزء الثالث)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4837aac0-9e8a-4a33-a1e6-b2def5ac7d33"
+            },
+            {
+              "title": "المحاضرة الثامنة والعشرون (مراجعة الانقسامات)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2a9add04-27b8-4ed7-8559-1be45a51e948"
+            },
+            {
+              "title": "المحاضرة التاسعة والعشرون-التفاعلية(خلاصة الفصل)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e3a9de3c-2339-4e28-a237-be6342e8a5a3"
+            }
+          ]
         },
         {
-          "title": "محاضرة 2",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d2873133-0933-402f-86bf-17125efbdf3b"
-        },
-        {
-          "title": "محاضرة 3",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7aa6fb87-1860-4584-9a2f-3638ac95ef84"
-        },
-        {
-          "title": "محاضرة 4",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0b33b9e6-0263-4d8f-b536-f757cc81b28d"
-        },
-        {
-          "title": "السايتوبلازم و الشبكة البلازمية وجهاز كولجي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f70fc1b9-3f9f-4969-8148-fb5f3c17d23d"
-        },
-        {
-          "title": "المحاضرة الرابعة (المايتوكندريا والبلاستيدات) 🔗",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4b2e558d-4af8-4a5d-8b3f-079f6d2d80cd"
-        },
-        {
-          "title": "المحاضرة الخامسة (الجسيمات الحالة وهيكل الخلية) 🔗",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://vz-b26dd76f-dc1.b-cdn.net/7e244e05-3916-4757-92b1-43f505d202f5/480p/video.m3u8"
-        },
-        {
-          "title": "محاضرة 6",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/063095f6-8ba8-4b01-bf50-fc9f41aa20f9"
-        },
-        {
-          "title": "محاضرة 7",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/24fd982b-eb63-480e-bf83-9a77a4fcdb86"
-        },
-        {
-          "title": "محاضرة 8 النواة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/266101a5-a1c9-403d-b328-6c67fc7b18ac"
-        },
-        {
-          "title": "محاضرة 9 : مراجعة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e5724825-cd33-4ad6-b9f2-c80bd955076a"
-        },
-        {
-          "title": "المحاضرة العاشرة الانشطة الخلوية (الانتشار والنفوذية) 🔗",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0d2dba87-5a64-40e6-bfb5-9cffb3e4003b"
-        },
-        {
-          "title": "محاضرة وزاريات ",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c3e03871-1273-4f04-82c5-50dfee890e55"
-        },
-        {
-          "title": "محاضرة 11",
-          "description": "وصف",
-          "url": "https://iframe.mediadelivery.net/embed/215061/43712c75-8e11-46c7-a4c1-b4e6eb149e75"
-        },
-        {
-          "title": "محاضرة 12",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5550161b-708d-499a-8ded-bbe6635932d3"
-        },
-        {
-          "title": "محاضرة 13",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e70ff835-758e-4e48-8f37-d1cc5575902c"
-        },
-        {
-          "title": "محاضرة 14",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b1ce5033-1065-434f-b030-aa005d29e63c"
-        },
-        {
-          "title": "محاضرة 15",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2160af0f-aa26-41d2-827c-a541b0f26f12"
-        },
-        {
-          "title": "محاضرة 16",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/38bd1d53-4c34-4b04-95cd-3849cc44da55"
-        },
-        {
-          "title": "المحاضرة السابعة عشرة التنفس (الجزء الثاني)",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0227138c-b351-49fb-8c24-e4f9baed9ebb"
-        },
-        {
-          "title": "المحاضرة الثامنة عشرة التنفس (الجزء الثالث)",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/68c41c42-8d53-4ad7-9aba-dc4b58a642bd"
-        },
-        {
-          "title": "مراجعة الأيض الخلوي",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0d50085b-9dd2-4734-a7ea-d2f1c93c0e70"
-        },
-        {
-          "title": "عمليات البناء : تثبيت ثنائي اوكسيد الكاربون",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ef69e51f-03d1-41ba-8946-d34aeb96f664"
-        },
-        {
-          "title": "مراجعة وزاريات جهاز كولجي ,المايتوكندريا,البلاستيدات",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c3e03871-1273-4f04-82c5-50dfee890e55"
-        },
-        {
-          "title": "الانقسام الخيطي (الجزء الاول)",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/eccb1232-f04b-4288-b26a-228271cd6760"
-        },
-        {
-          "title": "الانقسام الخيطي (الجزء الثاني)",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ef387d98-ddaa-444f-8e82-74bb45510e55"
-        },
-        {
-          "title": "الانقسام السايتوبلازمي ومراجعة الانقسام الخيطي",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b97d093b-4d13-4a29-b886-c594bbc6ea06"
-        },
-        {
-          "title": "(الانقسام الاختزالي (الجزء الاول",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/da1a4917-1ad7-4234-a2f1-1e0396bad5ee"
-        },
-        {
-          "title": "المحاضرة السادسة والعشرون (الانقسام الاختزالي الجزء الثاني)",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6b402ff0-1e29-40f5-a923-d60e6025a7f9"
-        },
-        {
-          "title": "المحاضرة السابعة والعشرون (الانقسام الاختزالي الجزء الثالث)",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4837aac0-9e8a-4a33-a1e6-b2def5ac7d33"
-        },
-        {
-          "title": "المحاضرة الثامنة والعشرون (مراجعة الانقسامات)",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2a9add04-27b8-4ed7-8559-1be45a51e948"
-        },
-        {
-          "title": "المحاضرة التاسعة والعشرون-التفاعلية(خلاصة الفصل)",
-          "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e3a9de3c-2339-4e28-a237-be6342e8a5a3"
-        }
-      ]
-    },
-    {
-      "name": "الفصل الثاني",
-      "lectures": [
-        {
-           "title": "مقدمة الأنسجة النباتية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8b7e68f9-cdef-4558-b274-14d93b5f26af",
-          "description": "مقدمة عن الأنسجة النباتية."
-        },
-        {
-          "title": "المحاضرة الثانية (نسيج الأساس)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0e4b6bd8-aa87-44da-b66c-89ac8b00cc75",
-          "description": "محاضرة عن نسيج الأساس."
-        },
-        {
-          "title": "المحاضرة الثالثة (نسيج البشرة و نسيج الوعائي)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7f7f3b28-605b-4578-8ef9-35de7121dd1d",
-          "description": "محاضرة عن نسيج البشرة والنسيج الوعائي."
-        },
-        {
-          "title": "المحاضره الرابعة مراجعة الأنسجة النباتية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c79fbf26-7863-4e5a-ba8d-33b537e0dfad",
-          "description": "مراجعة للأنسجة النباتية."
-        },
-        {
-          "title": "المحاضرة الخامسة الأنسجة الحيوانية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/116acade-9daf-4d53-a0c0-ff8f51e1065a",
-          "description": "محاضرة عن الأنسجة الحيوانية."
-        },
-        {
-          "title": "المحاضرة السادسة الأنسجة الطلائية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8b99a2ba-3122-42b2-a12c-cfff177c16a4",
-          "description": "محاضرة عن الأنسجة الطلائية."
-        },
-        {
-          "title": "المحاضرة السابعة مراجعة الأنسجة الطلائية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/adc38eb6-9400-4861-8333-c696bd4aca79",
-          "description": "مراجعة للأنسجة الطلائية."
-        },
-        {
-          "title": "المحاضرة الثامنة الأنسجة الضامة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5a0d4df3-eb07-408b-ba70-0cf76662a1d8",
-          "description": "محاضرة عن الأنسجة الضامة."
-        },
-        {
-          "title": "المحاضرة التاسعة أنواع الأنسجة الضامة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8381ee7b-7dd2-4377-a495-94f826acd847",
-          "description": "محاضرة عن أنواع الأنسجة الضامة."
-        },
-        {
-          "title": "المحاضرة العاشرة مراجعة الأنسجة الضامة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bc41d5e0-4791-4b3e-a29f-d560f4268a2f",
-          "description": "مراجعة للأنسجة الضامة."
-       }
+          "name": "الفصل الثاني",
+          "lectures": [
+            {
+              "title": "مقدمة الأنسجة النباتية",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8b7e68f9-cdef-4558-b274-14d93b5f26af",
+              "description": "مقدمة عن الأنسجة النباتية."
+            },
+            {
+              "title": "المحاضرة الثانية (نسيج الأساس)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0e4b6bd8-aa87-44da-b66c-89ac8b00cc75",
+              "description": "محاضرة عن نسيج الأساس."
+            },
+            {
+              "title": "المحاضرة الثالثة (نسيج البشرة و نسيج الوعائي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7f7f3b28-605b-4578-8ef9-35de7121dd1d",
+              "description": "محاضرة عن نسيج البشرة والنسيج الوعائي."
+            },
+            {
+              "title": "المحاضره الرابعة مراجعة الأنسجة النباتية",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c79fbf26-7863-4e5a-ba8d-33b537e0dfad",
+              "description": "مراجعة للأنسجة النباتية."
+            },
+            {
+              "title": "المحاضرة الخامسة الأنسجة الحيوانية",
+              "url": "https://iframe.mediadelivery.net/embed/215061/116acade-9daf-4d53-a0c0-ff8f51e1065a",
+              "description": "محاضرة عن الأنسجة الحيوانية."
+            },
+            {
+              "title": "المحاضرة السادسة الأنسجة الطلائية",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8b99a2ba-3122-42b2-a12c-cfff177c16a4",
+              "description": "محاضرة عن الأنسجة الطلائية."
+            },
+            {
+              "title": "المحاضرة السابعة مراجعة الأنسجة الطلائية",
+              "url": "https://iframe.mediadelivery.net/embed/215061/adc38eb6-9400-4861-8333-c696bd4aca79",
+              "description": "مراجعة للأنسجة الطلائية."
+            },
+            {
+              "title": "المحاضرة الثامنة الأنسجة الضامة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5a0d4df3-eb07-408b-ba70-0cf76662a1d8",
+              "description": "محاضرة عن الأنسجة الضامة."
+            },
+            {
+              "title": "المحاضرة التاسعة أنواع الأنسجة الضامة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8381ee7b-7dd2-4377-a495-94f826acd847",
+              "description": "محاضرة عن أنواع الأنسجة الضامة."
+            },
+            {
+              "title": "المحاضرة العاشرة مراجعة الأنسجة الضامة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bc41d5e0-4791-4b3e-a29f-d560f4268a2f",
+              "description": "مراجعة للأنسجة الضامة."
+            }
           ]
         }
       ]
@@ -2617,259 +3013,258 @@ window.dataAb2026 = {
           "lectures": [
             {
               "title": "المحاضرة الاولى (الخلية)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a61f4f3e-30f4-45e8-bb4b-06c70370f55a",
-          "description": "مقدمة عن الخلية."
+              "url": "https://iframe.mediadelivery.net/embed/215061/a61f4f3e-30f4-45e8-bb4b-06c70370f55a",
+              "description": "مقدمة عن الخلية."
+            },
+            {
+              "title": "المحاضرة الثانية (الخلية بدائية النواة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ea246c9f-0114-4d3e-be49-285e42de6b8b",
+              "description": "محاضرة عن الخلية بدائية النواة."
+            },
+            {
+              "title": "المحاضرة الثالثة (مكونات الخلية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a71542ed-492e-485f-baed-595f05d38a36",
+              "description": "محاضرة عن مكونات الخلية."
+            },
+            {
+              "title": "السايتوبلازم",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1a77f3b1-b04d-4d2d-b818-3ba1709fb3aa",
+              "description": "محاضرة عن السيتوبلازم."
+            },
+            {
+              "title": "المحاضرة الخامسة (المايتوكوندريا و البلاستيدات)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a6b996de-f75a-4118-ae77-2bf4b7263d12",
+              "description": "محاضرة عن المايتوكوندريا والبلاستيدات."
+            },
+            {
+              "title": "المحاضرة السادسة( الجسيمات الحالة و الهيكل الخلوي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a640a716-6c6b-4930-bf95-0a4f57760de2",
+              "description": "محاضرة عن الجسيمات الحالة والهيكل الخلوي."
+            },
+            {
+              "title": "هيكل الخلية والمحتويات غير الحية",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0d39d9d4-760e-4e49-b934-a777eaa60eb6",
+              "description": "محاضرة عن هيكل الخلية والمحتويات غير الحية."
+            },
+            {
+              "title": "المحاضرة الثامنة (النواة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/175f2adf-b271-4b91-afe1-db7e7ee466e4",
+              "description": "محاضرة عن النواة."
+            },
+            {
+              "title": "المحاضرة التاسعة (الانتشار والنفوذية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b8d0ee88-563a-41f0-8a18-bc04546e1358",
+              "description": "محاضرة عن الانتشار والنفوذية."
+            },
+            {
+              "title": "المحاضرة العاشرة (التناضح)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5a96e884-6901-4418-9f24-f74b4e0acf66",
+              "description": "محاضرة عن التناضح."
+            },
+            {
+              "title": "المحاضرة الحادية عشرة (النقل الفعّال، البلعمة، الشرب الخلوي، والإخراج الخلوي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/743f15d7-4c5b-4012-a716-47309257fd20",
+              "description": "محاضرة عن النقل الفعال والبلعمة والشرب الخلوي والإخراج الخلوي."
+            },
+            {
+              "title": "المحاضرة 12 (الأيض الخلوي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/13e802a8-a0cc-4a95-8c66-ed78d1faa79a",
+              "description": "محاضرة عن الأيض الخلوي."
+            },
+            {
+              "title": "المحاضرة 13 (دورة كربس)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4fc36047-a084-4d53-8f44-2082956761b2",
+              "description": "محاضرة عن دورة كربس."
+            },
+            {
+              "title": "المحاضرة 14 (الانقسامات 1)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f8d8aa0e-21eb-4b2a-bb6b-48e18375983e",
+              "description": "الجزء الأول من محاضرة عن الانقسامات الخلوية."
+            },
+            {
+              "title": "المحاضرة 15 (الانقسامات 2)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/53cb5fde-c8ad-46a1-8eee-4f9990a3daed",
+              "description": "الجزء الثاني من محاضرة عن الانقسامات الخلوية."
+            },
+            {
+              "title": "المحاضرة 16 (الانقسامات 3)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3485b50f-0cb3-456b-8716-0a8e69965ab0",
+              "description": "الجزء الثالث من محاضرة عن الانقسامات الخلوية."
+            },
+            {
+              "title": "المحاضرة 17 (الانقسامات 4)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d4fcc14d-7761-4238-b91f-e0e186c80d14",
+              "description": "الجزء الرابع من محاضرة عن الانقسامات الخلوية."
+            },
+            {
+              "title": "المحاضرة 18(مراجعة الفصل الأول)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6400c392-9508-4539-88a5-544f04ce33e5",
+              "description": "مراجعة شاملة للفصل الأول."
+            },
+            {
+              "title": "التكاثر وأنواعه",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bda6ddd9-ff40-4176-b7ef-45f24b0477d3",
+              "description": "محاضرة عن التكاثر وأنواعه."
+            }
+          ]
         },
         {
-          "title": "المحاضرة الثانية (الخلية بدائية النواة)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ea246c9f-0114-4d3e-be49-285e42de6b8b",
-          "description": "محاضرة عن الخلية بدائية النواة."
+          "name": "الأنسجة",
+          "lectures": [
+            {
+              "title": "النسيج: الأنسجة النباتية (النسيج المُرستيمي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1f6ff936-bc75-4bb0-acf5-3c54cff45ef9",
+              "description": "محاضرة عن الأنسجة النباتية، مع التركيز على النسيج الميرستيمي."
+            },
+            {
+              "title": "نسيج البشرة و النسيج الوعائي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/60e84347-ab89-440a-b3d2-fa804db5c10e",
+              "description": "محاضرة عن نسيج البشرة والنسيج الوعائي."
+            },
+            {
+              "title": "نسيج الأساس",
+              "url": "https://iframe.mediadelivery.net/embed/215061/eea8eedb-8193-44d6-848b-af596ea93b71",
+              "description": "محاضرة عن نسيج الأساس."
+            },
+            {
+              "title": "الأنسجة الحيوانية و النسيج الظهاري البسيط",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f0301960-7e79-4cbc-8a99-ca9ee24e2417",
+              "description": "محاضرة عن الأنسجة الحيوانية والنسيج الظهاري البسيط."
+            },
+            {
+              "title": "النسيج الظهاري العمودي الكاذب الطبقي و النسيج الظهاري الطبقي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/72743c13-9f12-4c0e-8fcc-56e91dddb7c5",
+              "description": "محاضرة عن النسيج الظهاري العمودي الكاذب الطبقي والنسيج الظهاري الطبقي."
+            },
+            {
+              "title": "خلايا النسيج الضام",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3a8a7b6b-6796-4c45-833b-eaf2fccae01a",
+              "description": "محاضرة عن خلايا النسيج الضام."
+            },
+            {
+              "title": "النسيج الضام: الألياف، المادة بين الخلوية، والتصنيف",
+              "url": "https://iframe.mediadelivery.net/embed/215061/df627248-204d-44b5-bab0-dcc7344fe1e7",
+              "description": "محاضرة عن ألياف ومكونات النسيج الضام وتصنيفه."
+            },
+            {
+              "title": "أنواع النسيج الضام الرخو",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1389c4c9-b4f4-4467-bb27-2b5428f27092",
+              "description": "محاضرة عن أنواع النسيج الضام الرخو."
+            },
+            {
+              "title": "الغضروف والعظم",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0efd4bd9-a3e1-4eaa-a8cc-0309fa02a12a",
+              "description": "محاضرة عن الغضروف والعظم."
+            },
+            {
+              "title": "خلايا الدم الحمراء وخلايا الدم البيضاء",
+              "url": "https://iframe.mediadelivery.net/embed/215061/06391e8d-36f8-4a6d-a7f5-2129373d052b",
+              "description": "محاضرة عن خلايا الدم الحمراء والبيضاء."
+            },
+            {
+              "title": "الصفيحات الدموية، وبلازما الدم، واللمف",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3a3d66f1-87d1-4252-899b-00051a31d99c",
+              "description": "محاضرة عن الصفيحات الدموية، بلازما الدم، واللمف."
+            },
+            {
+              "title": "النسيج العضلي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b058c828-ae34-4a6f-b2d4-ef69849ef7ab",
+              "description": "محاضرة عن النسيج العضلي."
+            },
+            {
+              "title": "النسيج العصبي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2c16d488-b97d-457c-a283-aba94edc488d",
+              "description": "محاضرة عن النسيج العصبي."
+            },
+            {
+              "title": "رسومات الفصل الثاني",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6a0cf8e2-99d3-4d6d-8bce-3e2b8718e9ea",
+              "description": "محاضرة مخصصة لرسومات الفصل الثاني."
+            },
+            {
+              "title": "حل أسئلة الفصل الثاني",
+              "url": "https://iframe.mediadelivery.net/embed/215061/25cf9412-6f16-4888-82b1-5b1276eb791d",
+              "description": "حل أسئلة الفصل الثاني."
+            },
+            {
+              "title": "المراجعة المركزة/ الفصل الثاني",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5d53da92-bd65-4192-9a4b-f6bb327f7c0f",
+              "description": "مراجعة مركزة للفصل الثاني."
+            }
+          ]
         },
         {
-          "title": "المحاضرة الثالثة (مكونات الخلية)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a71542ed-492e-485f-baed-595f05d38a36",
-          "description": "محاضرة عن مكونات الخلية."
+          "name": "ملخصات",
+          "lectures": [
+            {
+              "title": "ملخص المحاضرة الأولى",
+              "url": "https://iframe.mediadelivery.net/embed/215061/551bfacd-7195-4c17-8f3d-dfcb03e88311",
+              "description": "ملخص للمحاضرة الأولى."
+            },
+            {
+              "title": "ملخص المحاضرة الثانية",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b73dc4ec-86bc-4ced-b180-c3ab302710e4",
+              "description": "ملخص للمحاضرة الثانية."
+            },
+            {
+              "title": "ملخص المحاضرة الثالثة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2e499328-fbb5-42b6-ba00-4e95c2a267d7",
+              "description": "ملخص للمحاضرة الثالثة."
+            },
+            {
+              "title": "ملخص المحاضرة الرابعة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5db0861d-2245-4105-b5a3-7c748db4c7ab",
+              "description": "ملخص للمحاضرة الرابعة."
+            },
+            {
+              "title": "ملخص المحاضرة الخامسة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/eb07081f-5d8b-4daf-ba93-6c65826990ae",
+              "description": "ملخص للمحاضرة الخامسة."
+            },
+            {
+              "title": "ملخص المحاضرة السادسة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f107f11b-b3fb-4f44-bf4a-3ffff6412a9a",
+              "description": "ملخص للمحاضرة السادسة."
+            },
+            {
+              "title": "ملخص المحاضرة السابعة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/389cc4ac-7304-4d82-9642-ad1db8ef3d76",
+              "description": "ملخص للمحاضرة السابعة."
+            },
+            {
+              "title": "ملخص المحاضرة الثامنة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0be42c64-e837-4551-a8b9-afc29ee33b85",
+              "description": "ملخص للمحاضرة الثامنة."
+            },
+            {
+              "title": "مراجعات الباب الأول",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a6ec824f-1813-424d-9e9d-71a19f438010",
+              "description": "مراجعات عامة للباب الأول."
+            },
+            {
+              "title": "مقارنات الباب الأول",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2c4c5fd1-f8c5-4540-a17b-051ba7b7cc5d",
+              "description": "مقارنات مهمة في الباب الأول."
+            }
+          ]
         },
         {
-          "title": "السايتوبلازم",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1a77f3b1-b04d-4d2d-b818-3ba1709fb3aa",
-          "description": "محاضرة عن السيتوبلازم."
-        },
-        {
-          "title": "المحاضرة الخامسة (المايتوكوندريا و البلاستيدات)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a6b996de-f75a-4118-ae77-2bf4b7263d12",
-          "description": "محاضرة عن المايتوكوندريا والبلاستيدات."
-        },
-        {
-          "title": "المحاضرة السادسة( الجسيمات الحالة و الهيكل الخلوي)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a640a716-6c6b-4930-bf95-0a4f57760de2",
-          "description": "محاضرة عن الجسيمات الحالة والهيكل الخلوي."
-        },
-        {
-          "title": "هيكل الخلية والمحتويات غير الحية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0d39d9d4-760e-4e49-b934-a777eaa60eb6",
-          "description": "محاضرة عن هيكل الخلية والمحتويات غير الحية."
-        },
-        {
-          "title": "المحاضرة الثامنة (النواة)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/175f2adf-b271-4b91-afe1-db7e7ee466e4",
-          "description": "محاضرة عن النواة."
-        },
-        {
-          "title": "المحاضرة التاسعة (الانتشار والنفوذية)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b8d0ee88-563a-41f0-8a18-bc04546e1358",
-          "description": "محاضرة عن الانتشار والنفوذية."
-        },
-        {
-          "title": "المحاضرة العاشرة (التناضح)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5a96e884-6901-4418-9f24-f74b4e0acf66",
-          "description": "محاضرة عن التناضح."
-        },
-        {
-          "title": "المحاضرة الحادية عشرة (النقل الفعّال، البلعمة، الشرب الخلوي، والإخراج الخلوي)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/743f15d7-4c5b-4012-a716-47309257fd20",
-          "description": "محاضرة عن النقل الفعال والبلعمة والشرب الخلوي والإخراج الخلوي."
-        },
-        {
-          "title": "المحاضرة 12 (الأيض الخلوي)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/13e802a8-a0cc-4a95-8c66-ed78d1faa79a",
-          "description": "محاضرة عن الأيض الخلوي."
-        },
-        {
-          "title": "المحاضرة 13 (دورة كربس)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4fc36047-a084-4d53-8f44-2082956761b2",
-          "description": "محاضرة عن دورة كربس."
-        },
-        {
-          "title": "المحاضرة 14 (الانقسامات 1)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f8d8aa0e-21eb-4b2a-bb6b-48e18375983e",
-          "description": "الجزء الأول من محاضرة عن الانقسامات الخلوية."
-        },
-        {
-          "title": "المحاضرة 15 (الانقسامات 2)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/53cb5fde-c8ad-46a1-8eee-4f9990a3daed",
-          "description": "الجزء الثاني من محاضرة عن الانقسامات الخلوية."
-        },
-        {
-          "title": "المحاضرة 16 (الانقسامات 3)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3485b50f-0cb3-456b-8716-0a8e69965ab0",
-          "description": "الجزء الثالث من محاضرة عن الانقسامات الخلوية."
-        },
-        {
-          "title": "المحاضرة 17 (الانقسامات 4)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d4fcc14d-7761-4238-b91f-e0e186c80d14",
-          "description": "الجزء الرابع من محاضرة عن الانقسامات الخلوية."
-        },
-        {
-          "title": "المحاضرة 18(مراجعة الفصل الأول)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6400c392-9508-4539-88a5-544f04ce33e5",
-          "description": "مراجعة شاملة للفصل الأول."
-        },
-        {
-          "title": "التكاثر وأنواعه",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bda6ddd9-ff40-4176-b7ef-45f24b0477d3",
-          "description": "محاضرة عن التكاثر وأنواعه."
-        }
-      ]
-    },
-    {
-      "name": "الأنسجة",
-      "lectures": [
-        {
-          "title": "النسيج: الأنسجة النباتية (النسيج المُرستيمي)",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1f6ff936-bc75-4bb0-acf5-3c54cff45ef9",
-          "description": "محاضرة عن الأنسجة النباتية، مع التركيز على النسيج الميرستيمي."
-        },
-        {
-          "title": "نسيج البشرة و النسيج الوعائي",
-          "url": "https://iframe.mediadelivery.net/embed/215061/60e84347-ab89-440a-b3d2-fa804db5c10e",
-          "description": "محاضرة عن نسيج البشرة والنسيج الوعائي."
-        },
-        {
-          "title": "نسيج الأساس",
-          "url": "https://iframe.mediadelivery.net/embed/215061/eea8eedb-8193-44d6-848b-af596ea93b71",
-          "description": "محاضرة عن نسيج الأساس."
-        },
-        {
-          "title": "الأنسجة الحيوانية و النسيج الظهاري البسيط",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f0301960-7e79-4cbc-8a99-ca9ee24e2417",
-          "description": "محاضرة عن الأنسجة الحيوانية والنسيج الظهاري البسيط."
-        },
-        {
-          "title": "النسيج الظهاري العمودي الكاذب الطبقي و النسيج الظهاري الطبقي",
-          "url": "https://iframe.mediadelivery.net/embed/215061/72743c13-9f12-4c0e-8fcc-56e91dddb7c5",
-          "description": "محاضرة عن النسيج الظهاري العمودي الكاذب الطبقي والنسيج الظهاري الطبقي."
-        },
-        {
-          "title": "خلايا النسيج الضام",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3a8a7b6b-6796-4c45-833b-eaf2fccae01a",
-          "description": "محاضرة عن خلايا النسيج الضام."
-        },
-        {
-          "title": "النسيج الضام: الألياف، المادة بين الخلوية، والتصنيف",
-          "url": "https://iframe.mediadelivery.net/embed/215061/df627248-204d-44b5-bab0-dcc7344fe1e7",
-          "description": "محاضرة عن ألياف ومكونات النسيج الضام وتصنيفه."
-        },
-        {
-          "title": "أنواع النسيج الضام الرخو",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1389c4c9-b4f4-4467-bb27-2b5428f27092",
-          "description": "محاضرة عن أنواع النسيج الضام الرخو."
-        },
-        {
-          "title": "الغضروف والعظم",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0efd4bd9-a3e1-4eaa-a8cc-0309fa02a12a",
-          "description": "محاضرة عن الغضروف والعظم."
-        },
-        {
-          "title": "خلايا الدم الحمراء وخلايا الدم البيضاء",
-          "url": "https://iframe.mediadelivery.net/embed/215061/06391e8d-36f8-4a6d-a7f5-2129373d052b",
-          "description": "محاضرة عن خلايا الدم الحمراء والبيضاء."
-        },
-        {
-          "title": "الصفيحات الدموية، وبلازما الدم، واللمف",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3a3d66f1-87d1-4252-899b-00051a31d99c",
-          "description": "محاضرة عن الصفيحات الدموية، بلازما الدم، واللمف."
-        },
-        {
-          "title": "النسيج العضلي",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b058c828-ae34-4a6f-b2d4-ef69849ef7ab",
-          "description": "محاضرة عن النسيج العضلي."
-        },
-        {
-          "title": "النسيج العصبي",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2c16d488-b97d-457c-a283-aba94edc488d",
-          "description": "محاضرة عن النسيج العصبي."
-        },
-        {
-          "title": "رسومات الفصل الثاني",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6a0cf8e2-99d3-4d6d-8bce-3e2b8718e9ea",
-          "description": "محاضرة مخصصة لرسومات الفصل الثاني."
-        },
-        {
-          "title": "حل أسئلة الفصل الثاني",
-          "url": "https://iframe.mediadelivery.net/embed/215061/25cf9412-6f16-4888-82b1-5b1276eb791d",
-          "description": "حل أسئلة الفصل الثاني."
-        },
-        {
-          "title": "المراجعة المركزة/ الفصل الثاني",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5d53da92-bd65-4192-9a4b-f6bb327f7c0f",
-          "description": "مراجعة مركزة للفصل الثاني."
-        }
-      ]
-    },
-    {
-      "name": "ملخصات",
-      "lectures": [
-        {
-          "title": "ملخص المحاضرة الأولى",
-          "url": "https://iframe.mediadelivery.net/embed/215061/551bfacd-7195-4c17-8f3d-dfcb03e88311",
-          "description": "ملخص للمحاضرة الأولى."
-        },
-        {
-          "title": "ملخص المحاضرة الثانية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b73dc4ec-86bc-4ced-b180-c3ab302710e4",
-          "description": "ملخص للمحاضرة الثانية."
-        },
-        {
-          "title": "ملخص المحاضرة الثالثة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2e499328-fbb5-42b6-ba00-4e95c2a267d7",
-          "description": "ملخص للمحاضرة الثالثة."
-        },
-        {
-          "title": "ملخص المحاضرة الرابعة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5db0861d-2245-4105-b5a3-7c748db4c7ab",
-          "description": "ملخص للمحاضرة الرابعة."
-        },
-        {
-          "title": "ملخص المحاضرة الخامسة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/eb07081f-5d8b-4daf-ba93-6c65826990ae",
-          "description": "ملخص للمحاضرة الخامسة."
-        },
-        {
-          "title": "ملخص المحاضرة السادسة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f107f11b-b3fb-4f44-bf4a-3ffff6412a9a",
-          "description": "ملخص للمحاضرة السادسة."
-        },
-        {
-          "title": "ملخص المحاضرة السابعة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/389cc4ac-7304-4d82-9642-ad1db8ef3d76",
-          "description": "ملخص للمحاضرة السابعة."
-        },
-        {
-          "title": "ملخص المحاضرة الثامنة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0be42c64-e837-4551-a8b9-afc29ee33b85",
-          "description": "ملخص للمحاضرة الثامنة."
-        },
-        {
-          "title": "مراجعات الباب الأول",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a6ec824f-1813-424d-9e9d-71a19f438010",
-          "description": "مراجعات عامة للباب الأول."
-        },
-        {
-          "title": "مقارنات الباب الأول",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2c4c5fd1-f8c5-4540-a17b-051ba7b7cc5d",
-          "description": "مقارنات مهمة في الباب الأول."
-        }
-      ]
-    },
-    {
-      "name": "رسومات",
-      "lectures": [
-        {
-          "title": "رسم البكتريا",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1f1510ee-1f01-40e8-9c28-f7dd05dfb96d",
-          "description": "محاضرة عن كيفية رسم البكتيريا."
-        },
-        {
-          "title": "رسم الغشاء البلازمي",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d6fec5f3-27f9-4b4e-ae4d-89d07ff753c4",
-          "description": "محاضرة عن كيفية رسم الغشاء البلازمي."
-        },
-        {
-          "title": "رسم البلاستيدت",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2dad5952-23a8-41f0-befb-c64bcd260e62",
-          "description": "محاضرة عن كيفية رسم البلاستيدات."
-      
+          "name": "رسومات",
+          "lectures": [
+            {
+              "title": "رسم البكتريا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1f1510ee-1f01-40e8-9c28-f7dd05dfb96d",
+              "description": "محاضرة عن كيفية رسم البكتيريا."
+            },
+            {
+              "title": "رسم الغشاء البلازمي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d6fec5f3-27f9-4b4e-ae4d-89d07ff753c4",
+              "description": "محاضرة عن كيفية رسم الغشاء البلازمي."
+            },
+            {
+              "title": "رسم البلاستيدت",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2dad5952-23a8-41f0-befb-c64bcd260e62",
+              "description": "محاضرة عن كيفية رسم البلاستيدات."
             }
           ]
         },
@@ -2899,118 +3294,117 @@ window.dataAb2026 = {
           ]
         },
         {
-
           "name": " التكاثر ",
           "lectures": [
             {
               "title": "التكاثر وأنواعه",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bda6ddd9-ff40-4176-b7ef-45f24b0477d3"
-        },
-        {
-          "title": "تكوين النطف والبويضات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a88a3a87-bbc4-4301-842b-8c588f527437"
-        },
-        {
-          "title": "التكاثر في الفايروسات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e3a39253-d00b-4677-8469-8051e2bb5a97"
-        },
-        {
-          "title": "التكاثر في البكتيريا",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5f7b2951-8c4b-4110-b20f-9f2b1f87f2d5"
-        },
-        {
-          "title": "التكاثر في الكلاميدوموناس واليوغلينا",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c549768a-573b-42fd-9bbf-e8415a942c5f"
-        },
-        {
-          "title": "التكاثر في البرامسيوم",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3a4fea5f-29ee-4b36-a823-19f5cc9c5c4b"
-        },
-        {
-          "title": "التكاثر في الفطريات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/866924d4-1533-4175-9f98-2373d8c411cf"
-        },
-        {
-          "title": "ملخص المحاضرة الأولى",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/551bfacd-7195-4c17-8f3d-dfcb03e88311"
-        },
-        {
-          "title": "ملخص المحاضرة الثانية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b73dc4ec-86bc-4ced-b180-c3ab302710e4"
-        },
-        {
-          "title": "ملخص المحاضرة الثالثة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2e499328-fbb5-42b6-ba00-4e95c2a267d7"
-        },
-        {
-          "title": "ملخص المحاضرة الرابعة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5db0861d-2245-4105-b5a3-7c748db4c7ab"
-        },
-        {
-          "title": "ملخص المحاضرة الخامسة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/eb07081f-5d8b-4daf-ba93-6c65826990ae"
-        },
-        {
-          "title": "ملخص المحاضرة السادسة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f107f11b-b3fb-4f44-bf4a-3ffff6412a9a"
-        },
-        {
-          "title": "ملخص المحاضرة السابعة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/389cc4ac-7304-4d82-9642-ad1db8ef3d76"
-        },
-        {
-          "title": "ملخص المحاضرة الثامنة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0be42c64-e837-4551-a8b9-afc29ee33b85"
-        },
-        {
-          "title": "مراجعات الباب الأول",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a6ec824f-1813-424d-9e9d-71a19f438010"
-        },
-        {
-          "title": "مقارنات الباب الأول",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2c4c5fd1-f8c5-4540-a17b-051ba7b7cc5d"
-        },
-        {
-          "title": "رسم البكتريا",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1f1510ee-1f01-40e8-9c28-f7dd05dfb96d"
-        },
-        {
-          "title": "رسم الغشاء البلازمي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d6fec5f3-27f9-4b4e-ae4d-89d07ff753c4"
-        },
-        {
-          "title": "رسم البلاستيدت",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2dad5952-23a8-41f0-befb-c64bcd260e62"
-        },
-        {
-          "title": "رسم الخلية الحيوانية والنباتية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/176647f1-b92f-4de2-bc7c-40a31a6f6e68"
-        },
-        {
-          "title": "رسومات الباب الأول",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c24f9e05-14b0-4534-aadb-e5a8f91aebfa"
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bda6ddd9-ff40-4176-b7ef-45f24b0477d3"
+            },
+            {
+              "title": "تكوين النطف والبويضات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a88a3a87-bbc4-4301-842b-8c588f527437"
+            },
+            {
+              "title": "التكاثر في الفايروسات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e3a39253-d00b-4677-8469-8051e2bb5a97"
+            },
+            {
+              "title": "التكاثر في البكتيريا",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5f7b2951-8c4b-4110-b20f-9f2b1f87f2d5"
+            },
+            {
+              "title": "التكاثر في الكلاميدوموناس واليوغلينا",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c549768a-573b-42fd-9bbf-e8415a942c5f"
+            },
+            {
+              "title": "التكاثر في البرامسيوم",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3a4fea5f-29ee-4b36-a823-19f5cc9c5c4b"
+            },
+            {
+              "title": "التكاثر في الفطريات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/866924d4-1533-4175-9f98-2373d8c411cf"
+            },
+            {
+              "title": "ملخص المحاضرة الأولى",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/551bfacd-7195-4c17-8f3d-dfcb03e88311"
+            },
+            {
+              "title": "ملخص المحاضرة الثانية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b73dc4ec-86bc-4ced-b180-c3ab302710e4"
+            },
+            {
+              "title": "ملخص المحاضرة الثالثة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2e499328-fbb5-42b6-ba00-4e95c2a267d7"
+            },
+            {
+              "title": "ملخص المحاضرة الرابعة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5db0861d-2245-4105-b5a3-7c748db4c7ab"
+            },
+            {
+              "title": "ملخص المحاضرة الخامسة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/eb07081f-5d8b-4daf-ba93-6c65826990ae"
+            },
+            {
+              "title": "ملخص المحاضرة السادسة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f107f11b-b3fb-4f44-bf4a-3ffff6412a9a"
+            },
+            {
+              "title": "ملخص المحاضرة السابعة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/389cc4ac-7304-4d82-9642-ad1db8ef3d76"
+            },
+            {
+              "title": "ملخص المحاضرة الثامنة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0be42c64-e837-4551-a8b9-afc29ee33b85"
+            },
+            {
+              "title": "مراجعات الباب الأول",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a6ec824f-1813-424d-9e9d-71a19f438010"
+            },
+            {
+              "title": "مقارنات الباب الأول",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2c4c5fd1-f8c5-4540-a17b-051ba7b7cc5d"
+            },
+            {
+              "title": "رسم البكتريا",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1f1510ee-1f01-40e8-9c28-f7dd05dfb96d"
+            },
+            {
+              "title": "رسم الغشاء البلازمي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d6fec5f3-27f9-4b4e-ae4d-89d07ff753c4"
+            },
+            {
+              "title": "رسم البلاستيدت",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2dad5952-23a8-41f0-befb-c64bcd260e62"
+            },
+            {
+              "title": "رسم الخلية الحيوانية والنباتية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/176647f1-b92f-4de2-bc7c-40a31a6f6e68"
+            },
+            {
+              "title": "رسومات الباب الأول",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c24f9e05-14b0-4534-aadb-e5a8f91aebfa"
             }
           ]
         },
@@ -3066,337 +3460,335 @@ window.dataAb2026 = {
           "name": "اليونت الاول",
           "lectures": [
             {
-             "title": "أصبع قدمي ينزف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fd4f3344-d32a-481e-b591-6467def9ffdf"
-        },
-        {
-          "title": "اصبع قدمي ينزف- الجزء الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c231cef1-ba04-4144-b132-fcdf372e7008"
-        },
-        {
-          "title": "Addition of (ing)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/948fe702-a077-4b44-a9bb-263b4e69593a"
-        },
-        {
-          "title": "الجمع (S) إضافة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/dc35c551-71d0-47b4-8ad9-acf162b42fde"
-        },
-        {
-          "title": "Addition of (ed,d,ied)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a7ad9252-934f-440e-ae81-b721f5965c06"
-        },
-        {
-          "title": "أجزاء الجملة الفعلية في اللغة الانجليزية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0d17ee36-155d-4028-9018-b4a8369ed0a6"
-        },
-        {
-          "title": "أدوات الربط",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fb4c38ba-2bf9-4cfd-820c-9f5e8671dc02"
-        },
-        {
-          "title": "وزاريات موضوع أدوات الربط",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/63245858-3f61-43e0-ba7c-c61f31f4ff7e"
-        },
-        {
-          "title": "(ed,ing) الصفات المنتهية ب",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/11857f14-04f9-4586-a364-4469ba4c573e"
-        },
-        {
-          "title": "(ed,ing) حلول أسئلة وزارية على موضوع الصفات المنتهية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5b275e87-9aeb-49fb-9038-04febffab2e2"
-        },
-        {
-          "title": "(ful,fully) الكلمات المنتهية ب",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/37484dc4-20c9-4f37-a575-35a1b2255d38"
-        },
-        {
-          "title": "زيد طارق",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4d6de8bc-8831-4d0c-8c3a-da4280558d30"
-        },
-        {
-          "title": "أسئلة وزارية عن قطعة زيد طارق",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/be7fe6e3-9368-48bb-9ed4-99cbbbff7b09"
-        },
-        {
-          "title": "العبارات الفعلية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b6a26b88-5a2f-4f8f-92ab-55a8669d7a1f"
-        },
-        {
-          "title": "وزاريات عن العبارات الفعلية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e06fcc74-fcec-467b-b800-d59b57011bc6"
-        },
-        {
-          "title": "الاضافات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3114d4a3-fe5f-493d-a010-1ae73cdf5061"
-        },
-        {
-          "title": "المعدود وغير المعدود",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c7eec707-b01e-4732-b3b2-84c1d1a72026"
-        },
-        {
-          "title": "مارس بعض التمارين كل يوم",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/472db03f-d8b0-44e6-b7ee-7a240ae32c42"
-        },
-        {
-          "title": "Used to",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/df97b5ae-15a9-44b0-9543-6b6e880a3df1"
-        },
-        {
-          "title": "Used to وزاريات ال",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c4c4f6ec-c22c-46ec-bd0c-75f9a252f5ac"
-        },
-        {
-          "title": "المقارنة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3955ade1-e887-41ef-80d1-aa495b9f1a34"
-        },
-        {
-          "title": "إنشاء الوحدة الأولى",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cfbd79ac-377f-494e-83a8-d95d26d2025e"
-        },
-        {
-          "title": "مراجعة الوحدة الأولى",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cee89503-d9a7-46e1-ab18-7f5f4d3119da"
-        },
-        {
-          "title": "عَمار",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4723105f-96ae-46ac-97e6-671636e782d9"
-        },
-        {
-          "title": "التمارين المضافة للوحدة الأولى",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3500f258-86f3-4bf1-9ed2-2d4227dfc8a6"
-        },
-        {
-          "title": "سمير رمزي",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e74b5368-fe0a-4219-9295-37fb220fd046"
-        },
-        {
-          "title": "(التمارين المضافة للوحدة الأولى (الجزء الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/82aaca4d-2a8a-4d80-b82c-d887ed93014b"
-        },
-        {
-          "title": "(التمارين المضافة للوحدة الأولى (الجزء الثالث",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/23e76ab0-632e-476e-9a04-1abe59e7312d"
-        },
-        {
-          "title": "رواية كبرياء وتحامل",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/91b116a3-84e6-4d21-bfc3-efc0558491df"
-        },
-        {
-          "title": "نجلة عماد",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/53a8ca4a-7e01-4ae4-8b89-201b8cf50068"
-        },
-        {
-          "title": "رواية كبرياء وتحامل (ج2)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2459c81f-bd62-4f4f-a1d0-2a34695726fb"
-        },
-        {
-          "title": "كيف تقلل من حوادث السيارات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9687ef2e-786a-4594-ae04-a4f3256a5e81"
-           }
+              "title": "أصبع قدمي ينزف",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fd4f3344-d32a-481e-b591-6467def9ffdf"
+            },
+            {
+              "title": "اصبع قدمي ينزف- الجزء الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c231cef1-ba04-4144-b132-fcdf372e7008"
+            },
+            {
+              "title": "Addition of (ing)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/948fe702-a077-4b44-a9bb-263b4e69593a"
+            },
+            {
+              "title": "الجمع (S) إضافة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dc35c551-71d0-47b4-8ad9-acf162b42fde"
+            },
+            {
+              "title": "Addition of (ed,d,ied)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a7ad9252-934f-440e-ae81-b721f5965c06"
+            },
+            {
+              "title": "أجزاء الجملة الفعلية في اللغة الانجليزية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0d17ee36-155d-4028-9018-b4a8369ed0a6"
+            },
+            {
+              "title": "أدوات الربط",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fb4c38ba-2bf9-4cfd-820c-9f5e8671dc02"
+            },
+            {
+              "title": "وزاريات موضوع أدوات الربط",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/63245858-3f61-43e0-ba7c-c61f31f4ff7e"
+            },
+            {
+              "title": "(ed,ing) الصفات المنتهية ب",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/11857f14-04f9-4586-a364-4469ba4c573e"
+            },
+            {
+              "title": "(ed,ing) حلول أسئلة وزارية على موضوع الصفات المنتهية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5b275e87-9aeb-49fb-9038-04febffab2e2"
+            },
+            {
+              "title": "(ful,fully) الكلمات المنتهية ب",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/37484dc4-20c9-4f37-a575-35a1b2255d38"
+            },
+            {
+              "title": "زيد طارق",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4d6de8bc-8831-4d0c-8c3a-da4280558d30"
+            },
+            {
+              "title": "أسئلة وزارية عن قطعة زيد طارق",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/be7fe6e3-9368-48bb-9ed4-99cbbbff7b09"
+            },
+            {
+              "title": "العبارات الفعلية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b6a26b88-5a2f-4f8f-92ab-55a8669d7a1f"
+            },
+            {
+              "title": "وزاريات عن العبارات الفعلية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e06fcc74-fcec-467b-b800-d59b57011bc6"
+            },
+            {
+              "title": "الاضافات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3114d4a3-fe5f-493d-a010-1ae73cdf5061"
+            },
+            {
+              "title": "المعدود وغير المعدود",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c7eec707-b01e-4732-b3b2-84c1d1a72026"
+            },
+            {
+              "title": "مارس بعض التمارين كل يوم",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/472db03f-d8b0-44e6-b7ee-7a240ae32c42"
+            },
+            {
+              "title": "Used to",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/df97b5ae-15a9-44b0-9543-6b6e880a3df1"
+            },
+            {
+              "title": "Used to وزاريات ال",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c4c4f6ec-c22c-46ec-bd0c-75f9a252f5ac"
+            },
+            {
+              "title": "المقارنة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3955ade1-e887-41ef-80d1-aa495b9f1a34"
+            },
+            {
+              "title": "إنشاء الوحدة الأولى",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cfbd79ac-377f-494e-83a8-d95d26d2025e"
+            },
+            {
+              "title": "مراجعة الوحدة الأولى",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cee89503-d9a7-46e1-ab18-7f5f4d3119da"
+            },
+            {
+              "title": "عَمار",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4723105f-96ae-46ac-97e6-671636e782d9"
+            },
+            {
+              "title": "التمارين المضافة للوحدة الأولى",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3500f258-86f3-4bf1-9ed2-2d4227dfc8a6"
+            },
+            {
+              "title": "سمير رمزي",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e74b5368-fe0a-4219-9295-37fb220fd046"
+            },
+            {
+              "title": "(التمارين المضافة للوحدة الأولى (الجزء الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/82aaca4d-2a8a-4d80-b82c-d887ed93014b"
+            },
+            {
+              "title": "(التمارين المضافة للوحدة الأولى (الجزء الثالث",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/23e76ab0-632e-476e-9a04-1abe59e7312d"
+            },
+            {
+              "title": "رواية كبرياء وتحامل",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/91b116a3-84e6-4d21-bfc3-efc0558491df"
+            },
+            {
+              "title": "نجلة عماد",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/53a8ca4a-7e01-4ae4-8b89-201b8cf50068"
+            },
+            {
+              "title": "رواية كبرياء وتحامل (ج2)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2459c81f-bd62-4f4f-a1d0-2a34695726fb"
+            },
+            {
+              "title": "كيف تقلل من حوادث السيارات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9687ef2e-786a-4594-ae04-a4f3256a5e81"
+            }
           ]
         },
         {
- "name": "اليونت الثاني",
+          "name": "اليونت الثاني",
           "lectures": [
             {
-         "title": "وزاريات الضرورة وعدم الضرورة والإلزام.",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a8a89d41-de42-42ab-a2a2-99fe6a309a3e"
-        },
-        {
-          "title": "النصيحة والتوقع.",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1a3222ec-687a-4b49-ac11-7fdfd28edeb6"
-        },
-        {
-          "title": "وزاريات النصيحة والتوقع.",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f3cac7c9-5cb9-45d8-9d5e-12c21600d99b"
-        },
-        {
-          "title": "تمارين الوحدة الثانية الجزء الأول",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fdba0cd4-f703-47e4-a7e8-ffd143949cfe"
-        },
-        {
-          "title": "تمارين الوحدة الثانية - الجزء الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0fb0f016-6e4e-4abf-a9b9-11cbde06df47"
-        },
-        {
-          "title": "الطلب المؤدب والاقتراح",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/13633eb5-9041-47af-913a-467168642e96"
-        },
-        {
-          "title": "العرض وبعض الاسئلة الوزارية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/06baa087-b18a-495d-97e7-a916a20007a9"
-        },
-        {
-          "title": "تمارين الوحدة الثانية - الجزء الثالث",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5e829e2a-1df2-40e0-8e27-09979aef5c79"
-        },
-        {
-          "title": "تمارين الوحدة الثانية - الجزء الرابع",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e0ddcc4f-aa8b-4b57-9799-cbb9494cb0e3"
-        },
-        {
-         "title": "تمارين الوحدة الثانية - الجزء الخامس",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/71d3f210-b562-405a-9e05-f499c37eb8a8"
-        },
-        {
-          "title": "الأفعال السببية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e9e7ed5e-f6d2-4dd3-b37a-2c78ff47228c"
-        },
-        {
-          "title": "وزاريات الأفعال السببية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a4fb8eb6-d6d8-4008-ba14-b704fe53e666"
-        },
-        {
-          "title": "إنشاء الوحدة الثانية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3d88ddbd-4194-46ac-a89d-73e7f8e71ce4"
-        },
-        {
-          "title": "مراجعة الوحدة الثانية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2e699017-d860-49ad-956b-bba31d754b53"
-        },
-        {
-          "title": "واجبات ضابط الشرطة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b677870c-09b5-4781-a4fb-ba52c94e6a86"
-        },
-        {
-          "title": "التمارين المضافة للوحدة الثانية (ج1)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d355ac78-a26b-43ce-9974-e1053341aebd"
-        },
-        {
-          "title": "التمارين المضافة للوحدة الثانية (ج2)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c512e03b-4939-4bb5-acd8-4a813107cc5a"
-        },
-        {
-          "title": "رواية كبرياء وتحامل (ج3)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/715efb00-217f-42cb-bb00-f246a0033293"
-        },
-        {
-          "title": "السرقة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c558c79a-2839-4082-b446-f2db702385a8"
-        },
-        {
-          "title": "كراسة السلامة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e34bf693-e16a-4d04-a8ee-1fba89e3ef44"
-   }
+              "title": "وزاريات الضرورة وعدم الضرورة والإلزام.",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a8a89d41-de42-42ab-a2a2-99fe6a309a3e"
+            },
+            {
+              "title": "النصيحة والتوقع.",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1a3222ec-687a-4b49-ac11-7fdfd28edeb6"
+            },
+            {
+              "title": "وزاريات النصيحة والتوقع.",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f3cac7c9-5cb9-45d8-9d5e-12c21600d99b"
+            },
+            {
+              "title": "تمارين الوحدة الثانية الجزء الأول",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fdba0cd4-f703-47e4-a7e8-ffd143949cfe"
+            },
+            {
+              "title": "تمارين الوحدة الثانية - الجزء الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0fb0f016-6e4e-4abf-a9b9-11cbde06df47"
+            },
+            {
+              "title": "الطلب المؤدب والاقتراح",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/13633eb5-9041-47af-913a-467168642e96"
+            },
+            {
+              "title": "العرض وبعض الاسئلة الوزارية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/06baa087-b18a-495d-97e7-a916a20007a9"
+            },
+            {
+              "title": "تمارين الوحدة الثانية - الجزء الثالث",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5e829e2a-1df2-40e0-8e27-09979aef5c79"
+            },
+            {
+              "title": "تمارين الوحدة الثانية - الجزء الرابع",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e0ddcc4f-aa8b-4b57-9799-cbb9494cb0e3"
+            },
+            {
+              "title": "تمارين الوحدة الثانية - الجزء الخامس",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/71d3f210-b562-405a-9e05-f499c37eb8a8"
+            },
+            {
+              "title": "الأفعال السببية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e9e7ed5e-f6d2-4dd3-b37a-2c78ff47228c"
+            },
+            {
+              "title": "وزاريات الأفعال السببية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a4fb8eb6-d6d8-4008-ba14-b704fe53e666"
+            },
+            {
+              "title": "إنشاء الوحدة الثانية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3d88ddbd-4194-46ac-a89d-73e7f8e71ce4"
+            },
+            {
+              "title": "مراجعة الوحدة الثانية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2e699017-d860-49ad-956b-bba31d754b53"
+            },
+            {
+              "title": "واجبات ضابط الشرطة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b677870c-09b5-4781-a4fb-ba52c94e6a86"
+            },
+            {
+              "title": "التمارين المضافة للوحدة الثانية (ج1)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d355ac78-a26b-43ce-9974-e1053341aebd"
+            },
+            {
+              "title": "التمارين المضافة للوحدة الثانية (ج2)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c512e03b-4939-4bb5-acd8-4a813107cc5a"
+            },
+            {
+              "title": "رواية كبرياء وتحامل (ج3)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/715efb00-217f-42cb-bb00-f246a0033293"
+            },
+            {
+              "title": "السرقة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c558c79a-2839-4082-b446-f2db702385a8"
+            },
+            {
+              "title": "كراسة السلامة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e34bf693-e16a-4d04-a8ee-1fba89e3ef44"
+            }
           ]
         },
         {
- "name": "اليونت الثالث",
+          "name": "اليونت الثالث",
           "lectures": [
             {
-          "title": "تصريفات الأفعال (المجموعة الأولى)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9a94f8b1-fbda-48c9-8cb1-f983b4ed6e9f"
-        },
-        {
-          "title": "تصريفات الأفعال (المجموعة الثانية)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6ff54bf6-ba8a-457b-be6b-e9cc39a0f8e5"
-        },
-        {
-          "title": "ملاحظات عن القطعة الخارجية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a34fb392-b508-4c5d-8ecd-692623ceedea"
-        },
-        {
-          "title": "تعاريف المهن",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/46deaa44-b52a-404a-8437-8baf8209996e"
-        },
-        {
-          "title": "وزاريات تعاريف المهن",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1125954c-f281-481b-a874-678208dd5289"
-        },
-        {
-          "title": "الشرطية If حالات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/610df750-42c6-4d37-9f87-f8ef38814611"
-        },
-        {
-          "title": "سأكون دائما فخورة به",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a2409a2c-52ce-408b-841e-c8794f3c4490"
-        },
-        {
-          "title": "الشرطية If (الحالة الأولى)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/475e05dd-7200-4b20-9c10-383442ecbde4"
-        },
-        {
-          "title": "وزاريات الحالة الصفرية والحالة الأولى",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/81930590-03eb-4214-acfc-75fd8afc8d58"
-        },
-        {
-          "title": "الشرطية If (الحالة الثانية)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/44aa70ea-28fa-4254-823d-9c03495ae864"
-        },
-        {
-          "title": "الشرطية If (الحالة الثالثة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/93045e39-7243-46af-8206-ce50cdc9b2b0"
-        },
-        {
-          "title": "الشرطية If (الحالة الثانية والحالة الثالثة) وزاريات",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d6269ef1-fe5d-4d60-91dd-81adc7700675"
-
-
- }
+              "title": "تصريفات الأفعال (المجموعة الأولى)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9a94f8b1-fbda-48c9-8cb1-f983b4ed6e9f"
+            },
+            {
+              "title": "تصريفات الأفعال (المجموعة الثانية)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6ff54bf6-ba8a-457b-be6b-e9cc39a0f8e5"
+            },
+            {
+              "title": "ملاحظات عن القطعة الخارجية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a34fb392-b508-4c5d-8ecd-692623ceedea"
+            },
+            {
+              "title": "تعاريف المهن",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/46deaa44-b52a-404a-8437-8baf8209996e"
+            },
+            {
+              "title": "وزاريات تعاريف المهن",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/1125954c-f281-481b-a874-678208dd5289"
+            },
+            {
+              "title": "الشرطية If حالات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/610df750-42c6-4d37-9f87-f8ef38814611"
+            },
+            {
+              "title": "سأكون دائما فخورة به",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a2409a2c-52ce-408b-841e-c8794f3c4490"
+            },
+            {
+              "title": "الشرطية If (الحالة الأولى)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/475e05dd-7200-4b20-9c10-383442ecbde4"
+            },
+            {
+              "title": "وزاريات الحالة الصفرية والحالة الأولى",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/81930590-03eb-4214-acfc-75fd8afc8d58"
+            },
+            {
+              "title": "الشرطية If (الحالة الثانية)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/44aa70ea-28fa-4254-823d-9c03495ae864"
+            },
+            {
+              "title": "الشرطية If (الحالة الثالثة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/93045e39-7243-46af-8206-ce50cdc9b2b0"
+            },
+            {
+              "title": "الشرطية If (الحالة الثانية والحالة الثالثة) وزاريات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d6269ef1-fe5d-4d60-91dd-81adc7700675"
+            }
           ]
         }
       ]
@@ -3510,119 +3902,119 @@ window.dataAb2026 = {
           "name": "الاعداد المركبة",
           "lectures": [
             {
-             "title": "المحاضرة الأولى (مقدمة الأعداد المركبة)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/6a3d1d7e-b65f-42e3-8527-29b49b884461",
-    "description": "﴿ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴾ [الشرح: 6]"
-  },
-  {
-    "title": "المحاضرة الثانية (قوى)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/f99cff8d-444a-4e8a-a18e-3a366f36e0ec",
-    "description": "﴿ وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ ﴾ [البقرة: 284]"
-  },
-  {
-    "title": "المحاضرة الثالثة (العدد المركب)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/bb28df57-1079-49a5-b611-9ebc96571103",
-    "description": "﴿ وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ﴾ [هود: 88]"
-  },
-  {
-    "title": "المحاضرة الرابعة (العمليات الحسابية على مجموعة الأعداد المركبة الجزء الأول)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/c82a0bd8-8f4b-4521-9755-397f82a45f08",
-    "description": "﴿ إِنَّ اللَّهَ لا يُضِيعُ أَجْرَ الْمُحْسِنِينَ ﴾ [التوبة: 120]"
-  },
-  {
-    "title": "المحاضرة الخامسة (العمليات الحسابية على مجموعة الأعداد المركبة الجزء الثاني)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/4681eb5e-feaf-4420-b922-ffb2b710010f",
-    "description": "﴿ وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ﴾ [النحل: 127]"
-  },
-  {
-    "title": "المحاضرة السادسة (الأقواس في الاعداد المركبة)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/4dc5c6b3-54e7-4574-bac9-3386290af8a2",
-    "description": "﴿ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ ﴾ [البقرة: 153]"
-  },
-  {
-    "title": "المحاضرة السابعة (الأقواس في الاعداد المركبة - الجزء الثاني)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/e28b7f49-92d7-4207-b5c8-3733f73ec593",
-    "description": "﴿ وَقُلْ رَبِّ زِدْنِي عِلْمًا ﴾ [طه: 114]"
-  },
-  {
-    "title": "المحاضرة الثامنة (جمع وطرح الكسور في الأعداد المركبة)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/b6aa3ef5-82a2-46b3-98a2-89313e0360b1",
-    "description": "﴿ وَاللَّهُ سَرِيعُ الْحِسَابِ ﴾ [آل عمران: 199]"
-  },
-  {
-    "title": "المحاضرة التاسعة (الاعداد المركبة - الاسئلة الخاصة بالاثبات)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/76969b88-4e83-479e-8583-eee00e4f6154",
-    "description": "﴿ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ ﴾ [آل عمران: 159]"
-  },
-  {
-    "title": "المحاضرة العاشرة (حل مسائل الإثبات وشرح خواص مرافق العدد المركب)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/527977fc-23da-4831-8b50-0210969f4a98",
-    "description": "﴿ وَاللَّهُ غَالِبٌ عَلَى أَمْرِهِ ﴾ [يوسف: 21]"
-  },
-  {
-    "title": "المحاضرة الحادية عشرة (التحليل في مجموعة الاعداد المركبة)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/3b533b3c-d386-4f9b-aca9-511b6c25393e",
-    "description": "﴿ وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا ﴾ [الطلاق: 2]"
-  },
-  {
-    "title": "المحاضرة الثانية عشرة (تساوي العددين المركبين)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/616f86b2-a381-49b9-8880-47e53c99afc4",
-    "description": "﴿ إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ ﴾ [هود: 61]"
-  },
-  {
-    "title": "المحاضرة الثالثة عشرة (تساوي العددين المركبين)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/8aeacdbd-ac54-4eff-923b-93e067f89a5f",
-    "description": "﴿ إِنَّهُ كَانَ لَطِيفًا خَبِيرًا ﴾ [الملك: 14]"
-  },
-  {
-    "title": "المحاضرة الرابعة عشرة (تساوي العددين المركبين - الحالة الثانية)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/9a4b3ed2-0c20-4d32-b75f-348ccf56dd5e",
-    "description": "﴿ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ﴾ [الزمر: 53]"
-  },
-  {
-    "title": "المحاضرة الخامسة عشرة (تساوي العددين المركبين - الحالة الثالثة)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/134157f8-a25c-43a9-9c21-e506f7feb4db",
-    "description": "﴿ نَرْفَعُ دَرَجَاتٍ مَّن نَّشَاءُ ﴾ [يوسف: 76]"
-  },
-  {
-    "title": "المحاضرة السادسة عشرة (تساوي عددين مركبين)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/a0010917-0055-44e2-b796-4d0ebb207b09",
-    "description": "﴿ إِنَّ اللَّهَ يُحِبُّ الْمُتَطَهِّرِينَ ﴾ [البقرة: 222]"
-  },
-  {
-    "title": "المحاضرة السابعة عشرة (ايجاد قيم x,y ∈ R إذا عُلم أن العددان مترافقان)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/45e52b0e-6a9d-447b-8b09-21c54c2a6560",
-    "description": "﴿ وَالْعَاقِبَةُ لِلْمُتَّقِينَ ﴾ [الأعراف: 128]"
-  },
-  {
-    "title": "المحاضرة الثامنة عشرة (إيجاد الجذور التربيعية للأعداد المركبة)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/3be79f88-0597-4ce7-8827-ea531fd2cb40",
-    "description": "﴿ رَبِّ اشْرَحْ لِي صَدْرِي ﴾ [طه: 25]"
-  },
-  {
-    "title": "المحاضرة التاسعة عشرة (إيجاد الجذور التربيعية للأعداد المركبة - الجزء الثاني)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/2a713325-4323-47af-8783-1fe695027186",
-    "description": "﴿ وَقُلْ عَمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ ﴾ [التوبة: 105]"
-  },
-  {
-    "title": "المحاضرة العشرون (حل المعادلة التربيعية في مجموعة الأعداد المركبة - الجزء الأول)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/11657ede-f129-4f5d-8514-0910f04b1f38",
-    "description": "﴿ وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ ﴾ [التغابن: 11]"
-  },
-  {
-    "title": "المحاضرة الواحدة والعشرون (حل المعادلة التربيعية في مجموعة الأعداد المركبة - الجزء الثاني)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/4d00022f-fe54-450e-96ae-1540764d4643",
-    "description": "﴿ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ ﴾ [الشورى: 11]"
-  },
-  {
-    "title": "المحاضرة الثانية والعشرون (تكوين المعادلة التربيعية)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/2d41d0cf-bf86-43f3-8cf2-656bd5899709",
-    "description": "﴿ وَمَا كَانَ رَبُّكَ نَسِيًّا ﴾ [مريم: 64]"
-  },
-  {
-    "title": "المحاضرة الثالثة والعشرون (ايجاد قيم الثوابت في المعادلة التربيعية)",
-    "url": "https://iframe.mediadelivery.net/embed/215061/709e6610-369e-440a-a19b-00475ea0ab02",
-    "description": "﴿ فَصَبْرٌ جَمِيلٌ ﴾ [يوسف: 18]"
+              "title": "المحاضرة الأولى (مقدمة الأعداد المركبة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6a3d1d7e-b65f-42e3-8527-29b49b884461",
+              "description": "﴿ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴾ [الشرح: 6]"
+            },
+            {
+              "title": "المحاضرة الثانية (قوى)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f99cff8d-444a-4e8a-a18e-3a366f36e0ec",
+              "description": "﴿ وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ ﴾ [البقرة: 284]"
+            },
+            {
+              "title": "المحاضرة الثالثة (العدد المركب)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bb28df57-1079-49a5-b611-9ebc96571103",
+              "description": "﴿ وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ﴾ [هود: 88]"
+            },
+            {
+              "title": "المحاضرة الرابعة (العمليات الحسابية على مجموعة الأعداد المركبة الجزء الأول)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c82a0bd8-8f4b-4521-9755-397f82a45f08",
+              "description": "﴿ إِنَّ اللَّهَ لا يُضِيعُ أَجْرَ الْمُحْسِنِينَ ﴾ [التوبة: 120]"
+            },
+            {
+              "title": "المحاضرة الخامسة (العمليات الحسابية على مجموعة الأعداد المركبة الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4681eb5e-feaf-4420-b922-ffb2b710010f",
+              "description": "﴿ وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ﴾ [النحل: 127]"
+            },
+            {
+              "title": "المحاضرة السادسة (الأقواس في الاعداد المركبة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4dc5c6b3-54e7-4574-bac9-3386290af8a2",
+              "description": "﴿ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ ﴾ [البقرة: 153]"
+            },
+            {
+              "title": "المحاضرة السابعة (الأقواس في الاعداد المركبة - الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e28b7f49-92d7-4207-b5c8-3733f73ec593",
+              "description": "﴿ وَقُلْ رَبِّ زِدْنِي عِلْمًا ﴾ [طه: 114]"
+            },
+            {
+              "title": "المحاضرة الثامنة (جمع وطرح الكسور في الأعداد المركبة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b6aa3ef5-82a2-46b3-98a2-89313e0360b1",
+              "description": "﴿ وَاللَّهُ سَرِيعُ الْحِسَابِ ﴾ [آل عمران: 199]"
+            },
+            {
+              "title": "المحاضرة التاسعة (الاعداد المركبة - الاسئلة الخاصة بالاثبات)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/76969b88-4e83-479e-8583-eee00e4f6154",
+              "description": "﴿ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ ﴾ [آل عمران: 159]"
+            },
+            {
+              "title": "المحاضرة العاشرة (حل مسائل الإثبات وشرح خواص مرافق العدد المركب)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/527977fc-23da-4831-8b50-0210969f4a98",
+              "description": "﴿ وَاللَّهُ غَالِبٌ عَلَى أَمْرِهِ ﴾ [يوسف: 21]"
+            },
+            {
+              "title": "المحاضرة الحادية عشرة (التحليل في مجموعة الاعداد المركبة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3b533b3c-d386-4f9b-aca9-511b6c25393e",
+              "description": "﴿ وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا ﴾ [الطلاق: 2]"
+            },
+            {
+              "title": "المحاضرة الثانية عشرة (تساوي العددين المركبين)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/616f86b2-a381-49b9-8880-47e53c99afc4",
+              "description": "﴿ إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ ﴾ [هود: 61]"
+            },
+            {
+              "title": "المحاضرة الثالثة عشرة (تساوي العددين المركبين)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8aeacdbd-ac54-4eff-923b-93e067f89a5f",
+              "description": "﴿ إِنَّهُ كَانَ لَطِيفًا خَبِيرًا ﴾ [الملك: 14]"
+            },
+            {
+              "title": "المحاضرة الرابعة عشرة (تساوي العددين المركبين - الحالة الثانية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9a4b3ed2-0c20-4d32-b75f-348ccf56dd5e",
+              "description": "﴿ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ﴾ [الزمر: 53]"
+            },
+            {
+              "title": "المحاضرة الخامسة عشرة (تساوي العددين المركبين - الحالة الثالثة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/134157f8-a25c-43a9-9c21-e506f7feb4db",
+              "description": "﴿ نَرْفَعُ دَرَجَاتٍ مَّن نَّشَاءُ ﴾ [يوسف: 76]"
+            },
+            {
+              "title": "المحاضرة السادسة عشرة (تساوي عددين مركبين)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a0010917-0055-44e2-b796-4d0ebb207b09",
+              "description": "﴿ إِنَّ اللَّهَ يُحِبُّ الْمُتَطَهِّرِينَ ﴾ [البقرة: 222]"
+            },
+            {
+              "title": "المحاضرة السابعة عشرة (ايجاد قيم x,y ∈ R إذا عُلم أن العددان مترافقان)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/45e52b0e-6a9d-447b-8b09-21c54c2a6560",
+              "description": "﴿ وَالْعَاقِبَةُ لِلْمُتَّقِينَ ﴾ [الأعراف: 128]"
+            },
+            {
+              "title": "المحاضرة الثامنة عشرة (إيجاد الجذور التربيعية للأعداد المركبة)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3be79f88-0597-4ce7-8827-ea531fd2cb40",
+              "description": "﴿ رَبِّ اشْرَحْ لِي صَدْرِي ﴾ [طه: 25]"
+            },
+            {
+              "title": "المحاضرة التاسعة عشرة (إيجاد الجذور التربيعية للأعداد المركبة - الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2a713325-4323-47af-8783-1fe695027186",
+              "description": "﴿ وَقُلْ عَمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ ﴾ [التوبة: 105]"
+            },
+            {
+              "title": "المحاضرة العشرون (حل المعادلة التربيعية في مجموعة الأعداد المركبة - الجزء الأول)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/11657ede-f129-4f5d-8514-0910f04b1f38",
+              "description": "﴿ وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ ﴾ [التغابن: 11]"
+            },
+            {
+              "title": "المحاضرة الواحدة والعشرون (حل المعادلة التربيعية في مجموعة الأعداد المركبة - الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4d00022f-fe54-450e-96ae-1540764d4643",
+              "description": "﴿ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ ﴾ [الشورى: 11]"
+            },
+            {
+              "title": "المحاضرة الثانية والعشرون (تكوين المعادلة التربيعية)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2d41d0cf-bf86-43f3-8cf2-656bd5899709",
+              "description": "﴿ وَمَا كَانَ رَبُّكَ نَسِيًّا ﴾ [مريم: 64]"
+            },
+            {
+              "title": "المحاضرة الثالثة والعشرون (ايجاد قيم الثوابت في المعادلة التربيعية)",
+              "url": "https://player.vdocipher.com/v2/?otp=20160313versASE3231f1goKkn0h8gcRrtvKKkjekvkqSmpJyoF7fsTTfQeh0NVw&playbackInfo=eyJ2aWRlb0lkIjoiYWQyYmI5Y2QzNWM1NDExMjk0NDk4MzE4MTgwZDYwYzgifQ==&player=fT72dGdGbvY8TEqw",
+              "description": "﴿ فَصَبْرٌ جَمِيلٌ ﴾ [يوسف: 18]"
             }
           ]
         }
@@ -3699,108 +4091,108 @@ window.dataAb2026 = {
           "lectures": [
             {
               "title": "تعريف الاستفهام وحروفه",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/e774c265-4a30-4b72-bc9a-97689fd61b9a"
-      },
-      {
-        "title": "دلالات اسماء الاستفهام - الجزء الاول",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/f1a5241b-45a3-4e20-99a5-04ea44fb8d8b"
-      },
-      {
-        "title": "دلالات اسماء الاستفهام - الجزء الثاني",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/34278a99-db9a-45c8-a9de-3f2eae09ffc4"
-      },
-      {
-        "title": "أنواع الاستفهام",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/e7b0a67b-dc07-4960-afbb-36fef642b3b6"
-      },
-      {
-        "title": "أنواع (أم)",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/09b98643-cb4e-4cdf-a72a-bffd36ce82b5"
-      },
-      {
-        "title": "كيفية صياغة جملة استفهامية (الجزء الاول)",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/45a289df-0c0e-44ba-ac29-a8cd69f74e33"
-      },
-      {
-        "title": "كيفية صياغة جملة استفهامية (الجزء الثاني)",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/3e57f5f8-8b5d-40e1-8951-bc4153c0335e"
-      },
-      {
-        "title": "تحويل الاستفهام التصوري إلى استفهام تصديقي والعكس",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/89451523-44ff-4288-ab46-61355f2b0610"
-      },
-      {
-        "title": "خصائص الهمزة وهل - الجزء الاول",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/5aa4f852-704f-453f-9193-f7c910b3f466"
-      },
-      {
-        "title": "خصائص الهمزة وهل - الجزء الثاني",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/6bbf8d26-8a5b-4d54-82cd-279d200031c9"
-      },
-      {
-        "title": "الاستفهام المجازي",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/d94f9b17-57a2-492f-8abd-49b320d93643"
-      },
-      {
-        "title": "اعراب اسماء الاستفهام الدالة على الذات - الجزء الاول",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/8c3951ae-84b7-4f5a-8759-25c5bfdf70b2"
-      },
-      {
-        "title": "إعراب أسماء الاستفهام الدالة على الذات - الجزء الثاني",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/e5d1d7ed-3409-427b-aad4-146187221428"
-      },
-      {
-        "title": "اعراب اسماء الاستفهام الدالة على الذات -الجزء الثالث",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/b69d8f71-b0f2-4e65-8586-cd57bf66f7e6"
-      },
-      {
-        "title": "اعراب ما يدل على الزمان وما يدل على المكان",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/6d926ffa-e1f2-4998-8f66-ad1311bb188c"
-      },
-      {
-        "title": "إعرابُ أسماءِ الاستفهامِ الدالّةِ على الحالِ",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/e3ad4ede-78c6-4ead-ad67-1e89d30339a2"
-      },
-      {
-        "title": "إعراب كم",
-      "url": "https://iframe.mediadelivery.net/embed/215061/85da9e9b-d73e-4c6c-89a7-a1f8395f2ea2",
-      "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-    },
-    {
-      "title": "إعراب اسم الاستفهام “أيّ",
-      "url": "https://iframe.mediadelivery.net/embed/215061/10fa9d21-9055-4505-8041-1d896a5b9cdf",
-      "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-    },
-    {
-      "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الأول)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/6835f715-1d64-49b1-a28b-402061693b2b",
-      "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-    },
-    {
-      "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الثاني)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/ec324e0e-e19d-4433-9677-ad2b7e621d1f",
-      "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
-    },
-    {
-      "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الثالث)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/dc9b9094-f62b-414f-a619-a1109e66c9b0",
-      "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e774c265-4a30-4b72-bc9a-97689fd61b9a"
+            },
+            {
+              "title": "دلالات اسماء الاستفهام - الجزء الاول",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f1a5241b-45a3-4e20-99a5-04ea44fb8d8b"
+            },
+            {
+              "title": "دلالات اسماء الاستفهام - الجزء الثاني",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/34278a99-db9a-45c8-a9de-3f2eae09ffc4"
+            },
+            {
+              "title": "أنواع الاستفهام",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e7b0a67b-dc07-4960-afbb-36fef642b3b6"
+            },
+            {
+              "title": "أنواع (أم)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/09b98643-cb4e-4cdf-a72a-bffd36ce82b5"
+            },
+            {
+              "title": "كيفية صياغة جملة استفهامية (الجزء الاول)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/45a289df-0c0e-44ba-ac29-a8cd69f74e33"
+            },
+            {
+              "title": "كيفية صياغة جملة استفهامية (الجزء الثاني)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3e57f5f8-8b5d-40e1-8951-bc4153c0335e"
+            },
+            {
+              "title": "تحويل الاستفهام التصوري إلى استفهام تصديقي والعكس",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/89451523-44ff-4288-ab46-61355f2b0610"
+            },
+            {
+              "title": "خصائص الهمزة وهل - الجزء الاول",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5aa4f852-704f-453f-9193-f7c910b3f466"
+            },
+            {
+              "title": "خصائص الهمزة وهل - الجزء الثاني",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6bbf8d26-8a5b-4d54-82cd-279d200031c9"
+            },
+            {
+              "title": "الاستفهام المجازي",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d94f9b17-57a2-492f-8abd-49b320d93643"
+            },
+            {
+              "title": "اعراب اسماء الاستفهام الدالة على الذات - الجزء الاول",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8c3951ae-84b7-4f5a-8759-25c5bfdf70b2"
+            },
+            {
+              "title": "إعراب أسماء الاستفهام الدالة على الذات - الجزء الثاني",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e5d1d7ed-3409-427b-aad4-146187221428"
+            },
+            {
+              "title": "اعراب اسماء الاستفهام الدالة على الذات -الجزء الثالث",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b69d8f71-b0f2-4e65-8586-cd57bf66f7e6"
+            },
+            {
+              "title": "اعراب ما يدل على الزمان وما يدل على المكان",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6d926ffa-e1f2-4998-8f66-ad1311bb188c"
+            },
+            {
+              "title": "إعرابُ أسماءِ الاستفهامِ الدالّةِ على الحالِ",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e3ad4ede-78c6-4ead-ad67-1e89d30339a2"
+            },
+            {
+              "title": "إعراب كم",
+              "url": "https://iframe.mediadelivery.net/embed/215061/85da9e9b-d73e-4c6c-89a7-a1f8395f2ea2",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "إعراب اسم الاستفهام “أيّ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/10fa9d21-9055-4505-8041-1d896a5b9cdf",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الأول)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6835f715-1d64-49b1-a28b-402061693b2b",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الثاني)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ec324e0e-e19d-4433-9677-ad2b7e621d1f",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الثالث)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dc9b9094-f62b-414f-a619-a1109e66c9b0",
+              "description": "{وأن ليس للإنسان إلا ما سعى} ✨"
             }
           ]
         },
@@ -3808,55 +4200,55 @@ window.dataAb2026 = {
           "name": "الادب الحديث (الفصل الاول)",
           "lectures": [
             {
-             "title": "الادب الحديث",
-      "url": "https://iframe.mediadelivery.net/embed/215061/643e25ec-6049-4da5-9a3a-f5aab7c197f3",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "الشعر الحديث ومدرسة الإحياء",
-      "url": "https://iframe.mediadelivery.net/embed/215061/5c8c6209-e070-40a5-86fe-745a19ca2cff",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "محمد سعيد الحبوبي",
-      "url": "https://iframe.mediadelivery.net/embed/215061/5f3aa016-b775-458e-b541-855a9a198661",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "محمد سعيد الحبوبي:- التعليق النقدي",
-      "url": "https://iframe.mediadelivery.net/embed/215061/bcbdbe56-60b2-4202-b850-c2e980e40faf",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "علي الشرقي",
-      "url": "https://iframe.mediadelivery.net/embed/215061/464d9893-20de-4b97-9cdd-834f4af14da8",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "علي الشرقي:- التعليق النقدي",
-      "url": "https://iframe.mediadelivery.net/embed/215061/3361e6b5-8709-4c65-a65d-c996323d641a",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "حافظ إبراهيم",
-      "url": "https://iframe.mediadelivery.net/embed/215061/8fcb6ac9-ba45-4915-8110-b68595dccf83",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "حافظ ابراهيم- الجزء الثاني",
-      "url": "https://iframe.mediadelivery.net/embed/215061/4b3e4db1-83c6-428a-874e-81dec9e04ecf",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "حياة الشاعر محمد مهدي الجواهري",
-      "url": "https://iframe.mediadelivery.net/embed/215061/6d191025-886d-4f10-bc9b-9bfbe726a33f",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "محمد مهدي الجواهري - الجزء الثاني",
-      "url": "https://iframe.mediadelivery.net/embed/215061/0895c52b-fb12-467c-bcd9-7af4c950af6c",
-      "description": "تم صنع المنصه بواسطه حميد."
-               }
+              "title": "الادب الحديث",
+              "url": "https://iframe.mediadelivery.net/embed/215061/643e25ec-6049-4da5-9a3a-f5aab7c197f3",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "الشعر الحديث ومدرسة الإحياء",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5c8c6209-e070-40a5-86fe-745a19ca2cff",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "محمد سعيد الحبوبي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5f3aa016-b775-458e-b541-855a9a198661",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "محمد سعيد الحبوبي:- التعليق النقدي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bcbdbe56-60b2-4202-b850-c2e980e40faf",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "علي الشرقي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/464d9893-20de-4b97-9cdd-834f4af14da8",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "علي الشرقي:- التعليق النقدي",
+              "url": "https://iframe.mediadelivery.net/embed/215061/3361e6b5-8709-4c65-a65d-c996323d641a",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "حافظ إبراهيم",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8fcb6ac9-ba45-4915-8110-b68595dccf83",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "حافظ ابراهيم- الجزء الثاني",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4b3e4db1-83c6-428a-874e-81dec9e04ecf",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "حياة الشاعر محمد مهدي الجواهري",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6d191025-886d-4f10-bc9b-9bfbe726a33f",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "محمد مهدي الجواهري - الجزء الثاني",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0895c52b-fb12-467c-bcd9-7af4c950af6c",
+              "description": "تم صنع المنصه بواسطه حميد."
+            }
           ]
         },
         {
@@ -3864,115 +4256,114 @@ window.dataAb2026 = {
           "lectures": [
             {
               "title": "أسلوبُ النَّفي – فِعلُ النَّفي (لَيْسَ)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4fb751a0-6d85-482e-93dd-739f554b36bb"
-        },
-        {
-          "title": "فِعلُ النَّفي (لَيْسَ) - الجزء الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a1147303-12bf-40d1-9955-4cd49462cc2d"
-        },
-        {
-          "title": "ما النافية وأنواعها",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8738f494-1fb4-4508-80c7-a4e60bb99acb"
-        },
-        {
-          "title": "لام الجحود",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/22abcc43-1f69-4a26-927b-8a163e861bdd"
-        },
-        {
-          "title": "ما غير النافية",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b7bb0386-39d8-4993-9b57-2b4cfd9e8691"
-        },
-        {
-          "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الأول)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9af407f4-6457-4371-ad04-57fda7c43e92"
-        },
-        {
-          "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cf8712f2-9221-4039-911b-1a9f5e08bc17"
-        },
-        {
-          "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/40ae7799-84f8-45b7-85ae-e2808a323749"
-        },
-        {
-          "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الرابع)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e8a80ac4-a73d-430f-b071-ffba9e1b9349"
-        },
-        {
-          "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الخامس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/583fa72e-181f-4500-ade6-5c0b58d16294"
-        },
-        {
-          "title": "حلول واجبات وزاريات أسلوب النفي (الجزء السادس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d1041290-50ca-4232-bd09-514b51c477e7"
-        },
-        {
-          "title": "حلول واجبات وزاريات أسلوب النفي (الجزء السابع)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cadb44f4-3415-402a-bf2f-07705b0fdc9f"
-        },
-        {
-          "title": "حرف النفي (إن)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/12659195-9430-468d-98df-cd8be6e542cd"
-        },
-        {
-          "title": "حرف النفي (لات))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fe0bf006-ec91-4d64-87a0-dd9a95102ea5"
-        },
-        {
-          "title": "حرف النفي (لم)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9f752069-036c-48b7-ab45-250c6d3ecf84"
-        },
-        {
-          "title": "حرف النفي (لما)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4cd3db28-42c3-43ae-8c2f-086350ef3da4"
-        },
-        {
-          "title": "حرف النفي (لن)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/86b629f1-5c75-4b40-9f5b-6e92c067889d"
-        },
-        {
-          "title": "اسم النفي (غير)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/eb4feed4-e72b-49a6-a43d-9bd345456d05"
-        },
-        {
-          "title": "لا النافية للجنس (الجزء الأول)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8f2bce92-7b87-445b-9b6b-f95aa82d3bd6"
-        },
-        {
-          "title": "لا النافية للجنس (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ba3eb844-810d-40f7-8115-dd8f852ec031"
-        },
-        {
-          "title": "لا النافية للفعل المضارع والماضي والدعاء",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2db75e3b-568c-4850-bcf3-1b470b163a07"
-    },
-    {
-      "title": "قريبا",
-      "url": "https://iframe.mediadelivery.net/embed/215061/5c8c6209-e070-40a5-86fe-745a1a2cff",
-      "description": "تم صنع المنصه بواسطه حميد."
-    
-}
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4fb751a0-6d85-482e-93dd-739f554b36bb"
+            },
+            {
+              "title": "فِعلُ النَّفي (لَيْسَ) - الجزء الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a1147303-12bf-40d1-9955-4cd49462cc2d"
+            },
+            {
+              "title": "ما النافية وأنواعها",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8738f494-1fb4-4508-80c7-a4e60bb99acb"
+            },
+            {
+              "title": "لام الجحود",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/22abcc43-1f69-4a26-927b-8a163e861bdd"
+            },
+            {
+              "title": "ما غير النافية",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b7bb0386-39d8-4993-9b57-2b4cfd9e8691"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الأول)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9af407f4-6457-4371-ad04-57fda7c43e92"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cf8712f2-9221-4039-911b-1a9f5e08bc17"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/40ae7799-84f8-45b7-85ae-e2808a323749"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الرابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/e8a80ac4-a73d-430f-b071-ffba9e1b9349"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب النفي (الجزء الخامس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/583fa72e-181f-4500-ade6-5c0b58d16294"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب النفي (الجزء السادس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d1041290-50ca-4232-bd09-514b51c477e7"
+            },
+            {
+              "title": "حلول واجبات وزاريات أسلوب النفي (الجزء السابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cadb44f4-3415-402a-bf2f-07705b0fdc9f"
+            },
+            {
+              "title": "حرف النفي (إن)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/12659195-9430-468d-98df-cd8be6e542cd"
+            },
+            {
+              "title": "حرف النفي (لات))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fe0bf006-ec91-4d64-87a0-dd9a95102ea5"
+            },
+            {
+              "title": "حرف النفي (لم)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/9f752069-036c-48b7-ab45-250c6d3ecf84"
+            },
+            {
+              "title": "حرف النفي (لما)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/4cd3db28-42c3-43ae-8c2f-086350ef3da4"
+            },
+            {
+              "title": "حرف النفي (لن)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/86b629f1-5c75-4b40-9f5b-6e92c067889d"
+            },
+            {
+              "title": "اسم النفي (غير)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/eb4feed4-e72b-49a6-a43d-9bd345456d05"
+            },
+            {
+              "title": "لا النافية للجنس (الجزء الأول)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8f2bce92-7b87-445b-9b6b-f95aa82d3bd6"
+            },
+            {
+              "title": "لا النافية للجنس (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ba3eb844-810d-40f7-8115-dd8f852ec031"
+            },
+            {
+              "title": "لا النافية للفعل المضارع والماضي والدعاء",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2db75e3b-568c-4850-bcf3-1b470b163a07"
+            },
+            {
+              "title": "قريبا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/5c8c6209-e070-40a5-86fe-745a1a2cff",
+              "description": "تم صنع المنصه بواسطه حميد."
+            }
           ]
         }
       ]
@@ -4040,164 +4431,192 @@ window.dataAb2026 = {
               "title": "محاضرة  11",
               "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
               "url": "https://iframe.mediadelivery.net/embed/215061/d1e1fea3-5e16-4dd3-aefc-fcc84650640b"
-           },
+            },
             {
               "title": "محاضرة  12",
               "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
               "url": "https://iframe.mediadelivery.net/embed/215061/49e95ec9-7716-4682-a955-c5f39fdd28a7"
- },
+            },
             {
               "title": "محاضرة  13",
               "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
               "url": "https://iframe.mediadelivery.net/embed/215061/3c444152-2c27-4972-a40b-e11cf997d1e8"
-
- },
+            },
             {
-             "title": "المحاضرة الرابعة عشرة (النواة الجزء الثاني)",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/6085552a-08f4-4db6-a81b-aad0e598a4d6"
-      },
-      {
-        "title": "المحاضرة الخامسة عشرة (الأنشطة الخلوية، الانتشار والنفوذية)",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/703b212b-339b-4fb4-8c76-f41a9628a6ee"
-      },
-      {
-        "title": "المحاضرة 16(الأنشطة الخلوية، التناضح)",
-        "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
-        "url": "https://iframe.mediadelivery.net/embed/215061/acd1582f-d244-4251-beaa-00e89867b312"
-      },
-      {
-        "title": "المحاضرة 17 (النقل الفعّال، الأكل الخلوي، الشرب الخلوي، والإخراج الخلوي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/353f2631-c363-48cd-921d-b9fef3c9c7ba",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 18 (الأيض الخلوي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/d90e36ab-c125-4937-bf42-1b23ac223f5e",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 19 (التنفس الهوائي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/b227a7c9-a6ea-4604-bab8-64456ab3b1d3",
-      "description": "تم صنع المنصه بواسطه حميد."
-    },
-    {
-      "title": "المحاضرة 20 (التنفس اللاهوائي)",
-      "url": "https://iframe.mediadelivery.net/embed/215061/447b401d-fb15-4629-a7bc-0d541e003065",
-      "description": "تم صنع المنصه بواسطه حميد."
-  },
-    {
-         "title": "المحاضرة 21( انقسام الخلية)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/68c5f518-9f69-4445-8bda-074037be7013"
-        },
-        {
-          "title": "المحاضرة 22: انقسام الخلية (الجزء الثاني)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/29ade00f-1d56-4a95-8b48-6f802f5fc0c8"
-        },
-        {
-          "title": "المحاضرة 23: انقسام الخلية (الجزء الثالث)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/21ecabb0-8338-4f96-9563-c2ce20e385dc"
-        },
-        {
-          "title": "المحاضرة 24: انقسام الخلية (الجزء الرابع)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/250fd9b6-552e-4c2d-8079-ed4a97ab60bd"
-      
-  }
+              "title": "المحاضرة الرابعة عشرة (النواة الجزء الثاني)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6085552a-08f4-4db6-a81b-aad0e598a4d6"
+            },
+            {
+              "title": "المحاضرة الخامسة عشرة (الأنشطة الخلوية، الانتشار والنفوذية)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/703b212b-339b-4fb4-8c76-f41a9628a6ee"
+            },
+            {
+              "title": "المحاضرة 16(الأنشطة الخلوية، التناضح)",
+              "description": "تم صنع المنصة من حميد تابعوني انستا ZR_bb5",
+              "url": "https://iframe.mediadelivery.net/embed/215061/acd1582f-d244-4251-beaa-00e89867b312"
+            },
+            {
+              "title": "المحاضرة 17 (النقل الفعّال، الأكل الخلوي، الشرب الخلوي، والإخراج الخلوي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/353f2631-c363-48cd-921d-b9fef3c9c7ba",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 18 (الأيض الخلوي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d90e36ab-c125-4937-bf42-1b23ac223f5e",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 19 (التنفس الهوائي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b227a7c9-a6ea-4604-bab8-64456ab3b1d3",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 20 (التنفس اللاهوائي)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/447b401d-fb15-4629-a7bc-0d541e003065",
+              "description": "تم صنع المنصه بواسطه حميد."
+            },
+            {
+              "title": "المحاضرة 21( انقسام الخلية)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/68c5f518-9f69-4445-8bda-074037be7013"
+            },
+            {
+              "title": "المحاضرة 22: انقسام الخلية (الجزء الثاني)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/29ade00f-1d56-4a95-8b48-6f802f5fc0c8"
+            },
+            {
+              "title": "المحاضرة 23: انقسام الخلية (الجزء الثالث)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/21ecabb0-8338-4f96-9563-c2ce20e385dc"
+            },
+            {
+              "title": "المحاضرة 24: انقسام الخلية (الجزء الرابع)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/250fd9b6-552e-4c2d-8079-ed4a97ab60bd"
+            }
           ]
         },
         {
           "name": "  الانسجه",
           "lectures": [
             {
-          "title": "المحاضرة 1(مقدمة في الأنسجة)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bd8395e7-c0a8-4a30-8d93-0f9d7ce40dd6"
+              "title": "المحاضرة 1(مقدمة في الأنسجة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/bd8395e7-c0a8-4a30-8d93-0f9d7ce40dd6"
+            },
+            {
+              "title": "المحاضرة 2 (النسيج الأساس)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/82413c10-8c0c-40a7-9069-5b42bfe06afb"
+            },
+            {
+              "title": "المحاضرة 3 (نسيج البشرة و النسيج الوعائي في النبات)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/165993c2-50b4-4c49-ba3d-89eb6c11015c"
+            },
+            {
+              "title": "المحاضرة 4 (الأنسجة الحيوانية – النسيج الظهاري البسيط)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/00007353-0704-4cc6-8c19-3befae666e84"
+            },
+            {
+              "title": "المحاضرة 5 ( النسيج الظهاري المطبق)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/aed9d805-5eef-43a1-bbaf-d6f55df0bb03"
+            },
+            {
+              "title": "المحاضرة 6 (النسيج الضام (الرابط))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7c63d815-52f0-4e51-b80c-7940b2ef6063"
+            },
+            {
+              "title": "المحاضرة 7 (النسيج الضام (الجزء الثاني))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fe554f3b-c3d8-4f09-a5fb-e6cbe87ad4e7"
+            },
+            {
+              "title": "المحاضرة 8 (النسيج الضام (الجزء الثالث))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/0c68d4ca-3079-4b39-aa02-89bb18a9c4de"
+            },
+            {
+              "title": "المحاضرة 9 (النسيج الضام (الجزء الرابع))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/367192ff-301b-43eb-bf70-c81a7714d369"
+            },
+            {
+              "title": "المحاضرة 10 (النسيج الضام (الجزء الخامس))",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b0e8a151-52f5-4080-b0a3-6e5899f1fdda"
+            },
+            {
+              "title": "المحاضرة 11 (الدم و اللمف)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/b14537ce-bdd5-4df1-b5c3-840d91ee4ca5"
+            },
+            {
+              "title": "المحاضرة 12 (النسيج العضلي والنسيج العصبي)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/a5961785-6476-4e0a-a52f-4b1c1ac36e1a"
+            }
+          ]
         },
         {
-          "title": "المحاضرة 2 (النسيج الأساس)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/82413c10-8c0c-40a7-9069-5b42bfe06afb"
-        },
-        {
-          "title": "المحاضرة 3 (نسيج البشرة و النسيج الوعائي في النبات)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/165993c2-50b4-4c49-ba3d-89eb6c11015c"
-        },
-        {
-          "title": "المحاضرة 4 (الأنسجة الحيوانية – النسيج الظهاري البسيط)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/00007353-0704-4cc6-8c19-3befae666e84"
-        },
-        {
-          "title": "المحاضرة 5 ( النسيج الظهاري المطبق)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/aed9d805-5eef-43a1-bbaf-d6f55df0bb03"
-        },
-        {
-          "title": "المحاضرة 6 (النسيج الضام (الرابط))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7c63d815-52f0-4e51-b80c-7940b2ef6063"
-        },
-        {
-          "title": "المحاضرة 7 (النسيج الضام (الجزء الثاني))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fe554f3b-c3d8-4f09-a5fb-e6cbe87ad4e7"
-        },
-        {
-          "title": "المحاضرة 8 (النسيج الضام (الجزء الثالث))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0c68d4ca-3079-4b39-aa02-89bb18a9c4de"
-        },
-        {
-          "title": "المحاضرة 9 (النسيج الضام (الجزء الرابع))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/367192ff-301b-43eb-bf70-c81a7714d369"
-        },
-        {
-          "title": "المحاضرة 10 (النسيج الضام (الجزء الخامس))",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b0e8a151-52f5-4080-b0a3-6e5899f1fdda"
-        },
-        {
-          "title": "المحاضرة 11 (الدم و اللمف)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b14537ce-bdd5-4df1-b5c3-840d91ee4ca5"
-        },
-        {
-          "title": "المحاضرة 12 (النسيج العضلي والنسيج العصبي)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a5961785-6476-4e0a-a52f-4b1c1ac36e1a"
-        }
-      ]
-    },
-    {
-      "name": "التكاثر  ",
-      "lectures": [
-        {
-          "title": "المحاضرة الأولى: التكاثر",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/be84ad06-a259-4b5e-ab31-0e897c120951"
-        },
-        {
-          "title": "المحاضرة 2 (تكوين النطف والبيوض)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8ca6183a-038c-4c39-b7fb-f649cb5ad42b"
-        },
-        {
-          "title": "المحاضرة 3 (التكاثر في الفايروسات)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/96947334-a445-4d79-b3a6-e0a752fc61fd"
-        },
-        {
-          "title": "المحاضرة 4 (التكاثر في البكتيريا)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8e8dd158-575e-409c-ad11-0d93f7b19f1f"
- }
+          "name": "التكاثر  ",
+          "lectures": [
+            {
+              "title": "المحاضرة الأولى: التكاثر",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/be84ad06-a259-4b5e-ab31-0e897c120951"
+            },
+            {
+              "title": "المحاضرة 2 (تكوين النطف والبيوض)",
+              "description": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8ca6183a-038c-4c39-b7fb-f649cb5ad42b"
+            },
+            {
+              "title": "المحاضرة 3 (التكاثر في الفايروسات)",
+              "description": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ * ٱللَّهُ ٱلصَّمَدُ * لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ * وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدٌ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/96947334-a445-4d79-b3a6-e0a752fc61fd"
+            },
+            {
+              "title": "المحاضرة 4 (التكاثر في البكتيريا)",
+              "description": "يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/8e8dd158-575e-409c-ad11-0d93f7b19f1f"
+            },
+            {
+              "title": "المحاضرة 5 (التكاثر في الكلاميدوموناس و اليوغلينا)",
+              "description": "قُل رَّبِّ زِدۡنِي عِلۡمٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ba2c0d9c-74d6-49c6-85e6-7979fa346d96"
+            },
+            {
+              "title": "المحاضرة 6 (التكاثر في البراميسيوم)",
+              "description": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّ ۚ لَا تَأۡخُذُهُۥ سِنَةٌ وَلَا نَوۡمٌ...",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fc3ea393-ab92-4742-8902-6aeb94e564a9"
+            },
+            {
+              "title": "المحاضرة 7 (التكاثر في الفطريات)",
+              "description": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fd0e816f-3b5e-49a1-8a3c-bbacee5d1a70"
+            },
+            {
+              "title": "المحاضرة 8 (التكاثر في النباتات)",
+              "description": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَ",
+              "url": "https://iframe.mediadelivery.net/embed/215061/21b74c8d-a728-4458-89ea-a2e20d965056"
+            },
+            {
+              "title": "المحاضرة 9 (التكاثر في السرخسيات)",
+              "description": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا * إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/2765cec2-ef0c-488a-92a6-21f3af249d70"
+            },
+            {
+              "title": "المحاضرة 10 (التكاثر في النباتات الزهرية)",
+              "description": "وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7ce10f21-b67e-410c-bfa3-f635efc25e11"
+            }
           ]
         }
       ]
@@ -4212,84 +4631,83 @@ window.dataAb2026 = {
           "name": "الوحدة الاولى",
           "lectures": [
             {
-            "title": "المحاضرة الأولى - أساسيات أحكام التلاوة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fe816138-f66a-4ba3-bdaf-d97ec03fb9ba",
-          "description": "محاضرة عن أساسيات أحكام التلاوة."
+              "title": "المحاضرة الأولى - أساسيات أحكام التلاوة",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fe816138-f66a-4ba3-bdaf-d97ec03fb9ba",
+              "description": "محاضرة عن أساسيات أحكام التلاوة."
+            },
+            {
+              "title": "المحاضرة الثانية - أنواع الأحكام وشرح التعاريف",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/50a82030-5aa6-4b61-8afa-0f0b8d3f25cd"
+            },
+            {
+              "title": "المحاضرة الثالثة - النماذج الوزارية العشرة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c798be0c-c221-43f7-b7f8-3d1c68ef6e92"
+            },
+            {
+              "title": "المحاضرة الأولى - أساسيات أحكام التلاوة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fe816138-f66a-4ba3-bdaf-d97ec03fb9ba"
+            },
+            {
+              "title": "سورة البقرة (الشرح الجديد)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/599b58ec-86eb-4366-bcb2-713150f7469d"
+            },
+            {
+              "title": "سورة البقرة ( التكملة الأدق ) ج2",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/7685ea2c-aa96-4ab2-a6b9-bc1ace5caafc"
+            },
+            {
+              "title": "حديث التعاون بين المسلمين-ج1",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/106366a1-eaf4-4d77-ae26-cc80ea94b2b3"
+            },
+            {
+              "title": "حديث التعاون بين المسلمين - ج2",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/46b1df08-5b69-47cb-9bb4-b0287c05a752"
+            },
+            {
+              "title": "النهي عن الغضب",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c5bbb091-3373-4592-aa8a-fc8ce7faa0f3"
+            },
+            {
+              "title": "نظام الأسرة في الإسلام - ج1",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/dbe2b2cf-b394-4f33-8345-145d4432b153"
+            },
+            {
+              "title": "نظام الأسرة في الإسلام - ج2",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/48af92bd-6408-481a-97f5-bf8e8ccb093b"
+            }
+          ]
         },
         {
-            "title": "المحاضرة الثانية - أنواع الأحكام وشرح التعاريف",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/50a82030-5aa6-4b61-8afa-0f0b8d3f25cd"
-        },
-        {
-          "title": "المحاضرة الثالثة - النماذج الوزارية العشرة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c798be0c-c221-43f7-b7f8-3d1c68ef6e92"
-        },
-        {
-          "title": "المحاضرة الأولى - أساسيات أحكام التلاوة",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fe816138-f66a-4ba3-bdaf-d97ec03fb9ba"
-        },
-        {
-          "title": "سورة البقرة (الشرح الجديد)",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/599b58ec-86eb-4366-bcb2-713150f7469d"
-        },
-        {
-          "title": "سورة البقرة ( التكملة الأدق ) ج2",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7685ea2c-aa96-4ab2-a6b9-bc1ace5caafc"
-        },
-        {
-          "title": "حديث التعاون بين المسلمين-ج1",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/106366a1-eaf4-4d77-ae26-cc80ea94b2b3"
-        },
-        {
-         "title": "حديث التعاون بين المسلمين - ج2",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/46b1df08-5b69-47cb-9bb4-b0287c05a752"
-        },
-        {
-          "title": "النهي عن الغضب",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c5bbb091-3373-4592-aa8a-fc8ce7faa0f3"
-        },
-        {
-          "title": "نظام الأسرة في الإسلام - ج1",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/dbe2b2cf-b394-4f33-8345-145d4432b153"
-        },
-        {
-          "title": "نظام الأسرة في الإسلام - ج2",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/48af92bd-6408-481a-97f5-bf8e8ccb093b"
-        }
-      ]
-    },
-    {
-      "name": "الوحدة الثانية",
-      "lectures": [
-        {
-          "title": "المحاضرة 1: سورة آل عمران",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fea65f81-9da7-4ef1-9145-70cef941fb13"
-        },
-        {
-          "title": "المحاضرة 2: الشرح و التفسير لسورة آل عمران",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6bb24f09-8a70-4560-bbea-17a5105c4e4d"
-        },
-        {
-          "title": "(المحاضرة 3: الشرح و التفسير لسورة آل عمران (الجزء الثاني",
-          "description": "ممكن تقرأ وماتسخت ؟",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d19b1b74-bc64-4c34-84c2-f770dc8658fa"
-
-  }
+          "name": "الوحدة الثانية",
+          "lectures": [
+            {
+              "title": "المحاضرة 1: سورة آل عمران",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fea65f81-9da7-4ef1-9145-70cef941fb13"
+            },
+            {
+              "title": "المحاضرة 2: الشرح و التفسير لسورة آل عمران",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/6bb24f09-8a70-4560-bbea-17a5105c4e4d"
+            },
+            {
+              "title": "(المحاضرة 3: الشرح و التفسير لسورة آل عمران (الجزء الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/215061/d19b1b74-bc64-4c34-84c2-f770dc8658fa"
+            }
           ]
         }
       ]
     }
   ]
-}
+                }
