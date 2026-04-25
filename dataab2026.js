@@ -1,6 +1,5 @@
-{
-    "teachers": [
-        {
+window.dataAb2025 = {
+  "teachers": [
             "id": 1740790563504,
             "name": "حسين الهاشمي 2025",
             "subject": "مدرس مادة الكيمياء",
