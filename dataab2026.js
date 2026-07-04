@@ -12,7 +12,7 @@ window.dataAb2026 = {
             {
               "title": "اساس عمل المتسعة",
               "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8f6f69a3-112b-4e4e-9d0b-a7aa2d3ff9e8"
+              "url": https://vz-99e5c202-ca5.b-cdn.net/7f2873a8-c450-4db3-819a-1cfc518c23f8/1080p/video.m3u8
             },
             {
               "title": "اشكال المتسعات",
