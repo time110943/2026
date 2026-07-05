@@ -12,7 +12,7 @@ window.dataAb2025 = {
             {
               "title": "محاضرة 1",
               "description": "وصف المحاضرة",
-              "url": "https://vz-99e5c202-ca5.b-cdn.net/7f2873a8-c450-4db3-819a-1cfc518c23f8/1080p/video.m3u8"
+              "url": "https://vz-4a6ad8a9-344.b-cdn.net/ea69e717-51ec-4fe4-b549-5157299772f0/playlist.m3u8"
             },
             {
               "title": "محاضرة 2",
