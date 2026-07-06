@@ -17,7 +17,7 @@ window.dataAb2025 = {
             {
               "title": "محاضرة 2",
               "description": "وصف المحاضرة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/749a4a33-f27c-4859-9b10-fd6e3053558b"
+              "url": "https://vz-886f79bf-2bc.b-cdn.net/749a4a33-f27c-4859-9b10-fd6e3053558b/playlist.m3u8"
             },
             {
               "title": "محاضرة 3",
