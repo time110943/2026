@@ -11,8 +11,8 @@ window.dataAb2025 = {
           "lectures": [
             {
               "title": "محاضرة 1",
-              "description": "وصف المحاضرة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8f6f69a3-112b-4e4e-9d0b-a7aa2d3ff9e8"
+              "description": "وصف الtمحاضرة",
+              "url": "https://vz-886f79bf-2bc.b-cdn.net/643e6631-1113-47f4-adfd-4aa910fa766f/playlist.m3u8"
             },
             {
               "title": "محاضرة 2",
