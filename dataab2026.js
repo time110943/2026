@@ -1,4471 +1,6989 @@
-window.dataAb2026 = {
-  "teachers": [
-    {
-      "id": 1746651021373,
-      "name": "حسين محمد 2026",
-      "subject": "مدرس مادة الفيزياء",
-      "image": "https://i.imghippo.com/files/CSX1578LA.png",
-      "classes": [
+{
+    "teachers": [
         {
-          "name": "الفصل الاول",
-          "lectures": [
-            {
-              "title": "اساسيات الفيزياء",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7f2873a8-c450-4db3-819a-1cfc518c23f8"
-            },
-            {
-              "title": "(المحاضرة 1 (أساس عمل المتسعة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/623af7df-e18e-49a5-a140-5db6238d2d0b"
-            },
-            {
-              "title": "(أشكال المتسعات) المحاضرة 2",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b1e8199a-1e73-41f2-817b-195170e3fb2a"
-            },
-            {
-              "title": "(عوازل المتسعات) المحاضرة 3",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c1c1be8d-4121-43a3-98d7-e251226d320e"
-            },
-            {
-              "title": "(المتسعة بوجود العازل) المحاضرة 4",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b9071139-ffe3-403c-aea5-ee3b00e403eb"
-            },
-            {
-              "title": "(قوانين المتسعة الواحدة بوجود العازل الكهربائي) المحاضرة 5",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e245ad79-ba95-4afe-8b4d-1ec2fe769cd0"
-            },
-            {
-              "title": "(المتسعة الواحدة بوجود العازل الكهربائي - الجزء الثاني) المحاضرة 6",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/117aec35-b995-41d3-8c1d-d24f813d3eef"
-            },
-            {
-              "title": "(المتسعة الواحدة بوجود العازل الكهربائي - الجزء الثالث) المحاضرة 7",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/29ff00cc-3930-4027-b6e6-08b1de32b7fe"
-            },
-            {
-              "title": "(المتسعة الواحدة بوجود العازل الكهربائي - الواجبات) المحاضرة 8",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/82e1e202-452a-431a-b9d6-3a98b3cb7e0c"
-            },
-            {
-              "title": "(المتسعة الواحدة بوجود العازل الكهربائي - الإثرائيات) المحاضرة 9",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5e13260c-c8d1-4619-b726-a08375c2ebbc"
-            },
-            {
-              "title": "(ربط التوالي والتوازي - كلاميات) المحاضرة 10",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/30656e48-8624-4306-89d4-5cf415d5383c"
-            },
-            {
-              "title": "(الاسئلة المزعجة) المحاضرة 11",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b43feaed-fd2f-488e-a6d5-45958d7af870"
-            },
-            {
-              "title": "(مسائل ربط التوالي والتوازي) المحاضرة 12",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/79c20fa4-2c9b-4a03-b0dc-43fef6a31ca7"
-            },
-            {
-              "title": "(مسائل ربط التوالي والتوازي - الواجبات) المحاضرة 13",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c888152a-0c5c-4ff3-9143-47f2edbfa7fc"
-            },
-            {
-              "title": "(مسائل الربط المختلط) المحاضرة 14",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/46d17f34-f1c4-4448-988a-ad56a289b8a9"
-            },
-            {
-              "title": "(مسائل الربط المختلط - اسئلة الطلاب) المحاضرة 15",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dc82532a-98a1-4a3b-be9c-183dc44ad00c"
-            },
-            {
-              "title": "(مراجعة الربط المختلط)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ad55c7aa-6b0e-4710-ab7f-371ec07833de"
-            },
-            {
-              "title": "(مسائل الربط المختلط - الوزاريات) المحاضرة 16",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7b26005c-71e8-439a-8ad9-534f23da148d"
-            },
-            {
-              "title": "(مسائل ربط التوازي والتوالي بوجود العازل) المحاضرة 17",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/93c78d14-4210-44a4-b25d-febeba82d3c0"
-            },
-            {
-              "title": "(مسائل ربط التوازي والتوالي بوجود العازل - الوزاريات) المحاضرة 18",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8b3a2db4-16eb-4bfa-b6bb-5185406967d9"
-            },
-            {
-              "title": "(مسائل ربط التوازي والتوالي وثابت العزل مجهول) المحاضرة 19",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4cf144d9-db30-48bf-aea9-bd74d0128160"
-            },
-            {
-              "title": "(مسائل ربط التوازي والتوالي وثابت العزل مجهول - وزاريات) المحاضرة 20",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/23484d02-7eb1-4afd-bd74-cd302b9f0d80"
-            },
-            {
-              "title": "(مسائل ربط المتسعة مع المقاومة) المحاضرة 21",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2b4de1d5-e098-44e8-9074-b668455ea4f5"
-            },
-            {
-              "title": "المحاضرة 22 (مسائل ربط المتسعة مع المقاومة (الواجبات))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6a8009e9-7117-4e37-b3c2-8ce656102d6f"
-            },
-            {
-              "title": "المحاضرة 23 (مسائل المتسعات (الوزاريات))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/50b10e8a-0ed8-4fe9-af1f-e5ad8438beb6"
-            },
-            {
-              "title": "(مسائل المتسعات الوزاريات (الجزء الثاني)) المحاضرة 24",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b246b037-8321-42e3-920c-ac30eef481d2"
-            },
-            {
-              "title": "المحاضرة 25 مسائل المتسعات الوزاريات (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a4ea4723-b5bf-43ba-bdd3-5956a26c5623"
-            },
-            {
-              "title": "(المحاضرة 26 مسائل المتسعات الوزاريات (الجزء الرابع",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5121cbff-9ead-40b2-922e-89c380bff05d"
-            },
-            {
-              "title": "(المحاضرة 27 (مسائل المتسعات (الاثرائيات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9a08d789-b9be-4422-9c0a-c5370ce324da"
-            },
-            {
-              "title": "المحاضرة 28 (انواع المتسعات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/77964932-767f-4042-8b8e-1f10028031d8"
-            },
-            {
-              "title": "المحاضرة 29 (تجارب شحن وتفريغ المتسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7a0c74e6-2c53-4049-acbe-4daf9419e5ab"
-            },
-            {
-              "title": "المحاضرة 30 (تطبيقات المتسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e83a825d-7502-40e8-b27c-5c9ca7136e7b"
-            },
-            {
-              "title": "المحاضرة 31 (حلول فكر)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f1f5fdcf-3d94-4d02-9252-2a8285755d90"
-            },
-            {
-              "title": "المحاضرة 31 (الجزء الثاني)(حل اسئلة الفصل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4e52d7ab-3333-492c-8b4d-e11265fbb029"
-            }
-          ]
+            "id": 1740790563504,
+            "name": "حسين الهاشمي 2025",
+            "subject": "مدرس مادة الكيمياء",
+            "image": "https://i.imghippo.com/files/RG7894XZs.png",
+            "classes": [
+                {
+                    "name": "الفصل الاول: الثرموداينمك",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/spmP4Cwd5lo1hzqLz8ZsyQFnxOCK2ya3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/y7A4XJmRuzmmbdz4FRTzEWet6DCjfd84_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CUFMtmZr0RJcM9hOhulW1w2i5DgbOnAP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iPDCaqItYzG71GjXi2jIqDZiPXmqBVkT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/oYACKGfhxRcgEuIPHh4UX0IM4IbU6U8i_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qIn5lICV15WA1RamXPnA8HsvHn4v0sEn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CGDiuaqylpGp3aKmY3NUi6h9Nunto86z_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KuD3lzVsZEuhYS1Nj0INQdsIFapJxjgC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Cy8PdEKGO5oD5cHTUu0d2HfCSMigFoza_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lA50o3YXDxIkv383bYgnefb1v6LmwvvU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/097CPkGG1jXzpWsAkr5Rv9snPIU1aN1e_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pa6g8kRPY7zfOLDm7dOFjf9CCdkTurW7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/P9uv2z6H4Mndcvw1p2ua15bhiJTEXVhI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7Ku1JrMPCw5awqDhugEN8lo07gn2auuG_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/li5B2o9YmKrcWhTn2tDVKxxaBKW4nLLz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5EixVeOe758Jk1mbhbZYeqsH2eVwgRch_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5zGj7UpaNSVAGUvyH4OpuuUayh7q1nmk_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Ex4hipPKhF0KwFtMrdbZVody7d6mCKQ2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iqrYmhvuMupHjSKezLtpWw0vsfnx8CCU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qtba2AFMNXPK8im3Hl5WIS03rbJ9PyUE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1EhDodwqWH5GGRhrCdaMpvKGXByJjh8r_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/B9UZERNp5gNqcCGh94CZfYligNG22Tfs_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CmRM3Wlwsx9CYtvOm0kFrF4YzP0b1Vqg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xKJSy3sD4NXUnC9fOy9tC6hF1Jd3O4Dm_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/cDsP8RZWzb5BLTidIJpbbmiV0ZoFbDRD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8c5q6jsYdKn2iJmsZtp5RFRIOT6qq8Qc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8gNAs8brzj59fGKHQBIQVXzYox08k50O_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ytAO4AkBtWY4nMUx05i9QzcUU58qYFU6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/y492B6G6PW2rXPZsOrmK1YiTPY5onAxZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Z7pAC2htIBwIQSQONm7E8CQ62VNH73gZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1hkWyv48HJZmNH3Ckde7JxFJvXVXuj2V_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iagx98Thp2dmE4mvCsWWshCgFbGmnxkp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 33",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vVnMCUDd1vqa5ugW66ssiIh22COkTrmi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 34",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LAEGFX04BF22whMkv8tZaNqtWTfkRnEa_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 35",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/73OsRgjdHDdzdYBS8XgIXV4vIH47Vijr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 36",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4qUgKt8oIoXYNGciOD43XIay3aGRBbSR_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "مراجعة الفصل الاول",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2IsJ2bXs1AAAsI8tLvyQcGdZEbY4TKfe_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JUeq3GZ2zwrzVklFl3IWBWWnFTXTtoVI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ixAG7SVMvkWwe2GP73i5a29fIGouSojy_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4 سؤال اثرائي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vaKCZYjaJKn3SbY274swoCRNq1dwDB4b_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/j1oPv364i1R6RyusA8sIlqHMqIeNb3LH_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة الفصل الاول الى علاقة كبس",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/816ec9a6-5ad9-4d37-81e8-60d252702ade.smil/501f6198-9ab5-47cc-b8dc-fa21ffb324ce/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثاني: الاتزان الكيميائي",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VdTJ4tuG1ClcYp3GNyHQnXsVFjC7ZCoW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Ry09G0ay8SNRkC9E0DhFcz94HNL49sNG_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/0311053d-4cc7-4be5-acee-bd9362c27131.smil/9e80e65a-cf09-405d-81ad-f81c26cf714d/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3slsFdagXw9f7BEOxrRmQYF4d1FjpNIC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/624EvDPhtdPIkig92Q8eS8XvJYymdnu4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vhW2RuyCLYeTIyUiYkUCUkHUwODH0rdt_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/EVqKytOkSzdC1P9OGbJIqvReQmr73yHj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rlFhI3a7Jmc1VNkuQmYa4e3M2gmvYyrL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ZhHla8CTn95bkzkHYE6HzxjQrDnLCjvJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Q4DkuobETkzsTphN7Y7qfUTDnB5OBrxx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/11s7iHM1SuCiprHmXa8GmMvE4M8XqCH5_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VkApETEbXPfKt063h1GcHLqmrb8gzNsZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VkApETEbXPfKt063h1GcHLqmrb8gzNsZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pfhlcls59ZSTae8RnClax0Xt0dCLaOam_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kx56f3oSPGJa1fAPBQMnhkw48Xy798Ls_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PGe5UHFLD7hEDweuU9J5v0homdDcwNNu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/W2vTsH2kqXsk1PfmLtCmH504h1VBdSFQ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vkgkqLlo0SNK7qPaeBsgWoSLRte3hyuc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/B6A8nTcBidY4nDpMm36nUxfTQL5iOM0r_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0aTPAK4TuAQW38SUm89pzFiez4n4joo4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/o8kLpNx1vPIB5U7qmC8c1JRuuptCUtvx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CM4baGNSzwpDYnKYSBg4fb3cAJOEQhDs_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UDtzYkL3G3oFIfBmnkro2BBYVRCZjAHJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LVjJ20oofPC6fYySrCkNcArmgsLGZexK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Nqbd1V6bUp7upRY6o8pmLXkc3vqVaLrE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/I17FfWm2qZCKq6HG2FGRVme0MdwMxb5L_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BjbGNMGc9iP94xzVnIHwD5ax4n1sFuP2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PbplNZ66GCvUqkLOSmVD7erYiuYz8pFK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NdyUFrxMzhVLBSjr66QDjp9i2p2prhh0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/42v3lUM04ayLOsTm3AXiSh8vKxaZXUif_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/89911885-e49e-45c2-b4e2-42975f668319.smil/6f4577cc-e3eb-4d38-86ab-4dec09b852dc/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "حل اسئلة الفصل الثاني المحاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qUJ0kdwUzuGyG6WKegaG9tcBSzxA9VDP_720p.mp4"
+                        },
+                        {
+                            "title": "حل اسئلة الفصل الثاني المحاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JClpqZn3QOBPghmYD21Cj7BJG8e2wT8A_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة الفصل الثاني المحاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/F8moPr0FIsZusLaRj1u7FqhHxvQUDdgr_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة الفصل الثاني المحاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MXuy4tQjbMFNFNuYmZ8Qeu2VEcHnrnN6_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "حل واجبات الفصل الثاني",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aoSQmbeczr5RQRT8KRYGye1XNPnuH0qd_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MsTBRcnQwh74jUhcl8mT5Jfcl4NCP3Sl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7pa6ngJzyB8ejRjpixmwNmAEJjnW60Dt_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثالث: الاتزان الايوني",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0LnAdBAWt5bkWTwEaJktxubGlcq0Wo04_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MVfUiGFmrnZZ01KwJtQhrwsu80sPxVZa_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kfREHBp0oDpDeGmmGTwxYi4BS8Q6jUJS_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/a8dd7d08-279d-4774-bd3b-2c6bc69dbb24.smil/be96805d-196f-4368-b87b-801a14b37123/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VgUJhkzKzNDHvRB3pgJTOSXlSHWLYx2m_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/cjTRqev3LUQiZA0leOnmFsWkXaRz9oOK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7CNc0yoNPofiXHcaS4aA1Zq1zgdCv74Z_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sUfUL8JJNHZ6n3nGeAzJ1rr8Fbi7QhAk_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة وحل الواجبات",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/00DFyH6nDwxYqALsme2kW2t3cAeM7O2d_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3xoTaAPlCQO6YxpSWLGeb8ZqVpBVz8Oc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wN3tsDVoT230ZsTZeQ0QLwKVavhG6ADz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tbm4nBrSyKTYhhN6FI0HSQWX30MZwWvq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/voVrbfyjCzeXC1PR5ajhiw76qBtKKmGd_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ll7H2skX1k2HEbS8zIJplCkm2erpKppT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rAEOA8zcuOQ4hQsP3rcdTIunj34Gv2IB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5keG8NeS5MOm6PetipPCH86YtI3a6QgV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/R9tFIjr1JWhTa1i6EJFQKWaHOiez20Oy_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/M3LrjfaIa2qULlpiAVSpB6TYsZfwfZUy_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UiB8LabnIHt6PAp5safyk6VmNTExxnxA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7vUzWViBKR12sqmh85uQCkld0qEOyNPB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yrNKzq4Isjq80JH8jh2KlSRxqxZkKKUy_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pk8VESixi7c58OOhHBvpNNAHhbrsownj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/oTd6OVxq2cmZpH465hBSRhX1Gh7h1Za9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BnKsRjMtJLRLjHf99ieI6rENNSHazg4j_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://pub-9bf9f797be0a4677a839ce3cf3e0638f.r2.dev/18/157dc099-bfe3-4fe7-9762-3bcf89fa5fa2.smil/8b4c9d4a-97e6-4b3f-b325-6b94bcba0f4e/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vtrIJhsk7cfTYZXdKVD7AeaZ7OKhmcNY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lIbUvkxtAxd67CQGEeZEJpWQHJUTLQaT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/WQmlj3n4MG4Bis0N4fzoWiwetUOsBEvo_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Z0uhTaOsTn7ku2vqTp3Ct0kXREMSAIBn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vODkR5lsEWoWjHvInHu4odFgSpNkGmEu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1RsjRuran1B5rCvpqDpR8VcZy0ET0DBv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CIlRIW8SiPV5hObQZQ21cCAGqIcexsq4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0GowfRLKLAo8Mj2fpqccXAirV0eQKi6X_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "مراجعة الفصل الثالث",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1D9kWgDJgnc596TpKGzst09DSpfBNaqT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0G25wlwnuHApKegtu3qW6SBARnC026mp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/XW9Y97G38FdxM7pKiunjjlXll7kO2KYL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gZk1FG4hYE7XALZOojiFANLoLPmtuyc7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/QZ8L9MvsbDnOOuGSV3YtEEGxuSscpCLC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/ef1f16fc-917a-43a4-9a30-eac68a6e8d6d.smil/3efbf51e-f80d-492b-81d1-33d6ec432844/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/a3f0fe38-645c-4330-a2c3-3929c905267c.smil/0b2257a7-6356-47d2-88aa-983a5abe6cf8/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الرابع: الكيمياء الكهربائية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/e5e1045e-7eb9-4a1a-a700-ebfd8ed25aec.smil/a173db38-4c71-47bd-bd4e-f72f7ea8c7eb/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/7798869d-8f94-4a63-905c-e141319602d5.smil/ada646b3-2ec7-4a3c-ad74-ee7da9af6998/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/c1b75777-3689-468d-bf63-2a2747ac6574.smil/9b1fc517-720a-444f-9c04-0dfab7925341/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/1fd8b5d3-94e9-499a-853b-8ee50574439a.smil/2b8752d3-38a3-4e6f-b9c2-efc1a7eac477/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/4f1c7d37-45e1-46e4-aa53-d9edde7c769e.smil/7275f4a2-cfcf-45f0-95b9-d61263e708d4/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/d8086c58-d2ed-488d-95dc-adb605367d83.smil/73331d81-5bac-4655-985b-51d24dec4781/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/8eeadb25-cfcc-42fb-a990-d688ebbd2c5a.smil/96cf83d7-836c-483d-bad9-1bc644471568/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/1d516bd2-a9cf-4776-864d-ce0bb056618b.smil/4333e108-d96c-4e33-a52b-85799021eac8/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة ملحق 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/b867249a-99fc-495b-8561-0bf40d973191.smil/f8c99195-5bc0-4b0a-be2d-eba2c8ffdc7d/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 هل يمكن 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/bf7670a6-a5d7-4af4-a06c-f950897757df.smil/96111034-3a6b-4f6b-badb-4a24648d4fe8/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 هل يمكن 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/d03d69ca-9ce0-4c83-986f-9a208547e6a9.smil/ce5f2ea2-a5a4-43b6-adcf-3cd9aef8fac2/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 هل يمكن 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/f2ad12ef-b73f-4fd3-b18f-38fc5fdc00bf.smil/fec485a7-ca58-46a1-8984-3653a2ce05bd/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 هل يمكن 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/8495650e-926b-466f-a9f8-8756bbb9d870.smil/9686ca1d-06b3-4f76-9da0-c99cc2916c69/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 هل يمكن 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/90d98941-4795-4832-a77b-2bad6bc6d669.smil/db024673-851d-419f-99d9-ba8bcc2d5fd5/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/3ccce32a-021d-48fc-876c-b3b7a2bd6648.smil/d712c8e6-3ed6-4674-83ae-13827a6f0660/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/a9973455-54fe-4b24-828f-f43635f994eb.smil/7e6082df-0d11-4465-a531-ea659b4a5dca/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/3a6a37ac-2df3-470b-aa8a-65f5071db5dc.smil/8b27c1d5-daee-4d27-9ef8-067958bddc51/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/eee80a1d-5993-4a44-ad9c-ae404635a589.smil/cb7999f1-711f-4f0f-8292-123fba8d0951/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/659a66a7-fdd6-4c8a-ac00-04158ce63533.smil/b92af8b3-ee46-4352-adac-0ab3aa4610af/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة اول 9 محاضرات",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/13b97dd4-29dc-431c-8931-56d25a5d1cc7.smil/2ff9f3c5-7288-4100-90bf-4efb9095edc2/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/8bec8bc0-f119-40f5-9130-d4d542f636c9.smil/fcbf9970-94c4-4084-b0bd-7097d541f725/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/2f49e539-18d0-4541-bdbe-00181ec2de16.smil/54f8e3ee-547d-4bcd-8095-b44eb92a9a4c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/1bd92ef5-5609-494d-b382-db5d8a6daabc.smil/8333d234-ce30-4b81-b3ba-027cc9207278/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/43ddf90b-2112-457a-b3f5-2f8fdafa376c.smil/2e4eb5bc-1429-4ca5-aa80-ede6f55e8535/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/73106f21-e44d-4364-bf67-69521222e686.smil/3eae668a-f19f-44f3-b642-afe17980c627/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/b4afa943-4328-43aa-8602-949064527bcb.smil/ac78623c-aa5e-4f44-9f29-ae03738e1aa4/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/15997679-6381-432f-93af-c703db0344dd.smil/0695251b-4f6b-4cd9-a526-64dcf40a07f0/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/f7727b82-f396-4f9f-840a-4b3f1d01d26a.smil/31b20e1d-43a1-4a50-bfb8-0fd8ef828af6/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/570574a0-af02-4cec-99af-f7d84a866595.smil/4422d308-eef9-4c96-9c60-ecb0a9c618a7/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/52db5245-cc29-41f1-aa41-4832f2a020a8.smil/0c03c3ad-0020-4dc8-8efb-5106edd313f7/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/ff5d4bf5-d4fd-450c-a94f-86682f307b6e.smil/04f7a6d8-1253-4ccf-be22-ba0d44db3312/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل فرداي 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/55f7a230-c803-4ce6-80ad-38a0102b1568.smil/2986a9ec-0cca-4486-8b8b-2b768d2527e5/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "شرح قوانين فرداي والبطاريات",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/73ed925f-8e2e-449b-86c5-ff6ae397d5c3.smil/6753d0c4-66c1-4a90-b8ea-9f9971497804/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الخامس: الكيمياء التناسقية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/49bb7814-5ea8-4887-89db-6b2c7934f002.smil/008f7586-193d-4963-8a3a-680e5307d0e3/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/aa141017-501f-40b7-b75a-5ce83c6f2d6d.smil/e50c01f4-36de-4d11-97c6-cb1241a9354c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/7d7c437d-dd3d-404e-b6a7-20fa06a498f3.smil/e9c98384-07da-4970-87f7-bc664fa772f0/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/20b1ba48-ff09-40d3-9223-fd3909c633b9.smil/d4e37281-bba4-417a-9846-5fddd474eb0c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/a88c4c49-e6f7-40ce-9235-d02980d51344.smil/b1e19f09-8689-4ccc-80ac-e9d33b59ee13/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة محاضرة 4 و 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vgloucu6cYPJZbDnxsYdn5v3QeZ8GFY7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/58053ccf-d1cb-4e05-add6-0f40264414a5.smil/71cb1831-7de6-4aa3-8621-824e063ebe53/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/c2412329-337b-41cd-a20f-3794a7af4772.smil/2f448966-77ad-45ee-800f-9c7edcd56df9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/7a53c05e-bc2c-4b7a-ac19-d87aeb422335.smil/fe606a01-3015-416d-ba94-f569c1dc38ff/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/8796caec-5697-4092-8432-8b90762854ab.smil/6dd85a5b-1b60-4889-a8d9-057c9964f7c1/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "اختبر نفسك",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/aabd94b6-7b8d-4594-a29d-36a729de02b7.smil/c25d35dd-5def-4cb0-9402-cd268c2503ae/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/2fba8872-5a60-4570-95c5-09e8c17a63d5.smil/d3f20a21-aa54-4aa3-9cc9-9db76e1ecb69/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة الفصل الخامس 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/3fa9a0ff-851e-49a1-8f5a-166384557e76.smil/c6a3ecb0-53db-4278-a5c2-13ee44b11b8f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة الفصل الخامس 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/0eb8865f-202f-466a-8f81-0504bdec4782.smil/d230651c-920a-4bf7-b339-e01c3a02e1c6/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة الفصل الخامس 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/f85090a1-5dcf-4626-a7e9-c661ffd303d8.smil/f8d3c1a6-4ca1-433c-af35-7b923266e112/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة الفصل الخامس 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/94384a18-9a9f-4dbf-86ff-a959f2b4ed4d.smil/60517430-6b55-4b08-8ccb-127022ab8760/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السادس: الكيمياء التحليلية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/9f5a1156-b42e-48a7-aa36-e71100157bd6.smil/89ad9fc0-a4f4-4466-93ed-99d50b934f8d/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/04482a85-941b-4247-bd82-e51dd5feb76f.smil/5b4313e4-66b4-40f8-9cc2-57d114f59f58/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/75aeb46e-b20a-4f17-b6f7-50b77b3971f5.smil/6fc1a470-3a6f-48ea-a785-55561c43249f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/b67e2c32-ea27-40c6-a4c4-5527eb4b2134.smil/d0041e23-47a3-45e5-bcff-5360f1a0c659/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/3cb79fd1-9c83-4ded-a101-0d0f297bbd28.smil/08c25456-f799-44a3-9c7c-7a0ac82ab69c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/e4b52f15-e1bf-4f0d-924a-8e0167f75cdc.smil/b419babe-64dc-4481-8ad5-13ac037b1bac/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/72762b6f-5c0c-413b-980b-58b50c58c4f9.smil/0b81d668-a641-447b-9d19-95956af1aa57/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8 ايتا 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/3c6207ff-7e4c-4d7f-831f-fafac9c5a072.smil/9f4bb28e-cb8a-4a70-b5b4-144952cb377f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8 ايتا 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/f7dec211-15d7-4083-8483-4a416ef9af55.smil/31b85a37-3053-42e3-86b3-17dbcafc9df4/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8 ايتا 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/09f488d1-4794-4918-b39b-5c374502c032.smil/e6ad50d7-04de-4d3e-b3c5-0d33342c4ac1/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8 ايتا 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/30e205ef-607a-450f-94cd-509d7d727a26.smil/dfce52b3-44c4-409a-80f4-de0a3760f331/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 قوانين التحليل الحجمي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/13ff5c26-12ce-4a4c-b439-42fa152ce77d.smil/49125926-d005-4206-87a5-cc60f2ce0197/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/fab7981a-ef74-4e5f-a32f-134a7016b312.smil/99d1eb56-c3e7-4541-a215-8909ff132643/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/8d8a385f-18aa-4baf-b77d-d61e4d5c2a95.smil/17dd4653-2669-4f7d-a4f0-fc10979a7647/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/31bb40e9-0432-41d4-b10b-1c9b7da7f662.smil/56ea9ca0-415a-4964-a152-4e238e0c719d/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/68907ac9-dbf4-4c06-91a1-6d26b24f5bb4.smil/9dcd6672-b420-4d01-9961-175283194975/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/c604b309-716f-4d99-b2a6-bad14f7de5e9.smil/3af83a12-5a5f-455d-9c4b-15ff2fce95b4/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/835f5ae8-9e30-424f-bd99-81104d15fa49.smil/99ca1b8c-b2e3-438c-ac59-59f32bcf6daa/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/1d652be8-9179-406e-8ab8-f6e6e39309e6.smil/91c277cf-e36a-41c7-a669-b4dcde8ab6ae/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/5f18ea7b-41ba-44ea-bf56-31e9164b6c71.smil/5c810cc0-9ccb-4db1-b8fa-8baa05d0fa8d/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/a30dfffe-9b4b-4a05-b3a6-77d3bd83f039.smil/41bbcffb-63e7-4be0-8376-b4e1f8a51c3d/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9 المسائل القصيرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/1097a566-b31f-4cf3-a57f-08cd3f184e98.smil/3c638829-23c1-4cc6-8349-4aa238407d86/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 10 تجربة التسحيح",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/f2b2d442-b5ea-451a-a3eb-7655d529f78b.smil/31affd40-fb15-4052-a3f8-7b1c71494fbc/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/6ce46de7-b145-4092-ab3f-978250d78cd0.smil/00704e00-8535-4a10-86fb-057250964ace/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/fc16b454-5cdf-4320-8dd6-8b0bd5cfcd7f.smil/af04d80b-945a-4528-8b91-d1f221125e65/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/bb2fe96b-c820-4924-b5ac-99e7e6be6c39.smil/f1ed7e11-f774-43ba-b8b5-d53644374b8b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/27fe969e-bd0a-43c9-a039-4bfb08d16676.smil/23e0e226-369c-42b3-9103-c7e9e9d4d6b3/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/cb7f3818-e139-4f76-b6ba-60c42bbcd6a2.smil/418310ea-b5e1-4630-836c-64d5a760f954/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/670590ef-28aa-4d9b-afe5-41adde1a7f16.smil/d069c1ab-b07e-4ffc-917f-7c1800568df2/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/3edfec92-43a0-4f5b-a820-c4525d297500.smil/578cf074-ae3f-42d4-b6a2-45358f31b9f6/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/9dc26451-124c-4e9e-9119-1a94c4e7f9cd.smil/d0fc446f-e70b-4164-bde1-c1d1f84f12f9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/a59b4d85-1bcc-4ea8-b31d-c30904fd7e40.smil/53b39d47-1865-4e3e-a25d-2747fabbd237/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 مسائل التسحيح 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/fc2508c9-ad1d-49a1-b9e4-05b76f9ecd2b.smil/bd39aac7-8765-4834-ad5b-879ad0560976/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السابع: الكيمياء العضوية",
+                    "lectures": [
+                        {
+                            "title": "اساسيات عضوية 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9OzDwXCb9opJYDeoyBOYWO01ynUyYOwH_720p.mp4"
+                        },
+                        {
+                            "title": "اساسيات عضوية 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/6f33yFNklfvGm7fN6O73ka0EFzfrQemd_720p.mp4"
+                        },
+                        {
+                            "title": "اساسيات عضوية 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8MmwQdQWl8Nol9g1DOaBTHN6GlwoLB6G_720p.mp4"
+                        },
+                        {
+                            "title": "اساسيات عضوية 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/58TgoeyHXfhX6ajicQ0nzQY9v4yIwrJb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1QarwZhk6sfnmsPftJxszKVMcjM84O41_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yVQxSc74KLVih8AW8l5SLJwT0jszoetF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YpXU5EqIto0X7yd1C7tDfKBMRN6LiOZu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IVrY86h6ZlYYWAwMkwX0kDxhe80KNB5m_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0t7TM3Adgd43bzsl3ux7K984OeoLL8xE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/y4DJWpPoU5sf42KdsUsmBQaNB5mzn2jt_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0xuzO2CmsolmRirQqtaEEJtjgT1IrrZp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/O0BVoCGIMRGr8zDhBxCoH0JOzqTQPlLM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7VsEmrf7wXqMjA3J9eqyLspZNXnVkzPc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Lm03EL2Bv6ISfk15aHQ8VlsWzaZGnpM3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/faa69395-9804-411a-aaad-7394ec24a2e5.smil/14ce70db-535a-43da-9a90-1cc246b30f2f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/b25d6d76-98ed-4328-a3bc-eb1cdc4ba2d3.smil/2088061f-43fb-4d65-a463-95e3e0c021e0/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/0711cc7d-30d0-401c-8eaa-8b4540822753.smil/6dabbb4a-5c16-4afe-9355-2599c3118039/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/38fb9125-aa2f-4308-93a7-de06bdb247d8.smil/5abae2c4-b03a-476b-9786-ce0594d72f52/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/cf89c3ce-8a98-4837-8bf2-dde8a8e83266.smil/547733b6-c55a-4231-bf2c-98dc8145e9a2/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/15df9c2b-d752-449a-bfc4-99c5a7cc63f7.smil/e9738f93-90ed-48da-9ed2-3fbc589e4c58/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/9ac1d6e5-843f-479b-9cb3-bb038b358176.smil/c19d8929-024c-45dc-8b84-8726a391d1c2/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/183e166e-e46d-4878-9ad1-dc153121807f.smil/862531d5-caf0-4ac6-bf08-60b87de1e474/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/e4fde8c1-a2a6-461e-9f84-284823265d36.smil/14733f2a-a4dc-4af8-aa33-6ef3574e4c16/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/2fdae5d9-1b15-4129-a009-b90f9ba61ab0.smil/208eddca-6315-4083-9fd9-18d206b63e63/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/23307ad7-0d39-428f-80f2-53fdfd1909c9.smil/d6fead79-3d2a-4835-9eaf-1f0cb14b4c16/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/f7f0b104-3bac-422b-8379-533af8d32df8.smil/9affc8fb-eb2a-46ca-b559-ff6ee6dec6ba/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/d006d2c4-5ef0-4db8-8daa-82443ab723f1.smil/34cad93f-fcce-4c48-af1c-6649d1d5727a/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4Z0ViImbMwOaRi3leT06xcwAYR26XK4Q_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1rvO0yspuk2M9Ta4wCTCiq0eZKl0mBAb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/b93c2709-3bee-4e92-ab40-3878448cbd4f.smil/310751fb-b26f-4e72-a087-bbf5c6d49c27/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/4b6b5cc8-110e-4bcd-b4c7-49fecd9e1983.smil/e27695da-c72f-4c6c-9a1a-97fca07f1ef9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/2b30f49f-8c5c-4667-a6b4-78f726004515.smil/a1f53033-ad6f-4f54-86c2-66e6bebf0d57/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثامن: الكيمياء الحياتية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/2d9a828f-3e3d-484f-97ac-a7eea42105be.smil/22843260-3ba4-4951-882f-2547f9d6bc8b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/101b1baf-cc65-4217-aa64-cf49e76046ba.smil/cba67011-3fad-40f0-a0e2-e12316f63022/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/f7391cd4-7bd3-4128-ba97-8245a0e54d29.smil/e6c4fd89-6cec-4620-92a0-180bf1f3f115/media-3/stream.m3u8"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "المحاضرة 1  (الحث الكهرومغناطيسي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f89c011f-4bb5-407d-8170-8b088598e317"
-            },
-            {
-              "title": "المحاضرة 2 (الحث الكهرومغناطيسي 2)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a727f155-f5cd-42dd-8c9b-999ec616765a"
-            },
-            {
-              "title": "(المحاضرة 3 (أنشطة الحث الكهرومغناطيسي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ca07528b-44a6-4a79-9bd6-b427e9f196a9"
-            },
-            {
-              "title": "المحاضرة 4 (التيار المحتث و القوة الدافعة الكهربائية )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0a743370-574b-47c9-a319-4d6354e3b12a"
-            },
-            {
-              "title": "المحاضرة 5 (الحث الكهرومغناطيسي و مبدأ حفظ الطاقة )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/de1e2360-f4da-4461-8164-288e73fad862"
-            },
-            {
-              "title": "المحاضرة 6 (حل مسائل المجموعة الأولى )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2689c82b-cab2-4bc6-8618-3f7986d1c718"
-            },
-            {
-              "title": "المحاضرة 7 (حل الأسئلة الوزارية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8c5ba312-b205-4463-b93c-f01ceed665fa"
-            },
-            {
-              "title": "المحاضرة 8 (الفيض المغناطيسي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/44a4aa46-fd2f-4615-9682-c5be12e8b380"
-            },
-            {
-              "title": "المحاضرة 9 ( قانون لنز)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/37031d66-025b-4290-9f21-1c52234a5087"
-            },
-            {
-              "title": "المحاضرة 10 (حل مسائل المجموعة الثانية )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8e297525-d189-42c3-a924-1dbf59e4bd83"
-            },
-            {
-              "title": "المحاضرة 11 (حل مسائل المجموعة الثانية (الجزء 2 )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6b0e671a-3fa0-4d4d-8ea7-f1762bc19b24"
-            },
-            {
-              "title": "المحاضرة 12 (حل الأسئلة  الوزارية )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cc5f5a96-8269-4ce4-94b1-c3893006bbc5"
-            }
-          ]
+            "id": 1741035669198,
+            "name": "حيدر وليد 2025",
+            "subject": "مدرس مادة الرياضيات ",
+            "image": "https://i.imghippo.com/files/llse7800OX.png",
+            "classes": [
+                {
+                    "name": "الفصل الاول: الاعداد المركبة",
+                    "lectures": [
+                        {
+                            "title": "كلمتي الاولى",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2JcPOCRpH4MdoxoDurM9dcycMOEtoiAL_720p.mp4"
+                        },
+                        {
+                            "title": " الاساسيات 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aq462u7SMVDIzR3xxjaRPxisWFRA5yVK_720p.mp4"
+                        },
+                        {
+                            "title": "الاساسيات 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/m3Dr58obrGdhRs6l3UUvq6pJ1cLkHBNr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SaNvsOsFdqGDQXmQqI9OgXXR0beXZ8B7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/mol633dJ9VCUp40nuS6bOsEgEucIlznY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JGsXPlWbIiOxrCIFCgYzUrWmRXDlu7Rv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kc6ZOOQYttjkLAh0TaO6Ylz4Qvp3VdLX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sfohtfdUdFQwvoig1KKDpClLl6qFAPii_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4 جزء اول ",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BykQPL1brqrGI5uQyRQil4GuX6aZRv9a_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ZwCChtjGJntS26PWX47MJtC0HI5W9bSe_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/v825DRp4C1WMuMUhw0mGZuWMQSDtb7O7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5 جزء ثاني ",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/mRKdjUJzZriIx7XfmE6KCqEmvp0RiaIW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YNKCzddCM1YftnydZAcGPaenrZPLGgEI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JxaJqAp4T6Jn9T9Z14NckEetOmQezA6f_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8OhCfEsvR0XAeVABCt3tYsdbT8R547zR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/REPMZGUCNRMjTYCtNgsLbsXa0QI3ENHF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Uo1L5HO4d3sM32inlny8x3bIowAQ9z3F_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/G5v1y7Ii72t54w4wGuaIoj46fsTaB5yY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/U5VdDPfHgHL4e0XlrgyRyZMvDjjlJPwT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lta3b9RR8beisUtxGLrpvv60W4IHY9FX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2pSeAGraKBrYG0tKpwxekzL1wrfMhse0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JLb15vSebJSyidb6gf1v2umEs3gtuQyH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/85Apfdp3ItkUOMXldddxyD0YwNpe89I6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gGmgOBoANXAhNxIHqPtEoaMYTb3cG5N9_720p.mp4"
+                        },
+                        {
+                            "title": "اساسيات الحذف والتعويض 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LE2YUoP6t87YRLcCWjHKGYZ2W7H4LsLj_720p.mp4"
+                        },
+                        {
+                            "title": "اساسيات الحذف والتعويض 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xyWM03wjKvG29lubuhaZvMABD8qlXhQo_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iMqmv242lLKQHvzl600fYf1IA2rry6Er_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/olqejA1MjWcdXp74OStd1zjzDm9WTJVd_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/44jz3l1sFvIi2oF14mTAOeqJAgnodG7t_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SXMg3Pw5K6smpfiVXm3fVkStmUEEfHDx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CnKFUAvg3IidvVCenGnuMSEX4sIv6vbv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/HK1H9hp2WlY0QPEwMzcnJJSkA8XmsU8A_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5lLF9y45dI0pUUnU5o5cuweCI1g2yslw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/q2bLfx0o1tqVL2LvKhDtYD8KwmOjvaMN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lwIBqPOLAtCibddflDTF8Ky9jtv8Dl2s_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PkwAzlkN2k2IzlrwVnjz3ER9pd64OCHL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pZ4jglYTjzH4WTQUIxBM27tSB8XddkKO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3WzmcTqOdqjmo1UM2eqm5FFDFci8KCNi_720p.mp4"
+                        },
+                        {
+                            "title": "توجيهات هامة طارئة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BvjQ0BRsbEpBtPzRnHx7kSVSbU5nyDV0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0XEjKS8qsE7ANiwSSUlhvO5uQKLXCiG0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yTwYLskbtaZVNcoljiAaZW80cA2y4aa2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NJpXp58cj1Ztfn2mtFwxPKHYPFEDI95v_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/641TwyT73Kyd8s3IhpX8r5nKVP3aeg1c_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/z0eDGX6S4ot4T5uVdOwOE3CVZQNXVCHW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iJkYUnmk6KFtSzy3v0HTrfA6nVuvtOA9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xYyP97cQk5FI4qMaAlHDTPCS6gWvr5qR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YsooiznFCUgUgVvxTRuI57A68zx69DOg_720p.mp4"
+                        },
+                        {
+                            "title": "اثرائيات",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1AONU7HdPuzNWI05nkIYuBYwsVmQPIYI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/s5PdoY3BkSZsuxw2d576Mej4uTARLnSB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/L0tfBnP7CFxK2cKAOmtDaluKizKO3tLo_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/T2Ve94Mjq3tMbc36eh6WvNJLwGGcaoVF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7DybY0i0BTpUf5FJ96jyjxGESV4sZ6TH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7f8bUedg09AYr7CafLgIHSBshEHwxEw2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KuYejHVw5HD3EEPD89spZQaZl0OMIDjr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/on7FIP4SCVugyYu6R31dxIU0DxxDWzR3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RhYsuStQZXL4rLpIkqlKoKdxx7FuKHDX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hiTiTHDSiSEP8jMfOsuXpWmJjd08eVoB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/TSMkgzOU1fu2v0qcsOV8CzokFeie2bBP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9VtzsNHVIvGJa30ARK7Q2llMCAX0wfUk_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/h9MO3O3tnbs1X5NN9pM36b3x5shtIARw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 33 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NMaHIrwUXjQAka5eFW9bYmi6KKuyqM8o_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 33 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MZyeVouF9dUZBL59gMyemo3ec9f0RNRj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 34 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ePOE6fakPERa8LvF0e1SkgSKo5Hw6m89_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 34 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/P2dK4QaLIvPmr91QYlgu8QoziUnzzWrA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 35 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YHUQ8ImJmNJXIWgojeLws0iK6hb6c2eL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 35 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/TM6aPasn4FqvkoXfgkCGuvZWhbrfabha_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة الاوميكا",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/POkufqfISvrwpepawzrckPs2bniFqMiJ_720p.mp4"
+                        },
+                        {
+                            "title": "اثرائيات ومراجعة الجزء الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/7040a4ab-87c4-4fb6-9c42-cea4d2a058b1.smil/0a4973d0-4297-4497-88ee-d6588b66008f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "اثرائيات ومراجعة الجزء الثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/275f4884-6f16-470a-81ae-f7831c283d03.smil/dc0db663-bb14-4c61-8f31-f30fd7852544/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثاني: القطوع المخروطية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kqPAxrwjAbHm0DChidcdYUKU18tTUzQg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OqQevUgEMKxaM3E5tleWnqXGSDgAHHgZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hM4Ft08OFu69HVM1CF1GxTgOzV82lsv7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PMcgf7JikAoEcL13VkFI5J1ycvOu1i96_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/GwY9Vp1yhjSTvCL9SaOKP6KF2EdaDcyL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1CReytTntfQN5PtfBkab7LZa9v5KYzym_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ucrTKRBBox6rQdfkTPF5NQJQcDBeI7If_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ago9b6NnHvSBPIraJBYPukHwTyw4Sslv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bZwohzv9hnGyZE6Qy8ea0vLH6KbvkV7P_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DVIqV6dM82kkkDxkUE5AEkEMYqVGPQCi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YIQNOeZ4NOxxtsBffDfAEYixzivZIjsc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YV7JmLm1KEnPN3h4w0UFoJTrQbnqUI03_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iDLredgJeb58JmF6FL5OyJuxOlDmhOHO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aY5IQeqzslc6AmQgZ8VofXmnyHHCt3V5_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SlmV0kQ1qyaib141oiS9cKQDaPlBCaC7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1QUEaiQvNPTnF4WMkaaEYzi45Pe0IGLu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NYMV1ZRQLaHTcPJLwpWOS1EsQyiv54zl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BRjGc9QqIcPVtgT0BkoRlIvDO8dp3gQN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rOS4rcQLSqRt1pzTJoMoO5x257QwaJnb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2unuFsCx36HgRCGVTN7kY5Mj2oXIONLe_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/N1lwVlNfeqVRiZAd5EoPIpuYXXqouRn4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/K0Skol33VRjIbmjRd0qu2G0q9bN12LnR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bYrflcL0JoW0oIn0YBdbDjAXjOd45y91_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PgSzAoiX9KK7dDXgBdc7svmJVP6pzqV6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/O37qWIeT1i7uWrNkYfJy83unwH2a45j2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/XhgJm5rEmaOJvFmVmbsa1qAV69rA6mVr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CzueFZiDqwyxlwLQUcz1Vyu861IZVxts_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Sl8vLsRhWLw260RDsWtSKR8IbMsALTuX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4zkN6L5hqREhf29h9a5MAHsTLUi1BNXT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RViW0QOsHxd2Vj1WInN27leLiBdnlv0T_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eQNNtLorPiBu4J1L6z6tfo6Kp7eGf7zC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/XKWgfrpYUGGHNaIArS0QL73HsVZIopcN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/f2f49f0f-2a1b-405d-b05a-0b39c61c881a.smil/c96ab056-4d5d-4828-bfd1-f0cacc763f6b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 22 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/insj95F0l3VfW8REj0TI9pUYejy1sOGz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CBdxYgwbA9OID99buZryt9N89A7F7pnB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8RcMoUlyUmupleS4gArBYNGy69y7mRgO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ywQJWmR9gPCxeeCAQrOsoNSECgXvxgOc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lkKgU5tdhfrSpuQLzKzzXwQJbK4lgC8b_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/HJhdVaH7yBQ1nTpaNjw6bEqQyjgoNILA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/fNt9hyskymbs1hFFBvdnQJm25fB1Ensr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qnL03MQqjv3fgqN8P0q7lIUMB6ygoVeu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JYxMeh0IijklR0oCwOOfo18QeshWTHtP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/uDSAXicU9CmdxIeFBnfUlFmvkbSqwvB7_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة الفصل الثاني 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2QZzajM0aEKxlhuXqG4fA2kVM726WlW0_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة الفصل الثاني 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Yjq9phut34aJn2zJiIQJ5ltW5KzgHgES_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة الفصل الثاني 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aSgsAPsSgnkyNkrdpSSwnCR1SSAuWF3c_720p.mp4"
+                        },
+                        {
+                            "title": "الاثرائيات الجزء الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KXkCIOXBA5lhjDAZVXnPAD6AbYy9KWqo_720p.mp4"
+                        },
+                        {
+                            "title": "الاثرائيات الجزء الثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3f26wxMw9LYCdC3gjS75mw5UZjazWZr5_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثالث: التفاضل",
+                    "lectures": [
+                        {
+                            "title": "المقدمة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qTXcgVQsX9x5R4wHNTq1IDvaKppmLt32_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PV6mCrFqFHFS36QmfFxNLtdfXRhFCCF1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/j997OtRK7mvGb4vB48xyteYGkNwxc9Wl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3 جزء الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zTtwQNjSBlMQsv6abjkM9TqZEeUOoYDD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/e6Cl4Y5QVOXkHxtaPO3HiafyevaDLmev_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "http://vidcdn.net:1935/main/smil:6uJqFztZpONr33HVV9RSznUX27r9kvSc.smil/chunklist_w151747275_b800000.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/cfiU2ho8489P0hY5BBaC6kUsJ6ShZoS6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nfQwDAvH3wMwv0uXavmWHPYpMYoERsOw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wIpW8RT6HRhp7txKV3gQUKE6SPyohp1n_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/135f4591-fafd-4db5-92ce-527e830a74dc.smil/b29cedc7-14ae-4088-b334-7fd83cc9e36b/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/ec72736a-363f-4dff-a268-f1c88e4f6872.smil/456aa7e1-3aa9-4c46-945f-2569ce2d24d8/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/70883263-03ba-4360-837b-b1e5af88d418.smil/76896cf4-ae29-4d5d-9207-7ab150edc47c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/6f642e34-9cda-4cab-80df-827434d17bdc.smil/0366e0cd-985a-44cb-b3de-2af68bd1ff15/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9K0e1rqkWmbJKxb2a80LbTO97IFbh505_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5f08TXS7WR4cxD3BG0vSXjekupI2Bnvn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eEef10I8IxUp5gsBY3sg5AOE998z05FH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/AJQorCYG4W53vYPo172KcfWXRApT4bBP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tGtbvdUFZz7g1qgmp7PMxShow9RRnruW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://scdn.akamai-cdn-delivery.com/18/d70ec8ae-7f30-4e66-9b39-44b7e4b3dba1.smil/6f48a65b-acff-4628-82dd-de2404e40787/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kXJZYBPCnZfMAwUoaZHa2IgGqnKJz1Ta_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UdJcvOwknbeSWX13qmo26BgZ9CCuxmB9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/21iltGjgUPYN0hO1hLgCmXDydkGjHO1d_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/a017MZtrh0YGQ40FZcLxhuPZ2aFKGGRk_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Rp0MiMcYVeBgWCPERscW6NWaBrygaPJ3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/7dd53986-f3db-4e11-9440-7730c791279d.smil/fba4e0f6-c562-4152-bcf2-8d8fa0902ab3/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/cMQYJ3xDF9AopwqvYeFvOqM7ySlBb3jg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/puSgWHz1lQIYAbzLaNzZxdjAfAmZLiLF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/s7YdiB1CI4oo9rTzB11qwS1QhcRlPsQN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ev2DboJrGcFHSCy0R49viSInVzpH7NOl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Nn1qajjzdkWRbVJbUUPfFcvZIGtCtVcG_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/EV19QKfuIBrCDfqZoZZAZ3WHXUEr1tud_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/ec86489b-a1f1-43bc-a633-c0befcf4587c.smil/0ff5a73f-94f9-4f11-aefb-ee4383bc4ad1/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 22 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/cbe89b3f-5e94-4673-8288-357efa152589.smil/ec875e60-5137-4193-993c-246bf15ba7f5/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 23 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/192665a4-f34a-49ea-8fcb-093e6944f8f1.smil/c3476f9a-23b8-4cf3-9be1-ab8260e97103/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 23.جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/6EI7i71LVJ20wrBlvaQxvDm7LRjGFtUM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ouaBBO1j7D9NjRu5SX8ni7mobXvYV0Eq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7R3h1Ky2tj4AEvwdFi4tqnJSSaYk32Yc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/x1XS7D5sXKd2hgvTcaVQ42h01JHYXBIB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/34/e4aeb451-8be7-4d0d-a6ba-3dd8e46a0290.smil/c3ed0f03-0f30-42d8-8757-1f903f0396e0/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/9eb87ce2-e56e-4868-ac90-efb400cb48b4.smil/e6a6c500-0c57-452d-b266-d5fb5789d0d4/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 28 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hFcTJb8FjNHJfvBaMvoYb0NISg9YzGCd_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KnPNGYdg2ZoQ1adGsL7m7abCXiAy8KMz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2QpqdiXBsHzzvTFiRige7OiyCP7WhNZv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5DI8x2SNo70LEcXBZN7PrZNBi1q31wJe_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nU6y5kOxKlfGmdlj7G0mISEFmiS8dVy0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/502jU17gl6aQNKU5Gk5xYC6hFxckyiAA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Oe0OMGAwG697JJfguvhzH9UPRycfziQM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vmsoxXqeURMKkOThHjpwToHt9k1qeDMq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PHHfM2R8XPTgFlDHAEUNCmoUt3h2o0vZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 33",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FePOzGQgU0KegGFoZxPbz7gxJSV8IeKX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 34",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/34/5b7bb066-6fbc-4918-913a-7580c522c073.smil/d2accc16-4be9-4c55-a2a5-d17a8ba529b6/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 35 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/34/646446db-c8e0-437c-b7d1-5067b0da0f3c.smil/6cfd0e7c-c1bf-4193-929c-140dac32a600/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 35 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/34/7dac1d2f-ad81-437b-bf5a-2af66c849eff.smil/2cc061d2-9ef6-4f65-a9fe-4830279b1b33/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 36 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OMURCFG5tBikaswBvDlnMOFnXUw3r1Xz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 36 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1ovHWWB8uvLRICrMwV8HodlvaGY49bXb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 37",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/6eb7baac-5c4e-4d64-bfb0-1c145ea0189d.smil/d32bb27c-ccd2-4590-96eb-3cd4be3b3c04/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة الثوابت الجزء الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/d2b77106-a603-48b2-a7a7-47d9cba8b07b.smil/8d57e601-32ba-416d-a560-ad274a37ec67/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة الثوابت الجزء الثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/802f60f6-594b-4fbc-a188-22bf9f4d7b47.smil/8af94f47-4c71-4d92-a49c-ee5c921adce5/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 38",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/e09173fb-d9f8-41d7-b492-a5a77af2c5d0.smil/b44cba73-5fe8-4a64-b74c-82b7432dcb2f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 39",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/3c2b3ccb-d466-4181-af7b-6fdb787d3148.smil/c455df49-1d0a-4b34-89d0-a2e600348a57/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 40 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/c6ec9569-21ea-4202-aaf4-a408eca1cafa.smil/40848c23-b1a7-4229-9618-35975e650769/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 40 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/b5e8a540-95e2-42e5-a87c-61819b3ab3f2.smil/3fcaa03f-54a6-45c5-83a9-0ba8024b8558/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 41 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/eb1ac785-6b13-4a9c-96b9-dc4cd134890f.smil/c690190e-2506-4d7c-8886-2777803f6ed3/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 41 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/ba208b18-c050-489a-80ab-1830a81e7816.smil/7d57149c-d57e-4f91-86d5-a8eb0b839047/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 42",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/40c88a1c-5b38-466f-8383-44f32434a4a9.smil/4cff398f-ad40-4f85-9a62-230cc747eb85/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الرابع: التكامل",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1 جزء اول ",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/982e9125-7c23-45e8-b1a8-247111552f1f.smil/0b16fbd3-c3b8-4742-af13-2e03b49c9deb/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 1 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/233fc6db-d4c7-4bd9-8988-4204232929ec.smil/a82881cf-2df1-4914-a6ba-ee3402985ca4/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/b8adc5db-f76e-427e-a589-f6f891c9a559.smil/2b26be3a-416f-45df-ab1e-6cd89ff247d9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/1c1d163d-73e4-4b21-b3d2-b456458edfbe.smil/5b36ae7e-64de-4ae2-8d35-424a995ceebe/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/15417824-5afd-40bf-bd2c-3bc3cdf56e89.smil/a28c6f0b-fe32-4510-b18d-253c619ab2b9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/f50bb861-fa7a-4bf3-bc85-5e01c9e7f78d.smil/9a61969f-182d-4eae-87c4-4052991d4a57/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/5a349781-3e71-440f-bdbe-bb0411f4cc43.smil/773d7774-8209-4ba2-88fc-05f5507d29f0/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/63066075-fd2b-4237-8235-97ea93a9730a.smil/7e71e69f-63fb-4f6e-9b52-97b28f5e0761/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/a772eafb-24c8-46cf-a423-7128395d1d96.smil/8f611241-cc9c-4d9e-94f0-5e075ac3eea4/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/09798516-e425-4abe-95f4-46e5e8e7d4ae.smil/edca3946-5a56-4596-98a9-6d7688acbb43/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/b29797f4-73a9-445a-bf6c-8f1bb56efae8.smil/425df6bf-95a4-44b6-92e5-eaf6876bbaf9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/47ef2299-92a2-47e2-8b1c-67c1e30a38a5.smil/3d9426ea-f8df-4466-868c-45c82e46d8ae/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/51e33200-fc82-47b7-a76d-bf3b3159f2b5.smil/08c1e9cf-687e-40a5-837d-15bb7c225cef/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nr0aZCBVIL2cg447XDpnZs1VvwdCQrlW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/1cdbb66a-b8e7-49b5-8433-9d378fdfabc3.smil/07e44a5e-1723-4628-845b-f85255d1d1e7/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/17dd14b5-ca19-4c82-83cf-5e8f8c32ebdd.smil/e2d0e9e5-bbc6-4f29-b6fe-3e99486d36fa/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/4040fcc1-9223-463b-bfb2-36f69b721111.smil/4dde9a13-7639-46a9-a04f-a0995ec29be3/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/a63c50dd-2e34-4135-a8a8-cf514616f4ce.smil/554c2a0b-dbcc-419c-9324-e3405ace76f0/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/19439a03-c78d-4cb4-89d2-0d16a252e471.smil/11eba67c-4071-4091-b83d-e13799c328aa/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 14 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/40505f50-2fc2-4589-bc4e-8e54484da675.smil/d1c5e7c4-bbde-494d-a521-6881e36cfdc7/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 14 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/8ad5f4e7-41c9-4794-8c6d-cc2b879842f2.smil/c48649b1-9bd0-4d61-916c-1c69a8050a48/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 15 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/d2ec324b-6787-4312-8b80-7ef2fe991446.smil/41fa82b1-5194-4245-b606-c1792a19a258/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 15 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/8915f965-90e0-4342-962c-5393c64c7d15.smil/66e99c3b-37b1-424a-9c3d-a6eacd472242/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 16 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/07c6e054-94c7-4482-b1bb-48fb462734fd.smil/45ec991c-f2e6-4a10-8efc-a53db124cee3/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 16 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/5a6d1a86-0d43-4528-a6af-f90f6b9c8486.smil/23299ec5-78d3-4842-9463-264c94a22a35/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 17 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/5d47dc07-618a-43aa-a2c2-caa213b463c6.smil/20518e36-77ac-4f87-ad9e-ba5149071604/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 17 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/95ae1d8f-5b06-4e15-8601-09ae4edeb6c0.smil/33985405-f53a-416e-8506-f08c2f1d37cf/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 18 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/4207f5c6-6540-4208-a357-d28eabeceb8f.smil/8ed9c8ce-6f69-42a4-ae49-1a314576a03d/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 18 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/37d0757a-4621-4204-8877-a40b61fb391d.smil/c8f368c5-f8af-4df3-9e06-ee2b3dd5c525/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/afbf6de1-c9d7-48ed-8441-aceeb2a699fa.smil/0e6432b8-41a6-4152-941f-d519ef3d35a9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/ab22d1dd-5519-4ee0-b670-2d38e2f05c50.smil/dae9574a-c115-46c4-899e-8e983dad8b1c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 21 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/996b6ae9-bad9-4062-8ff0-9d83903645b1.smil/6c8023b7-c2d6-4c7a-8024-109e5bf592d2/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 21 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/f27c1183-e6ec-42a2-adf3-01c78cc75499.smil/e91452d7-a840-49ac-b628-ae3252cdfba6/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "سؤال صفحة 176",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/c4e06e60-32b5-41a4-8815-b23f11b9837a.smil/3d1cae3d-922f-4611-a138-dc0f1a984172/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الخامس: المعادلات التفاضلية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/93dcb405-8da8-479a-880e-4c2433bd33d9.smil/a8ff9051-b757-4065-a27c-bd2f80bf6952/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/6e5523d5-ccda-465a-b596-f835a23cf4f3.smil/8e170d09-e0d9-44d9-bfaa-b005d46a6ff8/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/85c31eb3-886f-447d-819f-110b284b6cf0.smil/2b4937db-f2be-4e97-b786-ec3b649beb2b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/ba2f5298-6086-45f2-9cb3-e721f6a62303.smil/117525d0-338a-42ac-9138-4d5f1bf47de6/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السادس: الهندسة الفضائية",
+                    "lectures": [
+                        {
+                            "title": "المقدمة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/518ffa64-0f37-4a5b-a612-85474a2914e5.smil/00c76272-dc0d-4c17-8c03-faac089b45db/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "الاساسيات 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/9a284337-e085-46b1-8b79-7466cc169c2f.smil/a15f8c96-b25d-4e6b-9f4a-b1011e896a4e/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "الاساسيات 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/5f7cbaa4-3f7c-4612-a4d7-693ce7fa0bbc.smil/369e80cd-988c-4e17-888f-5d4747d805c7/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "الاساسيات 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/49918f45-d841-4d52-b721-57b6d20b04db.smil/a9a152bd-163e-426e-bb92-11f30881c5ad/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/a730b256-66f3-4b73-9437-28894357d794.smil/d1df3a31-2ffa-441e-bfb8-8573a4f1f6de/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/2a9d1047-05e4-4322-84cc-3d99a2e2d73a.smil/38fdd158-2668-4ebe-a077-0f6d10f787cf/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/e48f801e-49b5-4b82-a1e3-e7fa4fc8ccf1.smil/b6a9de91-9101-40aa-9899-86450e8a9de6/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/279a3f55-bb3c-40dd-98f5-c2bd9bd359eb.smil/3efea41e-8293-478d-a0a4-fa1e46b008a5/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/4c9db097-2f82-430d-8fef-8d30d7ed8cd2.smil/5b156d4c-faa3-4d19-8cc0-2272813f0a2a/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/c24b1d32-b009-4b19-8ff2-7db36b821306.smil/49fc45ba-f690-4ad0-a241-04b7a9a13076/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/U227o9PJy7eGhAgrJYH0AyIn2rLCqWum_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/7260f757-625f-4105-8b79-667936a0c877.smil/e9d1859b-06c9-4bd6-9a37-f87678faa55b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/474fa7ec-0f96-4a88-889c-60fa92620619.smil/e8fd934c-f5d0-406b-899f-887fa3a64509/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/cdf1d578-cc07-4519-ac0a-70f24f1bc9ff.smil/e6ae9be4-0744-41c4-a737-5ff58fcb62c8/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/4e03f3e2-2944-4511-83cf-f0d4b5c60697.smil/ef2550ac-a3c4-43a9-9872-b121f93296fc/media-3/stream.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1741571798081,
+            "name": "عقيل الزبيدي 2025",
+            "subject": "مدرس مادة اللغة العربية",
+            "image": "https://i.imghippo.com/files/NvG8407jlk.png",
+            "classes": [
+                {
+                    "name": "الاساسيات",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/v29HiVKL2JuTNqwI4ds7sweGsOxt390A_360p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aXMOJihMf4W1lLiz5H6O4vunsEnaXkyn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iU562WoY9mEUWzvHdZtlJpKyBEofCftJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/mzsMjCNY9yygc2dmmxQYZcomO7jhyYnB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4isbsmh6i1Fm43mzqq3tBy4ft6UuZ3EF_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب الاستفهام",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://pub-9bf9f797be0a4677a839ce3cf3e0638f.r2.dev/18/dead0768-aeb9-4176-8e98-eae8187dba69.smil/e68f3e69-13be-4ccb-8da6-7dcef2aabc16/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://pub-9bf9f797be0a4677a839ce3cf3e0638f.r2.dev/18/ca73ee1f-4080-40bd-a0df-f07e5ed440ec.smil/eac1145b-f2e2-404e-b222-78c0ecf3b199/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://pub-9bf9f797be0a4677a839ce3cf3e0638f.r2.dev/18/c4b38a9f-55f6-4b6b-8534-38e0fa30882d.smil/d5b31bfa-962b-4290-8640-1e8f347a5cfd/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rbKSrTejL6kNy4yxkw7hwSeEV1dJ2KrJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jkqHFTjKNDcU0ZfGJtzt6xFQk5yYWNkI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Bk1KsaWy4AJArI4542yiee1RMqKYB1lR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vruGuoscbjXB8WqxoWLTzGcdxgPFAbro_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0t8Lm93259Ya9Lw6mSHwobNKFVNtwOWZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/q21iQEGsb9kZsuvOxioW7WMJHrbANiHq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5I2BvyqQH01hC88fDKNbzox0BmMZ3lNU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ZvZZVCs7Jy1OOyb1rhFWpoyRupIJSAL3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2eq1ETegyBOWB1fboD8XWQ8DDJEaTaYJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/N5Yq6VC2AGJecw3vWdABzKdAYrqcpKNg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Bj8IuSIHjyRiaH5eogzk5rJXFOXWaS3s_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bgE7Oohtusj9cav8JRUHAh88mASi4aM2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/l42ZcZXbiyGcERTtibWbHoSYWMJC9sqi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/u8xOfhqWH9HGvGH2U5c2fQiMsdJPBxK0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rxt4SqlzgrtZzqrrmHwBD3IMd3u36HtF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/esDCLZfNuDs0WhHqh9fGtssKB1ibxS5H_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DHwvd1D0gAf8ghKVaisqnGBRvu81yayD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/HYtXctxywWKFvYNrPOTOoOaRetQvlZTB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ixuAaXC8zBLLyHAWJtYGREY7awaeOTy5_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9k4XLDefwi7pDUYDgUgqsweLEbsus7iM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JNoRBYWpVA697ttGk2IKdYeCn6SYMpZl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ErGt2p8HRm7pISn39WzoInT3tigbvb8N_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ZLvETi7apWWAwqsjokqpNDHIkuH00jtr_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب النفي",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pMqCIRywi3N8AJD0JLJE42DwxG658pdR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/GeUMMnHACLEK6AavYXy13RQcgR2tgopt_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tfEzxdAuIDKCjGTN6k10ezZi5vP2V99l_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة ملحق 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sXKUJHNJ06b8GuJpjZrSUQLDANJTcRJO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/dHUaxhCEZxLeKesgUYKydLeuy7doEj9w_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Z5CviS8sYjYpmRmRrnZRaodfMXYv4Fs7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hO90fZUZCqeZuVJW09Gm9tnkFN2BTRyP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gGlCAcqxOyogRG7OgC9Ypv01mnBM8Z7k_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/cPW8FBnBlrrPTUg3EPwSLljQcfrUnDF8_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://rr5---sn-4g5lzner.googlevideo.com/videoplayback?expire=1743704530&ei=cn3uZ8jdE-6cp-oPtPDy2Qg&ip=217.145.229.235&id=o-ABoiME0eUr2g2YPSq_6reexvuXg7GHQVffn99Hgz7M7F&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcNLV2DcpzMlf7EEDiJ3S2fRNYL8lXgoSqClQrFycGg7R1gqmXBVRPDYdIWPBadQ4Kty_Hb2qL3O&vprv=1&svpuc=1&mime=video%2Fmp4&ns=dAI5ivgc6z4RVUa-NrOSVaQQ&rqh=1&cnr=14&ratebypass=yes&dur=3881.424&lmt=1734369168492853&lmw=1&c=TVHTML5&sefc=1&txp=6308224&n=fs3z0gPrK0M-xw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgMwl3HBFD15kWFrILkM6Sa0OwkCH-sqLtElN_WvdBVM4CIFizwGendk_gfldnljucGzDBYJq4mZLv7iQjldnOOin0&rm=sn-igpon-ow4l7l,sn-nv4l77s,sn-4wgy7l&rrc=79,104,40&fexp=24350590,24350737,24350827,24350961,24351147,24351149,24351173,24351283,24351398,24351415,24351423,24351470,24351528,24351538,24351543,24351545&req_id=b8fa063e6bd5a3ee&rms=rdu,au&ipbypass=yes&redirect_counter=3&cms_redirect=yes&cmsv=e&met=1743686204,&mh=6O&mip=169.224.12.216&mm=34&mn=sn-4g5lzner&ms=ltu&mt=1743685967&mv=m&mvi=5&pl=23&tso=1&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,tso&lsig=ACuhMU0wRQIgdUBtif3v2RW0PFoP-S-Mp4vPrZYmf8PyhwfBjk9nAPwCIQC2kFbInvSlxK3Yj_zYYNgN0kGgD5Uk4Y2G5c3KVnrCvQ%3D%3D"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://rr2---sn-4g5edndz.googlevideo.com/videoplayback?expire=1743707680&ei=wInuZ8jiGL6JvdIP8biKkQM&ip=95.12.80.231&id=o-AGAby6Uzwh9wRgBwaSd_q65aETYtpZhg3YLuyVxrpaol&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcNLuih3KTa0C1qkMq3mPrmSnoFindd7RVri7ErfVgf7ylYLrscInUyGAjf6_Hs5Z_vlPPU14e3-&vprv=1&svpuc=1&mime=video%2Fmp4&ns=_zXxJjbJD4Y-U9OepH0BZhEQ&rqh=1&cnr=14&ratebypass=yes&dur=4219.460&lmt=1734718975751566&lmw=1&c=TVHTML5&sefc=1&txp=6308224&n=M8Bl3rilHPBmFQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhALeEiuy-ZUOSu6BM5UYlJbD0_kNMWLN32JiE9s8rsQR2AiAGVCi4Gd7DUARve0bP3XzBHxtQePgKig_nlF1DLyaVmA%3D%3D&rm=sn-u0g3uxax3-5tue7l,sn-nv4sy76,sn-4wgr7l&rrc=79,104,40&fexp=24350590,24350737,24350827,24350961,24351064,24351147,24351149,24351173,24351207,24351283,24351398,24351415,24351422,24351423,24351470,24351524,24351528,24351534,24351543,24351544&req_id=a92e90aed940a3ee&rms=rdu,au&ipbypass=yes&redirect_counter=3&cms_redirect=yes&cmsv=e&met=1743686229,&mh=-D&mip=169.224.12.216&mm=34&mn=sn-4g5edndz&ms=ltu&mt=1743685967&mv=m&mvi=2&pl=23&tso=0&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,tso&lsig=ACuhMU0wRAIgEE-gPeryOcEreB8A4365wEL4wHbhd7MKa8WC-d-idw4CIGDKujAEhkl9LD9xoRd1a1avDfQDHT7HgX9ikiGMGUSe"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://rr2---sn-4g5lznl6.googlevideo.com/videoplayback?expire=1743707683&ei=w4nuZ6iDJaOCi9oP8tv8wAs&ip=85.100.65.82&id=o-AD2epBsn6Oi3fs5I7QNnshlisCmwh9pBz-T_3a5ZhbhC&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcPugcXlCu4aA6xXsmxxyjiqeG8yUj3hNWdgBUMhkgb-4td2yp99LSBp-uJ3Uad3fcuIEE6yISg_&vprv=1&svpuc=1&mime=video%2Fmp4&ns=B9Q0O-xHzuLTjFnX6oxfAO4Q&rqh=1&cnr=14&ratebypass=yes&dur=3887.763&lmt=1734203677199213&lmw=1&c=TVHTML5&sefc=1&txp=6308224&n=hJDan3GeQK4tpA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAKGgvg_1nMMTrdGTwW7nPHWYl61HssN0Zy-DfGnK0lxOAiEA5i_0J6AvkzkyFTDIpz5z5XFav4t9LxHa5uUsY8VVkA0%3D&rm=sn-u0g3uxax3-pnue776,sn-hgner7e,sn-4wge776&rrc=79,104,40&fexp=24350590,24350737,24350827,24350961,24351064,24351147,24351149,24351173,24351283,24351398,24351415,24351421,24351422,24351470,24351528,24351545&req_id=cf50405d253a3ee&rms=rdu,au&ipbypass=yes&redirect_counter=3&cms_redirect=yes&cmsv=e&met=1743686254,&mh=AH&mip=169.224.12.216&mm=34&mn=sn-4g5lznl6&ms=ltu&mt=1743685967&mv=m&mvi=2&pl=23&tso=0&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,tso&lsig=ACuhMU0wRgIhAOoymuKZ_jAlT-SBiHvrQSfquup9tytidz9HN_aMpmUZAiEAzmkJIHTuwGLC47GWzgbRnkeKvfx3BoAve4Hk6qJyca4%3D"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://rr1---sn-4g5ednsr.googlevideo.com/videoplayback?expire=1743701212&ei=fHDuZ8zWF9iFsvQPvPfSsQc&ip=5.178.111.180&id=o-AK4BIq2-QxQhRwa_ZHWFCHbcntjewEHwSdl5ez0UQG-G&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcNYWRQzJ5TGkrFnjrpnEc3-spCoSaMzOUqkScLz1WplqF110PKcVi1avgLJJMcVcJsl3e-wDdtW&vprv=1&svpuc=1&mime=video%2Fmp4&ns=bYTgv2mSeweX3fhUsx3GktYQ&rqh=1&cnr=14&ratebypass=yes&dur=2269.866&lmt=1733964613185283&lmw=1&c=TVHTML5&sefc=1&txp=6308224&n=c03OE_qC1mv-og&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAJV9ddJvpelRlVJDeEALmob-yKEywbEUdgg_ZjjGixdYAiEA_TqTIHzaLNOjeneg7G_DpordUlQ7LeHREzbjyfnbxqY%3D&rm=sn-bpcpgoxu-pnue7z,sn-nv4sy7s,sn-4wgr7z&rrc=79,104,40&fexp=24350590,24350737,24350827,24350961,24351147,24351149,24351173,24351283,24351398,24351415,24351422,24351423,24351470,24351528,24351542,24351544&req_id=145bac96da7fa3ee&rms=rdu,au&ipbypass=yes&redirect_counter=3&cms_redirect=yes&cmsv=e&met=1743686278,&mh=Vx&mip=169.224.12.216&mm=34&mn=sn-4g5ednsr&ms=ltu&mt=1743685967&mv=m&mvi=1&pl=23&tso=1&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,tso&lsig=ACuhMU0wRAIgJeyw45w-yH1tiSw25fdOMN40QhoX45uYw_rPVD5YqqsCIEmG1L9Zzt_mg2uERPBtWbUurycCi51PxFSJ1kzOcIXR"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://rr5---sn-x5guiapo3uxax-cbfsy.googlevideo.com/videoplayback?expire=1744650383&ei=L-z8Z4jSObvLi9oP7-78WA&ip=46.37.115.242&id=o-ADGv7qSz30IZy8m4h811bGwMd-9w8uvYOmqV7FsKjcv4&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AccgBcMdLTqxledQwt1l6lfNBjKEXaATBlZMuSwO_bQjLhFb-YpWqoSXFV2KTyXSkxvntQVZZZkL_ju4&vprv=1&svpuc=1&mime=video%2Fmp4&ns=B7UOMvlSeCTFaMh3LdHSp1YQ&rqh=1&cnr=14&ratebypass=yes&dur=4210.776&lmt=1733867518314432&lmw=1&c=TVHTML5&sefc=1&txp=6308224&n=vOHigGEfqMrVLg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgS0cXRDtUkZy4YcG9dCeoKXyHJlXeZrHJuRp-B26yTZ4CIQDqdKEpEl7t4qQeAL0RqGBOpgZroMOBtPglNn7CtS2v7g%3D%3D&redirect_counter=1&rm=sn-5hnesz7s&rrc=104&fexp=24350590,24350737,24350827,24350961,24351064,24351173,24351229,24351523,24351528,24351543,24351545,24351606,24351637&req_id=e3ee2a46a6c3a3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1744628859,&mh=Go&mip=169.224.13.228&mm=31&mn=sn-x5guiapo3uxax-cbfsy&ms=au&mt=1744628698&mv=m&mvi=5&pl=23&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRQIgaOsjX4-rpId7IZ8y79Puyo1mNoRdCXz5Fv58jdzXlisCIQCAI4KAxrJ7We6Du58wB4SqlbWsNMCc237XQinJxVsyQw%3D%3D"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/E8b9tfkbnE4xuaXALCjkiZqjtnPfwsy0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SfJh4VeYeO1cTXNJ50kixcSDEvEgjgZp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jkb6oLWudOx4XhikghNX0FxKylvWot8v_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب التقديم والتاخير",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3OU6nqeH9VfRkuWw3vNHTNWy6Pgb3i7E_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xJBsClOFuubhMiLU3tPxEphvWfYYfs5A_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "http://vidcdn.net:1935/main/smil:cdYdDNOTAehr9pU228twNtxLypAFnpYF.smil/chunklist_w2085704913_b800000.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/WdD2VKAmM3KvWNmYQiMK3yvHh2z1oMBW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KfZXI5ou80xwcKOS5CoJffVrCkP7uH4h_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/fmJEFQvgoGHRtDhkR6hDx6wElyfFDoR2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/mjidRjjzUXcRGKah1wX0BjxKEbDTgvMC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة ملحق 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/WifVQr3oBDVSxHAD6ykIMO2GH7Ymj4mR_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب التوكيد",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Mm3ht4FHakiW5qkbhS5ou7kcwZmY6RUR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ViljiJzwkECY9AnDxmWtdXmesF3jqulK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OAH2FOau7e6TN8RJMCAEeeOVWjoyDRK9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VWMAw63omstQWdtI4kSNkAWwbR2M8ki6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/z1JwXYghSrsGyiWvWz3hfCFwNREp83HE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Rb3H0rZSvqarKshZgjIMvThz7sTejk4u_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yLCaSR3nF3gaSKmoiUwEvCRGaYcEYdHz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/oAR1KcoiSPMYLH1GekcuRkd4TzTXxKGa_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب النداء",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/7703aba4-a699-4c62-8b5c-c7b493b225d7.smil/002c7aed-525c-469b-9e31-26eaa4046fda/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/3dae002f-c3c1-456e-a771-3edec7cc885c.smil/b15a50f8-87c1-4de3-b189-5aa31d789e55/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب المدح والذم",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/4e33d3ec-68a4-4106-b0a8-2e45fae9f5f4.smil/bf548ddf-cd2d-4975-b17b-c59ca522ad51/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/5710f75b-5290-4c3a-a440-1046afcfe303.smil/136941cf-a8ca-4a29-b13d-4e4428061fbf/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/bef6ed01-9ab4-48ab-93d5-588e365efc08.smil/0e4a5a68-7dc1-498c-9ea4-89f4d9181211/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب التعجب",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/5d3df22d-392f-4766-87db-92a06bce2f10.smil/f3effc05-c184-4e73-af31-b0f5e503ec08/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/b443a9a6-2bd7-4c51-9d71-8832d12c1c85.smil/76e352e1-587d-48fd-9e36-de54d7311862/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب التمني والترجي",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/b0407e64-3ec8-44d1-98ed-5f6f72ebc444.smil/727d4f47-231d-49d6-9a67-694038df07a1/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب العرض والتحضيض",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/eefaf060-bcda-4845-8ec1-a50f8367b724.smil/02980954-6e2d-4c56-ba11-8736fa54531a/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "اسلوب التحذير والاغراء",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/2ab17fc0-0259-410d-aedf-d3b9d9875e0f.smil/1cb694fd-369e-419f-9429-fe50e83d3bb9/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الادب",
+                    "lectures": [
+                        {
+                            "title": "ادونيس",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/upEOO0XayDOUDBsSEYeFx7ZH5zam0K4J_720p.mp4"
+                        },
+                        {
+                            "title": "الجواهري",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/z0z6eA5VKO5aiUpI5XbRnSdrKwTkXtJ4_720p.mp4"
+                        },
+                        {
+                            "title": "الحبوبي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tlnLpx0avZfdIxBVVaOE2CTYSIB3eASz_720p.mp4"
+                        },
+                        {
+                            "title": "الشعر الحديث",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vz86P8oM5TSaaH9G3Fs3PhdfyGr8yWmU_720p.mp4"
+                        },
+                        {
+                            "title": "الشعر الحر",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SgzeucUZCsp2ZmQUXCQSHYIkJ7Epl04i_720p.mp4"
+                        },
+                        {
+                            "title": "حافظ ابراهيم",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IsOI1KhR5ojfZUGnOirXfwvTVl82SnaX_720p.mp4"
+                        },
+                        {
+                            "title": "علي الشرقي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lVwZMTbj8Ar1JvkytABPNolJOmpogFji_720p.mp4"
+                        },
+                        {
+                            "title": "مدرسة المهجر",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/WSNFt1Dr0aTB6uwG1Ha55z07zTwvVyuR_720p.mp4"
+                        },
+                        {
+                            "title": "ميخائيل نعيمة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sQu4vAGs3Gqc5umrXCiXGDDEQf8GBLVq_720p.mp4"
+                        },
+                        {
+                            "title": "القضية الفلسطينية",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zU8Mp41d1vcI9qa23yRxlv2iY4UpHrgC_720p.mp4"
+                        },
+                        {
+                            "title": "الشعر المسرحي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Ug8SFSgsuH2IgJbRWnn3dVftIigtKwNx_720p.mp4"
+                        },
+                        {
+                            "title": "النثر وفنونه",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/27/9aeb3167-3436-4faa-bbeb-437706eba1da.smil/6327d5b9-efc2-7208-9c43-dcab3bb38f1b/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "القصة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ikhpjZIVEUZXO49DnMVVd94150ynumH1_720p.mp4"
+                        },
+                        {
+                            "title": "فؤاد التكرلي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/17f7b2f7-1ef5-4ece-a26c-d5afa056f819.smil/6f0d447f-ed44-4688-bd29-bfb0aedfadfd/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "السيرة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/eee15217-52ee-432c-9834-d05da84e9053.smil/5f832901-e9f5-4d82-be26-574c1a2b5351/media-3/stream.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1742255533407,
+            "name": "احمد فوزي 2025",
+            "subject": "مدرس مادة اللغة الانكليزية",
+            "image": "https://i.imghippo.com/files/fnCW2885mc.png",
+            "classes": [
+                {
+                    "name": "الاساسيات",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/f4FOPsy2SGO42WT6BE8cHPCLAFIW1jUJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/u4DijPG0PWHscHY15gqibOq0y4ZW1Z0V_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MkQXZ6hNKGTVMCIifQ6zcgYONskZxj6u_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اليونت الاول",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IKQ9tmZdy835prT6z64OYFEcR5hCkHym_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/58u9I8cQxC8xX1or3x02eZdfgPJKvbfQ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/r0isS0LDHYc6F7NEWkjQyCq4ZniUTJyr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/mqBzLyRa1Ta0mET17jw6KnNJ4ueolgaW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/srkh0qyinj8qtTlUXWzAB7uPva5OVGes_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MN552D4nvPPNvktHpyT7bXBUCBJdLbpV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xAcylT06kuCT2ROLLESf6XBlhNlvPXwU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4JWDP64OAxJThiTNe1HXTjP5FofQNDeQ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PgsAnpscqQso43uCnC6v6Y7dPSXL4FpM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SKtNtXA8BtFCcbkJZyHZ2pjCWyam8hHz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bcqJK0lq5wFxIjHWQNrYUS50YxoRAKbb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hV0UWkwmiMzB7ykUrYsaTuNsQsaUaHqp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LsWqSPtEbE8d2SvnCeHbWhTNlgVKEbKW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/QxY5eA8B1NJW81NvflqjU0LBKyqzN0Wk_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "قطع الكتاب",
+                    "lectures": [
+                        {
+                            "title": "شرح قطعة زيد طارق",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UfF1catx1cFZIApm2xKvdG4WemFoWTz1_720p.mp4"
+                        },
+                        {
+                            "title": "قطعة مصطفى",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rd9NmxmN6sFdE9DeNjINLsk0VvUpwCqy_720p.mp4"
+                        },
+                        {
+                            "title": "ضابط الشرطة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Lfs6filp7is0kUyesPI61SPujZKrKCI4_720p.mp4"
+                        },
+                        {
+                            "title": "الرادار",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/v0Wat4dcPy0SgIl121GupCiBreJ0xfyY_720p.mp4"
+                        },
+                        {
+                            "title": "قطعة سميرة المحمود",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YP09Opo69kxgV7573hGBQmC6c06pm6yY_720p.mp4"
+                        },
+                        {
+                            "title": "العطلة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eO3LmfvEP0sFolOqigLSFeWnSOj1Sxh6_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الادب",
+                    "lectures": [
+                        {
+                            "title": "محمد خضير",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4mzEqh3UH8u5duTRHjHMAnvTGYHDI9SF_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اليونت الثاني",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/r22FrT4ybRgchpVGHUZgKnaLg7XpajWB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zEW8sUFZbaAOeDqDiGjhnzifaagCjs5D_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qjHGp6mhCPb9qEnlae435wRmGgvPWwFa_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/M3qJEy0xnqUy4xOlh5iqfQ7Z07qkRBmI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zyyVzdLbeLgdWMx6rIlit0uVaMKMZh1l_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/XnM3JjEnxOe9EZwRRTwCXnRI8XmJsc0I_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nQzXJD0UfzgTH7qvTBCQ7YYziZtiJRKp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/97kJ6yVzyF3PipJX5otU64rUC0sbVyED_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pbc6egZGj9pga5JCLzskwJAfvJKd2P0v_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bwLlGl5cXlwP1w6cuqzKSYlv6mI8ovse_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ujVSOHwrKVrBPkUWAxbFeC3DTkcKLWuL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Ep9mEjXfKNfGnndX54X5P8eZGYVhZQkT_360p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اليونت الثالث",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yLEAT1rhtFH2miQDEjQvboag4HVGGL3i_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Kb3NdFXphLD8t6NlVVCRYO5klvKQrri9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eQtY1K4xavcBtlCVyRyLUAcHXwXlxJuD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YwNQu3jLZ6klavkM6d0QmfETsy5kN0lZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/i9F8pcE1WDcfda2mlRfHyL0NlKRR3RmH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YP09Opo69kxgV7573hGBQmC6c06pm6yY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ckPGsVS72n2zWVWBbIWkonDn0fXWcntQ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xb8rDEnxcACxmIGHBl4Hw7NAifj9MSUg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/J0wImmgAJPaqdLfXOWWF93KAVei1rrrQ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/naKio075j2DXyWFMbWFQOWqqs8ivjeCD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UWKE8JZYGCi8LtygcCrokmbHcyqSqiMl_720p.mp4"
+                        },
+                        {
+                            "title": "وزاريات اليونت الثالث",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3H3hYhnH6J3xMnxYysY7mJTUm2VIzD3R_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "ملخصات الكورس الاول",
+                    "lectures": [
+                        {
+                            "title": "وزاريات اليونت الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vPelNa8L3VJfDCEzKG7mJz4IQKVIRDm8_720p.mp4"
+                        },
+                        {
+                            "title": "ادرس اليونت الثاني كامل في حلقة واحدة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lAM4NmcKa4BPULVUMeXVDAWTlG0kDBxG_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اليونت الرابع",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iy3uezyfw5Xw1IIkqVdYhveT2CQ3SEDY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SVKcMZtRNoJXjkG315bwAsjBtmBVM335_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اليونت الخامس",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KxPIM6SwriS4eCPw2wEsy3GQnphKqyU3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/8a0c3521-a3c9-409e-9147-cd5713705515.smil/3d91a350-cbe2-420d-ba7d-d282513b4d4a/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MO5PXWj0xFCtHi4waYnRaUBgq54vnu3p_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Z0tEsAO7iCI0LU0a7zDLeWNcOVAD2Fa7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rKpmCsUpjBACTkiSg8JcULya2bW3d2DT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/XE4kHnCZPpnAZarWcMxhNbjf44NDaLLN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NqtFTYi0NrIq4wHk549G1cWQOZxlvFLW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/r97uFW54cgMsW070sW6unfc4T9amfo8k_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sIXQIf2eK7uVnncgY0grH17yTcMbcvQk_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/07m3kFYbNLQjhsllvJkfqyuobkP03yZG_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0zafEBNPL8PEOe4GInef1MKgIAtWBjWR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FpmOpn24MTC4ucUfPpNhwsP07RFEQo8p_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aQViaQurhuFZTy74ifNVJMVfeLZETM62_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OcQgyr89cZ1VMUFBNrmQYYRvV9Ueo2hG_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/W6MnboJaDSQSi4kUtJ9P3qvrTiAj3IUT_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة مركزة كاملة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/4b31f3bd-7cf6-489d-b992-c9fb2c39aaff.smil/55ad84d8-de6f-40df-bfcb-d392e193c65f/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "اليونت السادس",
+                    "lectures": [
+                        {
+                            "title": "قطعة مقابلة المصرفي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/WMIEwQgKtHvPjPfEseSuGEUyzoKvbdq5_720p.mp4"
+                        },
+                        {
+                            "title": "قطعة تكوين المال",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/erPS5SiZNkNTp285PKnrnp6Wn4hTSxx5_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/4f4361e2-1fc1-42fd-b948-779991540399.smil/ab8278d2-84ce-49f1-8c09-d8cfa114a2af/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/61b22650-1f66-4baf-8027-f3e33407f803.smil/59020ae7-02ef-44dd-8150-54ef9c3454bd/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/2dc82794-22ba-4d2e-bf13-affe1c3dd3a8.smil/83fe2b4e-187e-47a6-8243-cd54adc7213f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/6eed6260-491f-4ae5-b779-1f75a90cf03c.smil/a12a5caf-e2b2-4ff4-92f4-2c9ba6560b4b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/caqApijJEdMLo2avaDVtEoUFbQhwlim8_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iioCP7zkMMhz5GUUwwRq2q4qEMIo6LHe_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/W2YwlZGYA5Vy0ssjgXVH8LTODrExgZc2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SoTZV8cojHllAXVSFhLlGZ4EXneEhFp8_720p.mp4"
+                        },
+                        {
+                            "title": "ملخص اليونت السادس",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gqc34tmsuD6u3FnR38EkDKjk6gL7wzBI_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اليونت السابع",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/69b4c927-fca7-4bbb-9a94-dc3edf712792.smil/f18208c4-e014-407e-8494-467c065cbcf9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ixfpcTKNqhCxSuymnbUzulw5iTIbadrS_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/8020f30d-35c4-4588-bab4-a5b9c40735d5.smil/5fcd9342-d6a2-4524-b08a-33a5a3d5838d/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2nEwc7R37ti4JP7GMH47NheUxbTgtSsd_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nSscGrqzOCTxL6SHo9UDXOTju8SbzQkv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KlG6KJpASgURs9lPpxRJ51AgoNft0EIG_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اليونت الثامن",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CQcF5upjlP3konsrAkqnlFC2zthatEiL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YlUK2tezY19xfKwi3znqYtWiBLGJUipm_720p.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1742727307961,
+            "name": "علي السوداني 2025",
+            "subject": "مدرس مادة الفيزياء",
+            "image": "https://i.imghippo.com/files/BQT9455oY.png",
+            "classes": [
+                {
+                    "name": "الفصل الاول: المتسعات",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0ThzAFobXRu6mX7Qc07CAnBJjdJzMjWI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/V3QBs4qFQn5QLRGjiJUqBxAMtsmgThhp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/cKuBmSGhu8rUmBlyZgh0M2oRqmafHGTU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/TmtSZBlHsrCdIE0Q9qtDuoRpHBqLpQsc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nMFS44kwEOrXspNCR2rcLYAs6MrgfApQ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9TS5vrccTKCOq1Bh59dH1OmVX7LJA6On_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7kkOE0EZWgSew2bmt1MFc7FXTuZZOCV3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8AoFxwSsbM3USvdLqMCHb1JRRv9g2T5q_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LFMxi4bJXuX9KzseUtFpcMV5jJT4epDs_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/O4EYxId3AlEQN3uajsMaDj87fQGFBg7l_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/POH5mdiT7zmmazLe8RiyoOQDxqRry5wp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/l76x9qXnZhwpn3lhvvX3EX2yCEJvtMTH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bC4aHxFgn8KqtCTrg3R9lOR7sIsxLCMO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FC5uhvotVNcJyBkXfUfo87vPgaO6hgEO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tvYVYG8l9biLZtjFy6pWEBZXSYsiHqg1_360p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4Lfn3TI7FeIt007EcJrlfWHdhvux0vQC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lTvHjFg8dCp8BNkZnlHLdbIFU5vQ3eNh_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JJdketrPIBjhyr2NQYERU0b1zVQuqwlz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LeLhNWzc0e7Ie4KOAUvi8fihTCnHbQrq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/dK7wtUD1i1ceeZ8OGYzwmAjxah5p9GEF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ihkfPvLGugQPk5pQ8wbZ6fJUDKVQFeSX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0DtxlKnoA7UPYojntJZwocuwliuBiYlu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Hy7okURqpVLGa9bQ7h0kOxSBv9RfgD9G_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pe60qY41qYJ3X2tgDnzVOrUvsJRZm0r5_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/McRc8LUJVr95BbaKzZo9bSDy64FgIkGw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wyeJOzwiEyBXXuiGShKxaR4J5cN5ucpv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Bq1KIAnbJJ8cQBMj880dRlXw7WZ4aVDX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jfZjoiX2X8bexhwhEzSLBYksXq6T48qc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/EA2fegyC89SCKvEnwZgUHfVQFPM6V35N_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CCoORdQuyggptaOkSUgWHMH6WmQ5GLhT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IcVXLYPbxm6SMNP4FVymhCtuvwUPuJzh_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zuKi6Y8yp8G849uj93onuKb4Z0JaOuVg_720p.mp4"
+                        },
+                        {
+                            "title": "حل اسئلة الفصل الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/A0xS9nYHKjQZ8aaKRofHpUjAa57vZUkX_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة كلاميات الفصل الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xrc4c8LoXAFcROiW1pGwwGyi5JhDq0Qz_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثاني: الحث الكهرومغناطيسي",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4MSE42flBgj6lR5AMyLBvhzcthTXJzgv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/N9saSEpF1ovcn9klkfAlHpP50rcKjRY7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KIXqBVp6EEZlemF8HECibHVhIDRiYu2K_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wNINDIUfYS4CfNBKUnymiBQPDqtv8e5E_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/X7HYGRhfxyYTXBvLQCclstSFLLfUciDT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xmBoRsXobwEugEefuQzxYXAzBFQo8u19_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2CD2LIcWnpY7lCgfLekylQP9TDpfijzq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PirLayLEGZaI7m4tjgD3oO9MZRD5GDzg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/cmhzZYkvsvO7p9vdc851BbpvYCmCgNL6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8YvXvY72P6uTxCxgsUalFjWIaB2dbzKi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kMmVqcHtny0rVsMusUTDhGVnPfwrk70t_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hbhVtuVZ2d5F4FTF9s0wDYdFkxHqyaMp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/EVKvbUStuv0H03Ct67JCTEBRt9jBphsK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SZI4mZvPAJbvaPmu2aWKrWowggilYCOR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Cd7BkLlILPMdgsFrPmxDYCPZeaEh98N2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jhZRZmLwYNv6rC7C7ir5nS9NT2WoCzlD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ABn92s9xqRVO4dxIkNZPVM580xxAtJLL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qLMuVDpuEY3AYvpxcuZW5lvPukjr6zcL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SQNa5dU2xlUy0Nq7OulaHxKmgMk4PwHR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rNhTIDIJ8YMaMnlNhioW2fl4GwHkMuPl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/EAiaogB4JmvmAgQ948pcgQL691ZZnkgz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BMij62W5iCbw7YAHQ5ujDAagXOsqIgNT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/P9IdZSEXpoqkEjkwrJrsdGTgADbc04m1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/uXkcv88ORLaEQuJ3LSyewmTxEygDha8m_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثالث: التيار المتناوب",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zJ1WATnCdxgRF5vKFjfe41gXcaSpE0Fv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/QmvJGH7tGm0s47380MCcna9nWUs9x8R2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/uvYhsGT4eLNsm6b2ZLs1by1UbkzZVRXk_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ddN5EGGJZ6Ns2y8iNoG12i0U5XxVYFkd_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2jdDDToqFWWeRaZIgO68OjY0lcWyESRL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vqqAqzei0onjQq9F3c1Pd5B47X2gcB2L_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JT5DsDCk3GpgdTsJFoePctH7ov0x01aS_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/arZt5t3xGd1ZSM8pB7K4hsOIXOlbsUSY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/56ndTKQMMbFEzyGOTkj2eTvKBXfFYwq4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Vbz3tuKGtAPqDs5XjU5OqLxvk2LOHQPs_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NBWs0hGt0zU5uLvxcWvsZkAYb1eoMxhK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bEFbHzVuG1ey7ULjEBPdlgL3K87x8c8j_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ClCl2FmcbJSBcHMXdekqFK32lKwLY4VB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/buCJ4t84awvls2rh2tYasVJzNpBRE1ld_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/twOsZLg1fZEEBD3QPAdeGJESKPycKAeb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8rWwxxzlL8FrlnElDv8N3AaLuRpx1jcx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/w0IKVVjknMTXMwPVFimyju6fohchcN9G_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ehLiVyD3yFV6LtNQk79rvSbtfPVntAU6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hR1mzWyKPqijqOiyXNtQu8Rkw1pVZ7LL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NXjNVGpsJQ8kstf2oqsZNIBnm03ZCAvm_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/6x5Ih1Ju3fhjEVtPQYTWPwDrTvqaVoED_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/16t9YafBs7rzQ0uXtF08L80jzRNz2M1V_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ewalFvY2Eho7Vlfdnx8aYJn5OOTxSBfc_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الرابع: الموجات الكهرومغناطيسية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/b02c7442-24f6-40fa-abce-faef5cc516bb.smil/7bc0d30c-fa5f-4db6-baef-45dc1f7a5c5f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/6ff368af-7202-48b6-ae7b-4ddd0ecec0ca.smil/24b7a7ed-0f8c-4836-8a8f-ad4a3ee9837e/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/c3be2f64-cef5-43b2-82f7-77adde24d428.smil/c92935ae-edd3-44b2-ba1e-56ab582db251/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/65de8b62-62b5-4182-83a1-775ba7fe1802.smil/cfc2dfad-817a-40e8-9433-7db3102f828c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/8385cc01-f88a-4f7e-bced-4feee828a8fe.smil/b446e29f-340a-4616-a583-76badc3f3486/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الخامس: البصريات الفيزيائية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/f990eead-e8a0-4f86-9bf5-eba7e47c5bde.smil/8836bcc1-73b0-4e56-aaf5-6d69847811d3/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/0317a0b4-dc74-44e3-8be0-6749ffe7ef88.smil/ec2ecddd-dd54-40c4-b051-4cb2c9c312fe/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/f74fda12-9060-4166-a23f-241f7a05b521.smil/932933f6-ec36-41cf-bd09-5c9f73b2f28b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/c4b2f094-4ff2-4627-a622-5505cf7145eb.smil/b2631d3e-ab16-4b2a-9756-d70cd74646eb/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/9063d483-a635-4e1e-b429-e748284b703f.smil/072c1ee9-9ca2-4a1f-9445-9dfb3ba64840/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/9bb50fa5-63d5-4ef6-85bb-7a0c80e152c7.smil/39c59239-ce3f-49e4-9260-40038727090b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/b001b03c-6c8c-49b0-993b-7b8bec7ac8fe.smil/fd11b5f1-6d7d-48e5-b2f3-79f5b3a6691e/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/icAPxnQHKV50coMZHD5h6DseQvys1eaA_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السادس: الفيزياء الحديثة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/bef9d2d6-cfdb-4c89-bf16-6d63689f0ed2.smil/4cd99b9b-b548-449d-87d7-079b20fce81b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/16dc620e-c6cb-45a7-a10c-fdcbdf3bf14b.smil/a586e5d1-8ae2-449c-b1aa-78ba5022653f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/bc1eddcd-a4bc-4a2f-af96-361fed2bd0f1.smil/2f82e830-097a-4d14-b9f6-5e1fb19dfaff/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/10283381-e774-4b68-aa9d-3eafd34b917a.smil/d653c2b8-3b4a-46f4-927b-e25fac45404c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lH47g8JNBoUMrYr0jGvWWB9S2mW4pokZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/f6076bdf-5685-4d70-8811-1fcbaf701f85.smil/aafd533d-04e4-445a-949d-6e44ba2b8c7d/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/8292e7b4-5163-4ab5-8d9b-1850a39383b3.smil/bdc6976b-98b1-4d27-80fc-bd946d85ca1a/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/8c5f85db-0e66-406f-bb69-369426437fc6.smil/c59b7b84-ded2-4d92-a863-dbf63bda3945/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/9a6da2c8-58aa-4fca-9f9e-2543dd084db2.smil/f42cb43f-1180-42d7-acc6-c9f749f07146/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/01951342-c50d-49c6-9cb1-6ca2147f262f.smil/561d307b-408e-44ec-afbd-f90b1dd84ad9/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السابع: الكترونيات الحالة الصلبة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/cfb9b381-800d-431d-8955-eb9fa8a4b17e.smil/d32c0fd2-47df-49b3-ae89-201f13e89dbd/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/b1b356e4-2917-4d9a-868a-6ec362d3ac59.smil/61c67f79-3ed8-42d2-b388-d5f9a3c9c08b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yhYczuHhPFVd3jordqgTtpKeV9MjFHAP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KticGxriGh9506TAWQZMqmpc2PuxfdFN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hkgYMpHfd1mjiILNxJhDpkfMao5WY4m7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qxoJCpCB4u0eFhtqLoiHXtOMRQI0iX0e_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/99laF2dD4VNpXErAJPNS9NHUCXROPVZO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BCoQJAW9Fh06j49XE88009Veg3AP2kcf_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثامن: الاطياف الذرية والليزر",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/giT75VHDo8jKuyKMx3J8TkLGMXLBDPRG_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/C5aR11UK9pD9dFebyfQ3j8rC8QqZpUb2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ntG1n4fiAk6eKSffcjEe5GgLTvgW3sjM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jTMY4Op7An4Dc6HhcbRr70mooMmwT467_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MPi2BLvpvsgkSyBLfxFSipvCppv6BBbV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/woem4TUuZiNkLhOHJuxrGG5FUTKB09eL_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل التاسع: الفيزياء النووية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rUObYQOTyy338QUxk67zBUOJOeg4DhlW_360p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hhOfAifRZRjIuJAUc8WvGHbuYlnCDm2m_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5TCyZmgBy6zcx4lXWbBk2h9OJxdteuru_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jI8skJ3e7FFE30C0ICBsvB0AA58arUka_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sqnRGH1nVYGAut87szePnp0D0F5BP8di_720p.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1742780165678,
+            "name": "عصام الشمري 2025",
+            "subject": "مدرس مادة الفيزياء",
+            "image": "https://i.imghippo.com/files/HQ8901Hg.png",
+            "classes": [
+                {
+                    "name": "الفصل الاول: المتسعات",
+                    "lectures": [
+                        {
+                            "title": "المحاضرة التمهيدية الاولى الجزء الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CNbjN4VQSHNDmLgD3WiDtoVSopztnXqG_720p.mp4"
+                        },
+                        {
+                            "title": "المحاضرة التمهيدية الاولى الجزء الثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rkKlM9jUxB39VgbEf4clgdCfNDABIY8R_720p.mp4"
+                        },
+                        {
+                            "title": "المحاضرة التمهيدية الثانية",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MUF83yjMhpQAnPmmRzmk8hxLU2Hxcemf_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/N9Cq6DlRxOqjfW5bqvMd8QHO2x0PnJ4I_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/W1l4mgkROq8qRX3u1Y6VmKV0XzE2Zc29_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xwUEfNhpjWfFyTk8dXdywftEtRWDHfSY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Ml7ORvcA7eRSZPeNeLn4Y9lfRr9tHpi0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Fu0PinJQJf0O11qL8Jhosh9QcpdV31Ll_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/H9EfVSUym4EZJWrD3BRcrD7t4VVTqsk7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4Lg0nMrxQ5KwrwuOTFen7u5IqYNrVfZu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eY2Ppg32AsexaPsS1O4tn0UzQXLzHfwV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tOYnmQbxFP6COAUzWpkRpUDOzFligqUp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SpfsVbJuO12fYE8vvanEjLTpNi0lamGD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Lc4udkFyoQy0FjiCtArTRhPvVB09imEg_720p.mp4"
+                        },
+                        {
+                            "title": "اساسيات",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/l8xhdRScDf0WRJD0bQsr8h9nq7T5AfCc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IglLFFsZmg1qPMuEI3xju4csOJ3dEOKv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/GGy9abKNPJpva0rBJVWlhFS2llewKAIV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aKRX9ILV5pKRqLiie2Gda6X6LcnxYQwI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nAostIeGfA2D8YIhyxpBZBPRNtkvgdF9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/WxBxYicq8kdm0FgyyjVazJgSsplT05fU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BI1UHKkIeFhqzp0J6NwHPIJLwhbhIg7x_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nKnIj8zWC9goRJgSgLu9nK7C106qJltq_720p.mp4"
+                        },
+                        {
+                            "title": "قوانين وملاحظات",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aKRX9ILV5pKRqLiie2Gda6X6LcnxYQwI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/u4Jo6RcBNTzyuKNljaQPHg07xXEB5vX2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kdxpks69J4qF3htZUhLBk7ODw5reLje3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/P02ZUWgVT9Ew4YQIeRvqZRKxYTIVsavN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5y4OSAMO9GlNtX2WW63nGSWgeyqUJFPA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/TS1covHcY8Q6Wqsk8RVSPAEoqCXvPee4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/s67vANijgKWWhyL4qwOzGKPDbCv97EbF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sS6EMyY8KCBFicapP0LtJ6iDhhi3tWLc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "http://vidcdn.net:1935/main/smil:ozY4EBOuPLgHfPCIuGPbl2rYgmErgqwz.smil/chunklist_w1108215731_b800000.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/EWQDDLkFuEFdwzvg2yS8UIJm8F6nWe16_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ByprosDDvyF45dpzEOP8iZL57ENX1GB8_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yMOaj7LZ5Ai20gndzpEp5BtiYLY857tn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/So2r8CWj3Keid1rFBOGxP9vUcRm39TX1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/AcYrV1zQvEqtfO4S1TuS3om4xWbWqnfB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1yXGESGAqMONAjLPmSY8Cz35QvAnmvDs_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثاني: الحث الكهرومغناطيسي",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": ""
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BGFWkiGFmAKaaazWJgxv69nOMOdSr4Qo_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Cph52cY4dIuY2uzgDwtzFg0mTLfP30L1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hDucC3QTejuffaLD3Ah4Wd8x1Dsjb1Mw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ziKbavUhgSwSK5yqdpk4kQGvloiCGw8D_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/geQBRidteB5xyNfGyCJpULogmyYTuzlU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CiXC8o1n2lMnKOA6LkbwkjE9JwG58Gyj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/AFNyZcpZZHN0LEe61GJykuOwOvf71mef_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/al6g13uVeIoNZzi2HxAwmBhbaa4iNBtU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yviWYHdUgsSxVgVD3BBEreO3JTGjF2dB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hnmmxOPgvtqvp78ISmPaVvFtiT1Co1Y8_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rvk10owKZjJQS014IeZ9LBFDRVpsfiDf_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DZswYhT10chIxp3pa40n9vgjcK2T1Nqe_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BcBPIle9fCTjU3UFSmUM8MiR6eNQqfB6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/6oo9VepK7s1MAhIYsLkOg9Nj2QhpR3V3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/u57FuLCJFfGGvtex8qUV0G6XcxGJvARP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3WaZw4ZUfKqd2gEb27FoxMAckLFln7S1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sllns7U4gB7TxrdeYwwxVCht8b7dWfNw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Wj9hpuxAt0T724WFZGzHYQEBxpzZhfjZ_720p.mp4"
+                        },
+                        {
+                            "title": "تجربة المولد الكهربائي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VBTAv9Z57XIiTfLuJijPb5KbyvNG63GC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": ""
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1ouOc166Qd7RUtjuRa16ZFBkExuoqSsw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5ObdnKkpq8jeyVhu1HCYWPuGA88KYpOx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/45Y4tyK9kjdaZu3FpN46nC2NqQaoWtNX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VyEkBqdMAA8QI71ohsaaYBaKTTrX1hG9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SQaR818fPuk3YzgckGkQfTt1ELp2QyYw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/u28vHh9CcjaDg0uB2B2lIoKHhaWBi2ix_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UYgBF5AbtL7UDWPq5GlTsHc2R0AvbI8b_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Bzkprsqv9AF4LFDhMeeBd7ZLcIyla5mI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BDjBZSZwb4SjhfFUwTKpQhzkCao9GnwF_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثالث: التيار المتناوب",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/uxY0LEGOcPzXE7hPQVcnobvENTA8M57B_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/fMjzh1qq9MRvzTGhqFLQcHGumkmeNuK8_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zInRtXPRUmjfWoUCacmzAoOeAuSlwYLn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DViyg1Zl6j14Ry4EGOSLMvWbzXz44pjM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/2a63a4ae-81dd-48cf-beb8-cb0dda55050c.smil/9e6e34cf-6148-418f-ada2-f39caf03d3a4/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/83a46b0d-5f74-4647-9e36-db2566b7c0ff.smil/00c8837b-a058-4965-93e6-4b3d989d06ac/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/f053262b-b081-45d0-b6c1-d560a9efe61f.smil/d32fd1b4-0ba9-47ab-8d9e-55568b6817d9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/208184fa-1101-469a-b352-d6147dbbf7c2.smil/52739b2c-2075-466a-9ca3-bbbeb097baaf/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YiHuMcfI3KbVMNBb0xpxvGbeQzw6iqkZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RhIuWgIWwtoANtNwgUlT11e7COXwAQoj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pPsDYh2AmUjlfRNuZXuSNlvOwDG63NGZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/h1KTIiwcp4WLcPHDltUwXrKCItjUGapJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RW00yAwe7vjm4Y3AxGs1OTv76vssMrXb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/08aAvf2Tj0zcRERXDBeWNS47czV9GkzU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Kw2uw1fMcEVh8BSU7TwVsGSE36VB7rt4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hPHFICS6MdlP5ApnuLTCis0KKAma6aFv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gkNtW53gU9smF0BLSvThBs0OB0Glz1tc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/27/fefb1ebb-3e4b-4c25-9eab-e8bb881e059c.smil/9c27b89c-10e0-4edc-94b0-caee6e483245/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/mBMl2ep405KPDi0xbK0Cf4vbvuACfLL9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gkfjjuQdqd710Ewy5dgJhCTiHdlk7n7s_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eUoLX2HT1Nyr5HUYLrhpuVaz385OJx3R_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الرابع: الموجات الكهرومغناطيسية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gLRAjTkISmpoivmSoWhtXODoiUXlKprX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RGNoUp4Lo6EOQ1bdrK3W9KaJsRopMYiI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/dlfMEKs0rQ8D9WZDyH3Y2yTJUZ29ZHYX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/21eb4c98-ad75-4b19-b746-b170edb5f044.smil/46426229-f813-445c-b1a3-b469a1df6393/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/27/16b2bc3c-e93e-46cb-a576-63ef64148c2d.smil/ac4f1e10-5280-4b00-8ca2-5d135a4d068e/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/27/a0dbbfb5-db58-4df0-8c7d-a675ac4bb467.smil/84da6b30-6bef-4105-98e7-e45a2bfc4a8b/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/27/70f6642a-4f80-43f7-bb23-910a78228ca4.smil/f26f6844-fb85-40c5-9cf3-18a8420f6204/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/31/bafba94a-c911-4dfe-a40b-06af0e92fe15.smil/c59dd707-0797-4e3e-acf8-b64f2ac7596e/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/V7RJPP0kez2bTTEqU89icFm5vnWDFf7l_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الخامس: البصريات الفيزيائية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/8ba8a97a-6b9b-43fc-8dde-d50b0255ea03.smil/edd3bb09-42c1-44ea-bf71-9282a25bf777/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/a216abd9-8276-434c-b36a-3b7e9ec46a32.smil/d6c85bde-446d-41eb-a5ed-0501b8ef13c4/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/0efaab29-8c66-444f-a370-d84d38d63f33.smil/37415500-a686-4ada-bc7a-8ce9f1aebca1/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/eedbe5be-4236-4437-9832-999dfb779996.smil/3ccf7739-4ad3-49d1-8c61-4981878e5f8a/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/2902e985-62e2-41cf-975b-657c40f96a20.smil/0b3b61d9-3e98-4956-835f-e28bb59dd87c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/8fa6b98d-14fc-468e-b1cb-b09401c4a238.smil/67a0dc11-41a1-4ccf-beae-265f57f6a9f0/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/91e9d051-dd30-4d9d-8245-fc38d6635009.smil/842d15be-5a31-4b2e-9d66-9592ea870a06/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/fdb060ff-def5-475a-8635-1aecd94c6d39.smil/9bfb2ef5-ae6b-4895-b833-cb4a900e6c64/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السادس: الفيزياء الحديثة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/3d03ca2d-2b1d-4470-90d2-69345a78cfb1.smil/8770106c-fe46-4520-b6e9-8feca545048c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/a259c46c-0440-4eb2-957d-b3a0181ec89f.smil/adb22720-5985-4d24-979c-da9ffaf986ec/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/03d70dd5-9d31-4cee-a59e-2dc8b7c523be.smil/33d771a2-0a50-47ee-8d08-1cb8b924f532/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/f777492e-7d70-4b5d-bd1b-8ae8163b278c.smil/ebbab591-b956-4124-bd4f-b7f1207fcca0/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/3df26b25-9426-409b-be73-d5bd36587cb4.smil/e1dbe13e-e313-438b-9a96-8efc04f92a1c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/5fa38e4e-dcb7-4d3d-b2ec-90eb9436c6ef.smil/ea32305c-7375-448c-9e18-d2ce33b67bdf/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/c73eee82-0b07-4918-a2bc-3f689cd98a07.smil/6564f435-05e9-4f19-9731-b4487d620c53/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/6fa524b2-2cfb-4518-b234-df94380b99f0.smil/eca0ac23-c5a6-4f1b-bb67-b657d148865f/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/c9c72389-1ac6-4ce2-af0d-b14db6139d2b.smil/5ae1cd75-50d1-4e14-8ec1-87b2d1026d7f/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/d64875f7-a20b-469b-9d12-c411ef5c754d.smil/e5440f48-1e9b-48db-ae24-d5ee6f18e5f5/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/7b2cd6c9-06e5-4a19-9d62-64a7e73b9a80.smil/2746e9fe-0601-40a8-8db3-a5df89f6426b/media-1/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السابع: الكترونيات الحالة الصلبة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/f4985f4e-b3e0-48c4-93b0-cc6726244b4c.smil/4ac3d4bd-09f5-4a60-800a-c65b67e92f02/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/GWT93GMwbAM3Uxwon41SL65IpTggIIIL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IKowKoXchZfIWLWyhBLjemh9FhnbzygH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8ZY9CkaeZFzVLeNVlAS2NivC7Tanshzs_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KEzSoVmktfkkb3u7ct0lx7KK7msHWR7s_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CLUBmql4JGhK8IRQFqORaTIB0LOvlXbl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ReJo4l2bjQYnlBhcpc1DbZzf4AeZpLCs_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CYn090i0qKbUf837PTGT2a6mq8yGqFYA_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثامن: الاطياف الذرية والليزر",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ebotW5GksA17wwu7B1Dkcaloukh7KhQo_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/fBr6BsGc9xEJsYQUkgW8PqsgdizPM5ny_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RBRty0qNLNKj181GM5VC9lN20USfM3lK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wb9Jx8HssePlg5WP6FZwNlXLNEaKoWAD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MzYdWCdrH8pTw3gtv4GPYTQYFj4THOVb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/fRan8A3SuBBFqQrQ80k87SYYGXMVhqFP_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل التاسع: الفيزياء النووية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xFYdLkqblBbbGdv9TEaZcWgFSDA5cGG4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/v8dJrm6uTuFicaWXqeoEKbvEB9cTDvB5_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nYoTYHuiuxhWfx38Nqsqv5HsO7rAcslV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/n02vevYDmBeKczmUK75gwHm05hD1Ul6L_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1YnamNkIYK1gNXwEo5vRODjr0oLCUt92_720p.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1742855006286,
+            "name": "سالم المنصور 2025",
+            "subject": "مدرس مادة الاحياء",
+            "image": "https://i.imghippo.com/files/JtWT1565IdU.png",
+            "classes": [
+                {
+                    "name": "الفصل الاول: الخلية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8gEcepR9mLCI8UzDc90JtKzd9NmbgfHK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bhB97JX7mg4JUyghzgThkLMuNnudTTPO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qgvVFg6pAVWHqdMITRUs21elj8FzM118_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rIHkrxgLK25PhmTH3tVlp0VZ9vVlKCNt_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jjr51qlyJhHuq6M9ZuC7bVxhMG0fBV5V_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/w6Q0LTFKHJAWQh8lCdQST32XzPv6nrF1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OT49VSzaWzHTZ0Htrhh6CgOVGLeoarbS_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eZaxcKreTsrAX3o3qA3p9NtAnLVqF9Hl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VuCRJWkUWsf7m0qMvi5bdg5p72EJ9je4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UKcBtqKQE9JnbSpBfbN15Q6yHaHh4jga_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/F5OCtsITVjy9R4MuatbRy838MBfiNnvn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jtzBakMwXynNUr6297ksCJypql1G2AYY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VglYbADWJTI4dSxprv6X2qI57BqbUGsT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Z9tNhKJiq3XgWzJBbWfdipWHUmFwdcDo_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gP1ZZQ8lyvAn4JlgRQS657KSkhoxNJ8g_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثاني: الانسجة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/oP2YHrRLGoaNeULUB5wrxyZ5O4pIybIb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/fVMtJ1FNsGM4KIUpUFFvCPeWvwOgpAwL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/YCiJNqCqxK4UcXF18yeIolE0ASNPBs2M_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MEJ4pNw7wg56jDIhB8CWcY0TRDpGEfKR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/voTdzSUgS7nrcmgw9Qrw3LENMtmP5BrP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/6ZLyEs3BG1KUFk4uQ1CRTvMsAsLCEGSU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9etwZKq7nx9CE0q3Y3ybKXTmrYV09iKC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/GvWHAqRd9zNCO9XhuNG3HUyzdyiuAKzi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PigRnAeuoqDVoFFG9YuE4J4Pi9mSQWS6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ekuFuBEyguznXBhos5nNGLNwTIUYXlRu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ptR1V3EzcDFOK7eq2EARiOhRnDvJHyG9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0bwtiwwq5ftbn1gxzdcijA4mCXn53908_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثالث: التكاثر",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LIap88xBXJsZF4NOI6HMuxfcEpJ4H0Vf_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FZjR1Nhj9h2kdgeBzKddBUqMIhMlegsK_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7NSd2Eg4k0TOawoaU4GYwp4wvOcOJxfN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/M2ON4nEuHR7nKKNoF6dROL1wcSb2jV6K_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/I5OQdlo1G3kQWTXqwcQOTvgstPXJBrmN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vQeoo21E7mqmjiyYH50w46TMnS3qGABM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/W4pFOzFlNTGtXlsXUPLMHkY7ZBlnxMEe_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LajwNT8zyGoFG5MZYpva7EiFx6ZnX6Hb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/I5DocfCIRYXV4uTxKOGiyU2eePRd5anX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/o0NUGeVa0c0tVQevVOGqXOX3fSnYxiAd_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UKSyxYEEXMsnP6f6efByncYZzAXKr8J5_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zoEgNuqxyBAYnGrM1ydr63zV5BCZaRkl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hwXWw6riwPNSvdYtRTIvluxgm3acUMw7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nkelmLmgXnk48ZA4lbo8NYdBeVaoF4gk_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1j6nNkHcWo4ZZ7LiUkYHvs4j6FXvXggv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0Up39LkTkytCuDhKOO1uHMJwTiPMISVl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3F7ipmZnQ7YipTuCl9NM9szfPP4M5tfg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5TXEfc3Xugm8SntiXC7lrD5SLMPKdbPo_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kw7mFQNxWI3QKYcSAqyZB4F8utj1xXVW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": " https://vidcdn.akamai-cdn-delivery.com/cdn/kt4n9vSxTWDpaNsm1Snt8EqJv6mFVfoX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/R2NUr2t0BLryGkXPVwZemxLdht9Nu0su_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2uH3wPUPtWYCbuNd0leilDtw3V5OImcP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yZKQfvG7d1GHRsuucdITaFSJWAEEqt9j_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الرابع؛ التكوين الجنيني",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lNk8oATYwONwdUdFQUNqqnQQyCGFs0Xq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zvUtn7YOjca3Od2IyTWbHoKf6IUZ4C8i_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3seVQmHXmrYrB1DCQWecQm1RhPyboKDE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/d5LamSYGWmOmpVmXarupe7pT3gO8X5dC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/M3UFPRiMGoA9CTVk3tCGMzmufOv0uPjx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/miMRw9C1kTOyFOxO3BABG2pnf578QNIz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4Yy29vjMKZZToBovp7n5McaMIRbPVlYL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/V4QKZZMAgdO2JyHHlb2TOW6WnVCMosBN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0u79HHEbEm22uFlQS0XeQjhOm91UaheR_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "اساسيات علم الوراثة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VwEG3w60YLcxfpB8a0ORBO2lsBPVKYEr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/mA8Zi52h72XEm8hqFPQjLb0oHP26NEZp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UJt2cGYJzypD6tqeepivDI7rkQi5Bsng_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/S5Pp2jq1H6e3jmmxdpPFXRdGuRrprt3t_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/i78lR5kR3G120LvlzbgPAXQxSZngeNdT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8wHcKTph91g4wV1N2rQlMK3qidylFg0d_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7WIwsnbfM28dDsGcHYM6RWzmsBKX5cbK_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الخامس: الوراثة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BfoH0jsUkQ85CoE1qOGZPJmK7hd1zL1m_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gfWyrc1fLbCHsN3SHqmClSMEHSK5eJBU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wyEKj5mG8HCimBJHfV8NT7WwLnQBsixz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/r06s27NTO5upJ4b5Q2UjHqjZ5uTA4ATI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Rs5gSVmODrkstJcOVJFCBLLEewgvgkma_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/blQvREXmJaEiqwHLiyxGTpv60IU3N7bB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1uIEa9OoMqQOnS16C4wEs1EEs4S3fR9T_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bpoQQT6mqn5gRmjDqeipq4hylAE09EAH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SZJ1WcLc6rpVEvCVjlcWnvYNDB52JeII_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qWdiLlmKlgfIJS3dhREEBUWclSkdDxAu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/uAumxz1QNK1ImVMUpVSleeIU2G7shanT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ate4W3Gy80OlmTYzveWH7AIYpA3GfMha_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jUCsLxxR5cdaO8yFkfotBe3Xd329I9ER_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tCtG92tx0aalZbrNAnRAWZ06XatI34ac_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kRTsd4sHroRXK5wsNDXBt1A4vEuF8c3X_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7jLrKVcBhl8d3K1Qt2dkANcB1P5H9Ryw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/6DvbHm980M229GUGOHLHXTw04RgotR5d_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jTu59lJL3AI9pVbKkZVycCz96jP3BlI0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7uXCkFOywsDISwTDKw645Cd9ZlIG6GvU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/okdmYGq8FQ8E6WpWRWpNLjPFUvhVxtaf_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ZEq5SUDRoPheRt0CF2kyBx7FvigTorM7_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OcmtBGeJRtxbiA1U8uZVwYFSvvb0HPNV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/AHLQ9NvYrifM0VtXt1v29ldnoq0ePpT9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24 جزء اول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/dafhD2SPBOzfivxFm6Y2War3hVRRq5wH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24 جزء ثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Z7DqkWX6HX2zo7odpG2PqoUJn6LOX48L_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wrw1YXQaC910wRIlNv1UesmnoLMgNkxM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9wYp9FdyVKWtakoolTbZRH85yrrLZyr2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/v7hwXTM0d2ohNStKMKRaZI1pg3V7PhYy_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Wb4HsRbxjmXxdHqN7ggdlRCcREAq1Me2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/R1Z8BjO12o76zouo2dKaN9GFYqXb68Mw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4oPM22xLP7UzYYFRtXDDDRthPRAdtbhj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ekMXTHejpnYQzADnahSrrK1donLAjaXl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iqN6jpMSpXKBlYKaAwIv2pVuKLKEhAjb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 33",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/B4GQWC9uYvrBqTqhs4vTgIg3MBY3OiJ4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 34",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1FVg9WkAx6DLe7XIvpkb35KBYmm1xYYi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 35",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jcFR3iv1A7sTQuIqNJrltEqKhKL06MML_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 36",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wes6JDffVL19ORIR5duYpRddEvRticUC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 37",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Z2gYYpXwQq0feX5enS46GsAoo29U21he_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 38",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RCTcrNDtDtq4sF26PzkagkYVDNt5dsuU_720p.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1743128137211,
+            "name": "عمار فاضل 2025",
+            "subject": "مدرس مادة الاسلامية",
+            "image": "https://i.imghippo.com/files/gT6420KUo.png",
+            "classes": [
+                {
+                    "name": "احكام التلاوة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/oPoCluiFR2siYY7GTIItW38GDLspiHwy_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0idwXvwvLfNpIzwuV7vieAnQYrxS0hY9_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ychAmfdi9OeLY5LIaSVrcL9Mmgm7zSZB_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الاولى",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2cHaxY7U3Ob4Xw9TreLuDxckmT5aYOwW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OPfxwG9SrgdAuVB8npZyLqVQQcPxb6cE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bNUD4jNVwdTcLPN0MTMnI5Fk345wMVDN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/3086835a-21ce-487b-b826-15fbeba528fb.smil/351df962-8860-48eb-a9ef-8a5ccaa731c4/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Tlr3EmOlzcOEBbc0mdqu7ZjJhOO8swjh_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0gqIkJBjjBeRNJnkXvuINnfoo4DJZJ31_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2OuB7VzWnIcSrdy4Nab17xYEfX8ovsw1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RFRii4BV2OOaeeroZ0H9nohi0865daxB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/U0aPfAGfipPkofu7IBsBf6ChuKUGccCw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://rr5---sn-4g5ednz7.googlevideo.com/videoplayback?expire=1744737532&ei=nED-Z86wGd23ir4P443ZoAc&ip=187.246.8.229&id=o-AMhUDS78toYgDlaYkttNFDJ9Bxq8IDt969leNgvfexqE&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcPHlvMS2AAcRMY96QQQdFBWtC2reuMS014eb9IRffe7xummnd5-1SVy8Jyx_PMxGoHiwc3vjVec&vprv=1&svpuc=1&mime=video%2Fmp4&ns=O8zJYmNVc5-OxCl5WnsPFBgQ&rqh=1&gir=yes&clen=121520974&ratebypass=yes&dur=2331.956&lmt=1722459102908590&lmw=1&c=TVHTML5&sefc=1&txp=6309224&n=vG-hKh9X3yba_Q&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAK646TPBueKjA6vGwcLWGiliu1gGKX6EOo7kAwey6HYtAiAxje-2lVqHc4g_imwooH20lXVR5rSPJPfrKA6SB4rPjg%3D%3D&rm=sn-hxb5j5cax-uajs7e&rrc=79,80&fexp=24350590,24350737,24350827,24350961,24351173,24351230,24351430,24351495,24351523,24351528,24351545,24351638&req_id=e08f77c5353da3ee&cmsv=e&redirect_counter=2&cm2rm=sn-9gvsl76&cms_redirect=yes&met=1744715966,&mh=nc&mip=169.224.13.228&mm=34&mn=sn-4g5ednz7&ms=ltu&mt=1744715081&mv=m&mvi=5&pl=23&rms=ltu,au&lsparams=met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRQIgN3PhM6vlnJ52DU8FIyPy7RcCpCIu5b-Fpb5tQn3OyiYCIQDUN_s3QWq9fDNDfUeWKxvpJ9z8Cgfup4YLOG8B1lGilg%3D%3D"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ELKN78jt9NtrF1N5ntdX8rAg0BTWzUlz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/j1lHeYviJejm9up4G1op26qgamBgzBX1_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الثانية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/42ydOzPmwsMjqYOEd0pKFtI7WmkdwwU4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/QUxEYFqXT0emSwq5WRzG9As1VCwviG2Z_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/k3WJ6M7KO9WAYYtiZ5cMBwcudAzZpKHu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hsvalRwxIrLcozp6TAnq3HWN2ictohbC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/clEv0e4K8LIDAaXblP6baVBmNRf2pKSz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ZFe7MGnoSRohQiwyncnxuZw2VgVYwyQM_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الثالثة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iKiBiYXJKtnte9z8xGLb7yppqxNIdTjB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FFW3ezj1aJZmqhd8GENCeqlwJcOVhNDM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9JQdQWgoRQ8vxCxs08ErnzzfiARQd9r1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9No4rKozlfuWKe98HCCtIVWwHuDOuAWn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/SK9oXSTh1IwTCieRCwiCD1ceQC191aJX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/F0if2rM38y56I3tbshYfSYVXTae0ImpD_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/TfE0IJxrMqRxfQdEdkyEtU8m2cqcpaJ8_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5JUJKhBbo8GuAXNb8yTYY6kG1hy4bEiZ_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "قصص القرآن الكريم",
+                    "lectures": [
+                        {
+                            "title": "اصحاب الكهف 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ErT4mwpxqV3kn9v3D1EfSmq0xemKkJKh_720p.mp4"
+                        },
+                        {
+                            "title": "اصحاب الكهف 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/QmgPBPXA7ttrNipJXnYwWfxEUquT4IL2_720p.mp4"
+                        },
+                        {
+                            "title": "قصة مريم عليها السلام",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MPhSrFQOPMKGcBB51OwETwQDRdpfDhPo_720p.mp4"
+                        },
+                        {
+                            "title": "قصة موسى",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UUycXBYavx4h8LBwq5wshE2TRR66biNr_720p.mp4"
+                        },
+                        {
+                            "title": "قصة النبي شعيب عليه السلام",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pyrPT5kdoywwILvdEx1VNRLHXQEfcLvn_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الرابعة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ksUgVrdWZ0ox0vtuNiz3UpXWu1KBLw1h_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sxBlU66ezk4uB0929ydI3cBTllpfIn8p_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wxVaR2ZcffyeIAA3gjVzWVEVgpHZnq5X_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/fvmVP2UolxH9AOszCmBQ9kziwdSyhfFu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/uaGJwIIMT7gszNy6zrejTqkyIMElaVuL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yPqA5i6dWGJs9p3y0dfGxtVPVj0xNhwE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sI1TY84CrXdkDkQNKRe97K3gPOTAlnlR_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الخامسة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ljPoIzA2ol9HZiTbByWdVC6pNCF4z6hU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/27/8639660b-1843-44ea-83a1-44ff477c5935.smil/27c2a005-c0fd-44e5-bb8d-f59cdb9f58eb/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tVft5FojfZTGq218Wye37vfwDX48ZgdU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/p4DYrSzWLXl6wW9Vn7CHoOo12zBe1sAg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Xq3wYSm8nnYMrs5b6cuYQLwisKPTosvq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/gLP0A4PJa9FoqzFiRAHoOAjcNMcImVak_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nlyaRPkpzPCSwcSY6oYYL3r29XAh0lug_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DRS4aoTa3tVbnjEukF2jen61ZYzOPZbM_720p.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1743460448182,
+            "name": "علي فلاح الخاقاني 2025",
+            "subject": "مدرس مادة الفيزياء",
+            "image": "https://i.imghippo.com/files/tXj1584Eek.png",
+            "classes": [
+                {
+                    "name": "الفصل الاول: المتسعات",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DwKSadKnPLCwnnFdBPZG7xCNpUwV9EGB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wBtQ1188ewKwxItgrdb9yKeEl21laCFN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UbzregJ25SUxN5NjLDfa0RT9HQZCEGjg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/w5SK7qukLWj4X23b7iT3XlTmMx0S2AhY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/aHtLHLQy4kXZMYuRTizGLsbatFauwYnP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/favsINamGiSoM0PT3n0G2rXvLOuToIQ4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/i68tOTauzj3sb1fObaGnDtEObC7EpZHx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1hNc4XOFMnc0l90h7mxSQeKy3IgC7Jwj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5AgkEsPjrWESaetYZuBtV7Sh2pBdKi4l_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Vwd3Fyk5ui0q6NTdPPNYWQ3naElysuIf_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/B0tXvOQGdjH9AgssnCCDPJIbTABqTD2K_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": ""
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DeK962CzqY2xVEHfwiDNfYpZEi2PJUfE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/o34XA5PJpmdFSCywy351Guqf6i97fIsA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kzs9ZLkvQdUuBlY2gqFPkHzl91hQ6BoZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/seJpitz55I0Ifb55td7CxbSokWDw4kwV_720p.mp4"
+                        },
+                        {
+                            "title": "حلول جميع وزاريات الفصل الاول",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9tMq0B4rPtWAPSjukAszQ3Rpja97ObN8_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tVQlxs6VqRNQc3yWugHrKJwzQEhygF3n_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/vnaqM4K8AFS1suJ8o0X7RUxu4TM5M8MT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rlmYhjxCsy6xhLDaF5Bz4JSfw7qnwFwg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/WpLmPV27LAjSFiTJ5Ekdrxlj8d5Js1ZU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9errwb6yyxmZYF6t3X8pri6NR7bNz7BC_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LfBY9IYeMOB9RJV2Kf5xATTuwULP2XOc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/4UaaRZ0jWkxWkYvOfTcYtsafX0KdSaDL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5bAaSlygWKmzwZLwuLGIvaP82HtdUXo3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nWW3zUAdLk3fP8zUBicIwJP5eGmLs0Rw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/t2vDHGM73n7NKZmKYgTSOUz0zyDliqE1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eH3DeSOOOt4bfPbR6IYEwlSME6YBTpCt_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vid.akamai-cdn-delivery.com/cdn/pF5XLgCCm9fHCvwgturEMoW5ldbibfNu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vid.akamai-cdn-delivery.com/cdn/RcYyTmgovMYbMJU7mntJMZzSPyUg6avn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/KY4SbxCPywjCiz0iKWpyt8kbOSMuAB8j_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/h9P0w9tRs4WaxmErh96R6gH5b8UhxgYz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/TrZuvLfBybKWxm5ynWiHYu6zyv2ByqPf_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 33",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/x6HGeka9ier27V66tYGimz1lntaHc1a2_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 34",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5Jn21qEBbunY6bb3fgCc0YnTiTvB51RX_720p.mp4"
+                        },
+                        {
+                            "title": "مهم حل امثلة اثرائي وزاري",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0wdc0b9wa3ZJh3vpSoiQXYF9siG71qcb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 35",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/u0By421W49OzXogE5TTtIe19g2V0FalB_720p.mp4"
+                        },
+                        {
+                            "title": "حل واجبات عن التوالي",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iRC8PW8dTw6XI8Ivqf181KKGVTcYRi4h_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 36",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UjFrkgytsNtZ4FYfSgxgksGF1amxiQzw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 37",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/w3dAj8ib9Qe0WDPqYsRaicayWycqEwUF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 38",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/N6nC98Q6niEaYgsji0pVV3h1s6iPuLAE_720p.mp4"
+                        },
+                        {
+                            "title": "مسائل اضافية عن قانون العوامل",
+                            "description": "وصف المحاضرة",
+                            "url": ""
+                        },
+                        {
+                            "title": "محاضرة 39",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/wNAeno27VOxsz1MAsrMisvtWQz6krPUW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 40",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/pPl0mYSkFHHiIjsF5797RwCqBVop2Yf1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 41",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/D99OYJgIgDKkLsVAFOkGb7JfeJe48iZd_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 42",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/jQ6S3cLZzopz6y8I2Jh69zvG1bInNHLf_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 43",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/6MZkMY13wWamRg2psUKzgV0tAA8pV1yZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 44",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/eaho5NvFWvBqbh4Ce8Gilg5a3LI7apsP_720p.mp4"
+                        },
+                        {
+                            "title": "تضبيط مسائل الفصل الاول 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/c311a635-3fa1-41bd-ac53-3262ae93e78b.smil/a19d0a9e-b0db-4ec0-804c-62a5e76a6e70/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "تضبيط مسائل الفصل الاول 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/06306dfc-6aa8-437e-a51b-781347221db4.smil/fd3b8fca-3fb3-40a0-a075-710cb12e076b/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "مثال خارجي مشحونة مع اخرى غير مشحونة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/1a811275-36ad-408d-896a-39109b24d47e.smil/27679142-2fe7-4176-968e-435f5fbe26b4/media-4/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثاني: الحث الكهرومغناطيسي",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/N8E8cnNtmQpbRrZK5f9RKLtZdY6qpTBX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/bkJ7qSbMKKFhU5lSTCG5x9DliS6rRG5M_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/9qwiZnmtQbzbcxo86iqCLO4dMHPFkoHG_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/92q92EspxjOWl8mRzm8PwpZAcUiDpMPr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Bi7lOyc0NU2pG94AB7VO4k58T9nfhQSI_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/AuQdp2taG4ECwybPu0nZad6p89T679FH_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IEa2gazX5jK7IhYOBEs3hwhPx8QBdmMj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0iciKPKDX1euItEjSe1Qm4YM7oJNyIB1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DkHPwmoUYuL0T7RcAHyjvhtmgd7L8ORZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PGVcHnNGd9LuDpKoWPAVBamYvdZaolQ0_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/V3RtUDGeUIdJsqIl4iI2pYJsO8YBpuLu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7mJ7xO25eYHQoubMak01mytf3X4pOFjV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5DWJLXZ9eyDuGF8gW21QMK3soCP9lAFy_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/sE4BrpiGnei1W9wSSB4C6Su8g2X3uYvS_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/05OhJjz4vJ6eNDUZRI91kXfR6VY04EnZ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UvJ2HwwIJkQSYkkWqlYxyX4D2QI0QKJn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Ycb0p92nlEKSdlMWlGTvJM1OMrU2vqb3_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/h0Bhw97CISms352RhNUFFv9eD6vfMjeG_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IcCdRBwJKVQSUdblQ8yxligWerMUIZGO_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/hqcn0MgeQnjBubjmb7XbMjH1IJdNf1LP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JDr3h7pI84jPkHg5gGlmxqIE4Wg3cCTu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VHICm2muXVse6gG5mUn4MUaaTmyeA4kw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/qqDbqnNbunWmcp05CznRmF7RZqJOF1fr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/k8wq1VGCGRtLpMmWM20OyDPxXYKcPfJl_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/EnzvOyegndJZY7I9POBDjIsHJ45JJpX8_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/agD0i1NntH5oekxDDS10KVoE5x5koYod_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/t95SH58X4mFFqD7ubfv6URrM3HPkGcji_720p.mp4"
+                        },
+                        {
+                            "title": "حلول واجبات الوزاريات",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1AdAOmPZsOGYgDHPEZYYkkflp0XOef4h_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 28",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/QDYrfZRoyPnwYODUt1UB1AJHOEPNupSJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 29",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/B37YCPmVAPnXQaSLLMiOR9TqY57entbY_720p.mp4"
+                        },
+                        {
+                            "title": "امثلة عن الحث للتقوية",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/K6aOeHG0du8g88n1b3XOZlWn7hkfVSQg_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 30",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/kf1478mQCxU8cXe7rzfXgya3540zvgSW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 31",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7dG8z0QQUUJjY2vHIiV6G0rpY3bZgNUv_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 32",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nJeuXPAuVKPbV13gsRKFe96L66WQYwxY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 33",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/c5aTycTjpOXfXkmL6fLxKKMBUlJxjE4w_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 34",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zGdy7XWIuyexwDr2Gzs25pixRK5yiRDN_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 35",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rnlkJprdU1IRE5jyAYOJYIvb50hhzHkP_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 36",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VUzEmtFkmF345eDwMEEuSD19h0DY87SJ_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 37",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NR7X4Jh2tTCbNcTFIQC8O0AgoBzC7P1k_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة شاملة لمسائل الفصل الثاني ج1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/uityQERBnt19w6ygz1xwge9h4zf4fEZ1_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة شاملة لمسائل الفصل الثاني ج2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FQnfuo7fZjRIw4pMUUNGqZ1m1cOpSuOl_720p.mp4"
+                        },
+                        {
+                            "title": "اسئلة الفصل الثاني",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/90d07505-8fd1-494b-9b7a-552bba5119cc.smil/34f07b8c-2d6c-42db-b34b-f8652bd98f8f/media-4/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثالث: التيار المتناوب",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/AiP6iz7yJiMHQJZprKFU2G0g9kRx8fNn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/cUwhcSlgZ6E6yKqRjlx1MlxFx4naIkdk_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/x4KqMX5eArULmNpkdDuLfYhkgZ5bGqN4_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/1rG8xtG451aJIhHchhIpyP3Wqz504K2f_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JGCEJf7ko1uafxDhULy6uz7EpBdK39py_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/cf463a08-5bb4-415e-9f18-688e887d4614.smil/ba7f8a94-ad4c-4e7c-a9ff-611d5449e091/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PJeMfFHQHFgFmBv76Rywq6pdMjqM9hrn_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/VaPQfSX0ObW2fhxuZoYNacyzuwLlcmMW_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/5X8mjU0JAaUVGzTCNfTsfq8ujOndlapu_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/POqqc7B9ZjyjO9frR5q9GQlXtRtvD6VE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/42923afb-afd7-4a3d-8623-b95a030e5662.smil/457d4834-7679-400f-9377-47a36136326a/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nN3bEowGL5W0Qw15Bpx6gICPqIcX7htx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 13",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CSfaN7677NELsg9LmAV6QtEelPS9Hqed_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 14",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iZhOrUqgujjbMRdgEPOtgRI90fsdIagF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 15",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/exW751A8LJZmCiymD3gSZNK9j4qBMKZm_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 16",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/F86PB942cZQ84YMUxLXtkKNzAGqnPZtB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 17",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/No0rXRYgW3UfFu9iT1NdBqus9wciFAvR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 18",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rJ9IEVTmG0DNUNhMaadhfWzYUBmFWQIX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 19",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DHZAvcLGJWJK4um91nxASs543us9p0yj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 20",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UmgB0FelpRlYqI9oQDWY1COj0RrYp7UE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 21",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/mJTywZh0UeR110MMGelyCYrrVGyrV13T_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 22",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PFHnEpNzGmiWYt15XHrkNr6SrsvKsWFT_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 23",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Uu42TwTi20tXDjGVCNSXFj3pyFItFlUc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 24",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/U0m1LcrYmMl2gBMnjEmj9PkqW5iA1HPb_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 25",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/XU2ftylMOkPEuNw0fVwtblVjkbH5fHDz_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 26",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/21/882aa4d2-86b2-43da-80a9-ae380988a5b3.smil/1495c775-b3e8-48ee-b5e4-919615191199/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 27",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/a6923551-9971-475c-b4d8-83f71e30c945.smil/c2f9d96e-5c75-472a-92ea-34d7d247417c/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "جميع اشتقاقات الفصل الثالث",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RuzvrHyu1zg3XYgIMFyjolXpmioSzhjl_720p.mp4"
+                        },
+                        {
+                            "title": "مسائل الفصل الثالث (1-2-3-7)",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/9314c43e-bdb3-4ae9-afec-3bca0eb000ef.smil/4fc9f309-0011-49d1-8454-c61be9bec98e/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "اسئلة الفصل الثالث (5-6-7-8-9-10-11-12)",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/1cfb3685-7209-4497-86ea-f94083b48c09.smil/8b218c50-ebeb-473d-85e0-7e1bf934a548/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "اسئلة الفصل الثالث (س1-س2-س3-س4)",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/8b3ec050-3251-42ad-b957-531957d422ae.smil/6be0ed5b-3358-41b0-aa6f-424c6676dd72/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الرابع: الموجات الكهرومغناطيسية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7zl3wgVMEEKeAgNaRYxzQ599kqCBeRBr_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/X9OU3iRI0O9lfmDGbAUv8IcKkHOpfPUE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2RMTjpfoDQPFEobRRQae30bXwpfBoqE1_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DaxrBzNSTOp4RQGS1R9lLYQneDvy3c7D_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/PwwbTPoxNSjG8on90oRz7CjgBnSWpKTV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CDtdSSLnVubQebQbS3VCwadJdKYsQwjp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RYAaGIqxBOm4BecI7O58VNi1UEuyeijr_720p.mp4"
+                        },
+                        {
+                            "title": "مسائل الفصل الرابع",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/rQ3g1kCniqiaAY5HLazn9pKGzXPzcTCs_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الخامس: البصريات الفيزيائية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/056d45e9-c3b5-4c63-8add-b136eb82439b.smil/8045eeca-8102-471b-bf94-8bd29e6beb61/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/aeb9c2fb-20d6-4cf0-a992-1b11b59e5fe1.smil/83eea9f9-8333-49ff-b8ed-58468b6dd88b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/705b5d75-4a58-4bb9-8981-2efb3b9697ef.smil/d6bb115c-489e-437a-bf1e-a529ca81cf5f/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/56d7b771-81cc-4285-a881-01f33813f3b1.smil/74684c35-dcf4-4be9-b6a2-b0290718f072/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/ea19ce95-01a4-496f-a4e1-d83afd79895d.smil/33e9900c-7186-4e42-bdad-53637d8ed013/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/386e23fb-e90a-4679-aa99-b296cfa5b6d7.smil/4013b627-ca11-4850-86ed-25a33ab751c5/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/df71450e-00fc-4ebd-b9eb-5ed404bea097.smil/2baa6a2c-d890-4bfa-aff6-c0dea9ee8cfb/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/52880159-90b1-4e05-9015-4c2c5ff1454d.smil/8ab91564-e17e-49fd-a4cf-c8332f159d0c/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/0c203952-c694-4ee0-a7aa-6534ff09e130.smil/e912af13-4e4a-4d55-b24b-d78c09c82cbc/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل الفصل الخامس",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/e82073df-2c21-4d85-a107-9b4bc14c25f8.smil/63274edf-5f5c-4181-b85a-134bb18ed2b7/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السادس: الفيزياء الحديثة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Kml61mNL00I8Ztak3Vb6yCYZXRflV7ox_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/a187e779-b151-4ae4-be9e-548d49fc8671.smil/d4e68cc6-5a95-415f-bd94-ce3863485f57/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/60fc1076-17fc-41ee-98e8-66c001e17bcd.smil/81644fbb-4018-4bf9-805f-f95fc4e4d886/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/5bee97c5-53e3-4ff2-b909-6069ebef7160.smil/d6f1e9ab-0683-48b7-82c0-b398b3efcbfa/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/d164218a-da3f-4d2f-b70f-aa315a6e6b8b.smil/6e6c920f-3b31-489f-a272-02bf8a409670/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/79371e20-0f0b-40e1-bca2-30b6964699e9.smil/b7b5c9a5-b089-4038-b07d-f4fc95da98d1/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/c6078dc0-fcd8-451c-a4de-9837e686f80f.smil/5ea4c5bf-84bf-4eb1-aff6-f8e3c2e2a102/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/2ccb8314-ca52-4b2d-bf65-b0a247a3c014.smil/24b90ac7-1811-4921-a5fd-8cfea750c0fa/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/b29d7a90-3135-4e2e-9578-67f98b985787.smil/05e9e498-4ec4-4301-bf30-dec32c4e36e9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل الفصل السادس ج1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/6fc0870d-19f3-4d68-a40a-76afa740081c.smil/d01531a7-9fcf-4dbf-bb5f-f3666cafe5c8/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "مسائل الفصل السادس ج2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/0f56dc8d-92db-4ec2-b1c2-a45e2fa5bc3d.smil/d061ac7f-4d06-4c2e-a7fe-bddf90c640e4/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "س3 مسائل الكتاب الفصل السادس",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/71b2c1ff-0a31-495a-955d-df70074ad31d.smil/48e7d86b-61ac-489c-af3b-f09dba260470/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "الادقه (س7+س8)",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/b648ac06-4ce9-453c-b3c3-c2d6840e5fe0.smil/3c42db34-6b6a-4025-b78b-0fc0378b16ac/media-1/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل السابع: الكترونيات الحالة الصلبة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/d8c76389-fa21-473d-91d8-1a9f046cd0e9.smil/862ebda7-8e95-442c-b186-f05bceb36522/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/ace9a659-6b83-4165-897b-2e22e001f960.smil/53ef797b-e55a-4738-a1b7-bb1c04cdf886/media-1/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/e2a0cdd9-d299-4776-aa16-bed79a179bcb.smil/18ff3872-a6ee-402f-8ca3-7032ad21e382/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/4f2e6cb8-bb36-44a6-8122-6f7d4cfc7aff.smil/3c1ff040-0c3b-4a62-a752-3d615ca4b066/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/ae2c5c89-7f98-49a1-8fc9-9683a46a1e1d.smil/0252c12d-1a45-421f-bd5a-2474a9b124e3/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/6aee3c78-322b-40de-ba84-5bc77b997fef.smil/8dc50c6e-5636-4e1c-922c-6c5ee0ca33d9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OXSvPj9nLV3tPmxMDsNX8eaVU0O0RRrq_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/ZQZCULw0rRWTPoROQpQTbeqSE8ntRNHE_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 9",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/dc4yDz4yOvuMtgo4jhZuLLV7X4MEpfHx_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 10",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/nXZJZaisiS510sPvKgX3pPYCrrG2XmPi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 11",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UU6Ac7X1Yv5FLWXsstef5JiL4Ph1wE63_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 12",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2bZBahSkRjEpWjMAHL6qtskDCPuSes47_720p.mp4"
+                        },
+                        {
+                            "title": "مسائل اضافية للتقوية",
+                            "description": "وصف المحاضرة",
+                            "url": " https://vidcdn.akamai-cdn-delivery.com/cdn/TqAtmwOMxH9uR2SGDR9l5fqXumOqRFNM_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل الثامن: الاطياف الذرية والليزر",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/BOsb677tlm05fuswVXYMKdejouXF5klo_720p.mp4"
+                        },
+                        {
+                            "title": "ملحق محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/0frjin2PYlCuOkQ7WUUmeioiHpL9PpPL_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/j7UNUSPDpvSP8SJRiyRuqwbAzh8b54v0_360p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/69b3ea78-eeff-4d62-bb5c-537c3f2d7f47.smil/8b3d1a7c-5e6f-42ec-aab9-a0c83157dd34/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/MWwbtGKVhd1KrsrBTuP1TLWUemT8puia_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NIY50ZUTNYV9xn2JUUuhOWEhhN9cO6kA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/IYGCCpko1osxfiZGZtkwV51z83aTSxnU_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/COjPw0Pss6rqliZFbdFsTOkc2k3s49Dj_720p.mp4"
+                        },
+                        {
+                            "title": "مسائل الفصل الثامن",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/fatBgMmqaJ9EcsooxRExQYrU26rPUYVt_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الفصل التاسع: الفيزياء النووية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xqg8wJBKF4EVBN7nlhshHsUWIHbDYRQi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/DePQhdGilBJW4mcPFRJ4j7fAReaQ9mDp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/32aQ7TaxPu8bgWhaIifi9To2dq0B3TeX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/iOgUMPvcXRzLquzrYFxKSdqs0DRbhNQ5_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "المراجعة المركزة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/tFrBwtToJYWMQLPMfoN10gdKcdIKQcuA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/3NtOX7wHKW798sm49Ee2ENzxhJxx7map_720p.mp4"
+                        },
+                        {
+                            "title": "تضبيط مسائل الفصل الاول 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/c311a635-3fa1-41bd-ac53-3262ae93e78b.smil/a19d0a9e-b0db-4ec0-804c-62a5e76a6e70/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "تضبيط مسائل الفصل الاول 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/06306dfc-6aa8-437e-a51b-781347221db4.smil/fd3b8fca-3fb3-40a0-a075-710cb12e076b/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "مثال خارجي مشحونة مع اخرى غير مشحونة",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/18/1a811275-36ad-408d-896a-39109b24d47e.smil/27679142-2fe7-4176-968e-435f5fbe26b4/media-4/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NpQczfkjQIiLsNGTkdirZIysVJ1ysCpP_720p.mp4"
+                        },
+                        {
+                            "title": "مراجعة الفصل الثاني المحاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/5150e987-1f19-4cdb-8162-83355bd617c0.smil/6babae01-7965-4be1-8073-616750f0ec61/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة الفصل الثاني المحاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/2b35de00-c478-4194-84dc-ef04dac9bad0.smil/7b7d9907-f230-4e02-8051-8ead49715eda/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة الفصل الثاني المحاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/9fee8b8c-4ed8-428d-ad6f-9f6e4bf000a5.smil/1a8ba031-d889-4055-9259-c7bc1687255b/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "مراجعة شاملة لمسائل الفصل الثاني 1",
+                            "description": "وصف المحاضرة",
+                            "url": "http://vidcdn.net:1935/main/smil:AwazdlVLZiEWu2jSHcRJDXi00RhzoNsF.smil/chunklist_w267583439_b800000.m3u8"
+                        },
+                        {
+                            "title": "مراجعة شاملة لمسائل الفصل الثاني 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FQnfuo7fZjRIw4pMUUNGqZ1m1cOpSuOl_720p.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1743800816195,
+            "name": "خالد الحيالي",
+            "subject": "مدرس مادة الاسلامية",
+            "image": "https://i.imghippo.com/files/fC4908jI.png",
+            "classes": [
+                {
+                    "name": "احكام التلاوة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2AAjwNROYLBdxuN2FiGyAG5LHrHAq11F_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/zyzUUfbtOXJqVp34BpXaI89xJ5dTZ1VF_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/paTWjrUFm1G1tqiiWYAARfe4Clln5cB1_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الاولى",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/lert33kHpAtR1m99hX75WZtnZrORP5xR_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/UZJ6S6DNs62jd5SmrO6RW6wWVAYWs6zi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/95xBaVVGlgVFSgJZG44i8wvtv7Z99VIA_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/e0SgAmvMyxBZJjrVrIpGEQPnWByKQxBB_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Z3KwaAvd8k3MYlHelY6DKMPHXSoHz3ZM_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FlatFv8JX78GAPj7b7SqRfdysJXLaSRy_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/CvXUvQHEwrIdIB4At6aAK7TPi43AA2Bz_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الثانية",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RSF3GDGcRPe5OUZb2k5uat03nZR3QbtV_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/FOQyGbHMgLRkiemhuR8eGnPjE1kyq4t6_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/HALHpEmMnwfkzJeZnMiOAGzLH9DsCQ8Y_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/RHXte2nGjmUT9bKKFYgCljsRChoRKw5q_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/7YikHg2Uo86QkpauRsKfPTwEI3bKwnFY_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/8X5Nao5d6h0xLZjWSuVcxQ7LIQbgXZxX_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/AAlPsurK2O6Iv6vHCV8lPhjp3AszC6ub_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/2whCPaSVBqnUrhmKedXBdszsgzYYQu6H_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الثالثة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "http://vidcdn.net:1935/main/smil:gFkFXpHfq1GgyD3J5lfUILA22IEUCByi.smil/chunklist_w1129145485_b800000.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/NuOq7FkCcmailRg8XVPVUCnyfUSoC86Z_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/emISSWijWnSJ73fGsex5Pae776Qk0Bfi_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/JvnrimeCb3NdIq9ZKThpUWv3VXpPlEQw_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/59G78oygBooBeyqTxQ7z8SQcXuNxHHdp_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/oCu1A3ldXoX6UjCPWJHsSDs2A3UF7Mvk_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/OesAo0ggLuS3ssdinnJ84gH2ielfZjFj_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/LEMs6W8szLNguW8CgUPo41JmRruNffG2_720p.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الرابعة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/xkGLNkg28E8Blaqm4JS2vbvJdxEJ9X01_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/Gtp4T3ArkPkedZlRCakbzxaLDBTP5Pot_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/U67fKq3iFxRFuAsuwfB2rZ2THR3yYlCc_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/362947ce-df5c-4efd-8e1b-fea9cc9b6a5d.smil/863d912a-3f3b-4f44-b091-8f5fdcc8c2a9/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/32/fd0cb165-6158-4a23-8297-786e276a7201.smil/d2139148-ba75-48ac-8c61-e59f991d5e4e/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/72a62520-38a2-4743-b70d-bb82a0e6a150.smil/c8b8b472-3114-4f3d-b8ae-945b4843e4a2/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/aff6b90f-1ac6-40d6-b7e2-213134a81ddb.smil/a308574c-dd55-4dd2-8bc5-4b6af3215ac7/media-3/stream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "الوحدة الخامسة",
+                    "lectures": [
+                        {
+                            "title": "محاضرة 1",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/5bd72c80-85eb-44f5-bf23-d7453bef9a54.smil/af927cb0-cfea-4697-b017-f1af38fc8d55/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 2",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/4/10a6aa97-ce49-43ce-bf85-65ae3528ab2e.smil/f12373e5-2eae-4bb9-826a-dab92c956487/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 3",
+                            "description": "وصف المحاضرة",
+                            "url": "https://vidcdn.akamai-cdn-delivery.com/cdn/yTJl5eH4oIEL8vJfmrAMyNb3NusvgCia_720p.mp4"
+                        },
+                        {
+                            "title": "محاضرة 4",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/e59619c5-cd3c-4d89-8de9-27df9022129d.smil/ec308d23-5f71-4e65-a80d-68d1ea0e0b8e/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 5",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/a3d93fcb-cb50-46e0-a9ce-55f9bd13ea08.smil/53c6aefc-ca6b-445e-95a5-3a1299d0d892/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 6",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/1198af4c-b3d7-4725-91f1-a8be360dacef.smil/81418e21-71ee-4dd2-bf6d-3ad5ee6ee847/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 7",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/acc8e28e-5625-4f3d-abbb-6431595f5687.smil/52f3562a-87c8-446c-8c2a-adc393c498fb/media-3/stream.m3u8"
+                        },
+                        {
+                            "title": "محاضرة 8",
+                            "description": "وصف المحاضرة",
+                            "url": "https://9bf9f797be0a4677a8-akamai-cdn.com/6/70a28020-9e8a-4659-a9a4-3b07304ceac1.smil/2c54dbda-f30f-4ea6-a229-bda95d88641a/media-3/stream.m3u8"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 1746651198934,
-      "name": "حيدر عبدالائمة 2026",
-      "subject": "مدرس مادة الرياضيات",
-      "image": "https://i.imghippo.com/files/He2022.png",
-      "classes": [
-        {
-          "name": "الفصل الاول",
-          "lectures": [
-            {
-              "title": "المحاضرة التعريفية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/53e98122-e177-4b9b-a06c-525b9da6d895"
-            },
-            {
-              "title": "(المحاضرة الاولى (مقدمة عن الاعداد المركبة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cd2d15a6-156b-420e-9f31-4efbdfb85ba3"
-            },
-            {
-              "title": "(المحاضرة الثانية (أسس الاعداد المركبة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/27af24cb-6ef1-4f16-9d74-320dc8915bf9"
-            },
-            {
-              "title": "(المحاضرة الثالثة (العدد المركب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/73a0ef12-89ba-482a-88e3-e8bbe90d40f7"
-            },
-            {
-              "title": "(المحاضرة الرابعة (ضرب الأعداد المركبة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5d58ba54-c960-4fae-b0e6-a92561185627"
-            },
-            {
-              "title": "(المحاضرة الخامسة (مرافق العدد المركب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fc69f7eb-d36b-4946-b027-d85a041229a8"
-            },
-            {
-              "title": "(المحاضرة السادسة (تبسيط العدد المركب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ee5dbccd-ec8d-41c2-ba0c-366d78d3cb16"
-            },
-            {
-              "title": "المحاضرة السابعة (تبسيط العدد المركب الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/18b7dd60-0da0-4d4a-9285-e4f81bf41eea"
-            },
-            {
-              "title": "( X,Yالمحاضرة الثامنة (ايجاد الثوابت",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/094997e9-f9da-4457-80f0-b6e0094ebef5"
-            },
-            {
-              "title": "المحاضرة التاسعة (وزاريات ايجاد الثوابت X,Y)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b3e837b9-084f-4008-b92f-8ee2cef84c82"
-            },
-            {
-              "title": "المحاضرة العاشرة (وزاريات ايجاد الثوابت X,Y (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d3b79625-a579-4ddb-a6f4-5ea410866f31"
-            },
-            {
-              "title": "المحاضرة الحادي عشر (وزاريات ايجاد الثوابت X,Y (الجزء الثالث))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ccdfa255-cd65-4ff2-89f5-057069c92456"
-            },
-            {
-              "title": "المحاضرة الثاني عشر (تحليل الفرق بين مربعين)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/da00e5bf-6adf-4f51-8a21-7f949ea95482"
-            },
-            {
-              "title": "المحاضرة الثالثة عشر (الجذور التربيعية للعدد المركب)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cc610415-6fd5-4462-bc57-e3aa600c3161"
-            },
-            {
-              "title": "المحاضرة الرابعة عشر (الجذور التربيعية للعدد المركب (النوع الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f6690928-fda3-4e4a-85a1-44c42f5cfdc1"
-            },
-            {
-              "title": "المحاضرة الخامسة عشر (حل المعادلة من الدرجة الثانية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ca2d0c98-6712-4727-a74a-5f4f492f1bad"
-            },
-            {
-              "title": "المحاضرة السادسة عشر (حل المعادلة من الدرجة الثانية (وزاريات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/93c4a9dd-3b5e-4b7a-92b9-fc3ac53b9850"
-            },
-            {
-              "title": "المحاضرة السابعة عشر (تكوين المعادلة التربيعية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/664866fe-e1a2-452e-a07a-6015b7ddeb09"
-            },
-            {
-              "title": "المحاضرة الثامنة عشر (ايجاد الثوابت في المعادلة التربيعية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9976236e-380c-4c16-bdce-b4fd6cf14330"
-            },
-            {
-              "title": "المحاضرة التاسعة عشر (ايجاد الثوابت في المعادلة التربيعية (وزاريات))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6aefa027-e442-4d78-b46f-e99e8e898c26"
-            },
-            {
-              "title": "المحاضرة العشرون (التمثيل الهندسي للاعداد المركبة - شكل ارجاند)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a7879e08-18db-495c-9de1-3e053a06803c"
-            },
-            {
-              "title": "المحاضرة الحادية و العشرون (المقياس والقيمة الأساسية للسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ed36016f-7e84-4eda-afcd-dbb2c19af608"
-            },
-            {
-              "title": "المحاضرة الثانية و العشرون (الزوايا في ديموافر)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ca2f90c6-1f8c-4bfa-b478-d77c628265b9"
-            },
-            {
-              "title": "ديموافر (الاسئلة الوزارية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d66810b4-d1e9-4c75-b151-b04e233ef064"
-            },
-            {
-              "title": "المحاضرة الرابعة و العشرون ( مبرهنة ديموافر)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/86d64837-70ca-41a5-8551-d2bdc5eab887"
-            },
-            {
-              "title": "تطبيق مبرهنة ديموافر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5cda0e84-2dd9-4a60-b3ab-b4785bf976e6"
-            },
-            {
-              "title": "مبرهنة ديموافر (وزاريات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0c0f268b-a2b8-4f8e-8ea2-3ed992b167e1"
-            },
-            {
-              "title": "المحاضرة السابعة والعشرون(مبرهنة ديموافر (إثرائيات))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5b9a468e-24d9-4ed1-8dbe-6d0c58420a6e"
-            },
-            {
-              "title": "المحاضرة الثامنة والعشرون مبرهنة ديموافر (الاسئلة الوزارية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b9c5234c-8e43-440b-be94-4d357afe12f2"
-            },
-            {
-              "title": "المحاضرة التاسعة عشر نتيجة مبرهنة ديموافر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7d049f39-f799-4d68-834c-4197ab33b2fb"
-            },
-            {
-              "title": "المحاضرة الثلاثون (وزاريات نتيجة مبرهنة ديموافر)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5cdd2e78-c807-40df-97d7-a83df41ef7a3"
-            },
-            {
-              "title": "المحاضرة الواحد والثلاثون (وزاريات نتيجة مبرهنة ديموافر (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/54869eba-34ec-4a1d-a14a-ce7e8fc6d1a9"
-            },
-            {
-              "title": "المحاضرة الثانية وثلاثون (الاوميكا)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f42d956a-4387-4f2c-958e-8875e679509b"
-            },
-            {
-              "title": "(المحاضرة الثلاثة والثلاثون (وزاريات الاوميكا",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b827219d-c7f7-48f6-932e-8f1f1957db90"
-            },
-            {
-              "title": "المحاضرة 34 (وزاريات الاوميكا (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/82a6a415-f4a5-462d-a533-ea52d3cb27d3"
-            },
-            {
-              "title": "المحاضرة 35 (المحاضرة الاخيرة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5b2f223f-9807-4182-b6cb-82f192b32c37"
-            }
-          ]
-        },
-        {
-          "name": "إثرائيات",
-          "lectures": [
-            {
-              "title": "إثرائيات الفصل الاول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3b2b9cc8-fa0c-49f8-9a92-00417ed380ca"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "(المحاضرة 1 (القطع المكافئ",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4585f982-c5c2-4da0-9aa2-cd3d69975dc0"
-            },
-            {
-              "title": "المحاضرة 2 (القطع المكافئ - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/043666d4-df1d-4e99-8ec1-46334e25c7db"
-            },
-            {
-              "title": "(المحاضرة 3 (وزاريات القطع المكافئ",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ac0d656d-8c18-44a0-a07b-3b88d22aac0c"
-            },
-            {
-              "title": "المحاضرة 4 (تعريف القطع المكافئ)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b4c1e180-2cd5-4392-8beb-1e9df30b3d22"
-            },
-            {
-              "title": "المحاضرة 5 (القطع الناقص)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/acb6dead-d311-4627-9481-7bc931b3329f"
-            },
-            {
-              "title": "محاضرة 6 (وزاريات القطع الناقص)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/79624e6f-99f4-4116-8310-cde6a9c17d49"
-            },
-            {
-              "title": "المحاضرة 7 (ملاحظات القطع الناقص)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ea96c74c-f2f0-4409-94bc-7c5bfdc93448"
-            },
-            {
-              "title": "المحاضرة 8 (ملاحظات القطع الناقص (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b470decc-de9a-4142-ab1d-60042d9f1d80"
-            },
-            {
-              "title": "المحاضرة 9 (ملاحظات القطع الناقص (الجزء الثالث))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ec4ab009-26ab-46c3-99d3-a4c91233b10a"
-            },
-            {
-              "title": "المحاضرة 10 (ملاحظات القطع الناقص (الجزء الرابع))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2730f0f1-21b3-466e-a714-e8d2b6ef29c1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1746651370580,
-      "name": "سجاد العبيدي 2026",
-      "subject": "مدرس مادة اللغة الانكليزية",
-      "image": "https://i.imghippo.com/files/Aun4342CQ.png",
-      "classes": [
-        {
-          "name": "الاساسيات",
-          "lectures": [
-            {
-              "title": "محاضرة 1",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fae0d70a-e4c7-46e0-a046-e8b52436e9fa"
-            },
-            {
-              "title": "محاضرة 2",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1138f878-d8fa-4ed2-8228-f4c237b53d16"
-            },
-            {
-              "title": "محاضرة 3",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5cb01382-c193-420f-a418-e6b10e0959d2"
-            }
-          ]
-        },
-        {
-          "name": "الوحدة الاولى",
-          "lectures": [
-            {
-              "title": "أدوات الربط",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cce812a8-9008-44cf-a16e-00d7d82235a2"
-            },
-            {
-              "title": "اعلانات السجائر يجب أن تكون غير قانونية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3954a176-e22e-477a-be35-f5c65c0d1d16"
-            },
-            {
-              "title": "(ed, ing) الصفات المنتهية ب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4473a98c-71c0-4586-aa98-ed529584f9b3"
-            },
-            {
-              "title": "(ful,fully) الكلمات المنتهية ب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/551c769b-a25b-4706-a689-82a1b77bd06e"
-            },
-            {
-              "title": "اصبع قدمي ينزف",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/603fabc7-aa58-478e-8759-99937ba45b13"
-            },
-            {
-              "title": "(اصبع قدمي ينزف (الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/03d0562c-15b7-4946-b7aa-bae0042cc94e"
-            },
-            {
-              "title": "العلاج والمفاصل",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/53035cc9-b698-401f-b442-be0a1a2102e8"
-            },
-            {
-              "title": "اسقاطات الوحدة الأولى",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9aa6fca5-83e2-4925-bce2-b654f26bcc27"
-            },
-            {
-              "title": "الأفعال المركبة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/032cc79d-fc78-46f2-b1f6-f3a5adb5a0dc"
-            },
-            {
-              "title": "الاضافات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/75364eca-106c-4ab6-9e93-6cf3816fb5ab"
-            },
-            {
-              "title": "النصائح الأمرية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/11690a72-fe77-44c5-ad97-9c086194dbdf"
-            },
-            {
-              "title": "المعدود وغير المعدود",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/41384cdd-cf86-45ac-8e4a-f68433d5ef97"
-            },
-            {
-              "title": "Used to",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bd777b07-9563-4dbc-b8a0-f5d596509378"
-            },
-            {
-              "title": "زيد طارق.",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a07839f1-02a6-41e0-bc25-0506515722dd"
-            },
-            {
-              "title": "زيد طارق (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0df6c12e-234e-4106-8bbc-44be66141e75"
-            },
-            {
-              "title": "زيد طارق (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/eed38621-084d-44f2-9547-9f63385806f0"
-            },
-            {
-              "title": "مراجعة عامة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fbf45ab3-3b1c-4818-b44b-c87afa181db5"
-            },
-            {
-              "title": "سأكون دائماً فخورة به.",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a6c96ef7-5c69-46d7-aa70-4dbf7bea6f49"
-            },
-            {
-              "title": "سأكون دائماً فخورة به (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/78080c9f-a220-4d86-9b75-71957d5be5ee"
-            },
-            {
-              "title": "سأكون دائماً فخورة به (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2dda9cb8-eab6-4b6b-9ee3-be5ae0c15658"
-            },
-            {
-              "title": "er اسقاطات الصحة واضافة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6169c526-28ca-493b-b19e-a008fe07867c"
-            },
-            {
-              "title": "المقارنة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/245c4cb9-4d83-49de-aa24-83c1ee480568"
-            },
-            {
-              "title": "استخدام Used to الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/23f34f2c-1347-4915-afe0-5dfa4f34558f"
-            }
-          ]
-        },
-        {
-          "name": "القطع الخارجية",
-          "lectures": [
-            {
-              "title": "أساسيات القطعة الخارجية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6c122843-9506-4ecb-a042-b1b91f250c6e"
-            },
-            {
-              "title": "القطعة الأولى",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3ea80940-93e6-451c-b0a7-36dd1816a6ac"
-            },
-            {
-              "title": "القطعة الثانية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/21ffc683-8aaa-429c-94e5-8e61bd9d7eba"
-            }
-          ]
-        },
-        {
-          "name": "اليونت الثاني",
-          "lectures": [
-            {
-              "title": "المحاضرة 1 - الضرورة وعدم الضرورة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fcd0f854-db59-4ead-a0d2-7abede248c7e"
-            },
-            {
-              "title": "إنشاء مقابلة العمل",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/71c2859a-ddb6-40c6-83c1-8f4b66566117"
-            },
-            {
-              "title": "الطلب المؤدب والعروض",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1b527d54-a8d7-45b9-a53e-87e614383fc4"
-            },
-            {
-              "title": "الاقتراح والنصيحة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a89a46ce-693c-4d09-ae47-93e86f021384"
-            },
-            {
-              "title": "قطعة واجبات الشرطة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/37d6e079-75c7-4fc2-a3c6-114c92817079"
-            },
-            {
-              "title": "اسئلة واجبات الشرطة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b0f04557-01b7-4f45-a2d0-e5ad60d6ff1a"
-            },
-            {
-              "title": "أسئلة واجبات الشرطة (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c78e23b8-3f7c-4a77-a149-9791aee7c97f"
-            },
-            {
-              "title": "مقالة سلامة المنزل",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f3e20a6b-d79c-46c2-9307-d499eac9cbd9"
-            },
-            {
-              "title": "الاختصارات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f81b6a0f-e2a3-4e15-bf17-168adb8ee698"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1746651481946,
-      "name": "هاشم الغرباوي 2026",
-      "subject": "مدرس مادة الكيمياء",
-      "image": "https://i.imghippo.com/files/rfU8885UN.png",
-      "classes": [
-        {
-          "name": "الاساسيات",
-          "lectures": [
-            {
-              "title": "محاضرة 1",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/092c23a8-0cbe-44a6-a4b4-cefb20910478"
-            },
-            {
-              "title": "محاضرة 2",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/916fe1c7-c230-4495-b525-c8a5bf9fbb41"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الاول: الثرموداينمك",
-          "lectures": [
-            {
-              "title": "محاضرة 1",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a5450272-34bf-47cd-8e63-4fbcbdd180f5"
-            },
-            {
-              "title": "محاضرة 2",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4d4dbdf8-2e6b-4ebb-8917-d99ca17943cb"
-            },
-            {
-              "title": "محاضرة 3",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3ca71c40-706a-4cd2-855f-57138b4cf646"
-            },
-            {
-              "title": "محاضرة 4",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5be932f1-534a-488d-b0cb-7330eaf06491"
-            },
-            {
-              "title": "محاضرة 5",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/85b5e458-8910-4d19-8316-b04016b70881"
-            },
-            {
-              "title": "المحاضرة 6 ",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0bcec746-94f4-4361-9ce2-265e64672493"
-            },
-            {
-              "title": "محاضرة 7",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d2711074-80bf-4670-ba69-dce58b289c82"
-            },
-            {
-              "title": "محاضرة 8",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f4622f4d-2cf4-40ae-96e2-954bcbdfb242"
-            },
-            {
-              "title": "محاضرة 9",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1b47ad43-8b7f-419e-9e7e-5245fb2de6da"
-            },
-            {
-              "title": "محاضرة 10",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b616633f-7255-4e29-aa6d-f0186e2bbd3b"
-            },
-            {
-              "title": "محاضرة 11",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9d535868-8cf7-4ea1-9528-0136c1d6a6b0"
-            },
-            {
-              "title": "محاضرة 12",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/88a4d4a2-16f0-406b-871a-ddce38bbb7d8"
-            },
-            {
-              "title": "محاضرة 13 : حل واجبات الفصل الاول من 1 الى15",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a0948037-e610-46fd-bd31-afe7cb4f3970"
-            },
-            {
-              "title": "محاضرة 14 : (حساب مجموع الانثالبي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7d705e4a-06fa-4471-b0d0-2e9676740862"
-            },
-            {
-              "title": "محاضرة 15 : (العمليات التلقائية والانتروبي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f2115efe-13fe-4ea3-a340-53cdfb73764e"
-            },
-            {
-              "title": "(الدرس الخامس عشر (الانتروبي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f2115efe-13fe-4ea3-a340-53cdfb73764e"
-            },
-            {
-              "title": "الدرس السادس عشر ( حل الاسئلة الثلاثية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/72ce818a-c62e-414f-b294-e3bbcddc34a0"
-            },
-            {
-              "title": "الدرس السابع عشر (حل المسائل الوزارية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e08a8a8f-7ced-4469-9c22-0535dd8da458"
-            },
-            {
-              "title": "الدرس الثامن عشر (حل اسئلة المنهج و شرح مخطط الطاقة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3cc86244-78d6-4a78-95f3-aede200a4d9f"
-            },
-            {
-              "title": "(الدرس التاسع عشر (تطبيقات على علاقة كبس",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e832a41f-65f9-4080-a6b2-95ec3a030202"
-            },
-            {
-              "title": "الدرس العشرون (حساب انتروبي التغيرات الفيزيائية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3371de36-202c-4b66-b785-f07e12449559"
-            }
-          ]
-        },
-        {
-          "name": "المراجعة المركزة الفصل الاول",
-          "lectures": [
-            {
-              "title": "مراجعة مركزة فصل اول ج 1",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a31f2692-36ba-4900-ac76-3df7cd34656e"
-            },
-            {
-              "title": "المراجعة المركزة فصل اول ج 2",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8f9a9353-668d-4443-985b-ad83044766b2"
-            },
-            {
-              "title": "مراجعة مركزة الفصل الثاني (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/74ed675b-00b6-4b0e-8562-a5cf25607920"
-            },
-            {
-              "title": "مراجعة مسائل الفرضية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6a3ddadc-9127-4d91-a6a4-4b340c3bc6ba"
-            },
-            {
-              "title": "مراجعة مركزة الفصل الثاني (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/935006a9-10fd-4557-92e4-0ff8ec980906"
-            },
-            {
-              "title": "حل واجبات الفصل الاول من 1 الى15",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/88a4d4a2-16f0-406b-871a-ddce38bbb7d8"
-            },
-            {
-              "title": "المحاضرة الثانية (واجبات من سؤال ١٦ الى٢٤)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/efdacbc2-2134-4839-ad32-818b8831a362"
-            },
-            {
-              "title": "(حل واجبات الفصل الثاني (الجزء الاول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ac1c1bfe-9b7f-48a3-a3a6-04036f1b8755"
-            },
-            {
-              "title": "حل واجبات الفصل الثاني (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/45d99681-cbcc-45c0-8e48-c959c6162e2e"
-            }
-          ]
-        },
-        {
-          "name": "حل واجبات الفصل الاول",
-          "lectures": [
-            {
-              "title": "حل واجبات الفصل الاول من 1 الى15",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/88a4d4a2-16f0-406b-871a-ddce38bbb7d8"
-            },
-            {
-              "title": "المحاضرة الثانية (واجبات من سؤال ١٦ الى٢٤)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/efdacbc2-2134-4839-ad32-818b8831a362"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "الدرس الاول (مقدمة الاتزان الكيميائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d92636ee-eba1-4f9d-8657-f3fbd872d8fb"
-            },
-            {
-              "title": "الدرس الثاني (ثابت الاتزان الكيميائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/03b679cb-d532-4d9e-9daa-db8f3ca95f95"
-            },
-            {
-              "title": "الدرس الثالث (فرضية مسائل ثابت الاتزان للتراكيز وثابت الاتزان للضغوط)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bc2bee10-b7f5-438d-9526-24761c696c92"
-            },
-            {
-              "title": "الدرس الرابع (مراجعة الفرضية وحل بعض المسائل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d390ae74-54ac-4f21-acc1-3ee6518dc518"
-            },
-            {
-              "title": "الدرس الخامس (حل مسائل ثابت الاتزان للتراكيز و للضغوط)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/718daa80-e0eb-4d85-b88d-324d74f045fe"
-            },
-            {
-              "title": "(الدرس السادس (حل مسائل ثابت الاتزان للتراكيز والضغوط المنهجية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a329ecb8-b206-4ad3-8c3a-64c3c5feef3c"
-            },
-            {
-              "title": "الدرس السابع (حل مسائل ثابت الاتزان للتراكيز والضغوط المنهجية الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7a36db38-f6e8-4b46-85a5-2e530b79cc5e"
-            },
-            {
-              "title": "(العلاقة بين ثابت الاتزان للتراكيز والضغوط الجزء الاول)الدرس الثامن",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c9eca943-f6c0-46a4-ba64-db3c8a3d4e77"
-            },
-            {
-              "title": "(العلاقة بين ثابت الاتزان للتراكيز والضغوط الجزء الثاني) الدرس التاسع",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4e6ef633-0853-41af-9063-0a19a699ca2e"
-            },
-            {
-              "title": "الدرس العاشر (بيان العلاقة بين ثابت الاتزان وطريقة كتابة المعادلة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2dc4c10f-ff2d-46f5-8f0f-517526436cb8"
-            },
-            {
-              "title": "الدرس الحادي عشر (الأهمية الثانية لثابت الاتزان)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/90bc2ba8-b3d5-4477-9af8-c15f1a703228"
-            },
-            {
-              "title": "الدرس الثاني عشر (حاصل التفاعل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c4a0ea01-fb57-44a7-aa8c-93f361211fb1"
-            },
-            {
-              "title": "الدرس الثالث عشر (العلاقة بين ثابت الاتزان و علاقة كبس )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6bed1c5f-7175-43e7-bf5b-69c769bdd920"
-            },
-            {
-              "title": "الدرس الرابع عشر (قاعدة لوشاتلية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2e7607d4-5c02-41fa-b084-4a6f70ba3ad3"
-            },
-            {
-              "title": "الدرس الخامس عشر (حل مسائل قاعدة لوشاتلية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5ad265fd-75ea-4ade-839d-b2be16af6468"
-            },
-            {
-              "title": "الدرس السادس عشر (حل مسائل تاثير درجة الحرارة على ثابت الاتزان)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/58170dc3-bf0f-43d4-9e5e-c1f27bbd873a"
-            },
-            {
-              "title": "(الدرس السابع عشر  (تعاليل قاعدة لوشاتلية وفراغاتها",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0044b3e5-6cea-41cd-b0dc-2c8bb4065933"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1746651647110,
-      "name": "علي السوداني 2026",
-      "subject": "مدرس مادة الفيزياء",
-      "image": "https://i.imghippo.com/files/tTv3116HA.png",
-      "classes": [
-        {
-          "name": "الاساسيات",
-          "lectures": [
-            {
-              "title": "الاساسيات 1",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/583c5061-6c9e-4d79-b4c0-f4274fa4af84"
-            },
-            {
-              "title": "الاساسيات 2",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0290b143-5dae-4ad3-9af2-6af5b33da003"
-            },
-            {
-              "title": "الاساسيات 3",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/156d9561-0cdf-45c4-85ca-118f490ec6f9"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الاول",
-          "lectures": [
-            {
-              "title": "المحاضرة 1 (الموصل الكروي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cb0aaac5-1614-4c41-a2b8-50d7463c9a68"
-            },
-            {
-              "title": "المحاضرة 2 (المتسعة وسعة المتسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7"
-            },
-            {
-              "title": "المحاضرة 3 (المتسعة وسعة المتسعة (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2b0c371f-0038-4d0e-a6c1-4f8ad98ebe96"
-            },
-            {
-              "title": "المحاضرة 4 (العازل الكهربائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e2b3b8e7-e2a4-4029-8c03-f9db48b17431"
-            },
-            {
-              "title": "المحاضرة 5 (قوة العزل الكهربائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/15f473a2-6f45-447a-9771-43059321c296"
-            },
-            {
-              "title": "اساسيات الفيزياء",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/583c5061-6c9e-4d79-b4c0-f4274fa4af84"
-            },
-            {
-              "title": "اساسيات الفيزياء (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0290b143-5dae-4ad3-9af2-6af5b33da003"
-            },
-            {
-              "title": "أساسيات الفيزياء (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/156d9561-0cdf-45c4-85ca-118f490ec6f9"
-            },
-            {
-              "title": "المحاضرة 1 (الموصل الكروي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cb0aaac5-1614-4c41-a2b8-50d7463c9a68"
-            },
-            {
-              "title": "المحاضرة 2 (المتسعة وسعة المتسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7"
-            },
-            {
-              "title": "المحاضرة 3 (المتسعة وسعة المتسعة (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2b0c371f-0038-4d0e-a6c1-4f8ad98ebe96"
-            },
-            {
-              "title": "المحاضرة 4 (العازل الكهربائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e2b3b8e7-e2a4-4029-8c03-f9db48b17431"
-            },
-            {
-              "title": "المحاضرة 5 (قوة العزل الكهربائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/15f473a2-6f45-447a-9771-43059321c296"
-            },
-            {
-              "title": "المحاضرة 6 (تجربة فاراداي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c97e68b9-e4ec-43fe-b105-88d5449061ed"
-            },
-            {
-              "title": "المحاضرة 7 (تأثير المساحة السطحية والبعد بين صفيحتين على المتسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b3e3b411-c003-4300-a1ae-98a4d1a75e4b"
-            },
-            {
-              "title": "المحاضرة 8 (تأثير العازل على المتسعة المتصلة والمنفصلة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ec6fd490-98ea-4808-925a-4df02dfaea03"
-            },
-            {
-              "title": "المحاضرة 9 (سلوك المتسعة عند توصيلها بالبطارية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8c7f09a6-863d-497e-9b4a-593aae156285"
-            },
-            {
-              "title": "المحاضرة 10 (سلوك المتسعة عند توصيلها بالبطارية (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/492f37fc-d850-4aaa-bfcf-62ce04a551fc"
-            },
-            {
-              "title": "المحاضرة 11 (العوامل المؤثرة في الشحنة والطاقة في المتسعات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dc3c915e-9e2a-4ba7-a4ba-c403c9f99dc5"
-            },
-            {
-              "title": "المحاضرة 12 (قوانين المتسعات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3f00b418-c23e-4fae-aabf-08b33a6a46e6"
-            },
-            {
-              "title": "المحاضرة 13 ( مسائل المتسعة المنفردة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/63e0f94d-7aa3-4d95-a59f-f41bf2db5dea"
-            },
-            {
-              "title": "المحاضرة 14 (مسائل المتسعة المنفردة (الوزاريات)))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/88fa6975-b555-4355-9b85-920d645488ff"
-            },
-            {
-              "title": "لمحاضرة 15 (مسائل المتسعة المنفردة (إثرائيات))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4f48060e-efb1-4c2a-a4ac-cf4af3f6e90f"
-            },
-            {
-              "title": "المحاضرة 16 (المتسعة المنفردة (الاختيارات الوزارية))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ea5c2287-ec1c-47c8-9114-65bffcaaf998"
-            },
-            {
-              "title": "المحاضرة 17 (واجبات المتسعة المنفردة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bab39653-ec65-4535-9a05-3faf2c0ad0f2"
-            },
-            {
-              "title": "المحاضرة 18 (واجبات المتسعة منفردة (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/26e4d1d0-87ec-4364-97aa-5e30a78bcd83"
-            },
-            {
-              "title": "المحاضرة 19 (ربط المتسعات على التوازي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2c86a842-af9d-49a8-97af-e0244fb342ca"
-            },
-            {
-              "title": "المحاضرة 20 (ربط المتسعات على التوازي (الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e0a5861c-0bf6-4564-989d-78ff5388e82c"
-            },
-            {
-              "title": "المحاضرة 21 (ربط المتسعات على التوازي بوجود العازل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/39fde436-9888-4499-87b4-48e9b112d72b"
-            },
-            {
-              "title": "المحاضرة 22 (مسائل ربط المتسعات على التوازي بوجود العازل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c3a8cd7d-a9d9-41e9-b87c-0fa8ae033509"
-            },
-            {
-              "title": "المحاضرة 23 (مسائل ربط المتسعات على التوازي والعازل مجهول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a27b5811-c6f5-476a-863d-c8d04f161e3e"
-            },
-            {
-              "title": "المحاضرة 24 (افكار عن المتسعات المربوطة على التوازي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4236d132-408a-41fa-88a0-5acd5da31f90"
-            },
-            {
-              "title": "المحاضرة 25 (حل واجبات المتسعات المربوطة على التوازي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7a07e670-2e0a-403f-8be0-5695451133fc"
-            },
-            {
-              "title": "(المحاضرة 26 (المتسعات المربوطة على التوالي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0b5afd86-8429-4ad6-abef-700a197a47c1"
-            },
-            {
-              "title": "المحاضرة 27 (مسائل المتسعات المربوطة على التوالي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/89ef878b-ee1d-4857-bbdd-acf043af1326"
-            },
-            {
-              "title": "المحاضرة 28 (مسائل المتسعات المربوطة على التوالي بوجود العازل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2220c52f-a4e3-4f78-b5f9-8aafdd02d737"
-            },
-            {
-              "title": "المحاضرة 29 (مسائل المتسعات المربوطة على التوالي والعازل مجهول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cf45ebb0-49f8-4f7a-aa13-ec9b3de66a7b"
-            },
-            {
-              "title": "(المحاضرة 30 (حل واجبات المتسعة المربوطة على التوالي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a685f161-6939-41d9-806c-f3e42495dd57"
-            },
-            {
-              "title": "المحاضرة 31 (مسائل ربط المختلط)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/34588462-cef6-4671-a2ed-68cc152ec7eb"
-            },
-            {
-              "title": "المحاضرة 32 (مسائل الربط المختلط(الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d82a6ae7-b5e8-4fb5-9af5-15540775e5b6"
-            },
-            {
-              "title": "المحاضرة 33 - مسائل الربط المختلط (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4545d180-9eb9-45ef-91cd-4a6baf48dabd"
-            },
-            {
-              "title": "المحاضرة 34 - حل واجبات الربط المختلط",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9c8c7a28-22f5-417c-b8d3-061cdae6ebe9"
-            },
-            {
-              "title": "المحاضرة 35 -  بعض انواع المتسعات وتطبيقاتها",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a299bb8e-75cb-4bec-bde8-e48e9f1031b3"
-            },
-            {
-              "title": "(RC)المحاضرة 36 - كلاميات دوائر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/df2ebe16-c213-4f19-af6d-c39e6a99bc5c"
-            },
-            {
-              "title": "المحاضرة 37-  مسائل دوائر RC ( النوع الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a271c53b-387c-4f2e-aeb9-f6b4a820ebc9"
-            },
-            {
-              "title": "المحاضرة 38- حل مسائل دوائر RC ( النوع الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/32a0d73e-0ec3-4bb7-a575-6dbf8be6f530"
-            },
-            {
-              "title": "RCالمحاضرة 39 - حل واجبات دوائر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7dad7e77-9032-4e0e-920d-33395ea9a37c"
-            },
-            {
-              "title": "المحاضرة 40 - حل اسئلة الفصل الأول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/48b555b8-e1d2-4b54-8ead-c26b02876d95"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1746651781084,
-      "name": "احمد النعيمي 2026",
-      "subject": "مدرس مادة اللغة العربية",
-      "image": "https://i.imghippo.com/files/Lglk7477vOg.png",
-      "classes": [
-        {
-          "name": "الاساسيات",
-          "lectures": [
-            {
-              "title": "محاضرة تعريفية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7550c67d-6ba9-450d-8bed-c7fc19b6b69b"
-            },
-            {
-              "title": "مخطط المحاضرة الأولى",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d97a2215-e814-4de9-81eb-89a223aab559"
-            },
-            {
-              "title": "المحاضرة الأولى",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/57d3660a-f5a9-4083-84c8-3bdc1fcebc55"
-            },
-            {
-              "title": "مخطط المحاضرة الثانية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dabf8581-5b43-4253-8b00-393a9c2e5e23"
-            },
-            {
-              "title": "شرح المحاضرة الثانية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/aee74655-0c7d-4333-8d3c-3e743a955537"
-            },
-            {
-              "title": "مخطط المحاضرة الثالثة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8f2d121b-d686-40cf-be23-f3e8a371cbae"
-            },
-            {
-              "title": "شرح المحاضرة الثالثة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8c95e867-241d-47b1-ac11-52e5d80947b8"
-            },
-            {
-              "title": "مخطط المحاضرة الرابعة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/52fb6ea2-7561-4305-bb8f-6df7a12c04cb"
-            },
-            {
-              "title": "شرح المحاضرة الرابعة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/36d002b5-d2ca-4a39-8475-dd41dc01b1c0"
-            }
-          ]
-        },
-        {
-          "name": "أسلوب الاستفهام",
-          "lectures": [
-            {
-              "title": "محاضرة تعريفية عن أسلوب الاستفهام",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/905f1510-b8a7-4ebe-89af-77dec8ab5049"
-            },
-            {
-              "title": "مخطط المحاضرة الأولى (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4233c1a6-8d10-4ebf-992e-30f4194ff9b1"
-            },
-            {
-              "title": "شرح المحاضرة الأولى (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3d7c1777-c49a-415d-be0a-03a3f5af2ca0"
-            },
-            {
-              "title": "مخطط المحاضرة الأولى (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f684d349-422f-4ab1-8302-8e908a954962"
-            },
-            {
-              "title": "شرح المحاضرة الأولى (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b0faf3df-5449-4efa-a68f-d2072d16cbb9"
-            },
-            {
-              "title": "مخطط المحاضرة الثانية (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/50479126-f34f-45d6-af26-0cc46f333fc3"
-            },
-            {
-              "title": "شرح المحاضرة الثانية (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e3cf98bd-afb6-49dc-8cae-4e3071fa1dbf"
-            },
-            {
-              "title": "مخطط المحاضرة الثانية (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b998d83c-9374-4402-935f-500fecca2a05"
-            },
-            {
-              "title": "شرح المحاضرة الثانية (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f1fdcf51-eda8-4a30-8461-807997b9ca68"
-            },
-            {
-              "title": "مخطط المحاضرة الثالثة (مراجعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e34da8e2-2bb2-4c7c-9063-c13fb53aeace"
-            },
-            {
-              "title": "شرح المحاضرة الثالثة (مراجعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8d8496f5-43c3-434f-ac17-10572ceb3508"
-            },
-            {
-              "title": "مخطط المحاضرة الرابعة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bde4a66b-414b-451c-8457-87b9d76ce2b5"
-            },
-            {
-              "title": "شرح المحاضرة الرابعة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5d2e690a-2adb-4af0-95fe-f4990a964b08"
-            },
-            {
-              "title": "مخطط المحاضرة الرابعة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f49992ad-2426-4c0d-bf11-98acbcbaf2d9"
-            },
-            {
-              "title": "شرح المحاضرة الرابعة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5beec488-bbd8-443e-8d43-2b92e5db7fe1"
-            },
-            {
-              "title": "مخطط المحاضرة الخامسة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/32a582c4-876d-40d3-861b-1bb58f73e204"
-            },
-            {
-              "title": "شرح المحاضرة الخامسة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/305f0dbf-8eb4-475c-98b4-2444f9f838f5"
-            },
-            {
-              "title": "مخطط المحاضرة الخامسة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/835c5801-1368-4710-8257-5d1091df4c21"
-            },
-            {
-              "title": "شرح المحاضرة الخامسة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8a5eda6b-150c-45fe-b360-e363819b8418"
-            },
-            {
-              "title": "مخطط المحاضرة السادسة (مراجعة مركَّزة للمحاضرتين الرابعة والخامسة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3268abd5-dec5-46c1-a593-4f84c217e015"
-            },
-            {
-              "title": "شرح المحاضرة السادسة (مراجعة مركَّزة للمحاضرتين الرابعة والخامسة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/91d5f66f-906d-493f-b986-dae691c8479e"
-            },
-            {
-              "title": "مخطط المحاضرة السابعة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0d082ed2-aef0-4bda-b381-3b5d567334fc"
-            },
-            {
-              "title": "شرح المحاضرة السابعة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/23fdf780-6ccc-4ecf-b4d2-b3d2eba91864"
-            },
-            {
-              "title": "مخطط المحاضرة السابعة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c78755a4-13a1-4eae-a612-6f74715310fe"
-            },
-            {
-              "title": "شرح المحاضرة السابعة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/686a2e98-bf4a-4e8d-9856-81de3dabc2bf"
-            },
-            {
-              "title": "مخطط المحاضرة الثامنة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a75aaa41-8067-4fe9-b589-41f3fbc152da"
-            },
-            {
-              "title": "شرح المحاضرة الثامنة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7cf35196-ee85-48f3-958c-8bfaae91be81"
-            },
-            {
-              "title": "مخطط المحاضرة الثامنة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9e4fa3b9-c253-45a1-9358-c67d8713681e"
-            },
-            {
-              "title": "شرح المحاضرة الثامنة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5ecf9bd8-aea9-479a-bc4f-d6cd813a2f8f"
-            },
-            {
-              "title": "مخطط المحاضرة التاسعة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9e1342e3-429c-45cc-96f1-6e176a9ce469"
-            },
-            {
-              "title": "شرح المحاضرة التاسعة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ee0ccf33-12fb-492a-9bdd-a8db41fe5dfb"
-            },
-            {
-              "title": "المحاضرة التاسعة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/595c6b4f-6407-4247-af65-74ca3e1a6055"
-            },
-            {
-              "title": "شرح المحاضرة التاسعة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/427d2a0e-d5ce-44cf-b416-532863421ac8"
-            },
-            {
-              "title": "مخطط المحاضرة العاشرة (مراجعة مركزة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fe1dcd50-67b7-4d48-8bf6-ec378a3d8bc9"
-            },
-            {
-              "title": "شرح المحاضرة العاشرة (مراجعة مركزة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ccfea792-c6a5-4eaf-8af3-904f9e6b4b5f"
-            },
-            {
-              "title": "مخطط المحاضرة الحادية عشرة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6256771f-855b-45a2-b415-a63e2eb161f3"
-            },
-            {
-              "title": "شرح المحاضرة الحادية عشرة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3ba54a5a-ad2f-4ee9-8524-cdb7e8cb9e90"
-            }
-          ]
-        },
-        {
-          "name": "الأدب الحديث: الفصل الدراسي الأول",
-          "lectures": [
-            {
-              "title": "محاضرة تعريفية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/69825c11-7c85-46af-9c01-1ebc227405d3"
-            },
-            {
-              "title": "المحاضرة الأولى (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bf44a418-ccc3-4bd0-b0b9-b4a27838a9df"
-            },
-            {
-              "title": "المحاضرة الأولى (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ef4f08f1-b1f4-4ff6-89e5-ea9cab85f378"
-            },
-            {
-              "title": "المحاضرة الثانية (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a671a241-4e31-4efe-98e0-212f0c842186"
-            },
-            {
-              "title": "المحاضرة الثانية (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f69bc0e6-2c20-449e-84f0-524c2848aebe"
-            },
-            {
-              "title": "المحاضرة الثانية (ج٣)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a06dbfc0-a57f-4d88-8c09-9182fe1d0fb0"
-            },
-            {
-              "title": "المحاضرة الثالثة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/480d9010-4ece-476f-91cf-a418bf9e693f"
-            },
-            {
-              "title": "المحاضرة الثالثة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bdaf3fbf-18a2-44b3-8c28-29c6d015d794"
-            },
-            {
-              "title": "المحاضرة الثالثة (ج٣)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/196badce-082f-40e7-92c0-a9206fc34003"
-            },
-            {
-              "title": "المحاضرة الرابعة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fbe3b57b-60c3-497d-8bb4-6cc3c007bc1c"
-            },
-            {
-              "title": "المحاضرة الرابعة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8ecbb17d-b769-4a14-a177-bdaf80494b0e"
-            },
-            {
-              "title": "المحاضرة الرابعة (ج٣)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9458c5fc-74dd-424d-b15b-a86b1fa9e834"
-            },
-            {
-              "title": "المحاضرة الخامسة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9ac86051-cd87-431e-86b6-e70544cbe652"
-            },
-            {
-              "title": "المحاضرة الخامسة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ec0787a0-d78c-4017-9578-db1a06759ab5"
-            },
-            {
-              "title": "المحاضرة الخامسة (ج٣)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2febf81a-d9e5-4b4e-aade-a9a32acc5377"
-            },
-            {
-              "title": "المحاضرة السادسة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5ad76786-57b6-4123-80bf-6c2d997611b4"
-            },
-            {
-              "title": "المحاضرة السادسة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1e7c33a8-70e6-4b6d-9640-68a7ef517899"
-            },
-            {
-              "title": "المحاضرة السادسة (ج٣)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fd2c5497-84ea-4dfb-a5c8-fce81ef46ccb"
-            },
-            {
-              "title": "المحاضرة السابعة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/82b0cc5e-c77a-4455-98aa-d92fd8ba64d5"
-            },
-            {
-              "title": "المحاضرة السابعة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f7dcd5f7-ca89-4b4b-8358-57ec69322cf8"
-            },
-            {
-              "title": "المحاضرة السابعة (ج٣)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b98d8863-cf73-47c7-8f79-8ffcf396a445"
-            },
-            {
-              "title": "المحاضرة الثامنة (ج١)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/69422a0c-037b-404d-9bb2-54b0d3b65881"
-            },
-            {
-              "title": "المحاضرة الثامنة (ج٢)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b02fec4a-d45c-45d4-b1f0-223213be12ef"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747133979226,
-      "name": "ساجد العكيلي 2026",
-      "subject": "مدرس مادة الاسلامية",
-      "image": "https://i.imghippo.com/files/hqh6671WE.png",
-      "classes": [
-        {
-          "name": "احكام التلاوة",
-          "lectures": [
-            {
-              "title": "المحاضرة الأولى - أساسيات أحكام التلاوة",
-              "description": "محاضرة رقم 1",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fe816138-f66a-4ba3-bdaf-d97ec03fb9ba"
-            },
-            {
-              "title": "المحاضرة الثانية - أنواع الأحكام وشرح التعاريف",
-              "description": "محاضرة رقم 2",
-              "url": "https://iframe.mediadelivery.net/embed/215061/50a82030-5aa6-4b61-8afa-0f0b8d3f25cd"
-            },
-            {
-              "title": "المحاضرة الثالثة - النماذج الوزارية العشرة",
-              "description": "محاضرة رقم 3",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c798be0c-c221-43f7-b7f8-3d1c68ef6e92"
-            }
-          ]
-        },
-        {
-          "name": "الوحدة الاولى",
-          "lectures": [
-            {
-              "title": "سورة البقرة (الشرح الجديد)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/599b58ec-86eb-4366-bcb2-713150f7469d"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747134235630,
-      "name": "رفل الزبيدي 2026",
-      "subject": "مدرسة مادة اللغة العربية",
-      "image": "https://i.imghippo.com/files/hPw3166zWM.png",
-      "classes": [
-        {
-          "name": "الاساسيات",
-          "lectures": [
-            {
-              "title": "أساسيات اللغة العربية (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2414378d-0a9b-4de1-88d2-7279dacac70b"
-            },
-            {
-              "title": "أساسيات اللغة العربية (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2eec9771-a153-4fec-ad1c-73536702b9df"
-            },
-            {
-              "title": "أساسيات اللغة العربية (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/02923885-9386-4ac3-bc44-fbf527407006"
-            },
-            {
-              "title": "امتحان الأساسيات التفاعلي (الجزء الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/59e2edde-97ec-4f01-9143-c26f42642321"
-            },
-            {
-              "title": "أساسيات اللغة العربية (الجزء الرابع)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/03c0c583-26db-48c2-9ef6-5a353471fe54"
-            },
-            {
-              "title": "أساسيات اللغة العربية (الجزء الخامس)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/66660390-3cac-4582-bf2b-90eb62719a03"
-            }
-          ]
-        },
-        {
-          "name": "الاستفهام",
-          "lectures": [
-            {
-              "title": "اسلوب الاستفهام تعريفه وأنواعه و الاستفهام التصديقي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/81bbefa8-4140-4813-a7ad-4cde88757689"
-            },
-            {
-              "title": "الاستفهام التصوري",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6757a3de-75d2-4d8d-8aea-d1b4b6d886d0"
-            },
-            {
-              "title": "همزة التسوية وأنواع أم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d02d4f2c-34f8-4e43-80af-57d13be84b75"
-            },
-            {
-              "title": "تحويل الاستفهام من نوع لآخر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a1462667-ef76-4f81-8804-d0452ed746f1"
-            },
-            {
-              "title": "صيغ الأسئلة الوزارية الخاصة بـ (أنواع الاستفهام)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/28597271-08f0-4fb0-a672-5a94bb0515e8"
-            },
-            {
-              "title": "حل أسئلة الاستفهام الوزارية (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/79e93601-0ca2-426a-b8ae-a7b853890b7e"
-            },
-            {
-              "title": "حل أسئلة الاستفهام الوزارية (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fcfb085b-5b2e-473c-9345-792d2d029351"
-            },
-            {
-              "title": "حل اسئلة الاستفهام الوزارية (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cbcfb368-e265-4d4f-b3a4-5dafbe68ff23"
-            },
-            {
-              "title": "خصائص حرفا الاستفهام (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ab7d6908-cbf0-44ea-9798-10ce48e5526b"
-            },
-            {
-              "title": "خصائص حرفي الاستفهام (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cc4e6ed8-594c-43c6-953c-427aaf5e5781"
-            },
-            {
-              "title": "حل أسئلة الاستفهام الوزارية (الجزء الرابع)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/65846fe1-9247-472b-bb46-c1efa23149cc"
-            },
-            {
-              "title": "حل أسئلة الاستفهام الوزارية (الجزء الخامس)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3f401262-0bfb-4dc7-b9a7-90b5d9bbb7c5"
-            },
-            {
-              "title": "دلالات أسماء الاستفهام للعاقل وغير العاقل وإعرابها (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f2b3465c-0fd2-476b-adb5-ca94f694092f"
-            },
-            {
-              "title": "دلالات أسماء الاستفهام للعاقل وغير العاقل وإعرابها (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/14823dac-16dc-41a2-91d5-850508d5062d"
-            },
-            {
-              "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/61fbc9b9-baad-468f-bab8-b9a8ec47901f"
-            },
-            {
-              "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/abd3d76e-bc0f-47ee-a8da-0efad9b7952a"
-            },
-            {
-              "title": "إعراب أسماء الاستفهام الدالة على العاقل وغير العاقل",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/813bc906-acea-47ca-bc4b-705db9524d7b"
-            },
-            {
-              "title": "حل الأسئلة الوزارية الخاصة بإعراب أسماء الاستفهام - الجزء الاول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/30dd25ac-4c2d-4a3b-8e89-8a5f6595a950"
-            },
-            {
-              "title": "حل الأسئلة الوزارية الخاصة بإعراب أسماء الاستفهام - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0b93d0f4-6bff-49fa-9d69-0ceccff27ba6"
-            },
-            {
-              "title": "أسماء الاستفهام الدالة على الزمان والمكان",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0a62e36b-163b-4bd3-adfb-7ca30e6ff617"
-            },
-            {
-              "title": "وزاريات إعراب أسماء الاستفهام الدالة على الزمان والمكان",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/882f8c72-98f4-47cb-a8a5-e8b125eeb753"
-            },
-            {
-              "title": "أسماء الاستفهام الدالة على الحال والدالة على الحدث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d0a29848-65ed-4ad6-a3aa-de544b9fc836"
-            },
-            {
-              "title": "وزاريات إعراب أسماء الاستفهام الدالة على الحال والدالة على الحدث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4ebb33d0-e24a-4027-abde-5aeafbbfbc54"
-            },
-            {
-              "title": "كم الاستفهامية وكم الخبرية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/251dca6e-e6d7-46d9-9f07-ff3770585fae"
-            },
-            {
-              "title": "الاستفهام المجازي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9acb2dc0-17ab-46ff-b36e-5dc1a16fce1a"
-            },
-            {
-              "title": "وزاريات كم الاستفهامية وكم الخبرية و الاستفهام المجازي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/798f2403-159f-4f89-87f8-37c6414e5421"
-            }
-          ]
-        },
-        {
-          "name": "الادب",
-          "lectures": [
-            {
-              "title": "الأدب الحديث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/88e2e437-5664-4d5b-8f75-1f0bba0d8bb2"
-            },
-            {
-              "title": "الشعر الحديث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1c1b6e4f-4831-4c80-8d25-03294217c376"
-            },
-            {
-              "title": "مدرسة الإحياء",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7eed7474-1946-4d80-ba18-167ea2b5bcf5"
-            },
-            {
-              "title": "الشاعر محمد سعيد الحبوبي - قصيدته وحياته",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0f93b617-59ea-4a3c-9566-8aa92944ce22"
-            },
-            {
-              "title": "(الشاعر محمد سعيد الحبوبي (التعليق النقدي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/486f9206-31e5-44ff-86b4-c2d47d55ecf0"
-            },
-            {
-              "title": "الشاعر علي الشرقي - قصيدته وحياته",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dbca7f16-743b-4227-a8de-47699c96c9fe"
-            },
-            {
-              "title": "الشاعر علي الشرقي (التعليق النقدي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/460dfb6b-b2fe-435f-8da3-7c02ec6f745a"
-            },
-            {
-              "title": "الشاعر حافظ إبراهيم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3bfa1da6-7e4b-4e5d-a321-09150d2385f9"
-            },
-            {
-              "title": "الشاعر حافظ إبراهيم - التعليق النقدي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/67a7a7c4-81d5-4dfd-985d-637d99042e6a"
-            },
-            {
-              "title": "محمد مهدي الجواهري",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bfb3ed60-f323-4365-8061-f21ff29dd76d"
-            },
-            {
-              "title": "محمد مهدي الجواهري - التعليق النقدي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fc0a3147-cb3b-43cb-901b-394484982f27"
-            },
-            {
-              "title": "مدرسة المهجر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ed3fd3be-2f5f-4dc9-8193-651b416efe78"
-            },
-            {
-              "title": "ميخائيل نعيمة (القصيدة والتعليق النقدي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a9e7d62b-178a-4d91-9fda-8e9a1f85a57d"
-            }
-          ]
-        },
-        {
-          "name": "النفي",
-          "lectures": [
-            {
-              "title": "أسلوب النفي - أنواعه والأداة (ليس)",
-              "description": "محاضرة رقم 45",
-              "url": "https://iframe.mediadelivery.net/embed/215061/74074696-62d3-45c0-9403-07d5e0505433"
-            },
-            {
-              "title": "قواعد وملاحظات (ليس)",
-              "description": "محاضرة رقم 46",
-              "url": "https://iframe.mediadelivery.net/embed/215061/df6ea11c-398b-4c69-9b63-f13f96b7aa02"
-            },
-            {
-              "title": "حرف النفي (لاتَ)",
-              "description": "محاضرة رقم 47",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c65a81ac-db73-4ef2-bf34-3b61ac5b7d10"
-            },
-            {
-              "title": "وزاريات فعل النفي (ليسَ)",
-              "description": "محاضرة رقم 48",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a2c5ef79-5add-41db-80fa-6d4cfe595f0b"
-            },
-            {
-              "title": "وزاريات حرف النفي (لاتَ)",
-              "description": "محاضرة رقم 49",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7afa9f38-9fe1-4a36-8fc2-1c0155758333"
-            },
-            {
-              "title": "مَا النافية",
-              "description": "محاضرة رقم 50",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f65a9450-15cf-4a00-8ae1-e8c9d11403a8"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747135061704,
-      "name": "عباس الدراجي 2026",
-      "subject": "مدرس مادة الرياضيات",
-      "image": "https://i.imghippo.com/files/kzD1443ZI.png",
-      "classes": [
-        {
-          "name": "الاساسيات",
-          "lectures": [
-            {
-              "title": "محاضرة 1",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bd049c3e-6a1e-46e4-860c-1c073480d48f"
-            },
-            {
-              "title": "محاضرة 2 : الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bd049c3e-6a1e-46e4-860c-1c073480d48f"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الاول",
-          "lectures": [
-            {
-              "title": "(المحاضرة الاولى (مقدمة عن الأعداد المركبة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/60a24e26-514e-4af3-b7c9-e87b620a1b44"
-            },
-            {
-              "title": "المحاضرة الثانية (قوى i)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5755f827-20d6-47df-9d68-6635a59c29f3"
-            },
-            {
-              "title": "المحاضرة الثالثة (الصيغة الجبرية للعدد المركب)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cdbad21d-4055-4e9b-994a-4fc13f84c138"
-            },
-            {
-              "title": "(المحاضرة الرابعة (ضرب وقسمة الأعداد المركبة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f394cd73-cc35-4ce6-87b0-870189f3aa71"
-            },
-            {
-              "title": "(المحاضرة الخامسة (النظير الضربي والجمعي للعدد المركب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e4b4854d-320f-49ac-b42b-08fec528806f"
-            },
-            {
-              "title": "المحاضرة السادسة (الأقواس المرفوعة الى أس)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7194ca4d-0944-41a9-9c44-5c4f4f8400ee"
-            },
-            {
-              "title": "المحاضرة السابعة (وزاريات الأقواس المرفوعة إلى أس (الجزء الاول))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/198a14fa-acb4-4f84-8901-26adc9a4c873"
-            },
-            {
-              "title": "المحاضرة الثامنة (وزاريات الأقواس المرفوعة إلى أس(الجزء الثاني))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4dfafa28-1216-407a-8e8a-9c8c4c2a0e02"
-            },
-            {
-              "title": "(المحاضرة التاسعة (تبسيط جمع وطرح الكسور",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/aaee63c0-a452-4fff-ad20-79d74d2bfe52"
-            },
-            {
-              "title": "(المحاضرة العاشرة (حل اسئلة وزاريات: أثبت أن",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f0e1c7ac-181e-4bb1-bf23-fd798e0fe5ec"
-            },
-            {
-              "title": "(المحاضرة الحادية عشرة (خواص المرافق في حل أسئلة: أثبت أن",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2ee2e924-4103-483b-b33e-fb0d4c8f5edd"
-            },
-            {
-              "title": "المحاضرة الثانية عشرة (التحليل في الأعداد المركبة )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5614b401-74cb-4aa6-91f7-37b17081ea7d"
-            },
-            {
-              "title": "( الحقيقية (الجزء الاول  x ,y المحاضرة الثالثة عشرة إيجاد قيم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7c2235a5-d848-4b9a-af9e-d487bff91d22"
-            },
-            {
-              "title": "(الحقيقية (الجزء الثاني x ,y المحاضرة الرابعة عشرة إيجاد قيم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d0110249-1eb3-4674-a953-97215fed1268"
-            },
-            {
-              "title": "(الحقيقية (الجزء الثالث x ,y المحاضرة الخامسة عشرة إيجاد قيم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/99da0ece-b3b2-4eb2-9312-d6e93d687738"
-            },
-            {
-              "title": "(المحاضرة السادسة عشرة (إيجاد الجذور التربيعية للعدد المركب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a0be4714-55f7-4f9f-869a-53bc70dcdcae"
-            },
-            {
-              "title": "(المحاضرة السابعة عشرة (وزاريات الجذور التربيعية للعدد المركب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4d3a5176-d619-4ce7-9bb4-d4a6f245bbe6"
-            },
-            {
-              "title": "المحاضرة الثامنة عشرة حل المعادلات التربيعية في الاعداد المركبة (الجزء الاول )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/187ffdce-556d-420d-810c-262fc91b516a"
-            },
-            {
-              "title": "(المحاضرة التاسعة عشرة (حل المعادلات التربيعية في الاعداد المركبة (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9a5fac64-bdb1-4970-b323-147b2422450c"
-            },
-            {
-              "title": "المحاضرة العشرون : تكوين المعادلة التربيعية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f4cc2c3d-7e8b-47c5-8842-b75391d29be8"
-            },
-            {
-              "title": "المحاضرة الحادية والعشرون إيجاد الثوابت",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/212c4ac3-82c7-4d7c-b4eb-c2c8d258bd06"
-            },
-            {
-              "title": "المحاضرة الثانية والعشرون: التمثيل الهندسي للأعداد المركبة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cdf19153-37d5-479e-ad4c-88daec3dcec9"
-            },
-            {
-              "title": "المحاضرة الثالثة والعشرون :المقياس والقيمة الاساسية للسعة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f2aa2994-cf8f-4ed5-99f0-0bba8fd63781"
-            },
-            {
-              "title": "(المحاضرة الرابعة العشرون (الصيغة القطبية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7aab595e-bb99-483e-b697-5c4c30f280bf"
-            },
-            {
-              "title": "(المحاضرة الخامسة والعشرون (أساسيات ديموڤر في حساب الزوايا",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0c9cb5d4-2069-400e-9191-f8189d8a328f"
-            },
-            {
-              "title": "المحاضرة السادسة والعشرون إيجاد الثوابت (المجاهيل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/465e4b2a-4d20-478c-978a-5540d6762857"
-            },
-            {
-              "title": "(المحاضرة السابعة والعشرون (مبرهنة ديموڤر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c793b94a-ae61-45e3-b676-2cfa35c34bcf"
-            },
-            {
-              "title": "(المحاضرة الثامنة والعشرون (تكملة أفكار مبرهنة ديموڤر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3541a6e3-a9e5-4c37-bd13-9462b9ff2394"
-            },
-            {
-              "title": "(المحاضرة التاسعة والعشرون (نتيجة مبرهنة ديموڤر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bab34e01-8efa-45a1-b202-eb9322066e5a"
-            },
-            {
-              "title": "(المحاضرة الثلاثون ( تكملة افكار نتيجة مبرهنة ديموڤر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/37910af1-ad9a-4f63-8569-b2e2206efe73"
-            },
-            {
-              "title": "(المحاضرة الواحدة والثلاثون (حل المعادلة باستخدام نتيجة مبرهنة ديموافر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/add86d52-871d-4aad-9810-06034902125d"
-            },
-            {
-              "title": "(المحاضرة الثانية والثلاثون (الاوميكا والجذور التكعيبية للواحد الصحيح",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/790c6933-2aff-4506-bec2-d264895b492f"
-            },
-            {
-              "title": "المحاضرة الثالثة والثلاثون -الاوميكا",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/19f03acc-0772-4912-a338-7bbf55f4d147"
-            },
-            {
-              "title": "محاضرة الاربعة و الثلاثون الاوميكا - اسئلة تكوين المعادلة التربيعي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/39de218e-4c0c-412f-87fb-c5b6ba6cffb3"
-            },
-            {
-              "title": "المحاضرة الخمسة والثلاثون الاوميكا -الملاحظات الخاصة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c7dcb38d-3051-40ac-8bf1-2968a1f3dc98"
-            },
-            {
-              "title": "محاضرة الستة والثلاثون ( الاوميكا - اسئلة الربط)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dc81e30a-5a5e-4047-87cc-846e728acd5a"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "القطوع المخروطية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d01cd62c-6671-4d83-a938-18c3e28e4b70"
-            },
-            {
-              "title": "القطع المكافئ",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e7cf6586-7809-4129-85e9-4d337c0350c4"
-            },
-            {
-              "title": "القطع المكافئ باستخدام التعريف",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bb6be392-b466-44fc-8f63-da0c7c88015f"
-            },
-            {
-              "title": "ايجاد الثوابت في القطع المكافئ",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8280a058-6df5-44c4-a187-b50bed594273"
-            },
-            {
-              "title": "(الانسحاب في القطع المكافئ)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1e058118-8140-45e7-80fd-567fc19b0274"
-            },
-            {
-              "title": "وزاريات القطع المكافئ",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/01f60730-65df-4ecc-8449-94e84c0a6299"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747135115898,
-      "name": "مهند السوداني 2026",
-      "subject": "مدرس مادة الكيمياء",
-      "image": "https://i.imghippo.com/files/aBBk4164FCo.png",
-      "classes": [
-        {
-          "name": "الأساسيات",
-          "lectures": [
-            {
-              "title": "أساسيات (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e2684c45-e39e-487b-b885-38128feb9632"
-            },
-            {
-              "title": "أساسيات (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4ae582c7-a104-4429-a2b1-09d19b55e409"
-            },
-            {
-              "title": "أساسيات الرياضيات (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2f39664d-3142-4804-9b0c-6873cda175d3"
-            },
-            {
-              "title": "أساسيات الرياضيات (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dc7223cf-f81f-4e2f-9723-28c2e7ba12a8"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الأول: الثرموداينمك",
-          "lectures": [
-            {
-              "title": "المحاضرة الأولى: مقدمة الثرموداينمك",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/72c808cd-a400-4ba2-bec7-23fcee980afd"
-            },
-            {
-              "title": "المحاضرة الثانية: السعة الحرارية والحرارة النوعية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3d72d324-c672-48aa-bcf2-7b14ab2faa7f"
-            },
-            {
-              "title": "المحاضرة الثانية: السعة الحرارية والحرارة النوعية (المعززة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3ea60aab-716e-46f5-8adb-8a061cebf59a"
-            },
-            {
-              "title": "المحاضرة الثالثة: حرارة التفاعل (التغير في الأنثالبي ∆Hr)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/11e2c6a0-3f17-43db-be37-92c5b9d3fce2"
-            },
-            {
-              "title": "المحاضرة الرابعة: الكيمياء الحرارية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a331a201-49e5-4dfa-9724-d044902168ed"
-            },
-            {
-              "title": "المحاضرة الخامسة: قياس انثالبي التفاعل",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c5e567b2-3f0e-4bc5-a196-7aa0f7491a5b"
-            },
-            {
-              "title": "المحاضرة الخامسة: قياس انثالبي التفاعل (المعززة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dd0fcf64-7de5-4eb8-a3cb-26e3c62a70e2"
-            },
-            {
-              "title": "المحاضرة السادسة: المعادلة الكيميائية الحرارية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/32f8f5e9-7a47-45b4-b9ff-661b3c158211"
-            },
-            {
-              "title": "المحاضرة السابعة: انثالبي التكوين القياسية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5a4e3ba2-1082-422c-a9e8-613166c955a9"
-            },
-            {
-              "title": "المحاضرة السابعة: انثالبي التكوين القياسية (المعززة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c86026d7-8ab1-471f-b77c-9573fb20d960"
-            },
-            {
-              "title": "المحاضرة الثامنة: انثالبي الاحتراق القياسية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/71e98a43-64bd-40e2-99f0-a6bd215f21ea"
-            },
-            {
-              "title": "المحاضرة الثامنة: انثالبي الاحتراق القياسية (المعززة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3ee68907-b476-47bf-9489-7615f9c3f450"
-            },
-            {
-              "title": "المحاضرة التاسعة: انثالبي التغيرات الفيزيائية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3723a0d5-b846-4a33-a11b-3a3063cd5d16"
-            },
-            {
-              "title": "المحاضرة العاشرة: حساب انثالبي التفاعل القياسية (قانون هيس المباشر)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/01060158-b3bb-4c3d-9f62-06ba688a95fb"
-            },
-            {
-              "title": "المحاضرة الحادية عشرة: حساب انثالبي التفاعل القياسية (قانون هيس الغير مباشر)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/64112aaa-5634-4c12-a737-88586b880ffb"
-            },
-            {
-              "title": "المحاضرة الحادية عشرة: حساب انثالبي التفاعل القياسية (قانون هيس الغير مباشر/المعززة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/da790132-1f5c-4655-8337-2af6188f562d"
-            },
-            {
-              "title": "المحاضرة الثانية عشرة: حساب انثالبي التفاعل بطريقة المجموع",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ce5ac7b9-b335-4cfd-8455-cd52ff4444a3"
-            },
-            {
-              "title": "المحاضرة الثانية عشرة: حساب انثالبي التفاعل بطريقة المجموع (المعززة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/743aabb5-db24-4ced-a615-87c878740b4a"
-            },
-            {
-              "title": "المحاضرة الثالثة عشرة: العمليات التلقائية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/18a268d5-f0ef-40fb-a8ef-e31fe2ca131b"
-            },
-            {
-              "title": "المحاضرة الرابعة عشرة: الانتروبي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f8cefb52-f2fe-478c-b677-a763c90daf26"
-            },
-            {
-              "title": "المحاضرة الخامسة عشرة: معادلة كبس (أسئلة التطبيق المباشر)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/799dc86e-05a9-4494-afb3-75fb0ec0fd12"
-            },
-            {
-              "title": "المحاضرة السادسة عشرة: معادلة كبس (أسئلة التطبيق الغير مباشر)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b1dd40e9-1551-42f2-832e-ed473b21ad5a"
-            },
-            {
-              "title": "المحاضرة السابعة عشرة: معادلة كبس (أسئلة متنوعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/842b06d2-a832-46ab-8e32-d54b6e6a1130"
-            },
-            {
-              "title": "المحاضرة السابعة عشرة: معادلة كبس (أسئلة متنوعة - المعززة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d8a34340-0516-4e7a-92d0-09887eac409a"
-            },
-            {
-              "title": "المحاضرة الثامنة عشرة: حساب انتروبي التغيرات الفيزيائية و تطبيقات معادلة كبس واتجاه سير التفاعلات الكيميائية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/94e0c82d-a139-440a-bee0-1bc886c1d677"
-            },
-            {
-              "title": "المحاضرة الثامنة عشرة: حساب انتروبي التغيرات الفيزيائية و تطبيقات معادلة كبس واتجاه سير التفاعلات الكيميائية - المعززة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4f6f051b-43a7-41a3-9721-db4043b2ef98"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "أساسيات الفصل الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4c73ebc9-45f6-4a10-8547-4e4627f033e8"
-            },
-            {
-              "title": "كلاميات الفصل الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d484bf49-a9ad-4a5c-9f4c-b48fa1329c28"
-            },
-            {
-              "title": "المحاضرة الأولى: مقدمة الاتزان الكيميائي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/767f8383-5aab-4e5e-96ca-ca4daa5e5bc4"
-            },
-            {
-              "title": "- Keq المحاضرة الثانية: ثابت الاتزان",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/11350f55-d2c9-44ac-b631-e7465ecac060"
-            },
-            {
-              "title": "المحاضرة الثالثة: حساب ثابت الاتزان (النوع الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0748307c-880c-4381-8556-77041d45c114"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747135191495,
-      "name": "نورس الموسوي 2026",
-      "subject": "مدرس مادة الاحياء",
-      "image": "https://i.imghippo.com/files/HUbF1949qcc.png",
-      "classes": [
-        {
-          "name": "الفصل الأول: الخلية",
-          "lectures": [
-            {
-              "title": "المحاضرة 1: محاضرة تعريفية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/caadbdff-8861-4ac2-9bff-083dfe171752"
-            },
-            {
-              "title": "المحاضرة 2: تقسيمات منهج الأحياء",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d2873133-0933-402f-86bf-17125efbdf3b"
-            },
-            {
-              "title": "المحاضرة 3: علم الخلية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7aa6fb87-1860-4584-9a2f-3638ac95ef84"
-            },
-            {
-              "title": "المحاضرة 4: الخلايا الحقيقية النواة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0b33b9e6-0263-4d8f-b536-f757cc81b28d"
-            },
-            {
-              "title": "المحاضرة 5: السايتوبلازم والشبكة البلازمية وجهاز كولجي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f70fc1b9-3f9f-4969-8148-fb5f3c17d23d"
-            },
-            {
-              "title": "المحاضرة 6: المايتوكندريا والبلاستيدات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4b2e558d-4af8-4a5d-8b3f-079f6d2d80cd"
-            },
-            {
-              "title": "المحاضرة 7: الجسيمات الحالة وهيكل الخلية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/948050ca-80ff-4ca8-810f-6be415e07535"
-            },
-            {
-              "title": "المحاضرة 8: الجسيم المركزي والجسيم الحركي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/063095f6-8ba8-4b01-bf50-fc9f41aa20f9"
-            },
-            {
-              "title": "المحاضرة 9: الفجوات والمحتويات غير الحية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/24fd982b-eb63-480e-bf83-9a77a4fcdb86"
-            },
-            {
-              "title": "المحاضرة 10: النواة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/266101a5-a1c9-403d-b328-6c67fc7b18ac"
-            },
-            {
-              "title": "المحاضرة 11: مراجعة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e5724825-cd33-4ad6-b9f2-c80bd955076a"
-            },
-            {
-              "title": "المحاضرة 12: الأنشطة الخلوية (الانتشار والنفوذية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0d2dba87-5a64-40e6-bfb5-9cffb3e4003b"
-            },
-            {
-              "title": "المحاضرة 13: مراجعة وزاريات جهاز كولجي، المايتوكندريا، البلاستيدات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c3e03871-1273-4f04-82c5-50dfee890e55"
-            },
-            {
-              "title": "المحاضرة 14: التناضح (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/43712c75-8e11-46c7-a4c1-b4e6eb149e75"
-            },
-            {
-              "title": "المحاضرة 15: التناضح (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5550161b-708d-499a-8ded-bbe6635932d3"
-            },
-            {
-              "title": "المحاضرة 16: النقل الفعال والبلعمة والإخراج الخلوي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e70ff835-758e-4e48-8f37-d1cc5575902c"
-            },
-            {
-              "title": "المحاضرة 17: مراجعة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b1ce5033-1065-434f-b030-aa005d29e63c"
-            },
-            {
-              "title": "المحاضرة 18: الأيض الخلوي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2160af0f-aa26-41d2-827c-a541b0f26f12"
-            },
-            {
-              "title": "المحاضرة 19: التنفس (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/38bd1d53-4c34-4b04-95cd-3849cc44da55"
-            },
-            {
-              "title": "المحاضرة 20: التنفس (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0227138c-b351-49fb-8c24-e4f9baed9ebb"
-            },
-            {
-              "title": "المحاضرة 21: التنفس (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/68c41c42-8d53-4ad7-9aba-dc4b58a642bd"
-            },
-            {
-              "title": "المحاضرة 22: مراجعة الأيض الخلوي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0d50085b-9dd2-4734-a7ea-d2f1c93c0e70"
-            },
-            {
-              "title": "المحاضرة 23: عمليات البناء: تثبيت ثنائي أكسيد الكربون",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ef69e51f-03d1-41ba-8946-d34aeb96f664"
-            },
-            {
-              "title": "المحاضرة 24: مراجعة وزاريات جهاز كولجي، المايتوكندريا، البلاستيدات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c3e03871-1273-4f04-82c5-50dfee890e55"
-            },
-            {
-              "title": "المحاضرة 25: الانقسام الخيطي (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/eccb1232-f04b-4288-b26a-228271cd6760"
-            },
-            {
-              "title": "المحاضرة 26: الانقسام الخيطي (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ef387d98-ddaa-444f-8e82-74bb45510e55"
-            },
-            {
-              "title": "المحاضرة 27: الانقسام السايتوبلازمي ومراجعة الانقسام الخيطي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b97d093b-4d13-4a29-b886-c594bbc6ea06"
-            },
-            {
-              "title": "المحاضرة 28: الانقسام الاختزالي (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/da1a4917-1ad7-4234-a2f1-1e0396bad5ee"
-            },
-            {
-              "title": "المحاضرة 29: الانقسام الاختزالي (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6b402ff0-1e29-40f5-a923-d60e6025a7f9"
-            },
-            {
-              "title": "المحاضرة 30: الانقسام الاختزالي (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4837aac0-9e8a-4a33-a1e6-b2def5ac7d33"
-            },
-            {
-              "title": "المحاضرة 31: مراجعة الانقسامات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2a9add04-27b8-4ed7-8559-1be45a51e948"
-            },
-            {
-              "title": "المحاضرة 32: التفاعلية (خلاصة الفصل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e3a9de3c-2339-4e28-a237-be6342e8a5a3"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "مقدمة الأنسجة النباتية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8b7e68f9-cdef-4558-b274-14d93b5f26af"
-            },
-            {
-              "title": "المحاضرة الثانية (نسيج الأساس)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0e4b6bd8-aa87-44da-b66c-89ac8b00cc75"
-            },
-            {
-              "title": "المحاضرة الثالثة (نسيج البشرة و نسيج الوعائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7f7f3b28-605b-4578-8ef9-35de7121dd1d"
-            },
-            {
-              "title": "المحاضره الرابعة مراجعة الأنسجة النباتية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c79fbf26-7863-4e5a-ba8d-33b537e0dfad"
-            },
-            {
-              "title": "المحاضرة الخامسة الأنسجة الحيوانية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/116acade-9daf-4d53-a0c0-ff8f51e1065a"
-            },
-            {
-              "title": "المحاضرة السادسة الأنسجة الطلائية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8b99a2ba-3122-42b2-a12c-cfff177c16a4"
-            },
-            {
-              "title": "المحاضرة السابعة مراجعة الأنسجة الطلائية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/adc38eb6-9400-4861-8333-c696bd4aca79"
-            },
-            {
-              "title": "المحاضرة الثامنة الأنسجة  الضامة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5a0d4df3-eb07-408b-ba70-0cf76662a1d8"
-            },
-            {
-              "title": "المحاضرة التاسعة أنواع الأنسجة الضامة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8381ee7b-7dd2-4377-a495-94f826acd847"
-            },
-            {
-              "title": "المحاضرة العاشرة مراجعة الأنسجة الضامة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bc41d5e0-4791-4b3e-a29f-d560f4268a2f"
-            },
-            {
-              "title": "المحاضرة الحادية عشرة الأنسجة الغضروفية والعظمية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3107b082-f46e-4746-8a43-b9b7d112ccfa"
-            },
-            {
-              "title": "المحاضرة الثانية عشرة الدم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4c813511-ab58-47f6-afb9-ac61e102e227"
-            },
-            {
-              "title": "المحاضرة الثالثة عشرة النسيج العضلي والنسيج العصبي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/801b379f-17a0-40c1-bcdc-d212219be6ef"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747135226477,
-      "name": "جعفر الحسني 2026",
-      "subject": "مدرس مادة الاحياء",
-      "image": "https://i.imghippo.com/files/ldb8832v.png",
-      "classes": [
-        {
-          "name": "الفصل الاول",
-          "lectures": [
-            {
-              "title": "المحاضرة الأولى (الخلية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6ac87d79-0aad-4a00-8f43-2ef602e1ce5a"
-            },
-            {
-              "title": "المحاضرة الثانية (النظرية الخلوية وحجم الخلية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/34ed7080-f767-4f02-a6cc-446df5e51689"
-            },
-            {
-              "title": "المحاضرة الثالثة (الخلية بدائية النواة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0d269959-42b3-4db4-81f4-b1dc44fa8127"
-            },
-            {
-              "title": "المحاضرة الرابعة (الخلية حقيقية النواة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fab505b2-b7e3-4673-9bd7-7e0a85be5199"
-            },
-            {
-              "title": "المحاضرة الخامسة (جدار الخلية والغشاء البلازمي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6e670408-4924-44de-95e7-47cb490525b0"
-            },
-            {
-              "title": "المحاضرة السادسة (السايتوبلازم و الشبكة البلازمية الداخلية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/541490bb-ee10-4b90-91e3-29b1b44965f2"
-            },
-            {
-              "title": "المحاضرة السابعة (جهاز كولجي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7109bbf8-5613-43e1-af19-f28d4fbaf4bd"
-            },
-            {
-              "title": "المحاضرة الثامنة (المايتوكوندريا)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d85fbc7e-83a2-4871-b5f5-3d388b2c8d51"
-            },
-            {
-              "title": "المحاضرة التاسعة (البلاستيدات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fc470ef4-93ce-494d-afd7-c22a66ecfc80"
-            },
-            {
-              "title": "المحاضرة العاشرة (الجسيمات الحالة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c99e9b3c-c325-4750-a016-a32a6f6e7195"
-            },
-            {
-              "title": "المحاضرة الحادية عشرة (هيكل الخلية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d1e1fea3-5e16-4dd3-aefc-fcc84650640b"
-            },
-            {
-              "title": "المحاضرة الثانية عشرة (الفجوات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/49e95ec9-7716-4682-a955-c5f39fdd28a7"
-            },
-            {
-              "title": "المحاضرة الثالثة عشرة (النواة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3c444152-2c27-4972-a40b-e11cf997d1e8"
-            },
-            {
-              "title": "المحاضرة الرابعة عشرة (النواة الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6085552a-08f4-4db6-a81b-aad0e598a4d6"
-            },
-            {
-              "title": "المحاضرة الخامسة عشرة (الأنشطة الخلوية، الانتشار والنفوذية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/703b212b-339b-4fb4-8c76-f41a9628a6ee"
-            },
-            {
-              "title": "المحاضرة 16(الأنشطة الخلوية، التناضح)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/acd1582f-d244-4251-beaa-00e89867b312"
-            },
-            {
-              "title": "(النقل الفعّال، الأكل الخلوي، الشرب الخلوي، والإخراج الخلوي) المحاضرة 17",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/353f2631-c363-48cd-921d-b9fef3c9c7ba"
-            },
-            {
-              "title": "المحاضرة 18(الأيض الخلوي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d90e36ab-c125-4937-bf42-1b23ac223f5e"
-            },
-            {
-              "title": "المحاضرة 19 (التنفس الهوائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b227a7c9-a6ea-4604-bab8-64456ab3b1d3"
-            },
-            {
-              "title": "المحاضرة 20 (التنفس اللاهوائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/447b401d-fb15-4629-a7bc-0d541e003065"
-            },
-            {
-              "title": "المحاضرة 21( انقسام الخلية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/68c5f518-9f69-4445-8bda-074037be7013"
-            },
-            {
-              "title": "المحاضرة 22: انقسام الخلية (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/29ade00f-1d56-4a95-8b48-6f802f5fc0c8"
-            },
-            {
-              "title": "المحاضرة 23: انقسام الخلية (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/21ecabb0-8338-4f96-9563-c2ce20e385dc"
-            },
-            {
-              "title": "المحاضرة 24: انقسام الخلية (الجزء الرابع)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/250fd9b6-552e-4c2d-8079-ed4a97ab60bd"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "المحاضرة 1(مقدمة في الأنسجة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bd8395e7-c0a8-4a30-8d93-0f9d7ce40dd6"
-            },
-            {
-              "title": "المحاضرة 2 (النسيج الأساس)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/82413c10-8c0c-40a7-9069-5b42bfe06afb"
-            },
-            {
-              "title": "المحاضرة 3 (نسيج البشرة و النسيج الوعائي في النبات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/165993c2-50b4-4c49-ba3d-89eb6c11015c"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747135309060,
-      "name": "محمد العنزي 2026",
-      "subject": "مدرس مادة الاحياء",
-      "image": "https://i.imghippo.com/files/JI4962L.png",
-      "classes": [
-        {
-          "name": "الفصل الاول: الخلية",
-          "lectures": [
-            {
-              "title": "محاضرة 1: الخلية",
-              "description": "المحاضرة الأولى عن الخلية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a61f4f3e-30f4-45e8-bb4b-06c70370f55a"
-            },
-            {
-              "title": "محاضرة 2: الخلية بدائية النواة",
-              "description": "المحاضرة الثانية عن الخلايا بدائية النواة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ea246c9f-0114-4d3e-be49-285e42de6b8b"
-            },
-            {
-              "title": "محاضرة 3: مكونات الخلية",
-              "description": "المحاضرة الثالثة عن مكونات الخلية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a71542ed-492e-485f-baed-595f05d38a36"
-            },
-            {
-              "title": "محاضرة 4: السايتوبلازم",
-              "description": "المحاضرة الرابعة عن السايتوبلازم",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1a77f3b1-b04d-4d2d-b818-3ba1709fb3aa"
-            },
-            {
-              "title": "محاضرة 5: المايتوكوندريا والبلاستيدات",
-              "description": "المحاضرة الخامسة عن المايتوكوندريا والبلاستيدات",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a6b996de-f75a-4118-ae77-2bf4b7263d12"
-            },
-            {
-              "title": "محاضرة 6: الجسيمات الحالة والهيكل الخلوي",
-              "description": "المحاضرة السادسة عن الجسيمات الحالة والهيكل الخلوي",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a640a716-6c6b-4930-bf95-0a4f57760de2"
-            },
-            {
-              "title": "محاضرة 7: هيكل الخلية والمحتويات غير الحية",
-              "description": "المحاضرة السابعة عن هيكل الخلية والمحتويات غير الحية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0d39d9d4-760e-4e49-b934-a777eaa60eb6"
-            },
-            {
-              "title": "محاضرة 8: النواة",
-              "description": "المحاضرة الثامنة عن النواة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/175f2adf-b271-4b91-afe1-db7e7ee466e4"
-            },
-            {
-              "title": "محاضرة 9: الانتشار والنفوذية",
-              "description": "المحاضرة التاسعة عن الانتشار والنفوذية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b8d0ee88-563a-41f0-8a18-bc04546e1358"
-            },
-            {
-              "title": "محاضرة 10: التناضح",
-              "description": "المحاضرة العاشرة عن التناضح",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5a96e884-6901-4418-9f24-f74b4e0acf66"
-            },
-            {
-              "title": "محاضرة 11: النقل الفعّال، البلعمة، الشرب الخلوي، والإخراج الخلوي",
-              "description": "المحاضرة الحادية عشرة عن عمليات النقل الخلوي",
-              "url": "https://iframe.mediadelivery.net/embed/215061/743f15d7-4c5b-4012-a716-47309257fd20"
-            },
-            {
-              "title": "محاضرة 12: الأيض الخلوي",
-              "description": "المحاضرة الثانية عشرة عن الأيض الخلوي",
-              "url": "https://iframe.mediadelivery.net/embed/215061/13e802a8-a0cc-4a95-8c66-ed78d1faa79a"
-            },
-            {
-              "title": "محاضرة 13: دورة كربس",
-              "description": "المحاضرة الثالثة عشرة عن دورة كربس",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4fc36047-a084-4d53-8f44-2082956761b2"
-            },
-            {
-              "title": "محاضرة 14: الانقسامات 1",
-              "description": "المحاضرة الرابعة عشرة عن الانقسامات الخلوية (الجزء الأول)",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f8d8aa0e-21eb-4b2a-bb6b-48e18375983e"
-            },
-            {
-              "title": "محاضرة 15: الانقسامات 2",
-              "description": "المحاضرة الخامسة عشرة عن الانقسامات الخلوية (الجزء الثاني)",
-              "url": "https://iframe.mediadelivery.net/embed/215061/53cb5fde-c8ad-46a1-8eee-4f9990a3daed"
-            },
-            {
-              "title": "محاضرة 16: الانقسامات 3",
-              "description": "المحاضرة السادسة عشرة عن الانقسامات الخلوية (الجزء الثالث)",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3485b50f-0cb3-456b-8716-0a8e69965ab0"
-            },
-            {
-              "title": "محاضرة 17: الانقسامات 4",
-              "description": "المحاضرة السابعة عشرة عن الانقسامات الخلوية (الجزء الرابع)",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d4fcc14d-7761-4238-b91f-e0e186c80d14"
-            },
-            {
-              "title": "محاضرة 18: مراجعة الفصل الأول",
-              "description": "مراجعة شاملة لفصل الخلية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6400c392-9508-4539-88a5-544f04ce33e5"
-            }
-          ]
-        },
-        {
-          "name": "ملخصات الفصل الاول",
-          "lectures": [
-            {
-              "title": "ملخص المحاضرة الأولى",
-              "description": "ملخص المحاضرة الأولى عن الخلية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/551bfacd-7195-4c17-8f3d-dfcb03e88311"
-            },
-            {
-              "title": "ملخص المحاضرة الثانية",
-              "description": "ملخص المحاضرة الثانية عن الخلايا بدائية النواة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b73dc4ec-86bc-4ced-b180-c3ab302710e4"
-            },
-            {
-              "title": "ملخص المحاضرة الثالثة",
-              "description": "ملخص المحاضرة الثالثة عن مكونات الخلية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2e499328-fbb5-42b6-ba00-4e95c2a267d7"
-            },
-            {
-              "title": "ملخص المحاضرة الرابعة",
-              "description": "ملخص المحاضرة الرابعة عن السايتوبلازم",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5db0861d-2245-4105-b5a3-7c748db4c7ab"
-            },
-            {
-              "title": "ملخص المحاضرة الخامسة",
-              "description": "ملخص المحاضرة الخامسة عن المايتوكوندريا والبلاستيدات",
-              "url": "https://iframe.mediadelivery.net/embed/215061/eb07081f-5d8b-4daf-ba93-6c65826990ae"
-            },
-            {
-              "title": "ملخص المحاضرة السادسة",
-              "description": "ملخص المحاضرة السادسة عن الجسيمات الحالة والهيكل الخلوي",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f107f11b-b3fb-4f44-bf4a-3ffff6412a9a"
-            },
-            {
-              "title": "ملخص المحاضرة السابعة",
-              "description": "ملخص المحاضرة السابعة عن هيكل الخلية والمحتويات غير الحية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/389cc4ac-7304-4d82-9642-ad1db8ef3d76"
-            },
-            {
-              "title": "ملخص المحاضرة الثامنة",
-              "description": "ملخص المحاضرة الثامنة عن النواة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0be42c64-e837-4551-a8b9-afc29ee33b85"
-            },
-            {
-              "title": "مراجعات الباب الأول",
-              "description": "مراجعات شاملة للباب الأول",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a6ec824f-1813-424d-9e9d-71a19f438010"
-            },
-            {
-              "title": "مقارنات الباب الأول",
-              "description": "مقارنات بين مفاهيم الباب الأول",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2c4c5fd1-f8c5-4540-a17b-051ba7b7cc5d"
-            }
-          ]
-        },
-        {
-          "name": "رسومات الفصل الاول",
-          "lectures": [
-            {
-              "title": "رسم البكتريا",
-              "description": "درس تعليمي عن رسم البكتريا",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1f1510ee-1f01-40e8-9c28-f7dd05dfb96d"
-            },
-            {
-              "title": "رسم الغشاء البلازمي",
-              "description": "درس تعليمي عن رسم الغشاء البلازمي",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d6fec5f3-27f9-4b4e-ae4d-89d07ff753c4"
-            },
-            {
-              "title": "رسم البلاستيدات",
-              "description": "درس تعليمي عن رسم البلاستيدات",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2dad5952-23a8-41f0-befb-c64bcd260e62"
-            },
-            {
-              "title": "رسم الخلية الحيوانية والنباتية",
-              "description": "درس تعليمي عن رسم الخلية الحيوانية والنباتية",
-              "url": "https://iframe.mediadelivery.net/embed/215061/176647f1-b92f-4de2-bc7c-40a31a6f6e68"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني: الانسجة",
-          "lectures": [
-            {
-              "title": "(النسيج: الأنسجة النباتية( النسيج المُرستيمي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1f6ff936-bc75-4bb0-acf5-3c54cff45ef9"
-            },
-            {
-              "title": "نسيج البشرة و النسيج الوعائي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/60e84347-ab89-440a-b3d2-fa804db5c10e"
-            },
-            {
-              "title": "نسيج الأساس",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/eea8eedb-8193-44d6-848b-af596ea93b71"
-            },
-            {
-              "title": "الأنسجة الحيوانية و النسيج الظهاري البسيط",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f0301960-7e79-4cbc-8a99-ca9ee24e2417"
-            },
-            {
-              "title": "النسيج الظهاري العمودي الكاذب الطبقي و النسيج الظهاري الطبقي.",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/72743c13-9f12-4c0e-8fcc-56e91dddb7c5"
-            },
-            {
-              "title": "خلايا النسيج الضام",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3a8a7b6b-6796-4c45-833b-eaf2fccae01a"
-            },
-            {
-              "title": "النسيج الضام:الألياف، المادة بين الخلوية، والتصنيف",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/df627248-204d-44b5-bab0-dcc7344fe1e7"
-            },
-            {
-              "title": "أنواع النسيج الضام الرخو",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1389c4c9-b4f4-4467-bb27-2b5428f27092"
-            },
-            {
-              "title": "الغضروف والعظم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0efd4bd9-a3e1-4eaa-a8cc-0309fa02a12a"
-            },
-            {
-              "title": "خلايا الدم الحمراء وخلايا الدم البيضاء",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/06391e8d-36f8-4a6d-a7f5-2129373d052b"
-            },
-            {
-              "title": "الصفيحات الدموية، وبلازما الدم، واللمف",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3a3d66f1-87d1-4252-899b-00051a31d99c"
-            },
-            {
-              "title": "النسيج العضلي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b058c828-ae34-4a6f-b2d4-ef69849ef7ab"
-            },
-            {
-              "title": "النسيج العصبي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2c16d488-b97d-457c-a283-aba94edc488d"
-            },
-            {
-              "title": "رسومات الفصل الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6a0cf8e2-99d3-4d6d-8bce-3e2b8718e9ea"
-            },
-            {
-              "title": "حل أسئلة الفصل الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/25cf9412-6f16-4888-82b1-5b1276eb791d"
-            },
-            {
-              "title": "المراجعة المركزة/ الفصل الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5d53da92-bd65-4192-9a4b-f6bb327f7c0f"
-            }
-          ]
-        },
-        {
-          "name": "التكاثر",
-          "lectures": [
-            {
-              "title": "التكاثر وأنواعه",
-              "description": "محاضرة رقم 39",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bda6ddd9-ff40-4176-b7ef-45f24b0477d3"
-            },
-            {
-              "title": "تكوين النطف والبويضات",
-              "description": "محاضرة رقم 40",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a88a3a87-bbc4-4301-842b-8c588f527437"
-            },
-            {
-              "title": "التكاثر في الفايروسات",
-              "description": "محاضرة رقم 41",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e3a39253-d00b-4677-8469-8051e2bb5a97"
-            },
-            {
-              "title": "التكاثر في البكتيريا",
-              "description": "محاضرة رقم 42",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5f7b2951-8c4b-4110-b20f-9f2b1f87f2d5"
-            },
-            {
-              "title": "التكاثر في الكلاميدوموناس واليوغلينا",
-              "description": "محاضرة رقم 43",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c549768a-573b-42fd-9bbf-e8415a942c5f"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747135348651,
-      "name": "ازل سلوان 2026",
-      "subject": "مدرسة مادة اللغة الانكليزية",
-      "image": "https://i.imghippo.com/files/Oqq6237UAM.png",
-      "classes": [
-        {
-          "name": "الاساسيات",
-          "lectures": [
-            {
-              "title": "محاضرة 1",
-              "description": "وصف المحاضرة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/948fe702-a077-4b44-a9bb-263b4e69593a"
-            },
-            {
-              "title": "محاضرة 2",
-              "description": "وصف المحاضرة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dc35c551-71d0-47b4-8ad9-acf162b42fde"
-            },
-            {
-              "title": "محاضرة 3",
-              "description": "وصف المحاضرة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a7ad9252-934f-440e-ae81-b721f5965c06"
-            },
-            {
-              "title": "محاضرة 4",
-              "description": "وصف المحاضرة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0d17ee36-155d-4028-9018-b4a8369ed0a6"
-            }
-          ]
-        },
-        {
-          "name": "اليونت الاول",
-          "lectures": [
-            {
-              "title": "أصبع قدمي ينزف",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fd4f3344-d32a-481e-b591-6467def9ffdf"
-            },
-            {
-              "title": "اصبع قدمي ينزف- الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c231cef1-ba04-4144-b132-fcdf372e7008"
-            },
-            {
-              "title": "أدوات الربط",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fb4c38ba-2bf9-4cfd-820c-9f5e8671dc02"
-            },
-            {
-              "title": "وزاريات موضوع أدوات الربط",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/63245858-3f61-43e0-ba7c-c61f31f4ff7e"
-            },
-            {
-              "title": "(ed,ing) الصفات المنتهية ب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/11857f14-04f9-4586-a364-4469ba4c573e"
-            },
-            {
-              "title": "(ed,ing) حلول أسئلة وزارية على موضوع الصفات المنتهية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5b275e87-9aeb-49fb-9038-04febffab2e2"
-            },
-            {
-              "title": "(ful,fully) الكلمات المنتهية ب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/37484dc4-20c9-4f37-a575-35a1b2255d38"
-            },
-            {
-              "title": "زيد طارق",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4d6de8bc-8831-4d0c-8c3a-da4280558d30"
-            },
-            {
-              "title": "أسئلة وزارية عن قطعة زيد طارق",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/be7fe6e3-9368-48bb-9ed4-99cbbbff7b09"
-            },
-            {
-              "title": "العبارات الفعلية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b6a26b88-5a2f-4f8f-92ab-55a8669d7a1f"
-            },
-            {
-              "title": "وزاريات عن العبارات الفعلية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e06fcc74-fcec-467b-b800-d59b57011bc6"
-            },
-            {
-              "title": "الاضافات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3114d4a3-fe5f-493d-a010-1ae73cdf5061"
-            },
-            {
-              "title": "المعدود وغير المعدود",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c7eec707-b01e-4732-b3b2-84c1d1a48026"
-            },
-            {
-              "title": "مارس بعض التمارين كل يوم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/472db03f-d8b0-44e6-b7ee-7a240ae32c42"
-            },
-            {
-              "title": "Used to",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/df97b5ae-15a9-44b0-9543-6b6e880a3df1"
-            },
-            {
-              "title": "Used to وزاريات ال",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c4c4f6ec-c22c-46ec-bd0c-75f9a252f5ac"
-            },
-            {
-              "title": "المقارنة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3955ade1-e887-41ef-80d1-aa495b9f1a34"
-            },
-            {
-              "title": "إنشاء الوحدة الأولى",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cfbd79ac-377f-494e-83a8-d95d26d2025e"
-            },
-            {
-              "title": "مراجعة الوحدة الأولى",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cee89503-d9a7-46e1-ab18-7f5f4d3119da"
-            }
-          ]
-        },
-        {
-          "name": "اليونت الثاني",
-          "lectures": [
-            {
-              "title": "الضرورة وعدم الضرورة والإلزام",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4ca5740a-6e67-4664-9f01-628e7c22f52d"
-            },
-            {
-              "title": "وزاريات الضرورة وعدم الضرورة والإلزام.",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a8a89d41-de42-42ab-a2a2-99fe6a309a3e"
-            },
-            {
-              "title": "النصيحة والتوقع.",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1a3222ec-687a-4b49-ac11-7fdfd28edeb6"
-            },
-            {
-              "title": "وزاريات النصيحة والتوقع.",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f3cac7c9-5cb9-45d8-9d5e-12c21600d99b"
-            },
-            {
-              "title": "تمارين الوحدة الثانية الجزء الأول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fdba0cd4-f703-47e4-a7e8-ffd143949cfe"
-            },
-            {
-              "title": "تمارين الوحدة الثانية - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0fb0f016-6e4e-4abf-a9b9-11cbde06df47"
-            },
-            {
-              "title": "الطلب المؤدب والاقتراح",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/13633eb5-9041-47af-913a-467168642e96"
-            },
-            {
-              "title": "العرض وبعض الاسئلة الوزارية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/06baa087-b18a-495d-97e7-a916a20007a9"
-            },
-            {
-              "title": "تمارين الوحدة الثانية - الجزء الثالث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5e829e2a-1df2-40e0-8e27-09979aef5c79"
-            },
-            {
-              "title": "تمارين الوحدة الثانية - الجزء الرابع",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e0ddcc4f-aa8b-4b57-9799-cbb9494cb0e3"
-            },
-            {
-              "title": "تمارين الوحدة الثانية - الجزء الخامس",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/71d3f210-b562-405a-9e05-f499c37eb8a8"
-            },
-            {
-              "title": "الأفعال السببية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e9e7ed5e-f6d2-4dd3-b37a-2c78ff47228c"
-            },
-            {
-              "title": "وزاريات الأفعال السببية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a4fb8eb6-d6d8-4008-ba14-b704fe53e666"
-            },
-            {
-              "title": "إنشاء الوحدة الثانية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3d88ddbd-4194-46ac-a89d-73e7f8e71ce4"
-            },
-            {
-              "title": "مراجعة الوحدة الثانية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2e699017-d860-49ad-956b-bba31d754b53"
-            }
-          ]
-        },
-        {
-          "name": "Vocational Training",
-          "lectures": [
-            {
-              "title": "تصريفات الأفعال (المجموعة الأولى)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9a94f8b1-fbda-48c9-8cb1-f983b4ed6e9f"
-            },
-            {
-              "title": "تصريفات الأفعال (المجموعة الثانية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6ff54bf6-ba8a-457b-be6b-e9cc39a0f8e5"
-            },
-            {
-              "title": "ملاحظات عن القطعة الخارجية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a34fb392-b508-4c5d-8ecd-692623ceedea"
-            },
-            {
-              "title": "تعاريف المهن",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/46deaa44-b52a-404a-8437-8baf8209996e"
-            },
-            {
-              "title": "وزاريات تعاريف المهن",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1125954c-f281-481b-a874-678208dd5289"
-            },
-            {
-              "title": "الشرطية If حالات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/610df750-42c6-4d37-9f87-f8ef38814611"
-            },
-            {
-              "title": "سأكون دائما فخورة به",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a2409a2c-52ce-408b-841e-c8794f3c4490"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747248287872,
-      "name": "يوسف الربيعي 2026",
-      "subject": "مدرس مادة الكيمياء",
-      "image": "https://i.imghippo.com/files/n8168Cdg.png",
-      "classes": [
-        {
-          "name": "الفصل الاول: الثرموداينك",
-          "lectures": [
-            {
-              "title": "المحاضرة 1 (مقدمة الثرموداينمك)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/062d3923-da88-4732-8ae9-e292e8d9bbcf"
-            },
-            {
-              "title": "المحاضرة 2 (الحرارة الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ebd77786-7c53-41a6-bd2b-694b44dd95f4"
-            },
-            {
-              "title": "المحاضرة 3 (الحرارة الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f30159b4-0908-448e-b0d2-99b6c3222826"
-            },
-            {
-              "title": "المحاضرة 4 (حرارة التفاعل (التغير في الانثالبي))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/10ccb1b2-8c23-44a9-873d-d59c0e15f25c"
-            },
-            {
-              "title": "المحاضرة 5 (المسعر الحراري)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0b70283f-4dde-47ef-a734-9f55147d7da3"
-            },
-            {
-              "title": "المحاضرة 6 (تكملة مسائل المسعر الحرارة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7f78feac-3e2a-4973-941a-08928e3ecb33"
-            },
-            {
-              "title": "المحاضرة 7 (المعادلة الكيميائية الحرارية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/876f8326-bd02-413c-9bd8-5150ab05987c"
-            },
-            {
-              "title": "المحاضرة 8 (انثالبي التكوين القياسية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/02fed752-137c-4cc6-8809-8da3d212207e"
-            },
-            {
-              "title": "المحاضرة 9 (انثالبي الاحتراق القياسية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f077e8d2-fe15-4d14-9e06-c37a6505c819"
-            },
-            {
-              "title": "المحاضرة 10 (انثالبي التغيرات الفيزيائية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ccc021a6-771d-404b-a0e6-111e5b1aefb7"
-            },
-            {
-              "title": "المحاضرة 11 (حل مسائل قانون هيس)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/70aa8989-0f21-4703-bc6a-1ebb3ec4bd3d"
-            },
-            {
-              "title": "المحاضرة 12 (تكملة حل مسائل قانون هيس الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2503d78f-00ec-4d01-ac0e-b48dda8ce69b"
-            },
-            {
-              "title": "المحاضرة 13 (تكملة حل مسائل قانون هيس الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/87de54dc-eafa-4a7d-bb40-fc2fb67f649e"
-            },
-            {
-              "title": "المحاضرة 14 (ΔHr° الطريقة الثانية لحساب)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/36790275-22b2-4513-9cbd-4263a309c77a"
-            },
-            {
-              "title": "المحاضرة 15 (العمليات التلقائية وغير التلقائية والانتروبي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/51408549-9eb7-4c53-a1cf-70901ebacc2f"
-            },
-            {
-              "title": "المحاضرة 16 (مسائل حساب الانتروبي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d3e8e0d5-73db-41ec-afb3-19bd5e941b55"
-            },
-            {
-              "title": "المحاضرة 17 (طاقة كبس الحرة ΔGr°)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9eca35e0-8f01-4309-be80-fc76d16df4d5"
-            },
-            {
-              "title": "المحاضرة 18 (حل مسائل طاقة كبس الحرة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/700c29c6-e648-44f7-a358-d3bcbb27f3a3"
-            },
-            {
-              "title": "المحاضرة 19 (حل مسائل: الطاقة الحرة، الإنثالبي، والانتروبي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/439916ab-0b15-427a-8ea2-765af1b4f20f"
-            },
-            {
-              "title": "المحاضرة 20 (حل مسائل: الطاقة الحرة، الإنثالبي، والانتروبي (الجزء الأخير))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9374bf0f-29fa-441f-8eb1-c3125931fafe"
-            },
-            {
-              "title": "المحاضرة 21 (تعاليل طاقة كبس)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/521bc56b-c3d9-426c-b3b8-dc4a795d416e"
-            },
-            {
-              "title": "المحاضرة 22 (المراجعة المركزة شرحيات الفصل الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/da9d6a07-15da-4a83-a7c1-3d7d3673ab98"
-            },
-            {
-              "title": "المحاضرة 23 (مراجعة مسائل الفصل الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d185a5fc-de34-44e6-937b-d423985d8e96"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني: الاتزان الكيميائي",
-          "lectures": [
-            {
-              "title": "المحاضرة 1(مقدمة في الاتزان الكيميائي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fa0c2499-1773-4508-b96e-c148cf742383"
-            },
-            {
-              "title": "المحاضرة 2 (التراكيز المولارية و الضغوط الجزئية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e051d405-8625-473b-ae6b-c995fbc103f1"
-            },
-            {
-              "title": "المحاضرة 3 ( حل مسائل الاتزان الكيميائي بطريقة غير مباشرة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dea60dd1-1349-49f2-bd18-ddc2654c0ae7"
-            },
-            {
-              "title": "(فرضية الاتزان الكيميائي) المحاضرة 4",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4c089cc9-c38e-41e3-805c-0e7660e18525"
-            },
-            {
-              "title": "المحاضرة 5: فرضية الاتزان الكيميائي (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7968ded2-b2f4-4e28-b8dd-b62fe57335ec"
-            },
-            {
-              "title": "المحاضرة 6:فرضية الاتزان الكيميائي (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/94f7c4ce-6b85-4fe4-bace-f2a2c8e3eba5"
-            },
-            {
-              "title": "المحاضرة 7: فرضية الاتزان الكيميائي (الجزء الرابع)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/64cd82c8-0739-4ee6-9e5c-bed40fa9d390"
-            },
-            {
-              "title": "المحاضرة 8:فرضية الاتزان الكيميائي (الجزء الخامس)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7e06c6a2-7872-4617-bdbd-65222c4ae066"
-            },
-            {
-              "title": "( Kp,Kcالعلاقة بين ثابتي الاتزان)المحاضرة9",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ae1455f1-540f-4410-baf5-cd74ab269d2e"
-            },
-            {
-              "title": "((الجزء الثاني) Kp,Kcالعلاقة بين ثابتي الاتزان)المحاضرة10",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2686521f-09d4-43f4-9690-e86806a46913"
-            },
-            {
-              "title": "المحاضرة 11(أهمية معرفة ثابت الاتزان)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b256bd70-9c9d-483c-9b51-ac2dd7bcbd03"
-            },
-            {
-              "title": "المحاضرة 12:أهمية معرفة ثابت الاتزان (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ca1acaa3-d3d1-484d-91dc-7f5ba9569573"
-            },
-            {
-              "title": "المحاضرة 13:(أهمية معرفة ثابت الاتزان (الجزء الثالث))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e8351c3e-95ed-4c3a-ad52-60773675a3b3"
-            },
-            {
-              "title": "(Qحاصل التفاعل ):المحاضرة14",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b5978f16-7b74-4eb1-a7e2-a4a6b20f7ca3"
-            },
-            {
-              "title": "(Qوحاصل التفاعل ΔG° العلاقة بين):المحاضرة 15",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/27decc87-871c-4384-82f6-0fd493589956"
-            },
-            {
-              "title": "المحاضرة 16: (قاعدة لوشاتليه)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4b782e6f-93ef-491c-8128-b7fddfcdb108"
-            },
-            {
-              "title": "المحاضرة 17: قاعدة لوشاتليه (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6fe30813-452c-4a7e-b4c7-8278baa4f2e1"
-            },
-            {
-              "title": "المحاضرة 18: قاعدة لوشاتليه (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1404eb20-d7de-4ed5-b11d-ec3c5c9e982d"
-            },
-            {
-              "title": "المحاضرة 19:(حل اسئلة الفصل الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4b25ac8a-25e6-4943-92b3-416f80dbebcc"
-            },
-            {
-              "title": "(المراجعة المركزة مسائل الفصل الثاني)المحاضرة 20",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f81685ea-8440-4422-a730-ded20cc58c28"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747248446817,
-      "name": "حسن عبدالكاظم 2026",
-      "subject": "مدرس مادة الفيزياء",
-      "image": "https://i.imghippo.com/files/moXE3049umw.png",
-      "classes": [
-        {
-          "name": "الفصل الاول",
-          "lectures": [
-            {
-              "title": "الموصل الكروي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d1115c51-e893-42cd-a13a-db9fc2598e3e"
-            },
-            {
-              "title": "المتسعة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e7850779-6037-4430-b2ec-9138f8206601"
-            },
-            {
-              "title": "العازل الكهربائي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/54ecc6ca-b7e3-4b08-a4fc-e2e76dbdff37"
-            },
-            {
-              "title": "العوازل القطبية والعوازل غير القطبية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/04c56bd0-45b7-4f65-acc6-530aaa11cf18"
-            },
-            {
-              "title": "تجربة فراداي نشاط ادخال العازل",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b3267ed7-c832-4e28-aca3-20cd58e5247f"
-            },
-            {
-              "title": "العوامل المؤثرة في مقدار سعة المتسعة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/57728dac-00a2-4bfe-a02f-1e093888f15e"
-            },
-            {
-              "title": "المحاضرة السابعة (ادخال العازل بين صفيحتي متسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f1740949-d2d4-4c17-80a2-897ae2a0da40"
-            },
-            {
-              "title": "المحاضرة الثامنة (الطاقة المختزنة في المجال الكهربائي للمتسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fc9f4bf7-4bc6-4278-946e-4f3aeb504a46"
-            },
-            {
-              "title": "المحاضرة التاسعة (قوانين النوع الأول من مسائل الفصل الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2c4e0986-aba1-42ec-90b5-c19b4c87498d"
-            },
-            {
-              "title": "المحاضرة العاشرة (حل امثلة واسئلة النوع الأول من مسائل الفصل الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cd4ccdf9-c1a0-4bdd-b765-6053c5fe62e4"
-            },
-            {
-              "title": "المحاضرة الحادية عشرة (حل وزاريات وخارجيات النوع الأول من مسائل الفصل الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5c780563-9f19-48de-9d03-e44d0ea2ef10"
-            },
-            {
-              "title": "المحاضرة الثانية عشرة (طرائق ربط المتسعات النوع الثاني من مسائل الفصل الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2542e4eb-b96b-474c-800e-4935eaaaced7"
-            },
-            {
-              "title": "المحاضرة الثالثة عشرة (ربط المتسعات على التوالي والتوازي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5ccc54ee-6ca7-4d04-89df-0f480a473c7c"
-            },
-            {
-              "title": "المحاضرة الرابعة عشرة (ربط المتسعات على التوالي والتوازي واشتقاق السعة المكافئة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/52aaf2d0-ce1a-4abb-abe5-b4d7ff92e7e0"
-            },
-            {
-              "title": "المحاضرة الخامسة عشرة (حل وزاريات النوع الثاني من مسائل الفصل الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/70e7c199-f4c0-49a1-8fa6-f77fde0b7033"
-            },
-            {
-              "title": "المحاضرة السادسة عشرة (حل المسائل الإثرائية الخاصة بالنوع الثاني من مسائل الفصل الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/44275851-3bfa-4577-b95b-0c39069c4b21"
-            },
-            {
-              "title": "المحاضرة السابعة عشرة (شرح مسائل النوع الثالث من مسائل الفصل الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/fedd9184-e0a6-444a-a266-026c2758b375"
-            },
-            {
-              "title": "المحاضرة الثامنة عشرة (مسائل الربط على التوالي والتوازي قبل وبعد إضافة العازل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/97bf7e69-f643-4704-81f6-da4924fb18ac"
-            },
-            {
-              "title": "المحاضرة التاسعة عشرة (المسائل الوزارية الخاصة بالربط على التوالي والتوازي قبل وبعد إضافة العازل)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6b11bc16-c9bf-4dfb-8b30-efc22c11e4a2"
-            },
-            {
-              "title": "المحاضرة العشرون (المسائل الوزارية الخاصة بالربط على التوالي والتوازي في حالة وجود عازل معلوم)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/355366e1-589e-40ca-8a2f-2817a6803252"
-            },
-            {
-              "title": "المحاضرة الواحدة والعشرون (مسائل الربط على التوالي والتوازي في حالة وجود عازل ثابت عزله مجهول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ce4e1bed-9df5-4ee4-9732-fec867623d19"
-            },
-            {
-              "title": "المحاضرة الثانية والعشرون ( حل المسائل الوزارية الخاصة بالربط على التوالي والتوازي في حال وجود عازل ثابت عزله مجهول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/25498638-2ec9-4b8d-a7a4-b7bc469ae4da"
-            },
-            {
-              "title": "المحاضرة الثالثة والعشرون (حل المسائل الخاصة بالربط على التوالي والتوازي في حال وجود عازل ثابت عزله مجهول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/59001c71-c9be-4bf1-8533-8ae8328ecf4f"
-            },
-            {
-              "title": "المحاضرة الرابعة والعشرون (الربط المختلط)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/73fa3eed-1c8d-4d4d-96e8-6a9b4987a7f2"
-            },
-            {
-              "title": "المحاضرة الخامسة والعشرون (مسائل الربط المختلط)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e84c8e72-d479-48db-a1af-816dcbcabb5c"
-            },
-            {
-              "title": "المحاضرة السادسة والعشرون (وزاريات الربط المختلط)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c696343e-dca8-4ab8-9345-0fb697166f44"
-            },
-            {
-              "title": "المحاضرة السابعة والعشرون (مراجعة قوانين وملاحظات مسائل الفصل الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/50b6024d-0e8e-43ea-bf64-5aa131cd4d97"
-            },
-            {
-              "title": "المحاضرة الثامنة والعشرون (بعض أنواع المتسعات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e8b362b5-a34c-4ef8-b80c-c4fec2cd011c"
-            },
-            {
-              "title": "المحاضرة التاسعة والعشرون(دائرة تيار مستمر تتألف من مقاومة ومتسعة R-C)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4e7ffcbd-cd2f-46cc-a34d-9e7fc0bb017c"
-            },
-            {
-              "title": "المحاضرة الثلاثون (مسائل R-C)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f2befeed-1e82-4302-99b6-5eb460721327"
-            },
-            {
-              "title": "المحاضرة الواحدة والثلاثون (بعض التطبيقات العملية للمتسعة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/695f9f4d-3969-4a10-9fda-4f11bd938752"
-            },
-            {
-              "title": "المحاضرة الثانية والثلاثون (حل اسئلة الفصل الاول - الجزء الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1ac387d2-5c9d-4150-8193-4290dd73f66a"
-            },
-            {
-              "title": "المحاضرة الثالثة والثلاثون (حل اسئلة الفصل الاول - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/80580938-87de-480a-b092-dfdefd8db6dc"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "المحاضرة الأولى (تأثير المجالين الكهربائي والمغناطيسي على الجسيم المشحون - الجزء الاول )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/98052b8e-8053-4b87-b8f3-55d1f0169071"
-            },
-            {
-              "title": "المحاضرة الثانية (تأثير المجالين الكهربائي والمغناطيسي على الجسيم المشحون - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dfcf9c58-2d92-4148-be83-bd37eec681b1"
-            },
-            {
-              "title": "المحاضرة الثالثة (ظاهرة الحث الكهرومغناطيسي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0cae3982-8366-4d40-930e-a799dd840797"
-            },
-            {
-              "title": "المحاضرة الرابعة (تجربة اكتشاف فرداي في الحث الكهرومغناطيسي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e74b59ef-6fe8-4211-974b-d3797cd84847"
-            },
-            {
-              "title": "المحاضرة الخامسة (نشاط ظاهرة الحث الكهرومغناطيسي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/962add3d-6c52-4ed7-8d7f-ed6ee859d858"
-            },
-            {
-              "title": "المحاضرة السادسة (القوة الدافعة الكهربائية الحركية المحتثة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9e1bd2dd-37a5-4274-a9b7-23070148886e"
-            },
-            {
-              "title": "المحاضرة السابعة (القوة الدافعة الكهربائية الحركية المحتثة - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/58c51a43-5149-4c4e-831f-a6f8b7e0b4c7"
-            },
-            {
-              "title": "المحاضرة الثامنة (مسائل القوة الدافعة الكهربائية الحركية المحتثة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2e1a8a5e-e6df-4899-b64f-8121c34da5d8"
-            },
-            {
-              "title": "المحاضرة التاسعة (الفيض المغناطيسي - الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/521a5944-fff2-48eb-a0e7-949756cf615a"
-            },
-            {
-              "title": "المحاضرة العاشرة (الفيض المغناطيسي - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/73975891-b37d-4526-858f-2977c5c59e92"
-            },
-            {
-              "title": "المحاضرة الحادية عشرة (قانون فراداي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/554320b2-4810-46d7-8a2e-829105079a61"
-            },
-            {
-              "title": "المحاضرة الثانية عشر (مسائل قانون فراداي)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d6225f68-6b42-4233-95f2-951de50e59da"
-            },
-            {
-              "title": "قريبا",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215062/ebc42606-8c71-493d-838a-c8e8998db834"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747248538708,
-      "name": "محمد قاسم 2026",
-      "subject": "مدرس مادة الرياضيات",
-      "image": "https://i.imghippo.com/files/kB9153hs.png",
-      "classes": [
-        {
-          "name": "الفصل الاول",
-          "lectures": [
-            {
-              "title": "المحاضرة الاولى (مقدمة الأعداد المركبة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6a3d1d7e-b65f-42e3-8527-29b49b884461"
-            },
-            {
-              "title": "(i المحاضرة الثانية (قوى",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f99cff8d-444a-4e8a-a18e-3a366f36e0ec"
-            },
-            {
-              "title": "المحاضرة الثالثة (العدد المركب)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bb28df57-1079-49a5-b611-9ebc96571103"
-            },
-            {
-              "title": "المحاضرة الرابعة (العمليات الحسابية على مجموعة الأعداد المركبة الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c82a0bd8-8f4b-4521-9755-397f82a45f08"
-            },
-            {
-              "title": "المحاضرة الخامسة (العمليات الحسابية على مجموعة الأعداد المركبة الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4681eb5e-feaf-4420-b922-ffb2b710010f"
-            },
-            {
-              "title": "المحاضرة السادسة (الأقواس في الاعداد المركبة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4dc5c6b3-54e7-4574-bac9-3386290af8a2"
-            },
-            {
-              "title": "المحاضرة السابعة (الأقواس في الاعداد المركبة - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e28b7f49-92d7-4207-b5c8-3733f73ec593"
-            },
-            {
-              "title": "المحاضرة الثامنة (جمع وطرح الكسور في الأعداد المركبة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b6aa3ef5-82a2-46b3-98a2-89313e0360b1"
-            },
-            {
-              "title": "المحاضرة التاسعة (الاعداد المركبة - الاسئلة الخاصة بالاثبات)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/76969b88-4e83-479e-8583-eee00e4f6154"
-            },
-            {
-              "title": "المحاضرة العاشرة (حل مسائل الإثبات وشرح خواص مرافق العدد المركب)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/527977fc-23da-4831-8b50-0210969f4a98"
-            },
-            {
-              "title": "المحاضرة الحادية عشرة (التحليل في مجموعة الاعداد المركبة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3b533b3c-d386-4f9b-aca9-511b6c25393e"
-            },
-            {
-              "title": "المحاضرة الثانية عشرة (تساوي العددين المركبين)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/616f86b2-a381-49b9-8880-47e53c99afc4"
-            },
-            {
-              "title": "المحاضرة الثالثة عشرة (تساوي العددين المركبين)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8aeacdbd-ac54-4eff-923b-93e067f89a5f"
-            },
-            {
-              "title": "المحاضرة الرابعة عشرة (تساوي العددين المركبين - الحالة الثانية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9a4b3ed2-0c20-4d32-b75f-348ccf56dd5e"
-            },
-            {
-              "title": "المحاضرة الخامسة عشرة (تساوي العددين المركبين - الحالة الثالثة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/134157f8-a25c-43a9-9c21-e506f7feb4db"
-            },
-            {
-              "title": "المحاضرة السادسة عشرة (تساوي عددين مركبين)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/a0010917-0055-44e2-b796-4d0ebb207b09"
-            },
-            {
-              "title": "المحاضرة السابعة عشرة (المحاضرة السابعة عشرة (ايجاد قيم x,y ∈ R إذا عُلم أن العددان مترافقان))",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/45e52b0e-6a9d-447b-8b09-21c54c2a6560"
-            },
-            {
-              "title": "المحاضرة الثامنة عشرة (إيجاد الجذور التربيعية للأعداد المركبة)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3be79f88-0597-4ce7-8827-ea531fd2cb40"
-            },
-            {
-              "title": "المحاضرة التاسعة عشرة (إيجاد الجذور التربيعية للأعداد المركبة - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2a713325-4323-47af-8783-1fe695027186"
-            },
-            {
-              "title": "المحاضرة العشرون (حل المعادلة التربيعية في مجموعة الأعداد المركبة - الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/11657ede-f129-4f5d-8514-0910f04b1f38"
-            },
-            {
-              "title": "المحاضرة الواحدة والعشرون (حل المعادلة التربيعية في مجموعة الأعداد المركبة - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4d00022f-fe54-450e-96ae-1540764d4643"
-            },
-            {
-              "title": "المحاضرة الثانية والعشرون (تكوين المعادلة التربيعية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2d41d0cf-bf86-43f3-8cf2-656bd5899709"
-            },
-            {
-              "title": "المحاضرة الثالثة والعشرون (ايجاد قيم الثوابت في المعادلة التربيعية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/709e6610-369e-440a-a19b-00475ea0ab02"
-            },
-            {
-              "title": "المحاضرة الرابعة والعشرون (اثرائيات المعادلة التربيعية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/21901add-7093-4205-914f-1068530c8587"
-            },
-            {
-              "title": "المحاضرة الخامسة والعشرون (التمثيل الهندسي لمجموعة الاعداد المركبة بيانيا - شكل ارجاند)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/90eae46c-8c35-4982-ace8-e5e4623b1bfa"
-            },
-            {
-              "title": "المحاضرة السادسة والعشرون (الصيغة القطبية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/99fe2722-9f4f-42d0-9e82-6434f119c540"
-            },
-            {
-              "title": "المحاضرة السابعة والعشرون (الصيغة القطبية - الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/61df31bd-9eea-4605-a1c2-849e8757a16c"
-            },
-            {
-              "title": "(المحاضرة الثامنة والعشرون (المقياس والسعة الاساسية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/14f47db7-d686-422d-91e0-db4a9471bdf7"
-            },
-            {
-              "title": "(المحاضرة التاسعة والعشرون (مبرهنة ديموڤر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/97e789da-4059-4ae7-b8c8-ceebed4958ee"
-            },
-            {
-              "title": "المحاضرة الثلاثون (مبرهنة ديموڤر- الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/21ea2e75-562b-4a30-bb03-5af15f9b5060"
-            },
-            {
-              "title": "المحاضرة الواحدة والثلاثون (اسئلة اثرائية)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ddd0b14d-3882-4588-930a-0b73f90596dc"
-            },
-            {
-              "title": "المحاضرة الثانية والثلاثون -نتيجة مبرهنة ديموڤر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5f363e09-a665-4c99-ad79-100285c6894e"
-            },
-            {
-              "title": "المحاضرة الثالثة والثلاثون نتيجة مبرهنة ديموڤر - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cd91c0f7-e20e-4240-9e80-b6c1ee86dd3a"
-            },
-            {
-              "title": "المحاضرة الرابعة والثلاثون نتيجة مبرهنة ديموڤر - الجزء الثالث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/db573d97-6d47-4d55-98fc-58a1ab6c2fcc"
-            },
-            {
-              "title": "المحاضرة الخامسة والثلاثون - وزاريات مبرهنة ديموڤر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/07e5ccd0-3a58-4e15-b182-666ae6b893c2"
-            },
-            {
-              "title": "المحاضرة السادسة والثلاثون الجذور التكعيبية للواحد الصحيح (الجزء الاول )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3a9d3fbb-0272-431a-9198-7037acddaf53"
-            },
-            {
-              "title": "المحاضرة السابعة والثلاثون الجذور التكعيبية للواحد الصحيح(الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ad122ac4-2ab1-4b3b-bbf4-150c2f56f007"
-            },
-            {
-              "title": "المحاضرة الثامنة والثلاثون الجذور التكعيبية للواحد الصحيح(الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/20412c6a-339e-4a5c-9db1-14aade20f8b9"
-            },
-            {
-              "title": "المحاضرة التاسعة والثلاثون الجذور التكعيبية للواحد الصحيح(الجزء الرابع)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e4e4828a-5622-4e66-a9be-1631e8dfcd06"
-            },
-            {
-              "title": "مراجعة الفصل الاول - الجزء الاول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/945c771e-62ca-4bcc-bae6-ffca21d71632"
-            },
-            {
-              "title": "مراجعة الفصل الاول - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8ab6efab-753e-40da-99e4-6937c0f2295d"
-            },
-            {
-              "title": "مراجعة الفصل الاول - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/88367a81-1888-455d-8c9c-2f2af09e6485"
-            }
-          ]
-        },
-        {
-          "name": "الفصل الثاني",
-          "lectures": [
-            {
-              "title": "المحاضرة الأولى (القطع المكافئ)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8786b7c7-6fb0-4b2a-9260-7baaf480aec4"
-            },
-            {
-              "title": "المحاضرة الثانية (إيجاد معادلة القطع المكافئ)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7a1be8c1-0f01-4c88-835f-73a77aec1b23"
-            },
-            {
-              "title": "(المحاضرة الثالثة (إيجاد معادلة القطع المكافئ الجزء الثالث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bc6da085-a46f-4426-b528-66344a957981"
-            },
-            {
-              "title": "المحاضرة الرابعة (ايجاد المجهول في معادلة القطع المكافئ)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b4d02e88-644a-4463-bc2b-5d2c156b1f4c"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747551898072,
-      "name": "هشام المعموري 2026",
-      "subject": "مدرس مادة اللغة العربية",
-      "image": "https://i.imghippo.com/files/eVG7803isI.png",
-      "classes": [
-        {
-          "name": "الاساسيات",
-          "lectures": [
-            {
-              "title": "محاضرة 1",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/54cbcb8a-12db-4895-b44b-3f0f82e3ec12"
-            },
-            {
-              "title": "محاضرة 2",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8c2d5271-85be-4618-af61-1c08dd057076"
-            },
-            {
-              "title": "محاضرة 3",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bde728cf-be21-4fa5-986d-8f920be941d0"
-            },
-            {
-              "title": "محاضرة 4",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/9cce2e3f-02db-4c2a-bc86-5de6ae9b737f"
-            },
-            {
-              "title": "محاضرة 5",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5be7c60e-72d7-4889-b9cc-00b5eb0c4925"
-            },
-            {
-              "title": "محاضرة 6",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e6af4501-07a4-4793-8514-77589bde9817"
-            },
-            {
-              "title": "محاضرة 7",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5e687bfc-3ed6-4e9a-96ea-1f697172ae3e"
-            },
-            {
-              "title": "محاضرة 8",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1128dacd-ab91-4c37-8516-ba3c27ef6333"
-            },
-            {
-              "title": "محاضرة 9",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4bcff57b-208f-4998-888e-32450ca6fecc"
-            },
-            {
-              "title": "محاضرة 10",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/27d1c2fc-aea2-4805-9058-8e95d44a9859"
-            },
-            {
-              "title": "محاضرة 11",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0e88b3de-f003-4963-ac0a-7411c933dc1f"
-            }
-          ]
-        },
-        {
-          "name": "الاستفهام",
-          "lectures": [
-            {
-              "title": "تعريف الاستفهام وحروفه",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e774c265-4a30-4b72-bc9a-97689fd61b9a"
-            },
-            {
-              "title": "دلالات اسماء الاستفهام - الجزء الاول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f1a5241b-45a3-4e20-99a5-04ea44fb8d8b"
-            },
-            {
-              "title": "دلالات اسماء الاستفهام - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/34278a99-db9a-45c8-a9de-3f2eae09ffc4"
-            },
-            {
-              "title": "أنواع الاستفهام",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e7b0a67b-dc07-4960-afbb-36fef642b3b6"
-            },
-            {
-              "title": "أنواع (أم)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/09b98643-cb4e-4cdf-a72a-bffd36ce82b5"
-            },
-            {
-              "title": "كيفية صياغة جملة استفهامية (الجزء الاول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/45a289df-0c0e-44ba-ac29-a8cd69f74e33"
-            },
-            {
-              "title": "كيفية صياغة جملة استفهامية (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3e57f5f8-8b5d-40e1-8951-bc4153c0335e"
-            },
-            {
-              "title": "تحويل الاستفهام التصوري إلى استفهام تصديقي والعكس",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/89451523-44ff-4288-ab46-61355f2b0610"
-            },
-            {
-              "title": "خصائص الهمزة وهل - الجزء الاول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5aa4f852-704f-453f-9193-f7c910b3f466"
-            },
-            {
-              "title": "خصائص الهمزة وهل - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6bbf8d26-8a5b-4d54-82cd-279d200031c9"
-            },
-            {
-              "title": "الاستفهام المجازي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d94f9b17-57a2-492f-8abd-49b320d93643"
-            },
-            {
-              "title": "اعراب اسماء الاستفهام الدالة على الذات - الجزء الاول",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8c3951ae-84b7-4f5a-8759-25c5bfdf70b2"
-            },
-            {
-              "title": "إعراب أسماء الاستفهام الدالة على الذات - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e5d1d7ed-3409-427b-aad4-146187221428"
-            },
-            {
-              "title": "اعراب اسماء الاستفهام الدالة على الذات -الجزء الثالث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b69d8f71-b0f2-4e65-8586-cd57bf66f7e6"
-            },
-            {
-              "title": "اعراب ما يدل على الزمان وما يدل على المكان",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6d926ffa-e1f2-4998-8f66-ad1311bb188c"
-            },
-            {
-              "title": "إعرابُ أسماءِ الاستفهامِ الدالّةِ على الحالِ",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e3ad4ede-78c6-4ead-ad67-1e89d30339a2"
-            },
-            {
-              "title": "إعراب كم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/85da9e9b-d73e-4c6c-89a7-a1f8395f2ea2"
-            },
-            {
-              "title": "“إعراب اسم الاستفهام “أيّ",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/10fa9d21-9055-4505-8041-1d896a5b9cdf"
-            },
-            {
-              "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الأول)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6835f715-1d64-49b1-a28b-402061693b2b"
-            },
-            {
-              "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الثاني)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/ec324e0e-e19d-4433-9677-ad2b7e621d1f"
-            },
-            {
-              "title": "حلول واجبات وزاريات أسلوب الاستفهام (الجزء الثالث)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/dc9b9094-f62b-414f-a619-a1109e66c9b0"
-            }
-          ]
-        },
-        {
-          "name": "الادب الحديث",
-          "lectures": [
-            {
-              "title": "الادب الحديث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/643e25ec-6049-4da5-9a3a-f5aab7c197f3"
-            },
-            {
-              "title": "الشعر الحديث ومدرسة الإحياء",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5c8c6209-e070-40a5-86fe-745a19ca2cff"
-            },
-            {
-              "title": "محمد سعيد الحبوبي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5f3aa016-b775-458e-b541-855a9a198661"
-            },
-            {
-              "title": "محمد سعيد الحبوبي:- التعليق النقدي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/bcbdbe56-60b2-4202-b850-c2e980e40faf"
-            },
-            {
-              "title": "علي الشرقي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/464d9893-20de-4b97-9cdd-834f4af14da8"
-            },
-            {
-              "title": "علي الشرقي:- التعليق النقدي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3361e6b5-8709-4c65-a65d-c996323d641a"
-            },
-            {
-              "title": "حافظ إبراهيم",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/8fcb6ac9-ba45-4915-8110-b68595dccf83"
-            },
-            {
-              "title": "حافظ ابراهيم- الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4b3e4db1-83c6-428a-874e-81dec9e04ecf"
-            },
-            {
-              "title": "حياة الشاعر محمد مهدي الجواهري",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6d191025-886d-4f10-bc9b-9bfbe726a33f"
-            },
-            {
-              "title": "محمد مهدي الجواهري - الجزء الثاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0895c52b-fb12-467c-bcd9-7af4c950af6c"
-            },
-            {
-              "title": "مَدرسةُ المَهجر – الشاعر ميخائيل نعيمَة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/98432fe2-574d-46a6-b2a0-bf4988523015"
-            },
-            {
-              "title": "الشاعر ميخائيل نعيمَة – الجُزء الثّاني",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c5eb6931-6916-40ba-aa58-a39707a362c1"
-            }
-          ]
-        },
-        {
-          "name": "النفي",
-          "lectures": [
-            {
-              "title": "أسلوبُ النَّفي – فِعلُ النَّفي (لَيْسَ)",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/4fb751a0-6d85-482e-93dd-739f554b36bb"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1747769895546,
-      "name": "فارس السلامي 2026",
-      "subject": "اللغة الفرنسية",
-      "image": "https://images.app.goo.gl/uGmtK",
-      "classes": [
-        {
-          "name": "الوحدة الاولى",
-          "lectures": [
-            {
-              "title": "الاساسيات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/00f50d40-9998-46b5-b941-4cd4bc38fd6a"
-            },
-            {
-              "title": "المضارع",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f253f3a4-d5f4-4d65-b9bb-81b26bd31882"
-            },
-            {
-              "title": "المضارع 2",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f1aefb92-4805-4a1a-a50d-275de07952fa"
-            },
-            {
-              "title": "المضارع 3 - الجزء الاخير",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2388ab2e-1aa3-4d70-987d-f60cd8f26339"
-            },
-            {
-              "title": "دلالات المضارع",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/726265e9-4cb5-44f3-b37b-37cc50b28a30"
-            },
-            {
-              "title": "الحوار الاول اللياقة البدنية",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/f81ca73c-86bb-4d52-af02-9c6fcfb42580"
-            },
-            {
-              "title": "صيغة الامر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7b82b14d-949d-439e-bec7-71a73d13acb2"
-            },
-            {
-              "title": "(le rugby)حوار رياضة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/0e2bb56d-5e9b-4d76-8b9b-000b8e678e7e"
-            },
-            {
-              "title": "المضارع المستمر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/89ac5d10-7d67-424e-ba4a-b5c36949c3cf"
-            },
-            {
-              "title": "المستقبل القريب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/3253b9a7-6a5f-4376-8a61-d4f5200604a5"
-            },
-            {
-              "title": "مصطلحات عن جسم الانسان",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/02d3d2a5-081e-4115-b85f-ac5272b3f844"
-            },
-            {
-              "title": "حادث سيارة",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/1f552879-cf1c-4b9c-8546-cc91aa9d719f"
-            },
-            {
-              "title": "الماضي القريب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/96d6ddf0-de23-4d06-8dbb-3850704dd576"
-            },
-            {
-              "title": "الماضي المستمر",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d1e8c8dc-fdb2-426d-9f64-92027be7ed3d"
-            },
-            {
-              "title": "الماضي المركب",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/6b14835f-1c3a-43e6-aedd-4e18c83e75f1"
-            },
-            {
-              "title": "الماضي المركب (تمارين )",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2ad9dcb8-9611-48be-9c36-6cb8fda4892f"
-            },
-            {
-              "title": "الأمراض والعلاجات",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/535ab499-ae18-4ea6-8b73-f26a4cf8f4df"
-            },
-            {
-              "title": "أسئلة ومفردات عن الحوادث والكوارث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d8b848fb-3915-479a-9f04-bd3f129396ec"
-            },
-            {
-              "title": "السرد في الماضي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c15279ae-3ab5-4858-9e59-9733b576bf5b"
-            },
-            {
-              "title": "كتابة موضوع انشائي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/d72fe67b-a339-4734-aaee-edbf9736df5b"
-            },
-            {
-              "title": "التعبير عن الاستمرارية في الحدث",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/cdefbbaf-af92-4651-8191-45d1bd7dbcfb"
-            },
-            {
-              "title": "النفي",
-              "description": "",
-              "url": "https://iframe.mediadelivery.net/embed/215061/2d6d1ab5-0041-41ae-b364-ba2b82243d02"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }
