@@ -343,23 +343,92 @@ function extractVideoId(url) {
     return null;
 }
 
-// Play Lecture with Proxy
-function playLecture(url, title, description, teacherId, classIndex, lectureIndex) {
+// Detect direct video format (mp4 / m4v / m3u8) vs proxy-embedded video
+function getVideoType(url) {
+    const cleanUrl = url.split('?')[0].split('#')[0];
+    if (/\.m3u8$/i.test(cleanUrl)) return 'hls';
+    if (/\.(mp4|m4v)$/i.test(cleanUrl)) return 'mp4';
+    return 'proxy';
+}
+
+// Stop and fully reset both players (native + iframe)
+function stopVideoPlayback() {
+    const nativePlayer = document.getElementById('videoPlayerNative');
+    const iframePlayer = document.getElementById('videoPlayer');
+
+    if (window.currentHls) {
+        window.currentHls.destroy();
+        window.currentHls = null;
+    }
+
+    nativePlayer.pause();
+    nativePlayer.removeAttribute('src');
+    nativePlayer.load();
+    nativePlayer.style.display = 'none';
+
+    iframePlayer.src = '';
+    iframePlayer.style.display = 'none';
+}
+
+// Load a video source into the correct player based on its type
+function setupVideoSource(url) {
+    const nativePlayer = document.getElementById('videoPlayerNative');
+    const iframePlayer = document.getElementById('videoPlayer');
+
+    stopVideoPlayback();
+
+    const videoType = getVideoType(url);
+
+    if (videoType === 'hls') {
+        // .m3u8 streams
+        nativePlayer.style.display = 'block';
+
+        if (nativePlayer.canPlayType('application/vnd.apple.mpegurl')) {
+            // Safari / iOS have native HLS support
+            nativePlayer.src = url;
+        } else if (window.Hls && Hls.isSupported()) {
+            const hls = new Hls();
+            hls.loadSource(url);
+            hls.attachMedia(nativePlayer);
+            hls.on(Hls.Events.ERROR, function(event, data) {
+                if (data.fatal) {
+                    showNotification('حدث خطأ أثناء تشغيل البث', 'error');
+                }
+            });
+            window.currentHls = hls;
+        } else {
+            showNotification('المتصفح لا يدعم تشغيل هذا النوع من الفيديو (m3u8)', 'error');
+        }
+        return true;
+    }
+
+    if (videoType === 'mp4') {
+        // .mp4 / .m4v direct files
+        nativePlayer.style.display = 'block';
+        nativePlayer.src = url;
+        return true;
+    }
+
+    // Fallback: existing proxy-embed system
     const videoId = extractVideoId(url);
-    
     if (!videoId) {
         showNotification('خطأ في استخراج معرف الفيديو', 'error');
+        return false;
+    }
+
+    iframePlayer.style.display = 'block';
+    iframePlayer.src = `${PROXY_URL}/${videoId}`;
+    return true;
+}
+
+// Play Lecture with Proxy
+function playLecture(url, title, description, teacherId, classIndex, lectureIndex) {
+    const loaded = setupVideoSource(url);
+
+    if (!loaded) {
         return;
     }
-    
-    const player=document.getElementById('videoPlayer');
-    if(url.includes('.m3u8')){
-      if(window.Hls && Hls.isSupported()){const hls=new Hls();hls.loadSource(url);hls.attachMedia(player);}
-      else{player.src=url;}
-    }else{
-      const proxyUrl=`${PROXY_URL}/${videoId}`;
-      player.src=proxyUrl;
-    }
+
     document.getElementById('videoTitle').textContent = title;
     document.getElementById('videoDescription').textContent = description || '';
     
@@ -575,6 +644,7 @@ function goBack() {
             }
             break;
         case 'video':
+            stopVideoPlayback();
             if (AppState.currentTeacher) {
                 loadTeacherPage(AppState.currentTeacher);
             } else {
