@@ -6,6 +6,7 @@ export default async (req) => {
     "Access-Control-Allow-Headers": "Content-Type, X-Admin-Key"
   };
 
+  // CORS
   if (req.method === "OPTIONS") {
     return new Response(null, {
       status: 204,
@@ -13,6 +14,7 @@ export default async (req) => {
     });
   }
 
+  // السماح بـ POST فقط
   if (req.method !== "POST") {
     return new Response(
       JSON.stringify({
@@ -29,6 +31,7 @@ export default async (req) => {
   try {
     const body = await req.json();
 
+    // التأكد من وجود البيانات
     if (!body.data) {
       return new Response(
         JSON.stringify({
@@ -42,6 +45,7 @@ export default async (req) => {
       );
     }
 
+    // قراءة GitHub Token من Netlify Environment Variables
     const token = process.env.GITHUB_TOKEN;
 
     if (!token) {
@@ -57,17 +61,21 @@ export default async (req) => {
       );
     }
 
+    // بيانات المستودع
     const owner = "time110943";
     const repo = "2026";
     const path = "data.json";
     const branch = "main";
 
+    // رابط GitHub API
     const apiUrl =
       https://api.github.com/repos/${owner}/${repo}/contents/${path};
 
+    // قراءة data.json الحالية للحصول على SHA
     const currentResponse = await fetch(
       ${apiUrl}?ref=${branch},
       {
+        method: "GET",
         headers: {
           "Accept": "application/vnd.github+json",
           "Authorization": Bearer ${token},
@@ -94,66 +102,4 @@ export default async (req) => {
 
     const currentFile = await currentResponse.json();
 
-    const jsonContent = JSON.stringify(body.data, null, 2);
-
-    const encodedContent = Buffer
-      .from(jsonContent, "utf8")
-      .toString("base64");
-
-    const updateResponse = await fetch(apiUrl, {
-      method: "PUT",
-      headers: {
-        "Accept": "application/vnd.github+json",
-        "Authorization": Bearer ${token},
-        "X-GitHub-Api-Version": "2022-11-28",
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        message: body.message || "Update data from control panel",
-        content: encodedContent,
-        sha: currentFile.sha,
-        branch: branch
-      })
-    });
-
-    const result = await updateResponse.json();
-
-    if (!updateResponse.ok) {
-      return new Response(
-        JSON.stringify({
-          success: false,
-          error: "فشل تحديث data.json",
-          details: result
-        }),
-        {
-          status: updateResponse.status,
-          headers
-        }
-      );
-    }
-
-    return new Response(
-      JSON.stringify({
-        success: true,
-        message: "تم تحديث data.json بنجاح",
-        commit: result.commit?.sha || null
-      }),
-      {
-        status: 200,
-        headers
-      }
-    );
-
-  } catch (error) {
-    return new Response(
-      JSON.stringify({
-        success: false,
-        error: error.message
-      }),
-      {
-        status: 500,
-        headers
-      }
-    );
-  }
-};
+    // تحويل البيانات إلى JSON
