@@ -1,4 +1,4 @@
-window.dataAb2026 = {
+{
   "teachers": [
     {
       "id": 1740790563505,
@@ -28,10 +28,15 @@ window.dataAb2026 = {
               "title": "محاضرة 4",
               "description": "وصف المحاضرة",
               "url": "https://vz-a58ace6d-ff4.b-cdn.net/7417914d-f212-462c-9eef-2d31018cb0b9/playlist.m3u8"
+            },
+            {
+              "title": "محاضرة جديدة",
+              "description": "",
+              "url": "https://vz-a58ace6d-ff4.b-cdn.net/01003a6f-5dca-478e-86aa-babe759cb7c7/playlist.m3u8"
             }
           ]
         }
       ]
     }
   ]
-};
+}
