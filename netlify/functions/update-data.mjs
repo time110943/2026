@@ -48,7 +48,7 @@ export default async (req) => {
       return new Response(
         JSON.stringify({
           success: false,
-          error: "GITHUB_TOKEN غير موجود في Netlify"
+          error: "GITHUB_TOKEN غير موجود"
         }),
         {
           status: 500,
@@ -59,13 +59,12 @@ export default async (req) => {
 
     const owner = "time110943";
     const repo = "2026";
-    const path = "dataab2026.js";
+    const path = "data.json";
     const branch = "main";
 
     const apiUrl =
       https://api.github.com/repos/${owner}/${repo}/contents/${path};
 
-    // قراءة الملف الحالي
     const currentResponse = await fetch(
       ${apiUrl}?ref=${branch},
       {
@@ -78,13 +77,13 @@ export default async (req) => {
     );
 
     if (!currentResponse.ok) {
-      const details = await currentResponse.text();
+      const errorText = await currentResponse.text();
 
       return new Response(
         JSON.stringify({
           success: false,
-          error: "تعذر قراءة dataab2026.js",
-          details
+          error: "تعذر قراءة data.json",
+          details: errorText
         }),
         {
           status: currentResponse.status,
@@ -95,17 +94,12 @@ export default async (req) => {
 
     const currentFile = await currentResponse.json();
 
-    // تحويل البيانات إلى نفس صيغة ملف dataab2026.js
     const jsonContent = JSON.stringify(body.data, null, 2);
 
-    const finalContent =
-      window.dataAb2026 = ${jsonContent};\n;
-
     const encodedContent = Buffer
-      .from(finalContent, "utf8")
+      .from(jsonContent, "utf8")
       .toString("base64");
 
-    // تحديث الملف على GitHub
     const updateResponse = await fetch(apiUrl, {
       method: "PUT",
       headers: {
@@ -115,10 +109,10 @@ export default async (req) => {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        message: body.message || "Update lectures from control panel",
+        message: body.message || "Update data from control panel",
         content: encodedContent,
         sha: currentFile.sha,
-        branch
+        branch: branch
       })
     });
 
@@ -128,7 +122,7 @@ export default async (req) => {
       return new Response(
         JSON.stringify({
           success: false,
-          error: "فشل تحديث dataab2026.js",
+          error: "فشل تحديث data.json",
           details: result
         }),
         {
@@ -141,7 +135,7 @@ export default async (req) => {
     return new Response(
       JSON.stringify({
         success: true,
-        message: "تم حفظ البيانات بنجاح",
+        message: "تم تحديث data.json بنجاح",
         commit: result.commit?.sha || null
       }),
       {
