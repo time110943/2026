@@ -14,7 +14,7 @@ export default async (req) => {
     });
   }
 
-  // POST فقط
+  // السماح بـ POST فقط
   if (req.method !== "POST") {
     return new Response(
       JSON.stringify({
@@ -29,14 +29,10 @@ export default async (req) => {
   }
 
   try {
+    // قراءة البيانات المرسلة
     const body = await req.json();
 
-    // التأكد من وجود البيانات
-    if (
-      !body ||
-      body.data === undefined ||
-      body.data === null
-    ) {
+    if (!body  body.data === undefined  body.data === null) {
       return new Response(
         JSON.stringify({
           success: false,
@@ -65,11 +61,13 @@ export default async (req) => {
       );
     }
 
+    // بيانات المستودع
     const owner = "time110943";
     const repo = "2026";
     const path = "dataab2026.js";
     const branch = "main";
 
+    // رابط GitHub API
     const apiUrl =
       https://api.github.com/repos/${owner}/${repo}/contents/${path};
 
@@ -77,6 +75,7 @@ export default async (req) => {
     const currentResponse = await fetch(
       ${apiUrl}?ref=${encodeURIComponent(branch)},
       {
+        method: "GET",
         headers: {
           "Accept": "application/vnd.github+json",
           "Authorization": Bearer ${token},
@@ -91,7 +90,8 @@ export default async (req) => {
       return new Response(
         JSON.stringify({
           success: false,
-          error: "تعذر قراءة dataab2026.js من GitHub",
+          error: "تعذر قراءة الملف من GitHub",
+          status: currentResponse.status,
           details: errorText
         }),
         {
@@ -103,49 +103,39 @@ export default async (req) => {
 
     const currentFile = await currentResponse.json();
 
-    // إنشاء محتوى JavaScript الصحيح
-    const jsContent =
-      "window.dataAb2026 = " +
-      JSON.stringify(body.data, null, 2) +
-      ";\n";
+    // تحويل البيانات إلى JSON
+    const jsonContent = JSON.stringify(body.data, null, 2);
 
     // تحويل المحتوى إلى Base64
     const encodedContent = Buffer
-      .from(jsContent, "utf8")
+      .from(jsonContent, "utf8")
       .toString("base64");
 
-    // تحديث dataab2026.js في GitHub
+    // تحديث الملف في GitHub
     const updateResponse = await fetch(apiUrl, {
       method: "PUT",
-
       headers: {
         "Accept": "application/vnd.github+json",
         "Authorization": Bearer ${token},
         "X-GitHub-Api-Version": "2022-11-28",
         "Content-Type": "application/json"
       },
-
       body: JSON.stringify({
-        message:
-          body.message ||
-          "Update lectures from control panel",
-
+        message: body.message || "Update data from control panel",
         content: encodedContent,
-
         sha: currentFile.sha,
-
         branch: branch
       })
     });
 
     const result = await updateResponse.json();
 
-    // فشل GitHub
     if (!updateResponse.ok) {
       return new Response(
         JSON.stringify({
           success: false,
-          error: "فشل تحديث dataab2026.js",
+          error: "فشل تحديث الملف في GitHub",
+          status: updateResponse.status,
           details: result
         }),
         {
@@ -159,7 +149,7 @@ export default async (req) => {
     return new Response(
       JSON.stringify({
         success: true,
-        message: "تم تحديث بيانات المحاضرات بنجاح",
+        message: "تم تحديث dataab2026.js بنجاح",
         commit: result.commit?.sha || null
       }),
       {
@@ -169,17 +159,15 @@ export default async (req) => {
     );
 
   } catch (error) {
-
     return new Response(
       JSON.stringify({
         success: false,
-        error: error?.message || "خطأ غير معروف"
+        error: error?.message || "حدث خطأ غير معروف"
       }),
       {
         status: 500,
         headers
       }
     );
-
   }
 };
