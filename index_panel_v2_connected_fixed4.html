@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>لوحة إدارة المحاضرات</title>
+<style>
+:root{--bg:#0b1020;--card:#121a2d;--card2:#18223a;--text:#eef3ff;--muted:#9aa8c7;--line:#273454;--accent:#6c7cff;--danger:#ef5b6b;--ok:#35c98b}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(135deg,#080d19,#10182c);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Tahoma,Arial,sans-serif}
+button,input,textarea,select{font:inherit}button{cursor:pointer;border:0}.app{display:grid;grid-template-columns:290px 1fr;min-height:100vh}
+aside{border-left:1px solid var(--line);background:#0c1324;padding:18px;position:sticky;top:0;height:100vh}
+.brand{font-size:21px;font-weight:800;margin:4px 0 22px}.brand small{display:block;color:var(--muted);font-size:12px;margin-top:5px;font-weight:500}
+.nav button{width:100%;text-align:right;background:transparent;color:var(--muted);padding:12px;border-radius:10px;margin:3px 0}.nav button.active,.nav button:hover{background:var(--card2);color:#fff}
+.side-actions{position:absolute;bottom:18px;left:18px;right:18px}.btn{padding:10px 14px;border-radius:10px;background:var(--card2);color:#fff;border:1px solid var(--line)}.btn.primary{background:var(--accent);border-color:transparent}.btn.danger{background:rgba(239,91,107,.13);color:#ff9aa6;border-color:rgba(239,91,107,.25)}.btn.ok{background:rgba(53,201,139,.13);color:#76e8b5;border-color:rgba(53,201,139,.25)}
+main{padding:24px;max-width:1500px;width:100%;margin:auto}.top{display:flex;justify-content:space-between;gap:15px;align-items:center;margin-bottom:20px}.top h1{margin:0;font-size:27px}.top p{margin:5px 0 0;color:var(--muted);font-size:13px}
+.toolbar{display:flex;gap:9px;flex-wrap:wrap}.search{background:var(--card);border:1px solid var(--line);border-radius:11px;color:#fff;padding:11px 13px;min-width:260px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}.stat{background:var(--card);border:1px solid var(--line);padding:16px;border-radius:14px}.stat b{font-size:25px}.stat span{display:block;color:var(--muted);font-size:12px;margin-top:3px}
+.card{background:rgba(18,26,45,.94);border:1px solid var(--line);border-radius:15px;padding:16px;margin-bottom:14px}.row{display:flex;gap:10px;align-items:center;justify-content:space-between}.teacher{display:flex;align-items:center;gap:12px}.avatar{width:48px;height:48px;border-radius:12px;object-fit:cover;background:#202b47;display:grid;place-items:center;font-weight:800}.teacher h3{margin:0;font-size:17px}.muted{color:var(--muted);font-size:12px}.classbox{margin-top:13px;background:#0e1628;border:1px solid var(--line);border-radius:12px;overflow:hidden}.classhead{padding:11px 13px;background:#151f35;display:flex;justify-content:space-between;align-items:center}.lecture{display:grid;grid-template-columns:35px 1fr auto;gap:10px;align-items:center;padding:11px 13px;border-top:1px solid #202b45}.num{width:30px;height:30px;border-radius:8px;background:#202b47;display:grid;place-items:center;color:#cbd5ff;font-size:12px}.lecture .url{direction:ltr;text-align:right;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#8da5e8;font-size:11px}
+.formgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.field label{display:block;color:#b8c4df;font-size:12px;margin-bottom:6px}.field input,.field textarea,.field select{width:100%;background:#0c1425;border:1px solid var(--line);color:#fff;border-radius:10px;padding:11px}.field textarea{min-height:85px;resize:vertical}.full{grid-column:1/-1}.actions{display:flex;gap:8px;justify-content:flex-start;margin-top:14px;flex-wrap:wrap}.empty{text-align:center;padding:45px;color:var(--muted)}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.65);display:none;align-items:center;justify-content:center;padding:18px;z-index:20}.modal.show{display:flex}.dialog{width:min(720px,100%);max-height:90vh;overflow:auto;background:#10182b;border:1px solid var(--line);border-radius:16px;padding:18px}.dialog h2{margin-top:0}.close{float:left;background:transparent;color:var(--muted);font-size:22px}
+.toast{position:fixed;bottom:18px;left:18px;background:#18233b;border:1px solid var(--line);padding:11px 15px;border-radius:10px;display:none;z-index:30}.toast.show{display:block}
+@media(max-width:900px){.app{grid-template-columns:1fr}aside{height:auto;position:relative;border-left:0;border-bottom:1px solid var(--line)}.side-actions{position:static;margin-top:14px}.grid{grid-template-columns:repeat(2,1fr)}.formgrid{grid-template-columns:1fr}main{padding:15px}.top{align-items:flex-start;flex-direction:column}}
+@media(max-width:500px){.grid{grid-template-columns:1fr 1fr}.search{min-width:100%}.lecture{grid-template-columns:30px 1fr}.lecture .buttons{grid-column:2}}
+</style>
+
+<style id="v2-css">
+.lecture[draggable="true"]{cursor:default}.lecture.dragging{opacity:.45}.lecture.drop-target{outline:2px dashed #7180ff;outline-offset:-2px}.drag-handle{width:30px;height:30px;border-radius:8px;background:#202b47;color:#b8c5e8;display:grid;place-items:center;cursor:grab;user-select:none}.copy-link{margin-inline:4px}
+</style>
+</head>
+<body>
+<div class="app">
+<aside>
+  <div class="brand">🎓 لوحة المحاضرات <small>إدارة بيانات موقعك بدون تعديل الكود يدويًا</small></div>
+  <div class="nav">
+    <button class="active" onclick="showPage('dashboard',this)">📊 الرئيسية</button>
+    <button onclick="showPage('teachers',this)">👨‍🏫 المدرسون</button>
+    <button onclick="openTeacher()">➕ إضافة مدرس</button>
+    <button onclick="openLecture()">🎥 إضافة محاضرة</button>
+    <button onclick="showPage('backup',this)">💾 النسخ والاستيراد</button>
+  </div>
+  <div class="side-actions">
+    <button class="btn ok" style="width:100%;margin-bottom:8px" onclick="saveToSite()">🚀 حفظ إلى الموقع</button>
+    <button class="btn primary" style="width:100%" onclick="exportJS()">⬇️ تصدير dataab2026.js</button>
+  </div>
+</aside>
+<main>
+  <section id="dashboard">
+    <div class="top"><div><h1>لوحة التحكم</h1><p>أضف وعدّل واحذف المدرسين والمحاضرات ثم صدّر الملف الجاهز لموقعك.</p></div><div class="toolbar"><input id="search" class="search" placeholder="🔎 ابحث عن مدرس أو محاضرة..." oninput="render()"><button class="btn primary" onclick="openLecture()">+ محاضرة</button></div></div>
+    <div class="grid">
+      <div class="stat"><b id="sTeachers">0</b><span>المدرسون</span></div><div class="stat"><b id="sClasses">0</b><span>الأقسام</span></div><div class="stat"><b id="sLectures">0</b><span>المحاضرات</span></div><div class="stat"><b id="sLinks">0</b><span>الروابط</span></div>
+    </div>
+    <div id="content"></div>
+  </section>
+  <section id="teachers" style="display:none"><div class="top"><div><h1>المدرسون</h1><p>إدارة كاملة للمدرسين والأقسام والمحاضرات.</p></div><button class="btn primary" onclick="openTeacher()">+ مدرس جديد</button></div><div id="teachersContent"></div></section>
+  <section id="backup" style="display:none"><div class="top"><div><h1>النسخ والاستيراد</h1><p>احتفظ بنسخة احتياطية أو استورد data قديمة.</p></div></div>
+    <div class="card"><h3>استيراد</h3><p class="muted">يدعم JSON بصيغة teachers، وملف JS يحتوي window.dataAb2026.</p><input type="file" id="importFile" accept=".json,.js"><div class="actions"><button class="btn primary" onclick="importData()">استيراد البيانات</button></div></div>
+    <div class="card"><h3>نسخة احتياطية</h3><p class="muted">يتم حفظ نسخة تلقائية داخل المتصفح. يمكنك أيضًا تنزيل نسخة مستقلة.</p><div class="actions"><button class="btn ok" onclick="exportJSON()">⬇️ تنزيل JSON</button><button class="btn primary" onclick="exportJS()">⬇️ تنزيل JS</button><button class="btn" onclick="restoreDefault()">↩️ إعادة بيانات البداية</button></div></div>
+  </section>
+</main>
+</div>
+
+<div id="modal" class="modal"><div class="dialog"><button class="close" onclick="closeModal()">×</button><div id="modalBody"></div></div></div>
+<div id="toast" class="toast"></div>
+
+<script>
+const KEY='lecture_panel_v1';
+const initial={teachers:[{id:1740790563505,name:'ساجد العكيلي',subject:'مدرس مادة الكيمياء',image:'',classes:[{name:'المحاضرات',lectures:[
+{title:'محاضرة 1',description:'وصف المحاضرة',url:'https://vz-a58ace6d-ff4.b-cdn.net/f2c46927-75d4-4dca-bdf1-c0d6c0940d14/1080p/video.m3u8'},
+{title:'محاضرة 2',description:'وصف المحاضرة',url:'https://vz-a58ace6d-ff4.b-cdn.net/d4eaf1a6-a2e8-427b-82f0-d6fd1509537b/1080p/video.m3u8'},
+{title:'محاضرة 3',description:'وصف المحاضرة',url:'https://vz-a58ace6d-ff4.b-cdn.net/78405bf7-a5fd-421c-8152-247d3f83ab13/playlist.m3u8'},
+{title:'محاضرة 4',description:'وصف المحاضرة',url:'https://vz-a58ace6d-ff4.b-cdn.net/7417914d-f212-462c-9eef-2d31018cb0b9/playlist.m3u8'}
+]}]}]};
+let data=JSON.parse(localStorage.getItem(KEY)||JSON.stringify(initial));
+function save(){localStorage.setItem(KEY,JSON.stringify(data));render();toast('تم الحفظ تلقائيًا ✓')}
+function esc(s=''){return String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function stats(){let c=0,l=0;data.teachers.forEach(t=>{(t.classes||[]).forEach(x=>{c++;l+=(x.lectures||[]).length})});return [data.teachers.length,c,l,l]}
+function render(){
+ const [t,c,l]=stats();$('sTeachers').textContent=t;$('sClasses').textContent=c;$('sLectures').textContent=l;$('sLinks').textContent=l;
+ const q=($('search')?.value||'').toLowerCase().trim();
+ const html=data.teachers.map((t,ti)=>{let classes=(t.classes||[]).map((cl,ci)=>{let ls=(cl.lectures||[]).filter(x=>(x.title+' '+x.url).toLowerCase().includes(q));if(q&&!ls.length&&!cl.name.toLowerCase().includes(q))return '';return `<div class="classbox"><div class="classhead"><b>📚 ${esc(cl.name)}</b><span><button class="btn" onclick="openClass(${ti},${ci})">تعديل</button> <button class="btn danger" onclick="delClass(${ti},${ci})">حذف</button></span></div>${ls.map((x,li)=>`<div class="lecture" draggable="true" data-ti="${ti}" data-ci="${ci}" data-li="${(cl.lectures||[]).indexOf(x)}" ondragstart="v2DragStart(event)" ondragover="v2DragOver(event)" ondrop="v2Drop(event)" ondragend="v2DragEnd(event)"><div class="drag-handle" title="اسحب لإعادة الترتيب">☷</div><div><b>${esc(x.title)}</b><div class="url">${esc(x.url)}</div></div><div class="buttons"><button class="btn ok copy-link" onclick="v2Copy(${JSON.stringify(x.url)})">نسخ الرابط</button><button class="btn" onclick="openLecture(${ti},${ci},${(cl.lectures||[]).indexOf(x)})">تعديل</button> <button class="btn danger" onclick="delLecture(${ti},${ci},${(cl.lectures||[]).indexOf(x)})">حذف</button></div></div>`).join('')}</div>`}).join('');if(q&&!((t.name+' '+t.subject).toLowerCase().includes(q))&&!classes.trim())return '';return `<div class="card"><div class="row"><div class="teacher"><div class="avatar">${t.image?`<img src="${esc(t.image)}" style="width:100%;height:100%;object-fit:cover;border-radius:12px">`:'👨‍🏫'}</div><div><h3>${esc(t.name)}</h3><div class="muted">${esc(t.subject||'')}</div></div></div><div><button class="btn" onclick="openTeacher(${ti})">تعديل المدرس</button> <button class="btn danger" onclick="delTeacher(${ti})">حذف</button></div></div>${classes}<div class="actions"><button class="btn primary" onclick="openClass(${ti})">+ إضافة قسم</button><button class="btn ok" onclick="openLecture(${ti})">+ إضافة محاضرة</button></div></div>`}).join('');$('content').innerHTML=html||'<div class="empty">لا توجد نتائج.</div>';$('teachersContent').innerHTML=html||'<div class="empty">لا يوجد مدرسون.</div>';
+}
+function showPage(id,btn){['dashboard','teachers','backup'].forEach(x=>document.getElementById(x).style.display=x===id?'block':'none');document.querySelectorAll('.nav button').forEach(x=>x.classList.remove('active'));if(btn)btn.classList.add('active');render()}
+function modal(title,body){
+  const modalEl = $('modal');
+  const bodyEl = $('modalBody');
+  if(!modalEl || !bodyEl){ alert('تعذر فتح نافذة الإدخال'); return; }
+  bodyEl.innerHTML='<h2>'+title+'</h2>'+body;
+  modalEl.classList.add('show');
+}
+function closeModal(){
+  const modalEl = $('modal');
+  if(modalEl) modalEl.classList.remove('show');
+}
+function openTeacher(i=null){let t=i==null?{name:'',subject:'',image:''}:data.teachers[i];modal('👨‍🏫 '+(i==null?'إضافة مدرس':'تعديل مدرس'),`<div class="formgrid"><div class="field"><label>اسم المدرس</label><input id="fName" value="${esc(t.name)}"></div><div class="field"><label>المادة</label><input id="fSubject" value="${esc(t.subject||'')}"></div><div class="field full"><label>رابط الصورة (اختياري)</label><input id="fImage" value="${esc(t.image||'')}"></div></div><div class="actions"><button class="btn primary" onclick="saveTeacher(${i})">حفظ</button><button class="btn" onclick="closeModal()">إلغاء</button></div>`)}
+function saveTeacher(i){let t={id:i==null?Date.now():data.teachers[i].id,name:$('fName').value.trim(),subject:$('fSubject').value.trim(),image:$('fImage').value.trim(),classes:i==null?[]:data.teachers[i].classes};if(!t.name)return toast('اكتب اسم المدرس');if(i==null)data.teachers.push(t);else data.teachers[i]=t;closeModal();save()}
+function openClass(ti,ci=null){let c=ci==null?{name:''}:data.teachers[ti].classes[ci];modal('📚 '+(ci==null?'إضافة قسم':'تعديل قسم'),`<div class="field"><label>اسم القسم / الفصل</label><input id="fClass" value="${esc(c.name)}"></div><div class="actions"><button class="btn primary" onclick="saveClass(${ti},${ci})">حفظ</button></div>`)}
+function saveClass(ti,ci){
+  let n=$('fClass').value.trim();
+  if(!n)return toast('اكتب اسم القسم');
+  if(!Array.isArray(data.teachers[ti].classes)) data.teachers[ti].classes=[];
+  if(ci==null)data.teachers[ti].classes.push({name:n,lectures:[]});
+  else{
+    data.teachers[ti].classes[ci].name=n;
+    if(!Array.isArray(data.teachers[ti].classes[ci].lectures)) data.teachers[ti].classes[ci].lectures=[];
+  }
+  closeModal();
+  save();
+}
+function openLecture(ti=0,ci=0,li=null){
+  if(!data.teachers.length) return toast('أضف مدرسًا أولًا');
+
+  ti = Number(ti);
+  if(!Number.isInteger(ti) || !data.teachers[ti]) ti = 0;
+
+  if(!Array.isArray(data.teachers[ti].classes)){
+    data.teachers[ti].classes = [];
+  }
+
+  if(!data.teachers[ti].classes.length){
+    data.teachers[ti].classes.push({name:'المحاضرات',lectures:[]});
+  }
+
+  ci = Number(ci);
+  if(!Number.isInteger(ci) || !data.teachers[ti].classes[ci]) ci = 0;
+
+  if(!Array.isArray(data.teachers[ti].classes[ci].lectures)){
+    data.teachers[ti].classes[ci].lectures = [];
+  }
+
+  const lectures = data.teachers[ti].classes[ci].lectures;
+  let l = li == null ? {title:'',description:'',url:''} : (lectures[Number(li)] || {title:'',description:'',url:''});
+
+  modal('🎥 '+(li==null?'إضافة محاضرة':'تعديل محاضرة'),
+  `<div class="formgrid">
+    <div class="field">
+      <label>المدرس</label>
+      <select id="fTeacher" onchange="loadClasses()">
+        ${data.teachers.map((t,i)=>`<option value="${i}" ${i===ti?'selected':''}>${esc(t.name)}</option>`).join('')}
+      </select>
+    </div>
+    <div class="field">
+      <label>القسم</label>
+      <select id="fClassSelect">
+        ${data.teachers[ti].classes.map((c,i)=>`<option value="${i}" ${i===ci?'selected':''}>${esc(c.name)}</option>`).join('')}
+      </select>
+    </div>
+    <div class="field">
+      <label>عنوان المحاضرة</label>
+      <input id="fTitle" value="${esc(l.title)}">
+    </div>
+    <div class="field">
+      <label>الوصف</label>
+      <input id="fDesc" value="${esc(l.description||'')}">
+    </div>
+    <div class="field full">
+      <label>رابط الفيديو</label>
+      <textarea id="fUrl" dir="ltr">${esc(l.url)}</textarea>
+    </div>
+  </div>
+  <div class="actions">
+    <button class="btn primary" onclick="saveLecture(${ti},${ci},${li==null?'null':Number(li)})">حفظ</button>
+    <button class="btn" onclick="closeModal()">إلغاء</button>
+  </div>`)
+}
+function loadClasses(){let t=data.teachers[+$('fTeacher').value];$('fClassSelect').innerHTML=(t.classes||[]).map((c,i)=>`<option value="${i}">${esc(c.name)}</option>`).join('')}
+function saveLecture(ti,ci,li){
+  const teacherSelect = $('fTeacher');
+  const classSelect = $('fClassSelect');
+  const titleEl = $('fTitle');
+  const descEl = $('fDesc');
+  const urlEl = $('fUrl');
+
+  if(!teacherSelect || !classSelect || !titleEl || !urlEl){
+    return toast('تعذر قراءة بيانات المحاضرة');
+  }
+
+  ti = Number(teacherSelect.value);
+  ci = Number(classSelect.value);
+
+  if(!Number.isInteger(ti) || !data.teachers[ti]){
+    return toast('اختر مدرسًا صحيحًا');
+  }
+
+  if(!Array.isArray(data.teachers[ti].classes)){
+    data.teachers[ti].classes = [];
+  }
+
+  if(!data.teachers[ti].classes[ci]){
+    return toast('اختر قسمًا صحيحًا');
+  }
+
+  const cls = data.teachers[ti].classes[ci];
+  if(!Array.isArray(cls.lectures)){
+    cls.lectures = [];
+  }
+
+  const x = {
+    title: titleEl.value.trim() || 'محاضرة جديدة',
+    description: descEl ? descEl.value.trim() : '',
+    url: urlEl.value.trim()
+  };
+
+  if(!x.url){
+    return toast('أدخل رابط الفيديو');
+  }
+
+  if(li == null || li === '' || Number(li) < 0){
+    cls.lectures.push(x);
+    toast('تمت إضافة المحاضرة ✓');
+  }else{
+    const index = Number(li);
+    if(index >= cls.lectures.length){
+      cls.lectures.push(x);
+      toast('تمت إضافة المحاضرة ✓');
+    }else{
+      cls.lectures[index] = x;
+      toast('تم تعديل المحاضرة ✓');
+    }
+  }
+
+  closeModal();
+  save();
+}
+function delTeacher(i){if(confirm('حذف المدرس وكل محاضراته؟')){data.teachers.splice(i,1);save()}}
+function delClass(ti,ci){if(confirm('حذف القسم وكل محاضراته؟')){data.teachers[ti].classes.splice(ci,1);save()}}
+function delLecture(ti,ci,li){if(confirm('حذف المحاضرة؟')){data.teachers[ti].classes[ci].lectures.splice(li,1);save()}}
+function download(name,text,type='application/json'){let a=document.createElement('a');a.href=URL.createObjectURL(new Blob([text],{type}));a.download=name;a.click();URL.revokeObjectURL(a.href)}
+function exportJSON(){download('dataab2026.json',JSON.stringify(data,null,2))}
+function exportJS(){download('dataab2026.js','window.dataAb2026 = '+JSON.stringify(data,null,2)+';','text/javascript')}
+function importData(){let f=$('importFile').files[0];if(!f)return toast('اختر ملفًا أولًا');let r=new FileReader();r.onload=()=>{try{let s=r.result.trim();if(s.includes('window.dataAb2026'))s=s.substring(s.indexOf('{'),s.lastIndexOf('}')+1);let x=JSON.parse(s);if(!Array.isArray(x.teachers))throw 0;data=x;save();toast('تم الاستيراد بنجاح ✓')}catch(e){toast('الملف غير متوافق')}};r.readAsText(f)}
+function restoreDefault(){if(confirm('إرجاع بيانات البداية؟ سيتم فقد التعديلات الحالية من هذا المتصفح.')){data=JSON.parse(JSON.stringify(initial));save()}}
+function toast(s){const toastEl=document.getElementById('toast');toastEl.textContent=s;toastEl.classList.add('show');setTimeout(()=>toastEl.classList.remove('show'),2200)}
+
+// ===== حفظ بيانات اللوحة إلى الموقع عبر Netlify Function =====
+const UPDATE_DATA_ENDPOINT = 'https://sads86ff.netlify.app/.netlify/functions/update-data';
+
+// DOM references (explicit, so buttons work reliably on mobile browsers)
+const $ = (id) => document.getElementById(id);
+
+
+async function saveToSite(){
+    const btns = document.querySelectorAll('button');
+    let saveBtn = null;
+    btns.forEach(b => {
+        if ((b.textContent || '').includes('حفظ إلى الموقع')) saveBtn = b;
+    });
+
+    if (saveBtn) {
+        saveBtn.disabled = true;
+        saveBtn.textContent = '⏳ جاري الحفظ...';
+    }
+
+    try {
+        localStorage.setItem(KEY, JSON.stringify(data));
+
+        const response = await fetch(UPDATE_DATA_ENDPOINT, {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                data: data,
+                message: 'Update data from control panel'
+            })
+        });
+
+        const result = await response.json().catch(() => ({}));
+
+        if (!response.ok || !result.success) {
+            throw new Error(result.error || 'تعذر حفظ البيانات في الموقع');
+        }
+
+        toast('تم حفظ البيانات في الموقع ✓');
+    } catch (error) {
+        console.error(error);
+        toast('فشل الحفظ: ' + (error.message || 'خطأ غير معروف'));
+    } finally {
+        if (saveBtn) {
+            saveBtn.disabled = false;
+            saveBtn.textContent = '🚀 حفظ إلى الموقع';
+        }
+    }
+}
+
+// ===== لوحة 2.0: نسخ الروابط + السحب والإفلات =====
+let v2Drag=null;
+async function v2Copy(url){try{await navigator.clipboard.writeText(url)}catch(e){const t=document.createElement('textarea');t.value=url;document.body.appendChild(t);t.select();document.execCommand('copy');t.remove()}toast('تم نسخ الرابط ✓')}
+function v2DragStart(e){v2Drag={ti:+e.currentTarget.dataset.ti,ci:+e.currentTarget.dataset.ci,li:+e.currentTarget.dataset.li};e.currentTarget.classList.add('dragging');e.dataTransfer.effectAllowed='move'}
+function v2DragOver(e){e.preventDefault();e.currentTarget.classList.add('drop-target')}
+function v2DragEnd(e){e.currentTarget.classList.remove('dragging','drop-target');document.querySelectorAll('.lecture.drop-target').forEach(x=>x.classList.remove('drop-target'))}
+function v2Drop(e){e.preventDefault();const row=e.currentTarget;row.classList.remove('drop-target');if(!v2Drag)return;const ti=+row.dataset.ti,ci=+row.dataset.ci,li=+row.dataset.li;if(ti!==v2Drag.ti||ci!==v2Drag.ci){toast('السحب حاليًا داخل نفس القسم فقط');v2Drag=null;return}const arr=data.teachers[ti].classes[ci].lectures;const item=arr.splice(v2Drag.li,1)[0];const target=li>(v2Drag.li)?li-1:li;arr.splice(Math.max(0,target),0,item);v2Drag=null;save();toast('تم تغيير الترتيب ✓')}
+
+// Render after all top-level constants are initialized.
+window.addEventListener('DOMContentLoaded', render);
+
+</script>
+</body>
+</html>
