@@ -143,7 +143,11 @@ function navigateToPage(page) {
         
         switch(page) {
             case 'abwab2026':
-                loadTeachersPage(window.dataAb2026, 'محاضرات أبواب 2026');
+                if (!window.dataAb2026 || !Array.isArray(window.dataAb2026.teachers)) {
+                    showNotification('تعذر تحميل بيانات محاضرات 2026، حاول تحديث الصفحة', 'error');
+                    break;
+                }
+                loadTeachersPage(window.dataAb2026, 'محاضرات 2026');
                 break;
             case 'abwab2025':
                 loadTeachersPage(window.dataAb2025, 'محاضرات أبواب 2025');
@@ -170,8 +174,8 @@ function loadHomePage() {
 }
 
 function loadTeachersPage(data, title) {
-    if (!data || !data.teachers) {
-        console.error('البيانات غير متوفرة');
+    if (!data || !Array.isArray(data.teachers)) {
+        showNotification('البيانات غير متوفرة', 'error');
         return;
     }
     
@@ -196,8 +200,12 @@ function createTeacherCard(teacher) {
     card.className = 'teacher-card';
     card.onclick = () => loadTeacherPage(teacher);
     
+    const imageHtml = teacher.image
+        ? `<img class="teacher-avatar" src="${teacher.image}" alt="${teacher.name}" onerror="this.style.display='none'">`
+        : `<div class="teacher-avatar teacher-avatar-placeholder"><i class="fas fa-user-tie"></i></div>`;
+
     card.innerHTML = `
-        <img class="teacher-avatar" src="${teacher.image}" alt="${teacher.name}" onerror="this.src='https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg'">
+        ${imageHtml}
         <h3>${teacher.name}</h3>
         <p>${teacher.subject}</p>
         <div class="teacher-stats">
@@ -209,7 +217,14 @@ function createTeacherCard(teacher) {
 }
 
 function loadTeacherPage(teacher) {
-    document.getElementById('teacherImage').src = teacher.image;
+    const teacherImage = document.getElementById('teacherImage');
+    if (teacher.image) {
+        teacherImage.src = teacher.image;
+        teacherImage.style.display = 'block';
+    } else {
+        teacherImage.removeAttribute('src');
+        teacherImage.style.display = 'none';
+    }
     document.getElementById('teacherName').textContent = teacher.name;
     document.getElementById('teacherSubject').textContent = teacher.subject;
     
@@ -226,6 +241,7 @@ function loadTeacherPage(teacher) {
     showPage('teacherPage');
     AppState.currentPage = 'teacher';
     AppState.currentTeacher = teacher;
+    updateBackButton();
 }
 
 function createClassElement(classItem, teacherId, classIndex) {
@@ -450,6 +466,7 @@ function playLecture(url, title, description, teacherId, classIndex, lectureInde
     AppState.currentLecture = {
         url, title, description, teacherId, classIndex, lectureIndex
     };
+    updateBackButton();
 }
 
 function markLectureCompleted() {
@@ -483,7 +500,7 @@ function isLectureCompleted(teacherId, classIndex, lectureTitle) {
 // Materials Page
 function loadMaterialsPage() {
     if (!window.materialsData) {
-        console.error('بيانات المواد غير متوفرة');
+        showNotification('قسم الملازم والمراجعات غير مضاف بعد', 'info');
         return;
     }
     
@@ -531,7 +548,7 @@ function createMaterialCard(item) {
 // Exams Page
 function loadExamsPage() {
     if (!window.examsData) {
-        console.error('بيانات الامتحانات غير متوفرة');
+        showNotification('قسم الامتحانات غير مضاف بعد', 'info');
         return;
     }
     
