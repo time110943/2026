@@ -93,3 +93,94 @@ export default async (request) => {
       return new Response(
         JSON.stringify({
           success: false,
+          error: "تعذر قراءة dataab2026.js من GitHub",
+          details: errorText
+        }),
+        {
+          status: currentResponse.status,
+          headers
+        }
+      );
+    }
+
+    const currentFile = await currentResponse.json();
+
+    if (!currentFile.sha) {
+      return new Response(
+        JSON.stringify({
+          success: false,
+          error: "لم يتم العثور على SHA للملف"
+        }),
+        {
+          status: 500,
+          headers
+        }
+      );
+    }
+
+    // إنشاء ملف JavaScript صالح
+    const jsContent =
+      "window.dataAb2026 = " +
+      JSON.stringify(data, null, 2) +
+      ";\n";
+
+    const encodedContent = Buffer
+      .from(jsContent, "utf8")
+      .toString("base64");
+
+    // تحديث الملف في GitHub
+    const updateResponse = await fetch(apiUrl, {
+      method: "PUT",
+      headers: {
+        ...githubHeaders,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        message: body.message ?? "Update lectures from control panel",
+        content: encodedContent,
+        sha: currentFile.sha,
+        branch: branch
+      })
+    });
+
+    const result = await updateResponse.json();
+
+    if (!updateResponse.ok) {
+      return new Response(
+        JSON.stringify({
+          success: false,
+          error: "فشل تحديث dataab2026.js في GitHub",
+          details: result
+        }),
+        {
+          status: updateResponse.status,
+          headers
+        }
+      );
+    }
+
+    return new Response(
+      JSON.stringify({
+        success: true,
+        message: "تم حفظ البيانات بنجاح",
+        commit: result.commit?.sha ?? null
+      }),
+      {
+        status: 200,
+        headers
+      }
+    );
+
+  } catch (error) {
+    return new Response(
+      JSON.stringify({
+        success: false,
+        error: error?.message ?? "خطأ غير معروف"
+      }),
+      {
+        status: 500,
+        headers
+      }
+    );
+  }
+};
