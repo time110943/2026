@@ -1,920 +1,1033 @@
-// Security Protection
-(function() {
-    'use strict';
+:root {
+    --primary-color: #2563eb;
+    --secondary-color: #10b981;
+    --accent-color: #f59e0b;
+    --success-color: #059669;
+    --warning-color: #d97706;
+    --error-color: #dc2626;
     
-    // Disable right-click context menu
-    document.addEventListener('contextmenu', function(e) {
-        e.preventDefault();
-        return false;
-    });
+    --text-primary: #1f2937;
+    --text-secondary: #6b7280;
+    --text-muted: #9ca3af;
     
-    // Disable F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U
-    document.addEventListener('keydown', function(e) {
-        // F12
-        if (e.keyCode === 123) {
-            e.preventDefault();
-            return false;
-        }
-        // Ctrl+Shift+I
-        if (e.ctrlKey && e.shiftKey && e.keyCode === 73) {
-            e.preventDefault();
-            return false;
-        }
-        // Ctrl+Shift+J
-        if (e.ctrlKey && e.shiftKey && e.keyCode === 74) {
-            e.preventDefault();
-            return false;
-        }
-        // Ctrl+U
-        if (e.ctrlKey && e.keyCode === 85) {
-            e.preventDefault();
-            return false;
-        }
-        // Ctrl+S
-        if (e.ctrlKey && e.keyCode === 83) {
-            e.preventDefault();
-            return false;
-        }
-        // Ctrl+A
-        if (e.ctrlKey && e.keyCode === 65) {
-            e.preventDefault();
-            return false;
-        }
-        // Ctrl+P
-        if (e.ctrlKey && e.keyCode === 80) {
-            e.preventDefault();
-            return false;
-        }
-    });
+    --bg-primary: #ffffff;
+    --bg-secondary: #f9fafb;
+    --bg-tertiary: #f3f4f6;
     
-    // Disable text selection
-    document.addEventListener('selectstart', function(e) {
-        e.preventDefault();
-        return false;
-    });
+    --border-color: #e5e7eb;
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
     
-    // Disable drag
-    document.addEventListener('dragstart', function(e) {
-        e.preventDefault();
-        return false;
-    });
+    --border-radius: 12px;
+    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-theme="dark"] {
+    --text-primary: #f9fafb;
+    --text-secondary: #d1d5db;
+    --text-muted: #9ca3af;
     
-    // Override console methods
-    const methods = ['log', 'debug', 'info', 'warn', 'error', 'assert', 'dir', 'dirxml', 'group', 'groupEnd', 'time', 'timeEnd', 'count', 'trace', 'profile', 'profileEnd'];
-    for (let i = 0; i < methods.length; i++) {
-        console[methods[i]] = function() {};
+    --bg-primary: #111827;
+    --bg-secondary: #1f2937;
+    --bg-tertiary: #374151;
+    
+    --border-color: #374151;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    transition: var(--transition);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header */
+.header {
+    background: var(--bg-primary);
+    box-shadow: var(--shadow-sm);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.logo i {
+    font-size: 2rem;
+}
+
+.header-controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+/* Buttons */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    transition: var(--transition);
+    font-family: inherit;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #1d4ed8;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
+
+.btn-secondary {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+.btn-secondary:hover {
+    background-color: var(--bg-secondary);
+    transform: translateY(-2px);
+}
+
+.btn-success {
+    background-color: var(--success-color);
+    color: white;
+}
+
+.btn-success:hover {
+    background-color: #047857;
+    transform: translateY(-2px);
+}
+
+.btn-success.completed {
+    background-color: #6b7280;
+    cursor: not-allowed;
+}
+
+.btn-success.completed:hover {
+    background-color: #6b7280;
+    transform: none;
+}
+
+.btn-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border: none;
+    border-radius: 50%;
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.btn-icon:hover {
+    background-color: var(--primary-color);
+    color: white;
+    transform: scale(1.1);
+}
+
+/* Main Content */
+.main-content {
+    min-height: calc(100vh - 80px);
+    padding: 2rem 0;
+}
+
+.page {
+    display: none;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.page.active {
+    display: block;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
     }
-})();
-
-// Application State
-const AppState = {
-    currentPage: 'home',
-    currentTeacher: null,
-    currentClass: null,
-    currentLecture: null,
-    currentSubject: null,
-    progress: JSON.parse(localStorage.getItem('courseProgress') || '{}'),
-    darkMode: localStorage.getItem('darkMode') === 'true',
-    telegramModalShown: localStorage.getItem('telegramModalShown') === 'true'
-};
-
-// Proxy URL Configuration
-const PROXY_URL = 'https://videoiq.duckdns.org';
-
-// Initialize App
-document.addEventListener('DOMContentLoaded', function() {
-    initializeApp();
-});
-
-function initializeApp() {
-    setupEventListeners();
-    setupDarkMode();
-    showTelegramModal();
-    loadHomePage();
-}
-
-function setupEventListeners() {
-    // Dark mode toggle
-    document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
-    
-    // Back button
-    document.getElementById('backBtn').addEventListener('click', goBack);
-    
-    // Telegram modal
-    document.getElementById('confirmSubscription').addEventListener('click', closeTelegramModal);
-    
-    // Mark completed button
-    document.getElementById('markCompleted').addEventListener('click', markLectureCompleted);
-    
-    // Material tabs
-    document.querySelectorAll('.tab-btn').forEach(btn => {
-        btn.addEventListener('click', function() {
-            switchMaterialTab(this.dataset.tab);
-        });
-    });
-}
-
-function setupDarkMode() {
-    if (AppState.darkMode) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        document.getElementById('darkModeToggle').innerHTML = '<i class="fas fa-sun"></i>';
-    }
-}
-
-function toggleDarkMode() {
-    AppState.darkMode = !AppState.darkMode;
-    localStorage.setItem('darkMode', AppState.darkMode);
-    
-    if (AppState.darkMode) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        document.getElementById('darkModeToggle').innerHTML = '<i class="fas fa-sun"></i>';
-    } else {
-        document.documentElement.removeAttribute('data-theme');
-        document.getElementById('darkModeToggle').innerHTML = '<i class="fas fa-moon"></i>';
-    }
-}
-
-// Navigation Functions
-function navigateToPage(page) {
-    showLoading();
-    
-    setTimeout(() => {
-        hideLoading();
-        
-        switch(page) {
-            case 'abwab2026':
-                loadTeachersPage(window.dataAb2026, 'محاضرات أبواب 2026');
-                break;
-            case 'abwab2025':
-                loadTeachersPage(window.dataAb2025, 'محاضرات أبواب 2025');
-                break;
-            case 'iraq2025':
-                loadTeachersPage(window.dataIq2025, 'العراق أكاديمي 2025');
-                break;
-            case 'materials':
-                loadMaterialsPage();
-                break;
-            case 'exams':
-                loadExamsPage();
-                break;
-        }
-        
-        updateBackButton();
-    }, 500);
-}
-
-function loadHomePage() {
-    showPage('homePage');
-    AppState.currentPage = 'home';
-    updateBackButton();
-}
-
-function loadTeachersPage(data, title) {
-    if (!data || !data.teachers) {
-        console.error('البيانات غير متوفرة');
-        return;
-    }
-    
-    document.getElementById('pageTitle').textContent = title;
-    
-    const teachersList = document.getElementById('teachersList');
-    teachersList.innerHTML = '';
-    
-    data.teachers.forEach(teacher => {
-        const teacherCard = createTeacherCard(teacher);
-        teachersList.appendChild(teacherCard);
-    });
-    
-    updateProgress(data);
-    showPage('teachersPage');
-    AppState.currentPage = 'teachers';
-    AppState.currentData = data;
-}
-
-function createTeacherCard(teacher) {
-    const card = document.createElement('div');
-    card.className = 'teacher-card';
-    card.onclick = () => loadTeacherPage(teacher);
-    
-    card.innerHTML = `
-        <img class="teacher-avatar" src="${teacher.image}" alt="${teacher.name}" onerror="this.src='https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg'">
-        <h3>${teacher.name}</h3>
-        <p>${teacher.subject}</p>
-        <div class="teacher-stats">
-            <span>${teacher.classes ? teacher.classes.length : 0} فصل</span>
-        </div>
-    `;
-    
-    return card;
-}
-
-function loadTeacherPage(teacher) {
-    document.getElementById('teacherImage').src = teacher.image;
-    document.getElementById('teacherName').textContent = teacher.name;
-    document.getElementById('teacherSubject').textContent = teacher.subject;
-    
-    const classesList = document.getElementById('classesList');
-    classesList.innerHTML = '';
-    
-    if (teacher.classes) {
-        teacher.classes.forEach((classItem, index) => {
-            const classElement = createClassElement(classItem, teacher.id, index);
-            classesList.appendChild(classElement);
-        });
-    }
-    
-    showPage('teacherPage');
-    AppState.currentPage = 'teacher';
-    AppState.currentTeacher = teacher;
-}
-
-function createClassElement(classItem, teacherId, classIndex) {
-    const classElement = document.createElement('div');
-    classElement.className = 'class-item';
-    
-    const completedLectures = classItem.lectures ? classItem.lectures.filter(lecture => 
-        isLectureCompleted(teacherId, classIndex, lecture.title)
-    ).length : 0;
-    
-    const totalLectures = classItem.lectures ? classItem.lectures.length : 0;
-    const progressPercent = totalLectures > 0 ? Math.round((completedLectures / totalLectures) * 100) : 0;
-    
-    classElement.innerHTML = `
-        <div class="class-header" onclick="toggleClass(this)">
-            <div>
-                <div class="class-title">${classItem.name}</div>
-                <div class="class-progress">${progressPercent}% مكتمل (${completedLectures}/${totalLectures})</div>
-            </div>
-            <i class="fas fa-chevron-down class-icon"></i>
-        </div>
-        <div class="lectures-list">
-            ${classItem.lectures ? classItem.lectures.map((lecture, lectureIndex) => {
-                const escapedUrl = lecture.url.replace(/'/g, "\\'");
-                const escapedTitle = lecture.title.replace(/'/g, "\\'");
-                const escapedDesc = (lecture.description || '').replace(/'/g, "\\'");
-                return `
-                    <div class="lecture-item">
-                        <div class="lecture-checkbox" onclick="toggleLectureCompletion(event, ${teacherId}, ${classIndex}, '${escapedTitle}')">
-                            <div class="checkbox ${isLectureCompleted(teacherId, classIndex, lecture.title) ? 'checked' : ''}">
-                                ${isLectureCompleted(teacherId, classIndex, lecture.title) ? '<i class="fas fa-check"></i>' : ''}
-                            </div>
-                        </div>
-                        <div class="lecture-content" onclick="playLecture('${escapedUrl}', '${escapedTitle}', '${escapedDesc}', ${teacherId}, ${classIndex}, ${lectureIndex})">
-                            <div class="lecture-info">
-                                <h4>${lecture.title}</h4>
-                                <p>${lecture.description || ''}</p>
-                            </div>
-                            <div class="lecture-play">
-                                <i class="fas fa-play"></i>
-                            </div>
-                        </div>
-                    </div>
-                `;
-            }).join('') : '<p>لا توجد محاضرات متاحة</p>'}
-        </div>
-    `;
-    
-    return classElement;
-}
-
-function toggleClass(header) {
-    const classItem = header.parentElement;
-    classItem.classList.toggle('active');
-}
-
-function toggleLectureCompletion(event, teacherId, classIndex, lectureTitle) {
-    event.stopPropagation();
-    
-    const key = `${teacherId}_${classIndex}_${lectureTitle}`;
-    
-    if (AppState.progress[key] && AppState.progress[key].completed) {
-        delete AppState.progress[key];
-    } else {
-        AppState.progress[key] = {
-            completed: true,
-            completedAt: new Date().toISOString()
-        };
-    }
-    
-    localStorage.setItem('courseProgress', JSON.stringify(AppState.progress));
-    
-    const checkbox = event.target.closest('.lecture-checkbox').querySelector('.checkbox');
-    if (AppState.progress[key] && AppState.progress[key].completed) {
-        checkbox.classList.add('checked');
-        checkbox.innerHTML = '<i class="fas fa-check"></i>';
-        showNotification('تم تسجيل إكمال المحاضرة!', 'success');
-    } else {
-        checkbox.classList.remove('checked');
-        checkbox.innerHTML = '';
-        showNotification('تم إلغاء إكمال المحاضرة', 'info');
-    }
-    
-    updateClassProgress(teacherId, classIndex);
-}
-
-function updateClassProgress(teacherId, classIndex) {
-    if (AppState.currentTeacher) {
-        loadTeacherPage(AppState.currentTeacher);
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
 
-// Extract Video ID from URL
-function extractVideoId(url) {
-    if (!url || typeof url !== 'string') return null;
+/* Hero Section */
+.hero-section {
+    text-align: center;
+    padding: 4rem 0;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border-radius: var(--border-radius);
+    margin-bottom: 3rem;
+}
 
-    const patterns = [
-        /\/embed\/\d+\/([a-f0-9-]{36})/i,
-        /\/([a-f0-9-]{36})/i,
-        /\/([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})/i
-    ];
+.hero-section h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
 
-    for (const pattern of patterns) {
-        const match = url.match(pattern);
-        if (match && match[1]) return match[1];
+.hero-section p {
+    font-size: 1.25rem;
+    opacity: 0.9;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Services Grid */
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.service-card {
+    background: var(--bg-primary);
+    border-radius: var(--border-radius);
+    padding: 2rem;
+    text-align: center;
+    cursor: pointer;
+    transition: var(--transition);
+    border: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.service-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg);
+}
+
+.service-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+}
+
+.service-icon {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border-radius: 50%;
+    font-size: 2rem;
+}
+
+.service-card h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.service-card p {
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+}
+
+.service-badge {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: var(--accent-color);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+/* Page Header */
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.page-header h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.progress-info {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.progress-bar {
+    width: 200px;
+    height: 8px;
+    background: var(--bg-tertiary);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    transition: width 0.5s ease;
+    width: 0%;
+}
+
+/* Teachers Grid */
+.teachers-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.teacher-card {
+    background: var(--bg-primary);
+    border-radius: var(--border-radius);
+    padding: 2rem;
+    text-align: center;
+    cursor: pointer;
+    transition: var(--transition);
+    border: 1px solid var(--border-color);
+}
+
+.teacher-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+.teacher-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 1.5rem;
+    border: 4px solid var(--primary-color);
+}
+
+.teacher-card h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.teacher-card p {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+}
+
+/* Teacher Header */
+.teacher-header {
+    background: var(--bg-primary);
+    border-radius: var(--border-radius);
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border: 1px solid var(--border-color);
+}
+
+.teacher-info {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.teacher-details h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.teacher-details p {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+}
+
+/* Classes List */
+.classes-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.class-item {
+    background: var(--bg-primary);
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    overflow: hidden;
+}
+
+.class-header {
+    padding: 1.5rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--bg-secondary);
+    transition: var(--transition);
+}
+
+.class-header:hover {
+    background: var(--bg-tertiary);
+}
+
+.class-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.class-progress {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-top: 0.25rem;
+}
+
+.class-icon {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    transition: transform 0.3s ease;
+}
+
+.class-item.active .class-icon {
+    transform: rotate(180deg);
+}
+
+.lectures-list {
+    display: none;
+    padding: 0 1.5rem 1.5rem;
+}
+
+.class-item.active .lectures-list {
+    display: block;
+}
+
+.lecture-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.lecture-item:hover {
+    background: var(--bg-secondary);
+    border-color: var(--primary-color);
+}
+
+.lecture-checkbox {
+    cursor: pointer;
+    padding: 0.25rem;
+}
+
+.checkbox {
+    width: 24px;
+    height: 24px;
+    border: 2px solid var(--primary-color);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: var(--transition);
+    background: var(--bg-primary);
+}
+
+.checkbox.checked {
+    background: var(--success-color);
+    border-color: var(--success-color);
+    color: white;
+}
+
+.checkbox:hover {
+    transform: scale(1.1);
+    box-shadow: var(--shadow-md);
+}
+
+.lecture-content {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.lecture-info h4 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+    color: var(--text-primary);
+}
+
+.lecture-info p {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.lecture-play {
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    opacity: 0.7;
+    transition: var(--transition);
+}
+
+.lecture-item:hover .lecture-play {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+/* Video Player */
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background: #000;
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.video-info {
+    background: var(--bg-primary);
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+}
+
+.video-info h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.video-info p {
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+}
+
+/* Materials Tabs */
+.materials-tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+}
+
+.tab-btn {
+    padding: 0.75rem 1.5rem;
+    border: none;
+    background: var(--bg-tertiary);
+    color: var(--text-secondary);
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    transition: var(--transition);
+    white-space: nowrap;
+    font-family: inherit;
+    font-size: 1rem;
+}
+
+.tab-btn.active,
+.tab-btn:hover {
+    background: var(--primary-color);
+    color: white;
+}
+
+.materials-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.material-card {
+    background: var(--bg-primary);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    border: 1px solid var(--border-color);
+    transition: var(--transition);
+}
+
+.material-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+.material-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.material-info {
+    padding: 1.5rem;
+}
+
+.material-info h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.material-subject {
+    color: var(--primary-color);
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.material-download {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: var(--transition);
+}
+
+.material-download:hover {
+    color: var(--secondary-color);
+}
+
+/* Subjects Grid */
+.subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.subject-card {
+    background: var(--bg-primary);
+    border-radius: var(--border-radius);
+    padding: 2rem;
+    text-align: center;
+    cursor: pointer;
+    transition: var(--transition);
+    border: 1px solid var(--border-color);
+}
+
+.subject-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+.subject-icon {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border-radius: 50%;
+    font-size: 2rem;
+}
+
+.subject-card h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+/* Chapters List */
+.chapters-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.chapter-item {
+    background: var(--bg-primary);
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    overflow: hidden;
+}
+
+.chapter-header {
+    padding: 1.5rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--bg-secondary);
+    transition: var(--transition);
+}
+
+.chapter-header:hover {
+    background: var(--bg-tertiary);
+}
+
+.chapter-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.exams-list {
+    display: none;
+    padding: 0 1.5rem 1.5rem;
+}
+
+.chapter-item.active .exams-list {
+    display: block;
+}
+
+.exam-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+    border: 1px solid var(--border-color);
+    transition: var(--transition);
+}
+
+.exam-item:hover {
+    border-color: var(--primary-color);
+    background: var(--bg-secondary);
+}
+
+.exam-info h4 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+    color: var(--text-primary);
+}
+
+.exam-info p {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.exam-download {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: var(--transition);
+}
+
+.exam-download:hover {
+    color: var(--secondary-color);
+}
+
+/* Modal */
+.modal {
+    display: flex;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s ease;
+}
+
+.modal-content {
+    background: var(--bg-primary);
+    border-radius: var(--border-radius);
+    padding: 2rem;
+    text-align: center;
+    max-width: 500px;
+    width: 90%;
+    position: relative;
+    animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
     }
-
-    const segments = url.split('/').filter(s => s.length > 0);
-    const lastSegment = (segments[segments.length - 1] || '').split('?')[0];
-
-    if (/^[a-f0-9-]{36}$/i.test(lastSegment)) return lastSegment;
-
-    return null;
-}
-
-// Extract YouTube video ID
-function getYouTubeId(url) {
-    if (!url || typeof url !== 'string') return null;
-
-    try {
-        const u = new URL(url.trim());
-        const host = u.hostname.replace(/^www\./i, '').toLowerCase();
-
-        if (host === 'youtu.be') {
-            return u.pathname.split('/').filter(Boolean)[0] || null;
-        }
-
-        if (host === 'youtube.com' || host.endsWith('.youtube.com')) {
-            if (u.pathname === '/watch') return u.searchParams.get('v');
-
-            const match = u.pathname.match(
-                /^\/(?:embed|shorts|live)\/([^/?#]+)/
-            );
-
-            return match ? match[1] : null;
-        }
-    } catch (_) {
-        return null;
-    }
-
-    return null;
-}
-
-// Detect the video type
-function getVideoType(url) {
-    if (!url || typeof url !== 'string') return 'unknown';
-
-    const value = url.trim();
-    const cleanUrl = value.split('#')[0].split('?')[0].toLowerCase();
-
-    if (/\.m3u8$/i.test(cleanUrl)) return 'hls';
-    if (/\.(mp4|m4v)$/i.test(cleanUrl)) return 'mp4';
-
-    try {
-        const u = new URL(value);
-        const host = u.hostname.toLowerCase();
-        const pathname = u.pathname.toLowerCase();
-
-        if (host.endsWith('googlevideo.com') && pathname.includes('/videoplayback')) {
-            return 'mp4';
-        }
-    } catch (_) {}
-
-    if (getYouTubeId(value)) return 'youtube';
-    if (extractVideoId(value)) return 'proxy';
-
-    return 'unknown';
-}
-
-// Stop and fully reset both players (native + iframe)
-function stopVideoPlayback() {
-    const nativePlayer = document.getElementById('videoPlayerNative');
-    const iframePlayer = document.getElementById('videoPlayer');
-
-    if (window.currentHls) {
-        window.currentHls.destroy();
-        window.currentHls = null;
-    }
-
-    if (nativePlayer) {
-        nativePlayer.pause();
-        nativePlayer.removeAttribute('src');
-        nativePlayer.load();
-        nativePlayer.style.display = 'none';
-        nativePlayer.onerror = null;
-    }
-
-    if (iframePlayer) {
-        iframePlayer.src = '';
-        iframePlayer.style.display = 'none';
+    to {
+        transform: translateY(0);
+        opacity: 1;
     }
 }
 
-// Load a video source into the correct player based on its type
-function setupVideoSource(url) {
-    const nativePlayer = document.getElementById('videoPlayerNative');
-    const iframePlayer = document.getElementById('videoPlayer');
-
-    if (!url || !nativePlayer || !iframePlayer) {
-        showNotification('رابط الفيديو أو مشغل الفيديو غير متوفر', 'error');
-        return false;
-    }
-
-    stopVideoPlayback();
-
-    const videoType = getVideoType(url);
-
-    // YouTube
-    if (videoType === 'youtube') {
-        const videoId = getYouTubeId(url);
-
-        if (!videoId) {
-            showNotification('رابط YouTube غير صحيح', 'error');
-            return false;
-        }
-
-        iframePlayer.style.display = 'block';
-        iframePlayer.src =
-            `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?rel=0&modestbranding=1&playsinline=1`;
-
-        return true;
-    }
-
-    // HLS / M3U8
-    if (videoType === 'hls') {
-        nativePlayer.style.display = 'block';
-
-        if (nativePlayer.canPlayType('application/vnd.apple.mpegurl')) {
-            nativePlayer.src = url;
-            return true;
-        }
-
-        if (window.Hls && Hls.isSupported()) {
-            const hls = new Hls();
-            hls.loadSource(url);
-            hls.attachMedia(nativePlayer);
-
-            hls.on(Hls.Events.ERROR, function(event, data) {
-                if (data && data.fatal) {
-                    showNotification('حدث خطأ أثناء تشغيل البث', 'error');
-                }
-            });
-
-            window.currentHls = hls;
-            return true;
-        }
-
-        showNotification(
-            'المتصفح لا يدعم تشغيل هذا النوع من الفيديو (m3u8)',
-            'error'
-        );
-        return false;
-    }
-
-    // Direct MP4 / M4V / Google video
-    if (videoType === 'mp4') {
-        nativePlayer.style.display = 'block';
-        nativePlayer.src = url;
-        nativePlayer.load();
-
-        nativePlayer.onerror = function() {
-            showNotification(
-                'تعذر تشغيل الفيديو. قد يكون الرابط منتهي الصلاحية أو غير متاح.',
-                'error'
-            );
-        };
-
-        return true;
-    }
-
-    // Existing UUID proxy system
-    if (videoType === 'proxy') {
-        const videoId = extractVideoId(url);
-
-        if (!videoId) {
-            showNotification('خطأ في استخراج معرف الفيديو', 'error');
-            return false;
-        }
-
-        iframePlayer.style.display = 'block';
-        iframePlayer.src = `${PROXY_URL}/${encodeURIComponent(videoId)}`;
-        return true;
-    }
-
-    showNotification(
-        'هذا الرابط غير مدعوم. استخدم MP4 أو M3U8 أو رابط YouTube أو رابط UUID القديم.',
-        'error'
-    );
-    return false;
+.modal-header {
+    margin-bottom: 2rem;
 }
 
-// Play Lecture with Proxy
-function playLecture(url, title, description, teacherId, classIndex, lectureIndex) {
-    const loaded = setupVideoSource(url);
-
-    if (!loaded) {
-        return;
-    }
-
-    document.getElementById('videoTitle').textContent = title;
-    document.getElementById('videoDescription').textContent = description || '';
-    
-    const markCompletedBtn = document.getElementById('markCompleted');
-    const isCompleted = isLectureCompleted(teacherId, classIndex, title);
-    
-    if (isCompleted) {
-        markCompletedBtn.innerHTML = '<i class="fas fa-check"></i> تم الإكمال';
-        markCompletedBtn.disabled = true;
-        markCompletedBtn.classList.add('completed');
-    } else {
-        markCompletedBtn.innerHTML = '<i class="fas fa-check"></i> تم إكمال المحاضرة';
-        markCompletedBtn.disabled = false;
-        markCompletedBtn.classList.remove('completed');
-    }
-    
-    showPage('videoPage');
-    AppState.currentPage = 'video';
-    AppState.currentLecture = {
-        url, title, description, teacherId, classIndex, lectureIndex
-    };
+.telegram-icon {
+    font-size: 3rem;
+    color: #0088cc;
+    margin-bottom: 1rem;
 }
 
-function markLectureCompleted() {
-    if (!AppState.currentLecture) return;
-    
-    const { teacherId, classIndex, title } = AppState.currentLecture;
-    const key = `${teacherId}_${classIndex}_${title}`;
-    
-    if (!AppState.progress[key]) {
-        AppState.progress[key] = {
-            completed: true,
-            completedAt: new Date().toISOString()
-        };
-        
-        localStorage.setItem('courseProgress', JSON.stringify(AppState.progress));
-        
-        showNotification('تم تسجيل إكمال المحاضرة بنجاح!', 'success');
-        
-        const btn = document.getElementById('markCompleted');
-        btn.innerHTML = '<i class="fas fa-check"></i> تم الإكمال';
-        btn.disabled = true;
-        btn.classList.add('completed');
+.modal-header h2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.modal-header p {
+    color: var(--text-secondary);
+}
+
+.modal-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Loading Spinner */
+.loading-spinner {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 9999;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 4px solid var(--bg-tertiary);
+    border-top: 4px solid var(--primary-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 1rem;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
     }
 }
 
-function isLectureCompleted(teacherId, classIndex, lectureTitle) {
-    const key = `${teacherId}_${classIndex}_${lectureTitle}`;
-    return AppState.progress[key] && AppState.progress[key].completed;
+.loading-spinner p {
+    color: white;
+    font-size: 1.1rem;
 }
 
-// Materials Page
-function loadMaterialsPage() {
-    if (!window.materialsData) {
-        console.error('بيانات المواد غير متوفرة');
-        return;
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        padding: 0 15px;
     }
     
-    showPage('materialsPage');
-    AppState.currentPage = 'materials';
-    switchMaterialTab('summaries');
-}
-
-function switchMaterialTab(tabName) {
-    document.querySelectorAll('.tab-btn').forEach(btn => {
-        btn.classList.remove('active');
-    });
-    document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
-    
-    const content = document.getElementById('materialsContent');
-    const data = window.materialsData[tabName] || [];
-    
-    content.innerHTML = '';
-    
-    data.forEach(item => {
-        const card = createMaterialCard(item);
-        content.appendChild(card);
-    });
-}
-
-function createMaterialCard(item) {
-    const card = document.createElement('div');
-    card.className = 'material-card';
-    
-    card.innerHTML = `
-        <img class="material-image" src="${item.image}" alt="${item.title}" onerror="this.src='https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg'">
-        <div class="material-info">
-            <h3>${item.title}</h3>
-            <div class="material-subject">${item.subject}</div>
-            <a href="${item.downloadUrl}" target="_blank" class="material-download">
-                <i class="fas fa-download"></i>
-                تحميل
-            </a>
-        </div>
-    `;
-    
-    return card;
-}
-
-// Exams Page
-function loadExamsPage() {
-    if (!window.examsData) {
-        console.error('بيانات الامتحانات غير متوفرة');
-        return;
+    .hero-section {
+        padding: 2rem 1rem;
     }
     
-    const examsList = document.getElementById('examsList');
-    examsList.innerHTML = '';
-    
-    window.examsData.subjects.forEach(subject => {
-        const subjectCard = createSubjectCard(subject);
-        examsList.appendChild(subjectCard);
-    });
-    
-    showPage('examsPage');
-    AppState.currentPage = 'exams';
-}
-
-function createSubjectCard(subject) {
-    const card = document.createElement('div');
-    card.className = 'subject-card';
-    card.onclick = () => loadSubjectExams(subject);
-    
-    const icons = {
-        'الفيزياء': 'fa-atom',
-        'الكيمياء': 'fa-flask',
-        'الأحياء': 'fa-dna',
-        'الرياضيات': 'fa-calculator'
-    };
-    
-    const icon = icons[subject.name] || 'fa-book';
-    
-    card.innerHTML = `
-        <div class="subject-icon">
-            <i class="fas ${icon}"></i>
-        </div>
-        <h3>${subject.name}</h3>
-        <p>${subject.chapters ? subject.chapters.length : 0} فصل</p>
-    `;
-    
-    return card;
-}
-
-function loadSubjectExams(subject) {
-    document.getElementById('subjectName').textContent = `امتحانات ${subject.name}`;
-    
-    const chaptersList = document.getElementById('chaptersExamsList');
-    chaptersList.innerHTML = '';
-    
-    if (subject.chapters) {
-        subject.chapters.forEach(chapter => {
-            const chapterElement = createChapterElement(chapter);
-            chaptersList.appendChild(chapterElement);
-        });
+    .hero-section h1 {
+        font-size: 2rem;
     }
     
-    showPage('subjectExamsPage');
-    AppState.currentPage = 'subjectExams';
-    AppState.currentSubject = subject;
-}
-
-function createChapterElement(chapter) {
-    const chapterElement = document.createElement('div');
-    chapterElement.className = 'chapter-item';
+    .services-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
     
-    chapterElement.innerHTML = `
-        <div class="chapter-header" onclick="toggleChapter(this)">
-            <div class="chapter-title">${chapter.name}</div>
-            <i class="fas fa-chevron-down class-icon"></i>
-        </div>
-        <div class="exams-list">
-            ${chapter.exams ? chapter.exams.map(exam => `
-                <div class="exam-item">
-                    <div class="exam-info">
-                        <h4>${exam.title}</h4>
-                        <p>${exam.description}</p>
-                    </div>
-                    <a href="${exam.downloadUrl}" target="_blank" class="exam-download">
-                        <i class="fas fa-download"></i>
-                        تحميل
-                    </a>
-                </div>
-            `).join('') : '<p>لا توجد امتحانات متاحة</p>'}
-        </div>
-    `;
+    .teacher-info {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
     
-    return chapterElement;
-}
-
-function toggleChapter(header) {
-    const chapterItem = header.parentElement;
-    chapterItem.classList.toggle('active');
-}
-
-// Utility Functions
-function showPage(pageId) {
-    document.querySelectorAll('.page').forEach(page => {
-        page.classList.remove('active');
-    });
-    document.getElementById(pageId).classList.add('active');
-}
-
-function goBack() {
-    switch(AppState.currentPage) {
-        case 'teachers':
-            loadHomePage();
-            break;
-        case 'teacher':
-            if (AppState.currentData) {
-                loadTeachersPage(AppState.currentData, document.getElementById('pageTitle').textContent);
-            } else {
-                loadHomePage();
-            }
-            break;
-        case 'video':
-            stopVideoPlayback();
-            if (AppState.currentTeacher) {
-                loadTeacherPage(AppState.currentTeacher);
-            } else {
-                loadHomePage();
-            }
-            break;
-        case 'materials':
-        case 'exams':
-            loadHomePage();
-            break;
-        case 'subjectExams':
-            loadExamsPage();
-            break;
-        default:
-            loadHomePage();
+    .page-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    
+    .progress-info {
+        width: 100%;
+    }
+    
+    .progress-bar {
+        flex: 1;
+        max-width: none;
+    }
+    
+    .materials-tabs {
+        flex-wrap: wrap;
+    }
+    
+    .modal-buttons {
+        flex-direction: column;
+    }
+    
+    .video-container {
+        height: 250px;
+    }
+    
+    .lecture-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.75rem;
+    }
+    
+    .lecture-content {
+        width: 100%;
+    }
+    
+    .lecture-checkbox {
+        align-self: flex-start;
     }
 }
 
-function updateBackButton() {
-    const backBtn = document.getElementById('backBtn');
-    if (AppState.currentPage === 'home') {
-        backBtn.style.display = 'none';
-    } else {
-        backBtn.style.display = 'inline-flex';
+@media (max-width: 480px) {
+    .hero-section h1 {
+        font-size: 1.75rem;
+    }
+    
+    .hero-section p {
+        font-size: 1rem;
+    }
+    
+    .service-card,
+    .teacher-card,
+    .material-card {
+        padding: 1.5rem;
+    }
+    
+    .page-header h2 {
+        font-size: 1.5rem;
+    }
+    
+    .modal-content {
+        padding: 1.5rem;
+        margin: 1rem;
     }
 }
 
-function updateProgress(data) {
-    if (!data || !data.teachers) return;
-    
-    let totalLectures = 0;
-    let completedLectures = 0;
-    
-    data.teachers.forEach(teacher => {
-        if (teacher.classes) {
-            teacher.classes.forEach((classItem, classIndex) => {
-                if (classItem.lectures) {
-                    classItem.lectures.forEach(lecture => {
-                        totalLectures++;
-                        if (isLectureCompleted(teacher.id, classIndex, lecture.title)) {
-                            completedLectures++;
-                        }
-                    });
-                }
-            });
-        }
-    });
-    
-    const progressPercent = totalLectures > 0 ? Math.round((completedLectures / totalLectures) * 100) : 0;
-    
-    document.getElementById('progressText').textContent = `${progressPercent}% مكتمل`;
-    document.getElementById('progressFill').style.width = `${progressPercent}%`;
-}
-
-function showLoading() {
-    document.getElementById('loadingSpinner').style.display = 'flex';
-}
-
-function hideLoading() {
-    document.getElementById('loadingSpinner').style.display = 'none';
-}
-
-function showNotification(message, type = 'info') {
-    const notification = document.createElement('div');
-    notification.className = `notification notification-${type}`;
-    notification.innerHTML = `
-        <i class="fas fa-${type === 'success' ? 'check-circle' : type === 'error' ? 'exclamation-circle' : 'info-circle'}"></i>
-        <span>${message}</span>
-    `;
-    
-    if (!document.querySelector('.notification-styles')) {
-        const styles = document.createElement('style');
-        styles.className = 'notification-styles';
-        styles.textContent = `
-            .notification {
-                position: fixed;
-                top: 100px;
-                right: 20px;
-                background: var(--bg-primary);
-                color: var(--text-primary);
-                padding: 1rem 1.5rem;
-                border-radius: var(--border-radius);
-                box-shadow: var(--shadow-lg);
-                display: flex;
-                align-items: center;
-                gap: 0.5rem;
-                z-index: 1001;
-                animation: slideInRight 0.3s ease;
-            }
-            .notification-success {
-                border-left: 4px solid var(--success-color);
-            }
-            .notification-success i {
-                color: var(--success-color);
-            }
-            .notification-info {
-                border-left: 4px solid var(--primary-color);
-            }
-            .notification-info i {
-                color: var(--primary-color);
-            }
-            .notification-error {
-                border-left: 4px solid var(--error-color);
-            }
-            .notification-error i {
-                color: var(--error-color);
-            }
-            @keyframes slideInRight {
-                from { transform: translateX(100%); opacity: 0; }
-                to { transform: translateX(0); opacity: 1; }
-            }
-        `;
-        document.head.appendChild(styles);
+/* Print Styles */
+@media print {
+    .header,
+    .btn,
+    .modal {
+        display: none !important;
     }
     
-    document.body.appendChild(notification);
+    .page {
+        display: block !important;
+    }
     
-    setTimeout(() => {
-        notification.style.animation = 'slideInRight 0.3s ease reverse';
-        setTimeout(() => {
-            if (document.body.contains(notification)) {
-                document.body.removeChild(notification);
-            }
-        }, 300);
-    }, 3000);
-}
-
-// Telegram Modal Functions
-function showTelegramModal() {
-    if (!AppState.telegramModalShown) {
-        document.getElementById('telegramModal').style.display = 'flex';
+    body {
+        font-size: 12pt;
+        line-height: 1.4;
     }
 }
 
-function closeTelegramModal() {
-    document.getElementById('telegramModal').style.display = 'none';
-    AppState.telegramModalShown = true;
-    localStorage.setItem('telegramModalShown', 'true');
-}
-
-// Performance optimizations
-function debounce(func, wait) {
-    let timeout;
-    return function executedFunction(...args) {
-        const later = () => {
-            clearTimeout(timeout);
-            func(...args);
-        };
-        clearTimeout(timeout);
-        timeout = setTimeout(later, wait);
-    };
-}
-
-let ticking = false;
-function updateScrollPosition() {
-    ticking = false;
-}
-
-window.addEventListener('scroll', () => {
-    if (!ticking) {
-        requestAnimationFrame(updateScrollPosition);
-        ticking = true;
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+    :root {
+        --border-color: #000000;
     }
-});
-
-// Service Worker for offline functionality
-if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js')
-            .then(registration => {
-                console.log('SW registered: ', registration);
-            })
-            .catch(registrationError => {
-                console.log('SW registration failed: ', registrationError);
-            });
-    });
+    
+    [data-theme="dark"] {
+        --border-color: #ffffff;
+    }
 }
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+.teacher-avatar-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: #fff;
+    font-size: 2.25rem;
+}
+
+/* ===== Sixth Platform Premium Redesign ===== */
+:root{--ink:#050a14;--panel:#0c1424;--panel2:#111d31;--line:#1c2a43;--purple:#7c5cff;--purple2:#a78bfa;--text:#f5f7ff;--muted:#9aa6bc;--green:#2dd4a5}
+html,body{background:radial-gradient(circle at 15% 0%,#132040 0,#070c16 38%,#050913 100%)!important;color:var(--text)!important;font-family:Tajawal,Arial,sans-serif!important;min-height:100%}
+body{padding-bottom:88px}.container{max-width:1180px}.header{background:rgba(5,10,20,.78)!important;backdrop-filter:blur(18px);border-bottom:1px solid var(--line)!important;position:sticky;top:0;z-index:50}.header-content{min-height:74px}.logo{gap:12px}.logo-mark{width:48px;height:48px;display:grid;place-items:center;border-radius:16px;background:linear-gradient(135deg,var(--purple),#3f2a9f);box-shadow:0 10px 30px #7657ff55}.logo b{font-size:22px}.logo em{color:var(--purple2);font-style:normal}.logo small{display:block;color:var(--muted);font-size:11px;margin-top:2px}.btn-icon{background:#101a2b!important;border:1px solid var(--line)!important;color:#fff!important;border-radius:12px!important}.main-content{padding:22px 0 30px}.page{animation:fadeUp .3s ease}.premium-hero{display:grid;grid-template-columns:1.25fr .75fr;align-items:center;min-height:270px;border:1px solid #493a8b;background:linear-gradient(120deg,#10182c 0%,#19153a 52%,#2b1d62 100%);border-radius:28px;padding:34px;overflow:hidden;position:relative;box-shadow:0 22px 60px #0007}.premium-hero:after{content:"";position:absolute;width:240px;height:240px;border-radius:50%;background:#8b5cff22;left:-70px;bottom:-100px;filter:blur(8px)}.hero-copy{position:relative;z-index:2}.eyebrow{color:#c2b7ff;font-size:12px;font-weight:700}.premium-hero h1{font-size:38px!important;line-height:1.25;margin:12px 0}.premium-hero h1 span{color:var(--purple2)}.premium-hero p{color:#b9c2d8!important;font-size:16px}.hero-btn{background:linear-gradient(135deg,var(--purple),#9b6cff);color:#fff;border:0;border-radius:14px;padding:13px 24px;font-weight:800;margin-top:12px;box-shadow:0 12px 30px #6d4cff55}.hero-art{position:relative;height:220px;display:grid;place-items:center;color:#a98cff;font-size:105px;opacity:.95}.hero-art:before{content:"";position:absolute;width:190px;height:190px;background:radial-gradient(circle,#7a5cff44,transparent 68%)}.hero-art i,.books{position:relative;z-index:2}.books{position:absolute;bottom:24px;font-size:34px;line-height:.55;transform:rotate(-6deg);color:#6f54db}.home-search{margin:22px 0;display:flex;align-items:center;gap:12px;background:#0d1627;border:1px solid var(--line);border-radius:16px;padding:0 16px}.home-search i{color:#b8c3db}.home-search input{width:100%;background:transparent;border:0;outline:0;color:#fff;padding:16px 0;font:inherit}.section-title{display:flex;justify-content:space-between;align-items:center;margin:28px 0 14px}.section-title h2{font-size:20px;margin:0}.section-title>span{color:var(--muted);font-size:12px}.text-link{background:transparent;color:#a88cff;border:0;font-weight:700}.subjects-strip{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}.subject-pill{min-height:96px;background:linear-gradient(180deg,#101a2b,#0b1322);border:1px solid var(--line);border-radius:18px;color:#dce3f5;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:9px;font-family:inherit}.subject-pill i{font-size:27px;color:#a98cff}.subject-pill:hover{transform:translateY(-3px);border-color:#715cff}.home-teachers{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.home-teacher-card{background:#0c1525;border:1px solid var(--line);border-radius:18px;overflow:hidden;padding:12px;cursor:pointer;transition:.2s}.home-teacher-card:hover{transform:translateY(-4px);border-color:#6f5bdf}.home-teacher-card img{width:100%;height:160px;object-fit:cover;border-radius:13px;background:#17233a}.home-teacher-card h3{margin:10px 0 3px;font-size:16px}.home-teacher-card p{margin:0;color:var(--muted);font-size:12px}.continue-card{margin-top:22px;border:1px solid #5d4ba9;background:linear-gradient(135deg,#171632,#25214e);padding:20px 22px;border-radius:20px;display:flex;justify-content:space-between;align-items:center}.continue-card span{font-size:18px;font-weight:800}.continue-card p{margin:5px 0 0;color:var(--muted);font-size:12px}.continue-card i{font-size:42px;color:#9c7bff}.premium-head{background:linear-gradient(135deg,#0f1728,#111c32);border:1px solid var(--line);padding:20px 22px;border-radius:20px;margin-bottom:18px}.premium-head h2{margin:5px 0 0}.teachers-grid{grid-template-columns:repeat(auto-fill,minmax(210px,1fr))!important;gap:16px!important}.teacher-card{background:#0d1626!important;border:1px solid var(--line)!important;border-radius:20px!important;padding:12px!important;box-shadow:none!important;transition:.2s!important}.teacher-card:hover{transform:translateY(-5px)!important;border-color:#735fff!important}.teacher-card .teacher-avatar{width:100%!important;height:210px!important;border-radius:14px!important;object-fit:cover!important;margin:0 0 12px!important;background:#17233a}.teacher-card h3{font-size:18px!important}.teacher-card p{color:var(--muted)!important}.teacher-stats{background:#121f34;border-radius:10px;padding:7px;margin-top:10px;color:#c8baff}.premium-teacher-header{background:linear-gradient(135deg,#17113a,#0d1628 68%);border:1px solid #403374;border-radius:24px;padding:24px;display:flex;justify-content:space-between;gap:20px;align-items:center;margin-bottom:18px}.teacher-info{display:flex;align-items:center;gap:18px}.premium-teacher-header .teacher-avatar{width:130px!important;height:130px!important;border-radius:18px!important;object-fit:cover;background:#1a2841}.teacher-details h2{font-size:30px!important;margin:0}.teacher-details p{color:#c1cadc!important;margin:6px 0}.teacher-tag{display:inline-block;background:#12382f;color:#75e0bc;padding:5px 10px;border-radius:999px;font-size:11px}.teacher-numbers{display:flex;background:#0b1322;border:1px solid var(--line);border-radius:18px;padding:12px}.teacher-numbers>div{padding:0 16px;text-align:center;border-left:1px solid var(--line)}.teacher-numbers>div:last-child{border:0}.teacher-numbers b{display:block;font-size:22px;color:#a98cff}.teacher-numbers span{font-size:11px;color:var(--muted)}.classes-list{display:grid;gap:14px}.class-item{background:#0c1525!important;border:1px solid var(--line)!important;border-radius:18px!important;overflow:hidden}.class-header{background:#111c30!important;padding:18px!important}.class-title{font-size:18px!important}.lectures-list{background:#0a1220!important}.lecture-item{border-color:#18243a!important;padding:14px!important}.lecture-content h4{color:#f2f5ff!important}.lecture-play{background:linear-gradient(135deg,#715cff,#9d76ff)!important}.video-container{border-radius:22px!important;overflow:hidden;border:1px solid var(--line);box-shadow:0 20px 50px #0008}.premium-video-info{background:#0c1525;border:1px solid var(--line);border-radius:20px;padding:22px;margin-top:18px}.bottom-nav{position:fixed;bottom:0;left:0;right:0;z-index:80;display:flex;justify-content:center;gap:4px;background:rgba(7,12,22,.92);backdrop-filter:blur(20px);border-top:1px solid var(--line);padding:8px max(10px,calc((100vw - 760px)/2));padding-bottom:max(8px,env(safe-area-inset-bottom))}.nav-item{flex:1;max-width:120px;background:transparent;border:0;color:#8490a7;padding:8px 4px;border-radius:14px;display:flex;flex-direction:column;align-items:center;gap:4px;font-family:inherit;font-size:11px}.nav-item i{font-size:18px}.nav-item.active{background:#271c52;color:#a98cff}.materials-tabs{background:#0c1525!important;border:1px solid var(--line);border-radius:16px;padding:7px}.tab-btn{border-radius:10px!important}.loading-spinner{background:#0b1322ee!important}.modal-content{background:#101a2b!important;color:#fff!important;border:1px solid var(--line)!important;border-radius:20px!important}.telegram-box{max-width:400px}.telegram-icon{color:#6f8cff!important}.btn-success{background:#167b61!important}.btn-secondary{background:#111c30!important;border-color:var(--line)!important}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media(max-width:760px){.container{padding:0 14px}.header-content{min-height:66px}.logo b{font-size:18px}.logo small{display:none}.premium-hero{grid-template-columns:1fr;min-height:auto;padding:24px}.premium-hero h1{font-size:28px!important}.hero-art{display:none}.subjects-strip{grid-template-columns:repeat(5,1fr);overflow:auto}.subject-pill{min-width:76px}.home-teachers{grid-template-columns:repeat(2,1fr)}.home-teacher-card img{height:145px}.premium-teacher-header{align-items:flex-start;flex-direction:column}.teacher-info{align-items:flex-start}.premium-teacher-header .teacher-avatar{width:90px!important;height:90px!important}.teacher-details h2{font-size:23px!important}.teacher-numbers{width:100%;justify-content:space-around}.teacher-numbers>div{flex:1}.teachers-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}.teacher-card .teacher-avatar{height:150px!important}.video-container{border-radius:16px!important}.page-header{flex-direction:column;align-items:flex-start;gap:10px}.progress-info{width:100%}.header-controls .btn-icon{display:none}.header-controls .btn{font-size:12px;padding:8px 10px}.main-content{padding-top:14px}}
+@media(min-width:761px){.bottom-nav{display:none}body{padding-bottom:0}}
