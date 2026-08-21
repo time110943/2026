@@ -143,11 +143,7 @@ function navigateToPage(page) {
         
         switch(page) {
             case 'abwab2026':
-                if (!window.dataAb2026 || !Array.isArray(window.dataAb2026.teachers)) {
-                    showNotification('تعذر تحميل بيانات محاضرات 2026، حاول تحديث الصفحة', 'error');
-                    break;
-                }
-                loadTeachersPage(window.dataAb2026, 'محاضرات 2026');
+                loadTeachersPage(window.dataAb2026, 'محاضرات أبواب 2026');
                 break;
             case 'abwab2025':
                 loadTeachersPage(window.dataAb2025, 'محاضرات أبواب 2025');
@@ -174,8 +170,8 @@ function loadHomePage() {
 }
 
 function loadTeachersPage(data, title) {
-    if (!data || !Array.isArray(data.teachers)) {
-        showNotification('البيانات غير متوفرة', 'error');
+    if (!data || !data.teachers) {
+        console.error('البيانات غير متوفرة');
         return;
     }
     
@@ -200,12 +196,8 @@ function createTeacherCard(teacher) {
     card.className = 'teacher-card';
     card.onclick = () => loadTeacherPage(teacher);
     
-    const imageHtml = teacher.image
-        ? `<img class="teacher-avatar" src="${teacher.image}" alt="${teacher.name}" onerror="this.style.display='none'">`
-        : `<div class="teacher-avatar teacher-avatar-placeholder"><i class="fas fa-user-tie"></i></div>`;
-
     card.innerHTML = `
-        ${imageHtml}
+        <img class="teacher-avatar" src="${teacher.image}" alt="${teacher.name}" onerror="this.src='https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg'">
         <h3>${teacher.name}</h3>
         <p>${teacher.subject}</p>
         <div class="teacher-stats">
@@ -217,14 +209,7 @@ function createTeacherCard(teacher) {
 }
 
 function loadTeacherPage(teacher) {
-    const teacherImage = document.getElementById('teacherImage');
-    if (teacher.image) {
-        teacherImage.src = teacher.image;
-        teacherImage.style.display = 'block';
-    } else {
-        teacherImage.removeAttribute('src');
-        teacherImage.style.display = 'none';
-    }
+    document.getElementById('teacherImage').src = teacher.image;
     document.getElementById('teacherName').textContent = teacher.name;
     document.getElementById('teacherSubject').textContent = teacher.subject;
     
@@ -241,7 +226,6 @@ function loadTeacherPage(teacher) {
     showPage('teacherPage');
     AppState.currentPage = 'teacher';
     AppState.currentTeacher = teacher;
-    updateBackButton();
 }
 
 function createClassElement(classItem, teacherId, classIndex) {
@@ -336,35 +320,79 @@ function updateClassProgress(teacherId, classIndex) {
 
 // Extract Video ID from URL
 function extractVideoId(url) {
+    if (!url || typeof url !== 'string') return null;
+
     const patterns = [
         /\/embed\/\d+\/([a-f0-9-]{36})/i,
         /\/([a-f0-9-]{36})/i,
         /\/([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})/i
     ];
-    
+
     for (const pattern of patterns) {
         const match = url.match(pattern);
-        if (match && match[1]) {
-            return match[1];
-        }
+        if (match && match[1]) return match[1];
     }
-    
+
     const segments = url.split('/').filter(s => s.length > 0);
-    const lastSegment = segments[segments.length - 1].split('?')[0];
-    
-    if (/^[a-f0-9-]{36}$/i.test(lastSegment)) {
-        return lastSegment;
-    }
-    
+    const lastSegment = (segments[segments.length - 1] || '').split('?')[0];
+
+    if (/^[a-f0-9-]{36}$/i.test(lastSegment)) return lastSegment;
+
     return null;
 }
 
-// Detect direct video format (mp4 / m4v / m3u8) vs proxy-embedded video
+// Extract YouTube video ID
+function getYouTubeId(url) {
+    if (!url || typeof url !== 'string') return null;
+
+    try {
+        const u = new URL(url.trim());
+        const host = u.hostname.replace(/^www\./i, '').toLowerCase();
+
+        if (host === 'youtu.be') {
+            return u.pathname.split('/').filter(Boolean)[0] || null;
+        }
+
+        if (host === 'youtube.com' || host.endsWith('.youtube.com')) {
+            if (u.pathname === '/watch') return u.searchParams.get('v');
+
+            const match = u.pathname.match(
+                /^\/(?:embed|shorts|live)\/([^/?#]+)/
+            );
+
+            return match ? match[1] : null;
+        }
+    } catch (_) {
+        return null;
+    }
+
+    return null;
+}
+
+// Detect the video type
 function getVideoType(url) {
-    const cleanUrl = url.split('?')[0].split('#')[0];
+    if (!url || typeof url !== 'string') return 'unknown';
+
+    const value = url.trim();
+    const cleanUrl = value.split('#')[0].split('?')[0].toLowerCase();
+
     if (/\.m3u8$/i.test(cleanUrl)) return 'hls';
     if (/\.(mp4|m4v)$/i.test(cleanUrl)) return 'mp4';
-    return 'proxy';
+
+    try {
+        const u = new URL(value);
+        const host = u.hostname.toLowerCase();
+        const pathname = u.pathname.toLowerCase();
+
+        if (host.endsWith('googlevideo.com') && pathname.includes('/videoplayback')) {
+            return 'mp4';
+        }
+    } catch (_) {}
+
+    if (getYouTubeId(value)) return 'youtube';
+    if (extractVideoId(value)) return 'proxy';
+
+    return 'unknown';
 }
 
 // Stop and fully reset both players (native + iframe)
@@ -377,13 +405,18 @@ function stopVideoPlayback() {
         window.currentHls = null;
     }
 
-    nativePlayer.pause();
-    nativePlayer.removeAttribute('src');
-    nativePlayer.load();
-    nativePlayer.style.display = 'none';
+    if (nativePlayer) {
+        nativePlayer.pause();
+        nativePlayer.removeAttribute('src');
+        nativePlayer.load();
+        nativePlayer.style.display = 'none';
+        nativePlayer.onerror = null;
+    }
 
-    iframePlayer.src = '';
-    iframePlayer.style.display = 'none';
+    if (iframePlayer) {
+        iframePlayer.src = '';
+        iframePlayer.style.display = 'none';
+    }
 }
 
 // Load a video source into the correct player based on its type
@@ -391,50 +424,97 @@ function setupVideoSource(url) {
     const nativePlayer = document.getElementById('videoPlayerNative');
     const iframePlayer = document.getElementById('videoPlayer');
 
+    if (!url || !nativePlayer || !iframePlayer) {
+        showNotification('رابط الفيديو أو مشغل الفيديو غير متوفر', 'error');
+        return false;
+    }
+
     stopVideoPlayback();
 
     const videoType = getVideoType(url);
 
+    // YouTube
+    if (videoType === 'youtube') {
+        const videoId = getYouTubeId(url);
+
+        if (!videoId) {
+            showNotification('رابط YouTube غير صحيح', 'error');
+            return false;
+        }
+
+        iframePlayer.style.display = 'block';
+        iframePlayer.src =
+            `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?rel=0&modestbranding=1&playsinline=1`;
+
+        return true;
+    }
+
+    // HLS / M3U8
     if (videoType === 'hls') {
-        // .m3u8 streams
         nativePlayer.style.display = 'block';
 
         if (nativePlayer.canPlayType('application/vnd.apple.mpegurl')) {
-            // Safari / iOS have native HLS support
             nativePlayer.src = url;
-        } else if (window.Hls && Hls.isSupported()) {
+            return true;
+        }
+
+        if (window.Hls && Hls.isSupported()) {
             const hls = new Hls();
             hls.loadSource(url);
             hls.attachMedia(nativePlayer);
+
             hls.on(Hls.Events.ERROR, function(event, data) {
-                if (data.fatal) {
+                if (data && data.fatal) {
                     showNotification('حدث خطأ أثناء تشغيل البث', 'error');
                 }
             });
+
             window.currentHls = hls;
-        } else {
-            showNotification('المتصفح لا يدعم تشغيل هذا النوع من الفيديو (m3u8)', 'error');
+            return true;
         }
-        return true;
-    }
 
-    if (videoType === 'mp4') {
-        // .mp4 / .m4v direct files
-        nativePlayer.style.display = 'block';
-        nativePlayer.src = url;
-        return true;
-    }
-
-    // Fallback: existing proxy-embed system
-    const videoId = extractVideoId(url);
-    if (!videoId) {
-        showNotification('خطأ في استخراج معرف الفيديو', 'error');
+        showNotification(
+            'المتصفح لا يدعم تشغيل هذا النوع من الفيديو (m3u8)',
+            'error'
+        );
         return false;
     }
 
-    iframePlayer.style.display = 'block';
-    iframePlayer.src = `${PROXY_URL}/${videoId}`;
-    return true;
+    // Direct MP4 / M4V / Google video
+    if (videoType === 'mp4') {
+        nativePlayer.style.display = 'block';
+        nativePlayer.src = url;
+        nativePlayer.load();
+
+        nativePlayer.onerror = function() {
+            showNotification(
+                'تعذر تشغيل الفيديو. قد يكون الرابط منتهي الصلاحية أو غير متاح.',
+                'error'
+            );
+        };
+
+        return true;
+    }
+
+    // Existing UUID proxy system
+    if (videoType === 'proxy') {
+        const videoId = extractVideoId(url);
+
+        if (!videoId) {
+            showNotification('خطأ في استخراج معرف الفيديو', 'error');
+            return false;
+        }
+
+        iframePlayer.style.display = 'block';
+        iframePlayer.src = `${PROXY_URL}/${encodeURIComponent(videoId)}`;
+        return true;
+    }
+
+    showNotification(
+        'هذا الرابط غير مدعوم. استخدم MP4 أو M3U8 أو رابط YouTube أو رابط UUID القديم.',
+        'error'
+    );
+    return false;
 }
 
 // Play Lecture with Proxy
@@ -466,7 +546,6 @@ function playLecture(url, title, description, teacherId, classIndex, lectureInde
     AppState.currentLecture = {
         url, title, description, teacherId, classIndex, lectureIndex
     };
-    updateBackButton();
 }
 
 function markLectureCompleted() {
@@ -500,7 +579,7 @@ function isLectureCompleted(teacherId, classIndex, lectureTitle) {
 // Materials Page
 function loadMaterialsPage() {
     if (!window.materialsData) {
-        showNotification('قسم الملازم والمراجعات غير مضاف بعد', 'info');
+        console.error('بيانات المواد غير متوفرة');
         return;
     }
     
@@ -548,7 +627,7 @@ function createMaterialCard(item) {
 // Exams Page
 function loadExamsPage() {
     if (!window.examsData) {
-        showNotification('قسم الامتحانات غير مضاف بعد', 'info');
+        console.error('بيانات الامتحانات غير متوفرة');
         return;
     }
     
