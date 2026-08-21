@@ -25,11 +25,23 @@ window.dataAb2026 = {
               "url": "https://vz-a58ace6d-ff4.b-cdn.net/78405bf7-a5fd-421c-8152-247d3f83ab13/playlist.m3u8"
             },
             {
-              "title": "محاضرة جديدة",
-              "description": "",
+              "title": "محاضرة 4",
+              "description": "وصف المحاضرة",
               "url": "https://vz-a58ace6d-ff4.b-cdn.net/7417914d-f212-462c-9eef-2d31018cb0b9/playlist.m3u8"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": 1787353550645,
+      "name": "حسين الهاشمي",
+      "subject": "الكيمياء",
+      "image": "",
+      "classes": [
+        {
+          "name": "الفصل الاول",
+          "lectures": []
         }
       ]
     }
