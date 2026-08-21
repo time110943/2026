@@ -62,6 +62,7 @@ main{padding:24px;max-width:1500px;width:100%;margin:auto}.top{display:flex;just
 <div id="modal" class="modal"><div class="dialog"><button class="close" onclick="closeModal()">×</button><div id="modalBody"></div></div></div>
 <div id="toast" class="toast"></div>
 
+<script src="dataab2026.js?v=3"></script>
 <script>
 const KEY='lecture_panel_v1';
 const initial={teachers:[{id:1740790563505,name:'ساجد العكيلي',subject:'مدرس مادة الكيمياء',image:'',classes:[{name:'المحاضرات',lectures:[
@@ -70,7 +71,13 @@ const initial={teachers:[{id:1740790563505,name:'ساجد العكيلي',subjec
 {title:'محاضرة 3',description:'وصف المحاضرة',url:'https://vz-a58ace6d-ff4.b-cdn.net/78405bf7-a5fd-421c-8152-247d3f83ab13/playlist.m3u8'},
 {title:'محاضرة 4',description:'وصف المحاضرة',url:'https://vz-a58ace6d-ff4.b-cdn.net/7417914d-f212-462c-9eef-2d31018cb0b9/playlist.m3u8'}
 ]}]}]};
-let data=JSON.parse(localStorage.getItem(KEY)||JSON.stringify(initial));
+const sourceData = (window.dataAb2026 && Array.isArray(window.dataAb2026.teachers))
+  ? window.dataAb2026
+  : null;
+const storedData = localStorage.getItem(KEY);
+let data = sourceData
+  ? JSON.parse(JSON.stringify(sourceData))
+  : JSON.parse(storedData || JSON.stringify(initial));
 function save(){localStorage.setItem(KEY,JSON.stringify(data));render();toast('تم الحفظ تلقائيًا ✓')}
 function esc(s=''){return String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
 function stats(){let c=0,l=0;data.teachers.forEach(t=>{(t.classes||[]).forEach(x=>{c++;l+=(x.lectures||[]).length})});return [data.teachers.length,c,l,l]}
@@ -232,7 +239,7 @@ function restoreDefault(){if(confirm('إرجاع بيانات البداية؟ �
 function toast(s){const toastEl=document.getElementById('toast');toastEl.textContent=s;toastEl.classList.add('show');setTimeout(()=>toastEl.classList.remove('show'),2200)}
 
 // ===== حفظ بيانات اللوحة إلى الموقع عبر Netlify Function =====
-const UPDATE_DATA_ENDPOINT = 'https://sads86ff.netlify.app/.netlify/functions/update-data';
+const UPDATE_DATA_ENDPOINT = '/.netlify/functions/update-data';
 
 // DOM references (explicit, so buttons work reliably on mobile browsers)
 const $ = (id) => document.getElementById(id);
@@ -268,6 +275,8 @@ async function saveToSite(){
             throw new Error(result.error || 'تعذر حفظ البيانات في الموقع');
         }
 
+        window.dataAb2026 = JSON.parse(JSON.stringify(data));
+        localStorage.setItem(KEY, JSON.stringify(data));
         toast('تم حفظ البيانات في الموقع ✓');
     } catch (error) {
         console.error(error);
