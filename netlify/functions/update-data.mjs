@@ -78,12 +78,14 @@ const encodedContent = Buffer
 // تحديث GitHub
 const updateResponse = await fetch(apiUrl, {
   method: "PUT",
+
   headers: {
     ...githubHeaders,
     "Content-Type": "application/json"
   },
+
   body: JSON.stringify({
-    message: body.message || "Update lectures from control panel",
+    message: body.message ?? "Update lectures from control panel",
     content: encodedContent,
     sha: currentFile.sha,
     branch: branch
@@ -122,7 +124,7 @@ return new Response(
   return new Response(
     JSON.stringify({
       success: false,
-      error: error?.message || "خطأ غير معروف"
+      error: error?.message ?? "خطأ غير معروف"
     }),
     {
       status: 500,
@@ -130,4 +132,3 @@ return new Response(
     }
   );
 }
-};
