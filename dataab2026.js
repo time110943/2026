@@ -41,7 +41,23 @@ window.dataAb2026 = {
       "classes": [
         {
           "name": "الفصل الاول",
-          "lectures": []
+          "lectures": [
+            {
+              "title": "محاضرة 1",
+              "description": "",
+              "url": "https://youtu.be/jhRjy51I4Iw?si=bl7ir74396oMH5qL"
+            },
+            {
+              "title": "محاضرة 2",
+              "description": "",
+              "url": "https://youtu.be/Dzp8E0a3TYA?si=xKx9YpwjEvg4M7C4"
+            },
+            {
+              "title": "محاضرة 3",
+              "description": "",
+              "url": "https://youtu.be/5G2p_F1s4Xg?si=cG6XDm8X2I7HwUlW"
+            }
+          ]
         }
       ]
     }
