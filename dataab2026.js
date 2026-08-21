@@ -23,17 +23,15 @@ window.dataAb2026 = {
               "title": "محاضرة 3",
               "description": "وصف المحاضرة",
               "url": "https://vz-a58ace6d-ff4.b-cdn.net/78405bf7-a5fd-421c-8152-247d3f83ab13/playlist.m3u8"
+            },
+            {
+              "title": "محاضرة 4",
+              "description": "وصف المحاضرة",
+              "url": "https://vz-a58ace6d-ff4.b-cdn.net/7417914d-f212-462c-9eef-2d31018cb0b9/playlist.m3u8"
             }
           ]
         }
       ]
-    },
-    {
-      "id": 1787324116534,
-      "name": "حسين الهاشمي",
-      "subject": "كيمياء",
-      "image": "",
-      "classes": []
     }
   ]
 };
