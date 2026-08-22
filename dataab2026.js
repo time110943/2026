@@ -127,7 +127,13 @@ window.dataAb2026 = {
       "classes": [
         {
           "name": "الاستفهام",
-          "lectures": []
+          "lectures": [
+            {
+              "title": "محاضره 1",
+              "description": "",
+              "url": "https://vz-6e8714ed-ffb.b-cdn.net/47683845-6e57-497e-b4c7-5da9a3e3d326/playlist.m3u8"
+            }
+          ]
         }
       ]
     }
