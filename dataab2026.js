@@ -65,7 +65,7 @@ window.dataAb2026 = {
       "id": 1787357560990,
       "name": "هشام المعموري 2027",
       "subject": "اللغة العربية",
-      "image": "",
+      "image": "https://e.top4top.io/p_3885bv9em0.jpg",
       "classes": [
         {
           "name": "الاستفهام",
