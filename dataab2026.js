@@ -3,8 +3,8 @@ window.dataAb2026 = {
     {
       "id": 1740790563505,
       "name": "ساجد العكيلي",
-      "subject": "مدرس مادة الكيمياء",
-      "image": "",
+      "subject": "التربية الاسلاميه",
+      "image": "https://b.top4top.io/p_3885uqh3i0.jpg",
       "classes": [
         {
           "name": "المحاضرات",
