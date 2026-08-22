@@ -166,8 +166,68 @@ function navigateToPage(page) {
 function loadHomePage() {
     showPage('homePage');
     AppState.currentPage = 'home';
+    renderHomeSubjects();
     renderHomeTeachers();
     updateBackButton();
+}
+
+// المواد الدراسية تُستخرج تلقائيًا من حقل subject لكل مدرس.
+// لذلك عند إضافة مدرس جديد من لوحة التحكم وحفظ البيانات، تظهر مادته هنا تلقائيًا.
+function normalizeSubjectName(subject = '') {
+    const raw = String(subject).trim();
+    const known = ['الفيزياء','الكيمياء','الرياضيات','الأحياء','العربية','اللغة العربية','الإنكليزي','اللغة الإنكليزية','الانكليزي','الإنجليزية','الأدب','الإسلامية','الاسلامية','الأحياء','الاقتصاد'];
+    const found = known.find(name => raw.includes(name));
+    if (found) {
+        const aliases = {
+            'اللغة العربية': 'العربية',
+            'اللغة الإنكليزية': 'الإنكليزي',
+            'الانكليزي': 'الإنكليزي',
+            'الإنجليزية': 'الإنكليزي',
+            'الاسلامية': 'الإسلامية'
+        };
+        return aliases[found] || found;
+    }
+    return raw
+        .replace(/مدرس\s*(مادة)?/g, '')
+        .replace(/مدرسة\s*(مادة)?/g, '')
+        .replace(/استاذ\s*(مادة)?/g, '')
+        .replace(/أستاذ\s*(مادة)?/g, '')
+        .replace(/^مادة\s*/g, '')
+        .trim() || 'مواد أخرى';
+}
+
+function subjectIcon(subject = '') {
+    const icons = {
+        'الفيزياء': 'fa-atom',
+        'الكيمياء': 'fa-flask',
+        'الرياضيات': 'fa-square-root-variable',
+        'الأحياء': 'fa-dna',
+        'العربية': 'fa-book-open',
+        'الإنكليزي': 'fa-language',
+        'الأدب': 'fa-feather-pointed',
+        'الإسلامية': 'fa-mosque'
+    };
+    return icons[subject] || 'fa-book';
+}
+
+function renderHomeSubjects() {
+    const box = document.getElementById('homeSubjects');
+    if (!box) return;
+
+    const teachers = (window.dataAb2026 && Array.isArray(window.dataAb2026.teachers)) ? window.dataAb2026.teachers : [];
+    const subjects = [...new Set(teachers.map(t => normalizeSubjectName(t.subject)).filter(Boolean))];
+
+    box.innerHTML = subjects.map(subject => `
+        <button class="subject-pill" onclick='loadTeachersBySubject(${JSON.stringify(subject)})'>
+            <i class="fas ${subjectIcon(subject)}"></i><b>${subject}</b>
+        </button>
+    `).join('') || '<div class="empty-state">أضف مدرسًا من لوحة التحكم لتظهر مادته هنا.</div>';
+}
+
+function loadTeachersBySubject(subject) {
+    const allTeachers = (window.dataAb2026 && Array.isArray(window.dataAb2026.teachers)) ? window.dataAb2026.teachers : [];
+    const filteredTeachers = allTeachers.filter(teacher => normalizeSubjectName(teacher.subject) === subject);
+    loadTeachersPage({ teachers: filteredTeachers }, subject);
 }
 
 function renderHomeTeachers() {
