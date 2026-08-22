@@ -60,6 +60,24 @@ window.dataAb2026 = {
           ]
         }
       ]
+    },
+    {
+      "id": 1787357560990,
+      "name": "هشام المعموري 2027",
+      "subject": "اللغة العربية",
+      "image": "",
+      "classes": [
+        {
+          "name": "الاستفهام",
+          "lectures": [
+            {
+              "title": "محاضره 1",
+              "description": "",
+              "url": "https://vz-6e8714ed-ffb.b-cdn.net/a301f569-d97e-40b9-96bd-69c9c0df8ae0/playlist.m3u8"
+            }
+          ]
+        }
+      ]
     }
   ]
 };
