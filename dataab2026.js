@@ -206,7 +206,23 @@ window.dataAb2026 = {
       "name": "مراجعة المركزة ساجد العكيلي",
       "subject": "التربية الاسلاميه",
       "image": "https://k.top4top.io/p_38866wamx0.jpeg",
-      "classes": []
+      "classes": [
+        {
+          "name": "المحاضرات",
+          "lectures": [
+            {
+              "title": "الجزء الاول",
+              "description": "المراجعة الكبري",
+              "url": "https://vz-4a6ad8a9-344.b-cdn.net/76219e85-aa01-4cf2-84eb-939faa7035a4/playlist.m3u8"
+            },
+            {
+              "title": "الجزء الثاني",
+              "description": "المراجعة الكبري",
+              "url": "https://vz-4a6ad8a9-344.b-cdn.net/3226a531-3a99-43cb-89b2-f47243055785/playlist.m3u8"
+            }
+          ]
+        }
+      ]
     }
   ]
 };
