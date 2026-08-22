@@ -20,8 +20,8 @@
 <section id="homePage" class="page active">
 <div class="hero-section premium-hero"><div class="hero-copy"><span class="eyebrow">🎓 كل ما تحتاجه في مكان واحد</span><h1>أهلاً بك في <span>منصة السادس</span></h1><p>محاضرات منظمة، مدرسون مميزون، ومتابعة لتقدمك الدراسي.</p><button class="hero-btn" onclick="navigateToPage('abwab2026')">ابدأ الآن <i class="fas fa-arrow-left"></i></button></div><div class="hero-art"><i class="fas fa-graduation-cap"></i><div class="books">▰<br>▰<br>▰</div></div></div>
 <div class="home-search"><i class="fas fa-search"></i><input id="homeSearch" placeholder="ابحث عن مدرس أو مادة..." oninput="filterHomeTeachers()"></div>
-<div class="section-title"><h2>المواد الدراسية</h2><span>اختر المادة</span></div>
-<div class="subjects-strip"><button class="subject-pill" onclick="navigateToPage('abwab2026')"><i class="fas fa-atom"></i><b>الفيزياء</b></button><button class="subject-pill" onclick="navigateToPage('abwab2026')"><i class="fas fa-flask"></i><b>الكيمياء</b></button><button class="subject-pill" onclick="navigateToPage('abwab2026')"><i class="fas fa-square-root-variable"></i><b>الرياضيات</b></button><button class="subject-pill" onclick="navigateToPage('abwab2026')"><i class="fas fa-dna"></i><b>الأحياء</b></button><button class="subject-pill" onclick="navigateToPage('materials')"><i class="fas fa-book-open"></i><b>العربية</b></button></div>
+<div class="section-title"><h2>المواد الدراسية</h2><span>تظهر تلقائيًا حسب المدرسين المضافين</span></div>
+<div id="homeSubjects" class="subjects-strip"></div>
 <div class="section-title"><h2>المدرسون المميزون</h2><button class="text-link" onclick="navigateToPage('abwab2026')">عرض الكل</button></div>
 <div id="homeTeachers" class="home-teachers"></div>
 <div class="continue-card"><div><span>استمر بتعلمك</span><p>تابع آخر محاضراتك واحفظ تقدمك.</p></div><i class="fas fa-play-circle"></i></div>
@@ -38,7 +38,7 @@
 <section id="subjectExamsPage" class="page"><div class="page-header premium-head"><h2 id="subjectName"></h2></div><div id="chaptersExamsList" class="chapters-list"></div></section>
 </div></main>
 
-<nav class="bottom-nav"><button class="nav-item active" onclick="loadHomePage();setActiveNav(this)"><i class="fas fa-home"></i><span>الرئيسية</span></button><button class="nav-item" onclick="navigateToPage('abwab2026');setActiveNav(this)"><i class="fas fa-play-circle"></i><span>المحاضرات</span></button><button class="nav-item" onclick="navigateToPage('materials');setActiveNav(this)"><i class="fas fa-file-lines"></i><span>المواد</span></button><button class="nav-item" onclick="navigateToPage('exams');setActiveNav(this)"><i class="fas fa-clipboard-check"></i><span>الاختبارات</span></button><button class="nav-item" onclick="navigateToPage('abwab2026');setActiveNav(this)"><i class="fas fa-ellipsis"></i><span>المزيد</span></button></nav>
+<nav class="bottom-nav"><button class="nav-item active" onclick="loadHomePage();setActiveNav(this)"><i class="fas fa-home"></i><span>الرئيسية</span></button><button class="nav-item" onclick="navigateToPage('abwab2026');setActiveNav(this)"><i class="fas fa-play-circle"></i><span>المحاضرات</span></button></nav>
 <div id="loadingSpinner" class="loading-spinner"><div class="spinner"></div><p>جاري التحميل...</p></div>
 <script src="dataab2026.js?v=3"></script><script src="app.js"></script>
 </body></html>
