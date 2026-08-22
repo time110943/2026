@@ -58,6 +58,10 @@ window.dataAb2026 = {
               "url": "https://youtu.be/5G2p_F1s4Xg?si=cG6XDm8X2I7HwUlW"
             }
           ]
+        },
+        {
+          "name": "الفصل الثاني",
+          "lectures": []
         }
       ]
     },
