@@ -4,7 +4,7 @@ window.dataAb2026 = {
       "id": 1740790563505,
       "name": "ساجد العكيلي",
       "subject": "التربية الاسلاميه",
-      "image": "https://b.top4top.io/p_3885uqh3i0.jpg",
+      "image": "https://e.top4top.io/p_3885486pp0.jpg",
       "classes": [
         {
           "name": "المحاضرات",
@@ -37,7 +37,7 @@ window.dataAb2026 = {
       "id": 1787353550645,
       "name": "حسين الهاشمي",
       "subject": "الكيمياء",
-      "image": "https://i.top4top.io/p_38854zbqy0.jpg",
+      "image": "",
       "classes": [
         {
           "name": "الفصل الاول",
