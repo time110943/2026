@@ -157,6 +157,26 @@ window.dataAb2026 = {
               "title": "محاضرة 6",
               "description": "",
               "url": "https://vz-6e8714ed-ffb.b-cdn.net/27db2f6d-d997-4548-911c-6a424b28c62e/playlist.m3u8"
+            },
+            {
+              "title": "محاضره 7",
+              "description": "",
+              "url": "https://vz-6e8714ed-ffb.b-cdn.net/b6f36809-3fb7-495d-97c7-5cf6c6adef5d/playlist.m3u8"
+            },
+            {
+              "title": "محاضره 8",
+              "description": "",
+              "url": "https://vz-6e8714ed-ffb.b-cdn.net/97fff3e9-42fa-41a8-a308-9e8a2df01fe2/playlist.m3u8"
+            },
+            {
+              "title": "محاضره 9",
+              "description": "",
+              "url": "https://vz-6e8714ed-ffb.b-cdn.net/5d026a5f-95fd-49e1-98a1-392e0c42458b/playlist.m3u8"
+            },
+            {
+              "title": "محاضره 10",
+              "description": "",
+              "url": "https://vz-6e8714ed-ffb.b-cdn.net/47aa0964-1c4c-4494-8572-795f634bff80/playlist.m3u8"
             }
           ]
         }
