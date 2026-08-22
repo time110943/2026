@@ -152,6 +152,11 @@ window.dataAb2026 = {
               "title": "محاضره 5",
               "description": "",
               "url": "https://vz-6e8714ed-ffb.b-cdn.net/0c0a3073-d825-48f1-9f49-a14451d5edca/playlist.m3u8"
+            },
+            {
+              "title": "محاضرة 6",
+              "description": "",
+              "url": "https://vz-6e8714ed-ffb.b-cdn.net/27db2f6d-d997-4548-911c-6a424b28c62e/playlist.m3u8"
             }
           ]
         }
