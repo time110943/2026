@@ -118,6 +118,18 @@ window.dataAb2026 = {
           ]
         }
       ]
+    },
+    {
+      "id": 1787402064146,
+      "name": "رفل الزبيدي 2027",
+      "subject": "اللغة العربية",
+      "image": "https://c.top4top.io/p_3886avlyf0.jpg",
+      "classes": [
+        {
+          "name": "الاستفهام",
+          "lectures": []
+        }
+      ]
     }
   ]
 };
